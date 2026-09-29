@@ -74,6 +74,14 @@ SECTIONS = {
             ("Mutual funds & ETFs", search_url("mutual fund ETF India investing", "IN")),
         ],
     },
+    "fidelity": {
+        "title": "Fidelity",
+        "blurb": "Fidelity Investments — company news, funds, 401(k) and retirement.",
+        "feeds": [
+            ("Fidelity news", search_url("Fidelity Investments")),
+            ("Funds & retirement", search_url("Fidelity 401k retirement funds")),
+        ],
+    },
     "us-news": {
         "title": "US Headlines",
         "blurb": "Top US national headlines.",
@@ -97,8 +105,12 @@ SECTIONS = {
     },
     "bangalore": {
         "title": "Bangalore",
-        "blurb": "Bengaluru headlines.",
-        "feeds": [("Bangalore", search_url("Bangalore OR Bengaluru news", "IN"))],
+        "blurb": "Bengaluru headlines — plus North Bengaluru real estate and development.",
+        "feeds": [
+            ("Bangalore", search_url("Bangalore OR Bengaluru news", "IN")),
+            ("North Blr realty", search_url("Bangalore North real estate Devanahalli", "IN")),
+            ("North Blr growth", search_url("North Bengaluru development infrastructure projects", "IN")),
+        ],
     },
     "airlines": {
         "title": "Airline News",
