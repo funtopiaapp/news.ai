@@ -1,0 +1,46 @@
+name: Hourly news update
+
+on:
+  schedule:
+    - cron: "11 * * * *" # a few minutes past each hour
+  workflow_dispatch: # manual "Run workflow" button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: news-ai
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news and build site
+        run: python3 fetch.py && python3 build.py
+
+      - name: Commit fresh data
+        run: |
+          git config user.name "news.ai bot"
+          git config user.email "news-ai-bot@users.noreply.github.com"
+          git add data/raw.json
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "hourly news update"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - uses: actions/deploy-pages@v4
