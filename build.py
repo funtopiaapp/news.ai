@@ -16,6 +16,8 @@ SITE_DIR = os.path.join(BASE, "site")
 STATIC_DIR = os.path.join(BASE, "static")
 ET = ZoneInfo("America/New_York")
 
+TOP_N = 10
+
 SECTIONS_ORDER = [
     ("immigration", "Immigration: EB-1 & L-1A"),
     ("ai-tech", "AI & Technology"),
@@ -61,60 +63,6 @@ BASE_HTML = """<!DOCTYPE html>
 </html>
 """
 
-CAROUSEL_JS = """<script>
-(function () {
-  function perView() {
-    return window.innerWidth < 640 ? 1 : window.innerWidth < 1024 ? 2 : 4;
-  }
-  document.querySelectorAll(".carousel").forEach(function (car) {
-    var track = car.querySelector(".track");
-    var slides = track.children;
-    var total = slides.length;
-    if (!total) return;
-    var scope = car.closest("section") || car.parentElement;
-    var pager = scope.querySelector(".pager");
-    if (!pager) return;
-    var prev = pager.querySelector(".prev");
-    var next = pager.querySelector(".next");
-    var dots = pager.querySelector(".dots");
-    var page = 0, timer = null;
-    function pages() { return Math.max(1, Math.ceil(total / perView())); }
-    function render() {
-      var pv = perView(), p = pages();
-      if (page > p - 1) page = p - 1;
-      for (var i = 0; i < total; i++) slides[i].style.flexBasis = 100 / pv + "%";
-      track.style.transform = "translateX(" + -page * 100 + "%)";
-      dots.innerHTML = "";
-      for (var d = 0; d < p; d++) {
-        (function (d) {
-          var b = document.createElement("button");
-          b.className = "dot" + (d === page ? " on" : "");
-          b.setAttribute("aria-label", "Go to page " + (d + 1));
-          b.addEventListener("click", function () { page = d; render(); restart(); });
-          dots.appendChild(b);
-        })(d);
-      }
-      prev.disabled = page === 0;
-      next.disabled = page === p - 1;
-      pager.style.display = p <= 1 ? "none" : "";
-    }
-    function restart() {
-      if (timer) clearInterval(timer);
-      if (pages() > 1) {
-        timer = setInterval(function () { page = (page + 1) % pages(); render(); }, 9000);
-      }
-    }
-    prev.addEventListener("click", function () { if (page > 0) { page--; render(); restart(); } });
-    next.addEventListener("click", function () { if (page < pages() - 1) { page++; render(); restart(); } });
-    car.addEventListener("pointerenter", function () { if (timer) clearInterval(timer); });
-    car.addEventListener("pointerleave", restart);
-    window.addEventListener("resize", render);
-    render();
-    restart();
-  });
-})();
-</script>"""
-
 
 def esc(s):
     return htmlmod.escape(s or "")
@@ -134,34 +82,33 @@ def time_ago(iso):
     return f"{hrs // 24}d ago"
 
 
-def card(it):
+def newest(items, n=TOP_N):
+    return sorted(items, key=lambda x: x.get("published", ""), reverse=True)[:n]
+
+
+def card(it, cat=""):
     meta = " &middot; ".join(esc(p) for p in [it["source"], it["feed"], time_ago(it["published"])] if p)
     snippet = f"<p>{esc(it['snippet'])}</p>" if it.get("snippet") else ""
+    badge = f'<span class="cat">{esc(cat)}</span>' if cat else ""
     return (
         '<article class="card">\n'
+        f"  {badge}\n"
         f'  <h3><a href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(it["title"])}</a></h3>\n'
         f'  <div class="meta">{meta}</div>\n'
-        f'  {snippet}\n'
+        f"  {snippet}\n"
         "</article>"
     )
 
 
-PAGER = (
-    '<div class="pager">'
-    '<button class="pg prev" aria-label="Previous stories">&#8249;</button>'
-    '<span class="dots"></span>'
-    '<button class="pg next" aria-label="Next stories">&#8250;</button>'
-    "</div>"
-)
-
-
-def carousel(items):
-    slides = "\n".join(f'<div class="slide">{card(it)}</div>' for it in items)
-    return f'<div class="carousel"><div class="track">\n{slides}\n</div></div>'
+def grid(items, cat):
+    cards = "\n".join(card(it, cat) for it in newest(items))
+    if not cards:
+        return '<p class="empty">No fresh stories this hour.</p>'
+    return f'<div class="grid">\n{cards}\n</div>'
 
 
 def render_page(title, updated, body):
-    return BASE_HTML.format(title=esc(title), updated=esc(updated), nav=NAV, body=body) + CAROUSEL_JS
+    return BASE_HTML.format(title=esc(title), updated=esc(updated), nav=NAV, body=body)
 
 
 def colleges_body(raw):
@@ -187,10 +134,9 @@ def colleges_body(raw):
             + (f'<div class="meta">{links}</div>' if links else "")
             + "</article>"
         )
-    parts.append(f'</div><div class="sec-head"><h2>Latest NC college news</h2><div class="sec-tools">{PAGER}</div></div>')
+    parts.append("</div><h2>Latest NC college news</h2>")
     sec = raw["sections"].get("nc-colleges", {})
-    items = sec.get("items", [])
-    parts.append(carousel(items) if items else '<p class="empty">No fresh stories this hour.</p>')
+    parts.append(grid(sec.get("items", []), "NC Colleges"))
     return "\n".join(parts)
 
 
@@ -207,14 +153,12 @@ def main():
     blocks = []
     for sid, title in SECTIONS_ORDER:
         sec = raw["sections"].get(sid, {})
-        items = sec.get("items", [])[:12]
-        cards = carousel(items) if items else '<p class="empty">No fresh stories this hour.</p>'
         blocks.append(
             '<section class="sec">\n'
-            f'  <div class="sec-head"><h2>{esc(title)}</h2>'
-            f'<div class="sec-tools">{PAGER}<a class="more" href="{sid}.html">More &rarr;</a></div></div>\n'
+            f"  <h2>{esc(title)}</h2>\n"
             f'  <p class="blurb">{esc(sec.get("blurb", ""))}</p>\n'
-            f"  {cards}\n</section>"
+            f"  {grid(sec.get('items', []), title)}\n"
+            "</section>"
         )
     index_body = (
         '<div class="hero"><h1>Your hourly briefing</h1>'
@@ -230,10 +174,9 @@ def main():
             body = colleges_body(raw)
         else:
             sec = raw["sections"].get(sid, {})
-            items = sec.get("items", [])
-            body = (f'<div class="sec-head"><h1>{esc(title)}</h1><div class="sec-tools">{PAGER}</div></div>\n'
+            body = (f"<h1>{esc(title)}</h1>\n"
                     f'<p class="blurb">{esc(sec.get("blurb", ""))}</p>\n'
-                    + (carousel(items) if items else '<p class="empty">No fresh stories this hour.</p>'))
+                    f"{grid(sec.get('items', []), title)}")
         with open(os.path.join(SITE_DIR, f"{sid}.html"), "w") as f:
             f.write(render_page(title, updated, body))
 
