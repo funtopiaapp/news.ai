@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T20:34:23.972334+00:00",
+ "fetched_at": "2026-10-20T23:51:52.109650+00:00",
  "sections": {
   "immigration": {
    "title": "Immigration: EB-1 & L-1A",
@@ -36,14 +36,6 @@
      "feed": "EB-1 updates",
      "published": "2026-10-01T07:00:00+00:00",
      "snippet": "October 2026 Visa Bulletin: Key Employment-Based Updates Clark Hill"
-    },
-    {
-     "title": "Four Green Card Changes Coming Before 2027 - Newsweek",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWk9hb2szRlc2ZUJhS2NqLUthb29hbkRPcWtMLXAxQ3BhUW1vUzJvM0c5VEE3bUJiOUlaV0kwSzgxeEgzdUdQQkFfMTVvdnNFTkFPb0thNWVOYkZoSG5hVEhvSzA3YnktY0dxYWNtQ2JQd2dmTWpyeFk4T2RxZHNJN0hLY1J1UXFyQmxsU1hqMUhTdEdudTFDQlYzcEc?oc=5",
-     "source": "Newsweek",
-     "feed": "EB-1 updates",
-     "published": "2026-10-01T07:00:00+00:00",
-     "snippet": "Four Green Card Changes Coming Before 2027 Newsweek"
     },
     {
      "title": "US Visa Bulletin October 2026: Some Indians get green card relief as new US fiscal year begins, but many r - The Economic Times",
@@ -204,6 +196,14 @@
      "feed": "EB-1 updates",
      "published": "2026-09-04T07:00:00+00:00",
      "snippet": "September 2026 Visa Bulletin: Indian Green Card Applicants See Major Progress IndianEagle"
+    },
+    {
+     "title": "US Visa Bulletin: Indian families get green card relief, EB-1 stays tight - Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0ZURXN5bjc1R21fQVRYSjJBM3ZCVXhqZlc1OFE0alFzYVc1TW1NWVFicjJTdmZzbmVtMUpZNS1YeWRWT0hyYkwxdTkzbTdYaXpsbHBwaS1GUGNaU2U2MGJEVF8zWUNaZzF2OG5qeG5VWHhiZUFKS3V2blZ5Z2hObmoxVzlFMlRkajlaT3dlU1dqM3hKTHFfaUQ5STJ1NlRuRHdoY2RCVnFjaEo2ZFFEMXJiRHgwZ2RlSGFfX29VdnhTc1B6WDFWejk5NnM4UnRaZWZZ0gHYAUFVX3lxTE91M2xIbzlmV3NHN0lrTnllRTdmV0lpdDNTbl9fOEU2VWxibXFnMC0xbmM3Mld3cXBBX01hVGtOejhqTzlSV1BfYmtLZEQ4cE1JWERtMXQ0cHFaSzRfbDlrTm5UN0tlUUZ4bWRYMExEU240amk5NUFsU0EtMGlfREp0cG8zdTFMR3BPdE1naDJ6Z3B5WWd4Mi1XakpObE9Ld3hBRnI2VXhCMUo5bU1RaVIwVENwcnBMSnF5VkhMTkNaR0o5WHh2Uko4VDZmSWd5UDYwUTQzVGdjZQ?oc=5",
+     "source": "Business Standard",
+     "feed": "EB-1 updates",
+     "published": "2026-09-04T07:00:00+00:00",
+     "snippet": "US Visa Bulletin: Indian families get green card relief, EB-1 stays tight Business Standard"
     }
    ]
   },
@@ -211,6 +211,166 @@
    "title": "AI & Technology",
    "blurb": "AI breakthroughs, model releases, and big tech moves.",
    "items": [
+    {
+     "title": "New UN initiative will aim to tackle the military uses of AI - The Washington Post",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMUxXRFpLLXkxWlAyc2V5NF9iQ1BuMlhyM19jTFk1QkJPajhEdkNWbDNaOFEzLS1nOU5JbGk4UGFwTkFGUzVYVjNkQlJBTjRFbW5fVkE3RVB0VFBvN0loMXQ0b1lJNDBOdFJwOEVHUklDRW1Ed1JHVGdLZlNPRWo3YkxGb2dlMkF3R292aWVOOXYyczZmZWRxOG5LTk81ZlVLdHk4YWNBckt3ZzAyREkyYXlvcF8yRFZFWW5yMDU3MkZSZFZ5cHhOLV9FMER6QVEySmJJVnRDcThnclU?oc=5",
+     "source": "The Washington Post",
+     "feed": "AI news",
+     "published": "2026-10-20T23:43:15+00:00",
+     "snippet": "New UN initiative will aim to tackle the military uses of AI The Washington Post"
+    },
+    {
+     "title": "\u2018Freeze AI Now:\u2019 Bay Area Activists Rally Outside OpenAI Headquarters - KQED",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPek94UDJUdkhLS1BMeWNsbE8zVldLeFFQMEYzbnpKRWhfb2hmdGFuVkNuVFlRWnBtX09BZlYwWXNnM1UzMm9FelRrY0x2Qnp6clhyZEt3aHJRNTZtN1NnOHlfel9hRTdhX2F3UWNrbzJrbmZ4aTBybTdLVTY5c044bUNPQVhhWkN1bXJ2WGNTX1oxRzQ0UkUxX09odWJ5b2lwMDlr?oc=5",
+     "source": "KQED",
+     "feed": "AI news",
+     "published": "2026-10-20T23:26:41+00:00",
+     "snippet": "\u2018Freeze AI Now:\u2019 Bay Area Activists Rally Outside OpenAI Headquarters KQED"
+    },
+    {
+     "title": "Nestl\u00e9 Hands Its Overdue Invoices to SAP\u2019s AI Agents - PYMNTS.com",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVl6dkVBZkdyMHRjc0lZUE9lRzFqLTJSR0RucFAxMUZFV0dfbEs4Mk1WOWw5Ym45dlhMV2Qzd2JseTNJbTVUNW5WUjZPSzh2VEsxdXFYazU5TG03TV9FMlYwWGFDNVdfcHpQUk01RmdpeXJ3ZU1CblAxcnRTWmhIY3VJZ3NQVEtMeWFiNjdDMW5rRGlqbVJ0QW5CSzNyLUtRdXZZNmhfR2VQSDF4T0E?oc=5",
+     "source": "PYMNTS.com",
+     "feed": "AI news",
+     "published": "2026-10-20T23:25:56+00:00",
+     "snippet": "Nestl\u00e9 Hands Its Overdue Invoices to SAP\u2019s AI Agents PYMNTS.com"
+    },
+    {
+     "title": "HHS to make sole-source award to Anthropic ahead of broader AI competition - FedScoop",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUW41dkF1aFFTbHotcmJualhBVnlNWmhfY2oxMnpVNFYwTFlXa2MtWmp5N3BydWVDb2owRmliTVpSU3hiYVhVdF96TWtZSm1KQkUtWnlhRUVPWnhmWUlUSlpKYUtsUy1TZ3JHYXF3czc?oc=5",
+     "source": "FedScoop",
+     "feed": "AI news",
+     "published": "2026-10-20T23:12:13+00:00",
+     "snippet": "HHS to make sole-source award to Anthropic ahead of broader AI competition FedScoop"
+    },
+    {
+     "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkY3h1QW4wNFBFdXZLdXE3XzJ6TUduX2I0QXl5TXRPQ1pFUXQ0bFRmSldpM0pHZkxWRDdyLWw0R1NHSkNwY2FUUXJMbVd1eHdubTdZSDZ6SkZPRjNrcVhvNEdSRW0zTi1NRXg4dUR3?oc=5",
+     "source": "Mashable",
+     "feed": "Tech headlines",
+     "published": "2026-10-20T22:59:09+00:00",
+     "snippet": "Smart TV owners have found a new use for AI: Removing home-screen clutter Mashable \u2018It was so satisfying when I threw a rock through the screen\u2019: the people sick of being spied on by their smart TV The Guardian People are using AI to make their smart TVs dumb again TechCrunch Developers Are Using..."
+    },
+    {
+     "title": "Legislators discussed ways to regulate AI and data centers - KFYR-TV",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2YtVmttNXc1d0xfaF95YzZsRXBTMFhsWkY4blZReVdpUHhTMzd2QUtYV2sxdzUxbTRzVWMtX2pjMFhIWDVmbTY1bnd3N1hJbzNlRTBtUGJQSU5ua3NHdEU2eE5seTQzNzlvZGZzOEFhTGJjQ0xReU1HTmJSdnZsbU1JdGRodkxEQlMxYzJvNNIBowFBVV95cUxQV0VSR0psTEdkbms3QXBhRGNLTklNQVM2S0Eyb3Bla2xiMDZSa3E4TzNrQ2lPNjR0aEhpN29YNHJpS2sxbThRc2xpNW1KSy14U2JBSmI2TW93U0RDQlpnR2pKdzFpUjdhUV95R3VBbWdqeGtNNnIwNkRBdk1QdWs2ZEpIOUFQSVlIT0dpQ2NHVG4ydlpMRFFmdTZidThIRXZSMUhr?oc=5",
+     "source": "KFYR-TV",
+     "feed": "AI news",
+     "published": "2026-10-20T22:54:00+00:00",
+     "snippet": "Legislators discussed ways to regulate AI and data centers KFYR-TV"
+    },
+    {
+     "title": "Colombia Ranks Fourth in Latin American Artificial Intelligence Index - ColombiaOne.com",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90SmExaTlObUVFUkRTckZWcjFwUEl1VS00X3ZFVklkZUtkcnFuM0ozOWpyWWVtU1BDNFBZTE1MQ0dHYklWUGpaaDFUVDVLVE5lOTlxRDBmelAtbExNVW5MMDVkbk1KdzlPTVV5UHVNRjRlSzJCUE94SlBzWTlhUQ?oc=5",
+     "source": "ColombiaOne.com",
+     "feed": "AI news",
+     "published": "2026-10-20T22:45:00+00:00",
+     "snippet": "Colombia Ranks Fourth in Latin American Artificial Intelligence Index ColombiaOne.com"
+    },
+    {
+     "title": "The AI lobby turns to tax - Punchbowl News",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5meDEwQ1FUUU1rSVRuZ04weVpHVW1xRVpUNUE0SnUzdUgyNzA2TDVnOG9nUUlfMEhvOFlBdWNBMWJYa2s2aTk1eWhzZHVETWJjVVAydC1IOVVWdlRBcEtZ?oc=5",
+     "source": "Punchbowl News",
+     "feed": "AI news",
+     "published": "2026-10-20T22:31:58+00:00",
+     "snippet": "The AI lobby turns to tax Punchbowl News"
+    },
+    {
+     "title": "USPTO looks to AI agents to ease examiner workloads - Nextgov/FCW",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGRjVlYtelo1X0JSamdtYXZTTUhuRlpwajBpZzgzS1lmTEhGUlY0aDJvblFtYXJZTU5rRFhJcEpQWjV4ZGFLaGZSM2dkN0w5T29RNWluSnVaN1NqTl8tLTlOM0NFS20xMDZ5LUtWSGxnNDdSa1pvYzFWVWlSSmQ0c3RUb0x4eTdUMjEySU1Pc0k0Y3VwbDE1NHpDT0V6Mk1zTU1PdmtsYXI4VkRxVEE?oc=5",
+     "source": "Nextgov/FCW",
+     "feed": "AI news",
+     "published": "2026-10-20T22:25:00+00:00",
+     "snippet": "USPTO looks to AI agents to ease examiner workloads Nextgov/FCW"
+    },
+    {
+     "title": "Review: Nintendo Switch Sports Resort (Switch 2) - A Winning Return To Wuhu - Nintendo Life",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOG1aa1ZXdG1JUDNSdWhXN0ZqZXlpZW93S3pFYk9IaUlqcmg0UFktR01BS2xpcFo0djRmeG80cXQwOWpXdjlWalcwSGg2UFN0UTN1Sms1T0VuQjN6UkVsUUdEM1hVWjN4a19ZTGR0N3VMTm85TlFoRzQ4amtpd1V6Y1NhLS1ja2dKNENuag?oc=5",
+     "source": "Nintendo Life",
+     "feed": "Tech headlines",
+     "published": "2026-10-20T22:11:51+00:00",
+     "snippet": "Review: Nintendo Switch Sports Resort (Switch 2) - A Winning Return To Wuhu Nintendo Life Get up and move in Nintendo Switch Sports Resort! - News - Nintendo Official Site Nintendo Nintendo Switch Sports Resort Review: Still In Motion Game Informer Wii Sports is back on the Switch 2, and it rules..."
+    },
+    {
+     "title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs - DefenseScoop",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEdhYVMyQXVsLW5NZXpocUlxaDh5TVlhLXdyMVAtckZQYnBDTnVkZ1ROaFFySHQtc05HZHpmVHhlWVRWNUFYVFB5R0tHM0ZpSGgyOUc4d21BdUxtVzNfMTVtaUdIRk1wSWtEV2FyWC1DQm9UUEZMaUJGRHA4TGdCb1NEN0k?oc=5",
+     "source": "DefenseScoop",
+     "feed": "AI news",
+     "published": "2026-10-20T22:03:13+00:00",
+     "snippet": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs DefenseScoop"
+    },
+    {
+     "title": "Meta\u2019s Muse Reaches 10 Million Downloads Faster Than ChatGPT - PYMNTS.com",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1luajRCdzAwSDZIQm5qVEplZVNLTEctbXFpb0dmV3NtQ0ozNllCRG95b0FPbjZaTW5IdWZjYzBuaEh2QWwzQk1TNFk3Zm8wdkViSG84aVREaDkxTXJ4YWhMdlQwNnNFYkY4T1l4R09ta3hFWW5JeE5wZFBZZDlWd2VoWmtrNHhQeHpManNwXy1HY1BxTk1NVWZXSm1Ea1I1MmFOb0pFaVd6TGxuSWFPZUZLaUgtZlcy?oc=5",
+     "source": "PYMNTS.com",
+     "feed": "AI news",
+     "published": "2026-10-20T22:01:03+00:00",
+     "snippet": "Meta\u2019s Muse Reaches 10 Million Downloads Faster Than ChatGPT PYMNTS.com"
+    },
+    {
+     "title": "Beijing blasts US sanctions on 5 Chinese firms tied to ex-Google engineer - Audacy",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3NGZkVqcmFHTi1uRmhaVFNJNENQazU1VElYb3V2blh1TFd5MXMzakdvZlRweWg4Q1B1bFljdm9VdXUxSkZtTGJuWjE0d1Z6SjhsVXlXNW13ODZDeWN1ZHQxdjg4Y1hWQ2hDWTRRcGhMVmFsV1A1cnVaajJ1Zk1Ua21YZkV6Nm02enU4UU5HNE1OdXhuejZ2SHZXSGVGRGhIMW9Md3dBUTNUZTJVZDl2dUFCQWxSLXQxb2g3RExKT3VBc0QwQjJfNA?oc=5",
+     "source": "Audacy",
+     "feed": "AI news",
+     "published": "2026-10-20T21:52:00+00:00",
+     "snippet": "Beijing blasts US sanctions on 5 Chinese firms tied to ex-Google engineer Audacy"
+    },
+    {
+     "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpBcktVWlVVUXZkQzlUMzlTd1lHMHpNRVhYRUh0WTZPVF9fWnREVEk1U2ZYTEQwampaeU90THVJdmhxQkR2TUlpT3pBWmtOaFhQbFRWRllVNUl0Z2F2dTJxNFA2clBEWGZCVUlZaGJEaHdMaGl1djVKTWppWEVJTl9nUXZIMUxmZm5oMlpVVVJBQ2k4SFdSOHRjTWktbXhnMXhjVUtUd0psYlB4UlpV?oc=5",
+     "source": "Ars Technica",
+     "feed": "Tech headlines",
+     "published": "2026-10-20T21:14:33+00:00",
+     "snippet": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price Ars Technica Xbox Helix Console Reportedly Headed for Holiday 2028 at $1,200 to $1,800 TechPowerUp Windows and Xbox teams reportedly clashed over OS experience for gaming, as next-gen Xbox Helix console slips into 2028..."
+    },
+    {
+     "title": "The Silent Line: Insurance, Artificial Intelligence & Coverage \u2014 A Transatlantic Monthly Briefing (UPDATED) - JD Supra",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkJaQ19YdHY2T0VQRWd2NjA3T0wzWHRTNFdKMmVvbVNoclhRckRDbmVXcXBNQjlNS3FtTWFveVM1VmFWZGtRQW1wM0lsZEZIVzBNck14dG1zbFRMa1hSdXdUOGhSM3liSHBTem15X3hWM2xDLXo1Qm5nbkd2dnVsejdjOHcwQQ?oc=5",
+     "source": "JD Supra",
+     "feed": "AI news",
+     "published": "2026-10-20T21:11:33+00:00",
+     "snippet": "The Silent Line: Insurance, Artificial Intelligence & Coverage \u2014 A Transatlantic Monthly Briefing (UPDATED) JD Supra"
+    },
+    {
+     "title": "AI on track to \u2018crowd out\u2019 human decision-making in warfare - UN News",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yenE2OWxuTmpBY3h0OGthcUdqcWl1cEpOZFRmX3NERUJhcDhFUklhZzdkaUhEam5FR25reHUyLWJ1Z2VUbTN3TEE0bUdDMEpMbmF5bWJTcw?oc=5",
+     "source": "UN News",
+     "feed": "AI news",
+     "published": "2026-10-20T21:08:14+00:00",
+     "snippet": "AI on track to \u2018crowd out\u2019 human decision-making in warfare UN News"
+    },
+    {
+     "title": "Artificial Intelligence, Critical Minerals, and the Financial Abandonment of American Manufacturing - InvestorNews",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVJWUGNkbUltd19TYkhuWHQ2cDBSRVZUTUtoM1NDWGYweGEzZ1MzcUREMUx0aTdwUlZvVkZWb3JTWjZqTjVOSnZIUGFmRlpBaEdIUzN0SnhJbW5RdUg3S1VHclVuellLamUxSnVpUUNxdnFzZ01kakNxVXpIMlFOeHg2cG11aFRtQjAzNDdFQkFVV1o4dVpTQm02SEJQbXVSeXNyZVUtZHlCbGZHbXZDMm5XVFJNZEttajdpVGJRbmlMZDN5Zk5DZTFhSmZqSHhQNVBGaA?oc=5",
+     "source": "InvestorNews",
+     "feed": "AI news",
+     "published": "2026-10-20T21:07:41+00:00",
+     "snippet": "Artificial Intelligence, Critical Minerals, and the Financial Abandonment of American Manufacturing InvestorNews"
+    },
+    {
+     "title": "David Crowley offers plan to regulate artificial intelligence in Wisconsin - Milwaukee Neighborhood News Service",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQazd5Z3Y4bGxSaEZQT0wwb3ZZZjJud0NoTko5UHljb0pORk5EV0hmcnM3WkZ3QmVtX2pSSGV2dEt4M0xBUEctSi1KYU1EQTJycHZDbEUzdXNtQzFvM1dQVFpXeWdtVFpLRzhjWEIyMmZuTjhCQkxQUU9wdjF3eWxxV2hKczdQQ01mMkpuS2drajF4MnNzQ1ZFNm10dnNJSDlDZ3Q5cEJCcXZxVFloY0ZmRTZXNzA4dWZKSFY3dm8wTTg5UmpxZVE?oc=5",
+     "source": "Milwaukee Neighborhood News Service",
+     "feed": "AI news",
+     "published": "2026-10-20T21:00:00+00:00",
+     "snippet": "David Crowley offers plan to regulate artificial intelligence in Wisconsin Milwaukee Neighborhood News Service"
+    },
+    {
+     "title": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies - AP News",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+     "source": "AP News",
+     "feed": "AI news",
+     "published": "2026-10-20T20:50:00+00:00",
+     "snippet": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies AP News"
+    },
+    {
+     "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes - 9to5Google",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQ19JanpPUTE2OF9PcWVQc3dxSWFXM3dBenJiSjRwMV9WRE10OUJPSV9DUVR4djJoclM5YUZmV2ZMY1N5MWFOYzhIQlZ5SnFOUFZMVkFoUUxsb294NG5aazMyeTNnRkhGSWJRNFhaZ1o?oc=5",
+     "source": "9to5Google",
+     "feed": "Tech headlines",
+     "published": "2026-10-20T20:31:00+00:00",
+     "snippet": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes 9to5Google Here\u2019s everything new in Android 17 QPR3 Beta 2 [Gallery] 9to5Google Google releases update that fixes stuttering and freezing Pixel screens PhoneArena Android 17 could soon fix your phone's Wi-Fi and mobile data problems for you..."
+    },
     {
      "title": "Review: finite element modeling, artificial intelligence, digital twins and - Bioengineer.org",
      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT2Y5S3NNLXI3SjFlT0lzY0pzSHRSTTVyT0JrQ0pRVFZNYWg5ZkpXNHlaMmxEdHRmOV9BbE9venVrVTFUM0dlanROck1BcFhoU3BBYmEwLVBnLWtfNXNhdE8zdmhhVlJJN0poZXI1NG8xUTU5eHdlV25ZMXFQNFRkSXk1VE8wVXZhWTA5d0hFc1RCcUpDRnRQNERkV3ZGWFNRVi1BMm43Y24wZzlPRmJidEhqYmt3YVZOOVlmcTJ3Sm9EUkRDRGRXWTZydG9EUFdqa2laN0xubFRDMTltYWVvanZFZFI4TG5oUFFrVXE3Yw?oc=5",
@@ -220,20 +380,20 @@
      "snippet": "Review: finite element modeling, artificial intelligence, digital twins and Bioengineer.org"
     },
     {
-     "title": "Emory staff create free online course to help faith communities navigate AI landscape - WABE",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGdLUDhNbXhpRmNHRTJkcWZ1bmtEajdGSHlhNkN5bFM5WWN1c2V5aWZyNmpwdkNHOXVQdUlJaGRuUi1yMkQtVTNmZkx5R2pmR1RtT08yVHdtUFZQb2IyRTNhbGdIbllwSnQ3dWZvV1pPcWJfSlAzQkNVLXNQcXhYaGwycFQ3MFo0WDdIQTdxb3BzZVZSaGpLcVlNZEc4S21lRmRBQm9hWS1YRWs?oc=5",
-     "source": "WABE",
+     "title": "The inference path is where AI value is won or lost - CIO",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNndDcmxMSTJ0Wmx4QzF6elNIZEFLNEtESmptTkg3SGV0MGJ3Y1hrZzFSa05uUFlyTjJ3VlJUaDA4Y1FDVGdYeEl2YUVWc0tlN2pKUXJaeXF6anFna0t3aUVBcDQzMkR3Zzl6UkEybDN6UGJCd1JEWFpYcy1yTExNQm9Jc2lVS3FCdUsxRDB5bHJCWGlkdUtz?oc=5",
+     "source": "CIO",
      "feed": "AI news",
-     "published": "2026-10-20T20:19:41+00:00",
-     "snippet": "Emory staff create free online course to help faith communities navigate AI landscape WABE"
+     "published": "2026-10-20T20:28:52+00:00",
+     "snippet": "The inference path is where AI value is won or lost CIO"
     },
     {
-     "title": "Welcome to the future of work: More meetings and nagging bots - The Washington Post",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3Yzby02bS1lU3NRT0tha2hVN1ZFajZfYk8xLVhUNU5HUm1TT09pTWxnUzlENDBQZUFLSnlxMEFobjhfV3VVcjNGS2RKaVZpNlRITTBFN1cwbE14eHF0MUFXdDd6bGM4cmVQbDFDTU85RzhlY205bVBiS193X0NMb2VDdGxHTG82eEhRQmVUaVZrdHloRkZCRXZTSUxqRmRJSzFmc0RIN0lsWFFfUkVPQnRn?oc=5",
-     "source": "The Washington Post",
+     "title": "FSU Law to examine free speech in the age of AI - Florida State University News",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZlcEk0TkdqWVJSQlVmLXhZMTZwWFVZWDFPUkZ1VnRvT1hsRGd1RjZSRHRqdDJLaE9ST1FMY2ZvRXh2SzBWc3JCdmI0RzVqRGxOeFBKRm5qZk9qczNJUERGWjRaX0dpcV9ZSTF0djhmVUlCZnhpLTdELTdwbWhXSnlZbDV1UmJHaUp5eHRrZU5SMy1hRDl0cHJOOGtoNURRX2VQTmNXMVo?oc=5",
+     "source": "Florida State University News",
      "feed": "AI news",
-     "published": "2026-10-20T20:15:00+00:00",
-     "snippet": "Welcome to the future of work: More meetings and nagging bots The Washington Post"
+     "published": "2026-10-20T20:12:12+00:00",
+     "snippet": "FSU Law to examine free speech in the age of AI Florida State University News"
     },
     {
      "title": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' - Bleacher Report",
@@ -241,7 +401,7 @@
      "source": "Bleacher Report",
      "feed": "Tech headlines",
      "published": "2026-10-20T20:09:34+00:00",
-     "snippet": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' Bleacher Report EA Sports Announces Fight Night Return Insider Gaming EA Fight Night To Return - Fightful | WWE News, AEW News, Pro Wrestling Backstage News Fightful Fan-Favorite Boxing Sim Franchise Fight..."
+     "snippet": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' Bleacher Report Fan-Favorite Boxing Sim Franchise Fight Night Is Getting a New Entry IGN For The First Time Since The Xbox 360, Fight Night Is Making A Comeback Pure Xbox EA Sports bringing back beloved 'Fight..."
     },
     {
      "title": "NYC high school students walk out of class to demand a freeze on AI - New York Daily News",
@@ -250,166 +410,6 @@
      "feed": "AI news",
      "published": "2026-10-20T20:09:09+00:00",
      "snippet": "NYC high school students walk out of class to demand a freeze on AI New York Daily News"
-    },
-    {
-     "title": "US stocks rise after companies deliver strong profits and oil prices retreat - AP News",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
-     "source": "AP News",
-     "feed": "AI news",
-     "published": "2026-10-20T20:05:00+00:00",
-     "snippet": "US stocks rise after companies deliver strong profits and oil prices retreat AP News"
-    },
-    {
-     "title": "Research report: Artificial intelligence-based analysis of digital media - Bioengineer.org",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeE5WMVlsdXJrQzVJWklUN3ZyWVFnSE0zdVZENGMwZ0tfVDg4SnFuWWVMXzVOTi1IQzFlTzFlQXRaUElHUTFjUllvZUVEMEpTdWlGRFV2Y1dJcUoxbkdnV0RPT3lmdkpuSEhnb2ltR1FiMGlVWndOcmxCTmg2UUlDb0JtcWlsNVZwV3lQa1dkZDVyRWZKa2FYTHNZVTNWQWRPYVYwXzJoNFR6Y0lKTlNLUGpFODlNbmhsTDM3d2NhRFU4d09RakdhTnE2OGFxYU01ME45TG15Umt0TWhqdVNkZVdSZWRzV1l3VGtUYm83SHdiQQ?oc=5",
-     "source": "Bioengineer.org",
-     "feed": "AI news",
-     "published": "2026-10-20T20:03:40+00:00",
-     "snippet": "Research report: Artificial intelligence-based analysis of digital media Bioengineer.org"
-    },
-    {
-     "title": "AI-powered personal assistants could reshape the digital economy - The Economist",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMENscl91OVBpME83UjltdWV1QVRLLWxEdktBZUFmX3FkdEpNWkRhQmhuaG44bHFNVnFfQkh5c3lXUlJEZFpXcWdLYUM0SjBtSkRONTJEY1QwcmtDdXc3S2FSZFlCLWRrM19tWl8wa1lnMTFaUTVaV05KTHFVYUd4RmtzMk9tazdaaGo1SnVDQ3lwT0c1bjdUWmhlelN6WEstRFlCZzNtaVJPSU5JWm9N?oc=5",
-     "source": "The Economist",
-     "feed": "AI news",
-     "published": "2026-10-20T19:55:23+00:00",
-     "snippet": "AI-powered personal assistants could reshape the digital economy The Economist"
-    },
-    {
-     "title": "Opinion: Illinois\u2019 new AI hiring law has a human problem - Crain's Chicago Business",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckJfcC1lRWpQUlc5WDJpM3Y0N3lvU1JQM0dod2ViVndyUDEzYi1peXA2RVBQYy10bTBya2hsSTU4d0g0YVB3ZjhHTnl3cUgxMEN0U21FeTBOazZDbllqRUl4SDBVNHhMdUVLcFN4bWxIRG1MSzVTbmhzcDIzMTl1N0J3OGlvUzY4WFRKVEktbVpUVmJqZUJXNmpvaGZxZjFGX2c?oc=5",
-     "source": "Crain's Chicago Business",
-     "feed": "AI news",
-     "published": "2026-10-20T19:46:00+00:00",
-     "snippet": "Opinion: Illinois\u2019 new AI hiring law has a human problem Crain's Chicago Business"
-    },
-    {
-     "title": "The future of AI is at the edge - CIO",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEVUN6RWlSX0JRamJDcDJqS09URGh2Z0JXLVE2R2gzdkhuMlYxUlQxYjVCWjkyd1VnbTdJZVNMRWprZjdKMFppQ19hTFh3bzNCcnVYcTNZM0J2NzNpa0hqb3AyeFVtc1BUNXlTa09tdHJRLTVOUW5zMEZvS1g?oc=5",
-     "source": "CIO",
-     "feed": "AI news",
-     "published": "2026-10-20T19:20:09+00:00",
-     "snippet": "The future of AI is at the edge CIO"
-    },
-    {
-     "title": "The Patent Disclosure Trap: Will AI Undermine Biopharmaceutical Innovation? - IPWatchdog",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnJpUVpQelNQZ3Fob3dsV3lZbm5ZbUlSV2ZJN01XQ3FRQmU5TUxfZnVjN3NuODhORDFvd2piWG10eGpzQ1pzS0FEejJvYTFLblgwN0hYU3JOUjZGUER4ODRhV1RDYmxXMTFtSEowSnlVOWdZVVVmb1ZtYmJDTk0tRkt1SkRJWU5vZFpJUXBSbnBCZ0NIT1NFZmpNQTE3SlZWZ1B4V2RhVQ?oc=5",
-     "source": "IPWatchdog",
-     "feed": "AI news",
-     "published": "2026-10-20T19:15:12+00:00",
-     "snippet": "The Patent Disclosure Trap: Will AI Undermine Biopharmaceutical Innovation? IPWatchdog"
-    },
-    {
-     "title": "Does anyone actually want to win the medium-lift race in the United States? - Ars Technica",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlJuNWl1ZGVrT3JHTzNsd1FIWEtJblo3NjdEQVdKanNnMFJRSUxJZFNXLXV6VWFMLUgtTnl3NTFDR0trY21ORjBxMGVrbnZRemNRTXNDQVJWQ2dQV19wdGhpekk1S3g0T0lOQUxiRldCUW9OaW9pNFlHU1o1c19mWVRwTV9XdDhXRlZPVDQwUlJzNEhTRkRZMDVDR1NVcldmYjY2d29LN1pKQjhDWVhibWcybw?oc=5",
-     "source": "Ars Technica",
-     "feed": "Tech headlines",
-     "published": "2026-10-20T19:13:31+00:00",
-     "snippet": "Does anyone actually want to win the medium-lift race in the United States? Ars Technica"
-    },
-    {
-     "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORUtnbEUxZzV3Z2FiSDlqOGk0NnpZUmJjd2tUVjNyTkpmby1qS3g5WW42VDdxWmlfN1VLZ1BreFF6S1djang1bThlMDM3ZzliZEVLN3U5Vm1tdjZUb0NCeWYtdWV1STBGekY3QTUwY1NtSnpONVJwczVpM1JhM3ZRb1FFWEoySGxZZFBreVpoQlBmVkNMQVM3ODZTMzByeFgwNUx1TVJnZHp4RXJiUVpQYzVFR1YtcTNnczdIZXF5amt5d3BheEFyZHcxa2d4MWdXSW9xZ1VyVDZqUEhBaHM4OU5UYXJ3amp6dm4xLTJB?oc=5",
-     "source": "The Globe and Mail",
-     "feed": "AI news",
-     "published": "2026-10-20T19:08:09+00:00",
-     "snippet": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now The Globe and Mail"
-    },
-    {
-     "title": "U.S. government bans Chinese AI app DeepSeek from federal IT systems - UPI.com",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzFtcEhvNUlLajFNR3FXN3NTZUgwdFRCbVdKcjVtNmFobkhaNzdWR2JIT0hMX2JKZ2ZMNzdMOEx2czgtMzVib2cxMXJONmZxc0RlS1puTm1ES2hUaDRtanBBOE1LMTV2TVQwaGdhRXBNS2NHTEQ0Rm5qeEFSblZkYWhBdjlYS0pqZjRNUXV3?oc=5",
-     "source": "UPI.com",
-     "feed": "AI news",
-     "published": "2026-10-20T19:07:48+00:00",
-     "snippet": "U.S. government bans Chinese AI app DeepSeek from federal IT systems UPI.com"
-    },
-    {
-     "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZHSXNzSGtidllldW9LYndvMU15anU1a3ZRTjVzajh6aVI5YWM3NEJyNnFwM290OUNBazlLQVBPS1FsXzQ5bW9MZmVtdFNkSXBETk1OU1VwWHBoNW80Y1RBZ2Zjd0ZIYUdBdm82R2VWZ3hKQlJ3YnRLV1FDVUlHSGdvQ2NsYmpXTU5kQUtVcFBURksxcnY0cWNtZFhSaEp5?oc=5",
-     "source": "Yahoo Finance",
-     "feed": "AI news",
-     "published": "2026-10-20T19:05:02+00:00",
-     "snippet": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now Yahoo Finance"
-    },
-    {
-     "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The S\u00e9ance of Blake Manor, and More - XBOX Wire",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OcVdjdTFFajEydG13WGtQeFYtQWlIM1V0Mkc3N3E2UHRhejNudEFROU9VVGgxQ1RBQkZla3kyWWlpOTFfc1NiTFRoTWpUZW5hdS10bTMzaXh3Y2RHT214U3VMRnk2TklKMHdxLWpUQm5yaHlUVjRtaXhoaDlzWVnSAYQBQVVfeXFMTWEyaTc3LU1kazdIcFVnWEFncWljWXBIbFltOUdKeW5EMDJETDNPODU4UGp5ZS1OQ0ZQOF84TFNGTVppY1Q4YlphekFFN29oT1hoREdJQ2k0NzRnSnIteG9ZWFp1VXZnV0dSTU9nTi1RVURVcjZxMjFNMlZIWkwtc2ItQ0x6?oc=5",
-     "source": "XBOX Wire",
-     "feed": "Tech headlines",
-     "published": "2026-10-20T19:00:40+00:00",
-     "snippet": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The S\u00e9ance of Blake Manor, and More XBOX Wire These Eight Games Are Coming To Xbox Game Pass (October 21 - November 3) Pure Xbox Game Pass adds FF7 Remake, Plants vs Zombies and more KitGuru XBOX Game Pass October Wave 2 Games Revealed..."
-    },
-    {
-     "title": "iOS 27 adds scam-prevention feature to iPhone, here\u2019s how to enable it - 9to5Mac",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTBaY3ZTOFFnQVFnX3NFeHNoUWRfV3FTWmxVSzdSNXpsSmE5a1ROd1J0M2tVQ25oSGlNUDZoRjhPaGNvcUc5Y0pYNlBpbEtJQXJyUFZmNzhVTFdaVlBUalEzN2tNS20xYjRQanQ2UVFiUHVxVFJXN2F3YWRpcVRvUVhUdXJzQ2EyQjFwMXlHd3FHM3FjUHVuLVBfZFFILUJHOFE?oc=5",
-     "source": "9to5Mac",
-     "feed": "Tech headlines",
-     "published": "2026-10-20T18:56:00+00:00",
-     "snippet": "iOS 27 adds scam-prevention feature to iPhone, here\u2019s how to enable it 9to5Mac"
-    },
-    {
-     "title": "DeepSeek Open Sources Inference Tech to Lower AI Costs - PYMNTS.com",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1g5bE5jajR2Tjc3Rmx3cjVXeThXSHdGMkJXYUM4YWR1eEVlS2pwUUg2RFY0OHIwLWlnQU5zT19IcTFaMVJlVGQxTDRYUkFmTHJWQWZPZjNkZHRYRGd5Ym5QbjZvX3RLc3dWb0l3bmZVNEVjdzVNVXVsaWtES0owM1B4YjFoM1VoNE9oYk9Vbko1Mm03YVhMaWxjRXNmUkdOOU5MVDJxZEc3S1dnODBJcmpB?oc=5",
-     "source": "PYMNTS.com",
-     "feed": "AI news",
-     "published": "2026-10-20T18:55:08+00:00",
-     "snippet": "DeepSeek Open Sources Inference Tech to Lower AI Costs PYMNTS.com"
-    },
-    {
-     "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDB3a1dvMDg1N09EcVFhcUxseUttSTYzeExpQVhJMWZOQzJQYXk4VXNkZmpUM1pQa2NHenpTTElYWXUzeHdRSHNaYWNTczI4MmpzQjZCZnNDYjdVcWFHdnNMVjJmcFRnSjFlNjk5VGhGTjRaQnVkWkVmYnZsc2JKcElrLW52aEhZVkppNlJoSzI2NVZ0WW1iTUJFTFZ6bmtuQ2liRmh4OXlkWkl0MWlqV0h1dng?oc=5",
-     "source": "The Motley Fool",
-     "feed": "AI news",
-     "published": "2026-10-20T18:52:48+00:00",
-     "snippet": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now The Motley Fool"
-    },
-    {
-     "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028 - The Verge",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpMW9oLWhYdng3OWM5ZXZsRUU1VWVUdTBkZlZoWDNEX3RBSVFwWldFTjZHYThsSk5QUkF2ZGtoYjNaeXIwQUxiSVltZ0lpbFA3ZXBOd3dpOUNzYkdmRmlJWmo1NHhnaWlXNmJZdDVXeWpfUWlpQlpOMml0VFJfa1U?oc=5",
-     "source": "The Verge",
-     "feed": "Tech headlines",
-     "published": "2026-10-20T18:45:39+00:00",
-     "snippet": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028 The Verge Xbox's Next-Gen Console Is Reportedly Targeting a 2028 Release, But Microsoft Expects It To Be Absurdly Expensive IGN Next-Gen Xbox Could Be $1,800 And Launch In 2028 \u2013 Report GameSpot Project Helix Xbox Consoles..."
-    },
-    {
-     "title": "Government is about to start enforcing a new set of rules for buying AI - Federal News Network",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnEzSUx2Xzd3YjdRWjFTbzQwWndJT2xXLXlDNTZZWkhKU05UUTFHaGZZM29oQzZVMWNVOGQwNS1BN0E3dE1kN0RRWjZiYkpucWhteW45QzFBUGk2Qjg0RlJCaFZNSnJZZGlQVV92TE5FSVdpLVltaFo1bG9Td1diTzNWWUFLRDNLWC16enJPd0d1ZGozc212MFJ3N0Foc2l3YVBmb29EaWVOU2JQVXA1RnNPZVl1cldxUy03OGM5cHg2eFFVUlhXSlFiX0NuNkdN?oc=5",
-     "source": "Federal News Network",
-     "feed": "AI news",
-     "published": "2026-10-20T18:41:52+00:00",
-     "snippet": "Government is about to start enforcing a new set of rules for buying AI Federal News Network"
-    },
-    {
-     "title": "ChatGPT now lets you lock your chats - TechCrunch",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iaVZOMGpabEJ4TVF4MlhPcXdUbF9MS3hSa0M4X0tWVlAxQzJ0UUdoUTc5dXF2SkxLb0h1ZlJhU0Y5MDNCWkl5STFTbXoyREhmZzRJUlpqaE01YWhiYXFIb2QzTUQ0Rm1pdV9xV0VJZmtWdGQyWExJTHhIcw?oc=5",
-     "source": "TechCrunch",
-     "feed": "Tech headlines",
-     "published": "2026-10-20T18:36:53+00:00",
-     "snippet": "ChatGPT now lets you lock your chats TechCrunch See more headlines & perspectives on Google News"
-    },
-    {
-     "title": "Authorship in the Age of AI - 8AM Media",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWkJ4YmkydWx0R05VZ3l0TTVTN1BjaUpGTnA4Ri1DMzNnYUd5c2xfVUFlQVhXVVV5cWRtNVU3YXVLQmdnUl9wb3Z5REtsYXJscWVWOVNTYmZyZw?oc=5",
-     "source": "8AM Media",
-     "feed": "AI news",
-     "published": "2026-10-20T18:33:52+00:00",
-     "snippet": "Authorship in the Age of AI 8AM Media"
-    },
-    {
-     "title": "Press Release: Nathaniel Moran Seeks Artificial Intelligence Policy Fellow - Quiver Quantitative",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSU95MmZBSHhOYUpDR05rZzNPc3RVTDduZ1RxazhONVAxbktwaUJWSlRKUXNVSkdpemc2OFNOT0lIZVFNSWVNVEp5Rm5vX1dmTmJrdjh6NHZfTTdZOFh0SjE3Z3Q2N0w5VHRiNFVnSWNCczZzT09RWVNrN0hNNlNudUFfTDJUNDFBdHByM0YwN1h3NF8zZTQwbjEwUVZQWFF2WTk0aFkwRmdHb3hwY3c?oc=5",
-     "source": "Quiver Quantitative",
-     "feed": "AI news",
-     "published": "2026-10-20T18:21:00+00:00",
-     "snippet": "Press Release: Nathaniel Moran Seeks Artificial Intelligence Policy Fellow Quiver Quantitative"
-    },
-    {
-     "title": "Samsung Has Already Found the Next Way to Unfold a Phone - Gizmodo",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0LTNKRFNjODhsUDd0b3RxLVpWeEVXM1NhcE1DNVMxb0F5TTVPN0hfazZLQVRxVHBUdVJCNHN4ZzJWVExZUG1jZ2lZTHhnUzZ4MHpxa2dCYTdIeGpLT1lwdHlUUmlLbHhYS1FF?oc=5",
-     "source": "Gizmodo",
-     "feed": "Tech headlines",
-     "published": "2026-10-20T18:20:54+00:00",
-     "snippet": "Samsung Has Already Found the Next Way to Unfold a Phone Gizmodo Samsung fighting iPhone Duo by launching six foldable phones next year 9to5Mac Forget folding phones: Samsung fans are already obsessing over the Galaxy Z Slide PhoneArena Sliding into 2027? Galaxy Z rumors say Samsung could drop a..."
     }
    ]
   },
@@ -418,12 +418,124 @@
    "blurb": "US stocks, trending tickers, ETFs, mutual funds, and what big funds are buying.",
    "items": [
     {
-     "title": "Stock market today: Dow, S&P 500 rise, Nasdaq slips as investors await SpaceX, Netflix earnings - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNks4Nkd1RzNSeUluQVBaTkxFX0ZZTmVGQ2ZNMS0zeWFWMWJuLUczMTJUOVVvMXNEZ3JWdlNHdWJ2TG1qM01sR29RS2tHajFob1A5T3c4SXBYRkFxN2pWRmt1YlJPUDFIQ0xlczUyZzRYdkpPLWZNTUwwYzRSVWtDcVlzVDFmRFZBX2E3YjBPU1NhUlJRQTctaDBPZjZoQjZGN1JHWnRIYXROM1c2cmhmemJJd3daZEc1SVlfQklocHAwZw?oc=5",
+     "title": "U.S. stocks rise after companies deliver strong profits and oil prices retreat - Pittsburgh Post-Gazette",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5JUHpCVE5nNDBhbEctTDUxbHBoSzNkY3o3US1mNFhIeW9kajVOYUNmVWFCQURFZldKMnJsVFRJNXhONkc0a1Z5NDcwYmdzVGIwZGZnTHZJWGZEMktIeVdkYkQwMXBVd0hfTVFqd05UTmVIM1Z3ZHhvcUhoaUg2TVJWT2I3cXBGM0xINmw3cDZSSHl4MVpua0F6dVpHenBQeDEzNngzamFPUWR2bXhn?oc=5",
+     "source": "Pittsburgh Post-Gazette",
+     "feed": "Market news",
+     "published": "2026-10-20T22:51:57+00:00",
+     "snippet": "U.S. stocks rise after companies deliver strong profits and oil prices retreat Pittsburgh Post-Gazette"
+    },
+    {
+     "title": "Dow jumps 500 points as earnings optimism steadies market: Live updates - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBY1V6N2VkbVphNU1oUUROTEx2aUtNQk9XeDl3SlRyUGlmWWFNX3B1NjU0SXB6Z08zeldvRW8tZVdWQ3lxRnNGelJSdURXdHdEQ0lRTllocmNfS1BkX2lDalYzS1AySDNUNk5Rc2tDbk1SdVZsbHRj0gF8QVVfeXFMUDhUeVpneWk2eWtPSVpkcE5EY3pZeV92cG9CZFpwaDVrT09sY2Y1VTVNc2VfcWNid29pZ2RzNTYwY3VWQkx2X2h3ZlUzQWRPXzlpWWotY0ZkM184THhJNkxhYTJHNVRvZ3hESG4wZGVna25sWEU0UDZBZnpqRw?oc=5",
+     "source": "CNBC",
+     "feed": "Market news",
+     "published": "2026-10-20T22:25:48+00:00",
+     "snippet": "Dow jumps 500 points as earnings optimism steadies market: Live updates CNBC"
+    },
+    {
+     "title": "US stocks rise as strong earnings and lower oil prices lift sentiment - CommBank",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEtyd2p4M3R4SWdGaHJ4eFNUaDF0NGFRTXhTLWNrZnJMb3RlTjZFa2FCT2VSMnpJZGVLOHlNbmxSejh4emluTy11ZzZUaFhDT1R4UjhTVG9FQ2stOE5nSWVoTHZXOXlnaHdzSzdPcVRFVXhraVZMMTY4c1JJUWpvd1hOa0pHeEUzc0t4Wm9jR3ZnM1VYWEFfSkVlajZtR1QtOEVnbk5LeUU5VVVZckhzYXhUakZ3V09tOEpZdTQ4WWQ?oc=5",
+     "source": "CommBank",
+     "feed": "Market news",
+     "published": "2026-10-20T22:15:41+00:00",
+     "snippet": "US stocks rise as strong earnings and lower oil prices lift sentiment CommBank"
+    },
+    {
+     "title": "US Stock Futures Advance on AI Earnings Boost: Markets Wrap - Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+     "source": "Bloomberg.com",
+     "feed": "Market news",
+     "published": "2026-10-20T22:05:51+00:00",
+     "snippet": "US Stock Futures Advance on AI Earnings Boost: Markets Wrap Bloomberg.com"
+    },
+    {
+     "title": "B.C. Securities Commission fails to permanently ban U.S. stock fraud felon - Business in Vancouver",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOGo5ckZCLVd4OUZDRlQwdXlBNnFXcFZqcHNCV216cVJEa05oMkUyZGxjMERuZlJxQ2R2SzZUcFNBdDhPTlJHQ0lYOVN3bWhIVDgtWnNoYXpIb0NWZHUzRzN1LUJ1UlpkMktMRXc5VTVPYVJmMW1jMzQ3MFl1dGRDeVlpdkIxdXFzdkpidkItb202NDJ3aFVFMjdlWTlZY3dQc0plOFVFb056UHZHR1lwTWthS0lRN0VBdXI0VXJZcmFMRzQ?oc=5",
+     "source": "Business in Vancouver",
+     "feed": "Market news",
+     "published": "2026-10-20T22:00:00+00:00",
+     "snippet": "B.C. Securities Commission fails to permanently ban U.S. stock fraud felon Business in Vancouver"
+    },
+    {
+     "title": "Update: US Equity Indexes Mixed as Weakness in Communications Services, Technology Restrains Nasdaq Composite - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVphOUhDSF9vMDZ4OFRleG9EbUd3Y3k1Nzl0eWM5RUZTMGF1c29NMVRGSEV0SUtfd3J4cUxpTnFheVBjX3ZFT2hKbVkzd2VuRzM2VDNrV0pOUm1EbVZMSU5PUXk2MGxjV2VDYjNmLWxUMmhQa3RSNUJUWEUyUE5YdlF2WHNadm9LcG82N2xiNGFyd2plejQxQTBFOXVKUQ?oc=5",
      "source": "Yahoo Finance",
      "feed": "Market news",
-     "published": "2026-10-20T20:22:20+00:00",
-     "snippet": "Stock market today: Dow, S&P 500 rise, Nasdaq slips as investors await SpaceX, Netflix earnings Yahoo Finance"
+     "published": "2026-10-20T21:34:59+00:00",
+     "snippet": "Update: US Equity Indexes Mixed as Weakness in Communications Services, Technology Restrains Nasdaq Composite Yahoo Finance"
+    },
+    {
+     "title": "Stock Market Today: Dow Surges Nearly 530 Points - STL.News",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bTlLNWNJMzRTTEpIbW9RNU1WWHg1Znl4a2xLYlB0aEFkb3d5bjM4bmQ2dmdMV0N3cUNCWm03dDVLOG1sVXowR2pPNDBvUnUyTnBoenRJbkFLNWxKQjJfZmxoM1ZBb2huX3ZTNFVfcGpFdk1XZWdqUA?oc=5",
+     "source": "STL.News",
+     "feed": "Market news",
+     "published": "2026-10-20T21:23:51+00:00",
+     "snippet": "Stock Market Today: Dow Surges Nearly 530 Points STL.News"
+    },
+    {
+     "title": "Trending Stocks Today | Springview Holdings Jumps 16.04% Post-Market - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1hQT2QtaWh1eWU0bkxMUmpVUnhFdWxEa0VlU3dKSHBZcGtERXZNdUlzUWVRVnRSbjE5M01ibTNHc1pid0p5OF9DMkRLa2dqbEE4OGUzdnEzRHozRnM2czNEbWtCUGpaWmZCZkFVb1BHaTd1anljZTROanVGNFlqVExvSHBNaWNGVmhKQW0xRl91UjEyR3JJV2hLVTgzdl94N0VmNzc4aFFoNWZ0UFE?oc=5",
+     "source": "Moomoo",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T21:20:40+00:00",
+     "snippet": "Trending Stocks Today | Springview Holdings Jumps 16.04% Post-Market Moomoo"
+    },
+    {
+     "title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
+     "source": "Reuters",
+     "feed": "Market news",
+     "published": "2026-10-20T21:14:47+00:00",
+     "snippet": "Dow outperforms as Wall Street rises, healthcare stocks lead gains Reuters"
+    },
+    {
+     "title": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears - WSJ",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5",
+     "source": "WSJ",
+     "feed": "Market news",
+     "published": "2026-10-20T21:06:00+00:00",
+     "snippet": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears WSJ"
+    },
+    {
+     "title": "Trading Day: Oil reversal lifts spirits - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGJHelFHbkxncUhVbVBPTHJtUG5NbTRtSzB6bHdVbEx0NzlQZnkycjFRUnhDc1M4UjNFWHlSRFlBcGNpWkN2Mi1FY05VUHlOZEZKWFI3emtsQ2hXZEJkR3o5NHJydHpRdGtIdGxfdlBvWnM3TmNmMmtRbFJOVVpwUjZKRGw1WkhGMndkZGlkVGV2eXpXY0I3R1ZreHNhOUZpNXc?oc=5",
+     "source": "Yahoo Finance",
+     "feed": "Market news",
+     "published": "2026-10-20T21:03:55+00:00",
+     "snippet": "Trading Day: Oil reversal lifts spirits Yahoo Finance"
+    },
+    {
+     "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 1.02% - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmh5UE8xbk04YkFQLWxac1VmbkdKYzZqLUlLV3QzYnBlY1Y0RGMyRm5lZllPb1lNNno0Yk4wYTRqckQtbFBvWkU5MHd1OUNrZV9EdlhtS095cmZxZk5tMmVXN0dtMXFtajktcGw0UkFrS2pudTZvc19aQ0h4aXVMekFqWnZ3ZzVQandvNk1DZmlTekxxWTR0U1JlYjRzQnVFMXhGaTFNVHlQaUdaaFpEUkZVUUZxRzlxR25WWFRaWHh1UlVl?oc=5",
+     "source": "Investing.com",
+     "feed": "Market news",
+     "published": "2026-10-20T20:36:08+00:00",
+     "snippet": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 1.02% Investing.com"
+    },
+    {
+     "title": "How major US stock indexes fared Tuesday 10/20/2026 - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObndPWmxXX0l1dXIwX09WVG85ZVdrWldxd245RWFvMkl3aWJ4aUhIZzZ0azQ0MXVVVWROM2lFSXJKTklWSGNIZkM2RkNWc01LeTJZazhHOXRaSi1qSzk3OUZUQ3RJbF9aUVczM2tGSHlOMXp6TVdJUVJ3UFI5Skx3bV92VDQxMHFGejA5bzJEWFREOElaa296Yzc5Um1Oa05hV1E?oc=5",
+     "source": "Yahoo Finance",
+     "feed": "Market news",
+     "published": "2026-10-20T20:25:06+00:00",
+     "snippet": "How major US stock indexes fared Tuesday 10/20/2026 Yahoo Finance"
+    },
+    {
+     "title": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies - KTVN",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWVJqbmNfQXJqVi1iWHZvS01BWXphbHFLMUs3U0Q2TjlrU1F6M2gtNTlxdE9rWHVSd1JxWERjRXA1MEI0UVN3NTFSNWJDdDdPNl96WTBLZS1sYmQxTEpqODliY1VncDAwRV94RmxzS04teXMwT2IxbmZUeFZHR3V3TmpWWjg3cS1SZWZfQUZnQV9rWC1naHczOXRrSmZ5YTNjM0N4QzhVUEM2Q0ZqYmEwYTdEeFFGUmRpUDVxTzRMaWhsQVVLR2hUY1dyNlpqVE1LVW1OZkM5Wm94ZXZLczFWbkhoeEJzb2hiSG9ldTE0VjAwSDlZTVNzdGRMWG1FYnhCOTdRcERSS2Ezekk?oc=5",
+     "source": "KTVN",
+     "feed": "Market news",
+     "published": "2026-10-20T20:22:57+00:00",
+     "snippet": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies KTVN"
+    },
+    {
+     "title": "US stock market close: Russell 2000 jumps but the Nasdaq finishes flat - investingLive",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlJHb0diWTBvVi0tbTJZQ0lvNFhIV3pGbHF5WDZoaXc3RDNOcm1TZ3kxSy1NVDFVMi1yVkd5bmExSlRUVEQ1YVNfeGNQQlpTc1B3WUEtWWdtLVJIU0pOWXdPN2tZblBpamlsZUFONkx4b29QTnlfb2oyTDBQRjZka2tRUTY2TXBKdzdPWVR0anZUX0d5U0swQ3JmNTVMS3pUOVI4cEhR?oc=5",
+     "source": "investingLive",
+     "feed": "Market news",
+     "published": "2026-10-20T20:16:30+00:00",
+     "snippet": "US stock market close: Russell 2000 jumps but the Nasdaq finishes flat investingLive"
     },
     {
      "title": "US Stocks Close: Dow Rises Over 500 Points Amid Mixed News on US-Iran Talks; Some Tech Stocks Rebound, Meta Falls for Fifth Day - TradingKey",
@@ -432,14 +544,6 @@
      "feed": "Market news",
      "published": "2026-10-20T20:14:39+00:00",
      "snippet": "US Stocks Close: Dow Rises Over 500 Points Amid Mixed News on US-Iran Talks; Some Tech Stocks Rebound, Meta Falls for Fifth Day TradingKey"
-    },
-    {
-     "title": "Dow jumps 500 points as earnings optimism steadies market: Live updates - CNBC",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBY1V6N2VkbVphNU1oUUROTEx2aUtNQk9XeDl3SlRyUGlmWWFNX3B1NjU0SXB6Z08zeldvRW8tZVdWQ3lxRnNGelJSdURXdHdEQ0lRTllocmNfS1BkX2lDalYzS1AySDNUNk5Rc2tDbk1SdVZsbHRj0gF8QVVfeXFMUDhUeVpneWk2eWtPSVpkcE5EY3pZeV92cG9CZFpwaDVrT09sY2Y1VTVNc2VfcWNid29pZ2RzNTYwY3VWQkx2X2h3ZlUzQWRPXzlpWWotY0ZkM184THhJNkxhYTJHNVRvZ3hESG4wZGVna25sWEU0UDZBZnpqRw?oc=5",
-     "source": "CNBC",
-     "feed": "Market news",
-     "published": "2026-10-20T20:13:00+00:00",
-     "snippet": "Dow jumps 500 points as earnings optimism steadies market: Live updates CNBC"
     },
     {
      "title": "First Trust Advisors L.P. Announces Distribution for First Trust Low Duration Opportunities ETF - StreetInsider",
@@ -458,14 +562,6 @@
      "snippet": "US Equity Markets Mixed Amid Quarterly Results, Lower Oil Prices Yahoo Finance"
     },
     {
-     "title": "U.S. stocks rise after companies deliver strong profits and oil prices retreat - Pittsburgh Post-Gazette",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5JUHpCVE5nNDBhbEctTDUxbHBoSzNkY3o3US1mNFhIeW9kajVOYUNmVWFCQURFZldKMnJsVFRJNXhONkc0a1Z5NDcwYmdzVGIwZGZnTHZJWGZEMktIeVdkYkQwMXBVd0hfTVFqd05UTmVIM1Z3ZHhvcUhoaUg2TVJWT2I3cXBGM0xINmw3cDZSSHl4MVpua0F6dVpHenBQeDEzNngzamFPUWR2bXhn?oc=5",
-     "source": "Pittsburgh Post-Gazette",
-     "feed": "Market news",
-     "published": "2026-10-20T19:51:07+00:00",
-     "snippet": "U.S. stocks rise after companies deliver strong profits and oil prices retreat Pittsburgh Post-Gazette"
-    },
-    {
      "title": "Update: US Equity Indexes Rise as Corporate Results Help Lift Risk Sentiment - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb3BXUGktbm5TUFZEYmNmMkZ6YURJQVlFTEQyenlYNmlsZV9Jel9UeUFSUWNfMm9PbmJDOWlEMkhnN0NtOUgtSTVMN29BWGhleGNRV3g3YTRMeWRBRXlfUEZnUENteUlnd3JyQnFMMHVkUG0tRnZMRFVpakcxYUpPY0VHeDNycTlDRlpQYndrZTVneTVkdUZGc0NlcXRwdw?oc=5",
      "source": "Yahoo Finance",
@@ -474,36 +570,12 @@
      "snippet": "Update: US Equity Indexes Rise as Corporate Results Help Lift Risk Sentiment Yahoo Finance"
     },
     {
-     "title": "Stock Market Today: Dow Closes Up 500 Points on Busy Earnings Day as Oil Prices Pull Back; S&P Also Rises, Nasdaq Ticks Lower - Investopedia",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMk80WXBDalJTcEZzT3VScXp2RDUzSExrTHpwbzFMMXZ5Xy00ZjVjdXp6blZ6WDRub0dKYXFMTlkzY2tFd1oxc1JpM1hIMU1iNmNzSmtRRWk4aTdmaTI2bWtoUVYwbjl4cUdZa0tiZmNBV2p3RWNVbm56bHpPQTMtcGNDeDRTbE04NlZxY282RjM?oc=5",
-     "source": "Investopedia",
-     "feed": "Market news",
-     "published": "2026-10-20T19:15:18+00:00",
-     "snippet": "Stock Market Today: Dow Closes Up 500 Points on Busy Earnings Day as Oil Prices Pull Back; S&P Also Rises, Nasdaq Ticks Lower Investopedia"
-    },
-    {
      "title": "ETF liquidations accelerate as issuers cut losses on young, small funds - Pensions & Investments",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXRFb2xhQkZtMmVqdWEtaVRFNmZiLW1kQmI0RDgycVVwRjJlQ2pid29LYy11WF9HT0tNZzlBQnpualJnMG1KVy1ZZ0xFWXIzR01GY1NUVHhBclo0eEp5Um9aS1JiQWR5SmJvSTY1N2RLWTJ4UjFlU2kyYzNjNzhuSUpsZE13aDZoOVRqZENmR3ZLdEJzQnc4S0NUOGZPS2Z2ZmFtQ3FOZW9oSF9RRXJlZ1VocW5PVHlIQ3FDdkF5MHlGWkxoLVE?oc=5",
      "source": "Pensions & Investments",
      "feed": "ETFs & funds",
      "published": "2026-10-20T18:56:00+00:00",
      "snippet": "ETF liquidations accelerate as issuers cut losses on young, small funds Pensions & Investments"
-    },
-    {
-     "title": "Wall Street rises with investors rotating into healthcare and value stocks - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-     "source": "Reuters",
-     "feed": "Market news",
-     "published": "2026-10-20T18:53:28+00:00",
-     "snippet": "Wall Street rises with investors rotating into healthcare and value stocks Reuters"
-    },
-    {
-     "title": "Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; GM Stock Flashes This Sell Signal (Live Coverage) - Investor's Business Daily",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNkpsMHZzemFlQ0laaVFHWDZ4QXpNTFliN0tQWTVHQnVqQUFfQVhyNXNfMFpVOE1XT1FrWWJucG92U2lwUXpHZEFycGFRTE1CS3F2b2dldTgwRWNPTmlZRnhnMGpiRkFzdGVXNlBYWHhWektRZnJ2c3R4b0w1ZzQ0ZWR4dk4yNl9GT2ZHemZ4WWFGY3lhWDZuQUV5MEpHZTM3eFNNdkZmMzc1b3YxZEtfYVgtNnNOaW1FckJVOVVfYmFTNThZTVU2bzBxWQ?oc=5",
-     "source": "Investor's Business Daily",
-     "feed": "Market news",
-     "published": "2026-10-20T18:32:00+00:00",
-     "snippet": "Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; GM Stock Flashes This Sell Signal (Live Coverage) Investor's Business Daily"
     },
     {
      "title": "Bitcoin rises to $82,500 as US stocks gain desp... - Pluang",
@@ -530,92 +602,20 @@
      "snippet": "Exchange-Traded Funds Gain as US Equities Advance After Midday Yahoo Finance"
     },
     {
-     "title": "Stock Market Midday, Oct. 20: Blue Chips Rally, Eli Lilly Gains 5% - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3RFMVRqX2F5TENwMGVQZ1lsMkpaaGRWblBhRzNoY2pVRV9lR3g0V0F3OFhIM1pvZDgtbTljOWxla3FfWHctT0tyckNZSEY0MDVILUdXX2ZQTHU2SVBvRlI2SklrQkExcjh2X2xQV1FuZGpjMGlYTFFsUkFWSkQ3UGg4bDJuTTNjdWkyNjR0VXJXbHZWQWtKSzg3U1NzQlRBSmlmVlphTjJTYkRRdzNnR2RNYndRb0pEVnVTOUl3SQ?oc=5",
-     "source": "The Motley Fool",
-     "feed": "Market news",
-     "published": "2026-10-20T16:20:55+00:00",
-     "snippet": "Stock Market Midday, Oct. 20: Blue Chips Rally, Eli Lilly Gains 5% The Motley Fool"
-    },
-    {
-     "title": "Paul Tudor Jones makes chilling 2027 US stock market call: \u2018I\u2019ll be short the whole year.\u2019 Is your nest egg at risk? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pSR2Q1b1VFTjlMczRBOG54dDJTTm1jWTRILXhuY1FpNkRfOHA3VXN0ZDdnZlQwYjA5TFV0VDI0UzZ3VElQNmxqekpSQVN0MENwY2R1ZXkzWDRjUmpzOWlSTkxNMXRla3cxVXM5YUtSMWc5MG5UZnBEYnNtbW1XOUhNeVU0Q3d3cHkzZTdMeGxqZk5uNDdEMkFLNUc?oc=5",
+     "title": "Stock market today: Dow rises, S&P 500, Nasdaq climb as dip buying resumes - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNks4Nkd1RzNSeUluQVBaTkxFX0ZZTmVGQ2ZNMS0zeWFWMWJuLUczMTJUOVVvMXNEZ3JWdlNHdWJ2TG1qM01sR29RS2tHajFob1A5T3c4SXBYRkFxN2pWRmt1YlJPUDFIQ0xlczUyZzRYdkpPLWZNTUwwYzRSVWtDcVlzVDFmRFZBX2E3YjBPU1NhUlJRQTctaDBPZjZoQjZGN1JHWnRIYXROM1c2cmhmemJJd3daZEc1SVlfQklocHAwZw?oc=5",
      "source": "Yahoo Finance",
      "feed": "Market news",
-     "published": "2026-10-20T15:45:00+00:00",
-     "snippet": "Paul Tudor Jones makes chilling 2027 US stock market call: \u2018I\u2019ll be short the whole year.\u2019 Is your nest egg at risk? Yahoo Finance"
+     "published": "2026-10-20T16:47:29+00:00",
+     "snippet": "Stock market today: Dow rises, S&P 500, Nasdaq climb as dip buying resumes Yahoo Finance"
     },
     {
-     "title": "Foreign Investors Poured $1 Trillion Into U.S. Stocks \u2014 but a 59% Drop in Treasury Buying Could Make Your Next Home or Car Loan More Expensive - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0dlUnNfYlUtRVZzMk1IM1NRbmtGWHdHdG0yZUFHZTNtaTJSRUVsYjRyd0V2VXpaRzFER2hLc0xJX1ltWGQ0SGM0SkJ1NkRfcTVZcEJtMFlRODN6SDJDMDU5YlpwTnFmZndaa0NPWE1NdVJUd0FfRTBPZ2t2OWRzY0F6VHF6b1RUekRWc1JVNUxFel9ubXNaaDV2ZnJ0OEFIa2c?oc=5",
-     "source": "Yahoo Finance",
+     "title": "U.S. Stocks Turn Higher, Setting Aside AI Jitters - WSJ",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFIwYTNvY1RkcV9BYS02QWZBTTczUmVPTUtmaGs0d2JCZFB5eHVMUzd5RkNhVU5EUnJMYlEza1RhS1UyRjhCYlYzZTZER3hDcVI0R2g0SzhxenFDRDl3VjA4dFhrWC1YV0p4UVdaZFg1bHVRSElOVnMycDliaHZRWUdRLU5Nd09aS08wTQ?oc=5",
+     "source": "WSJ",
      "feed": "Market news",
-     "published": "2026-10-20T15:32:54+00:00",
-     "snippet": "Foreign Investors Poured $1 Trillion Into U.S. Stocks \u2014 but a 59% Drop in Treasury Buying Could Make Your Next Home or Car Loan More Expensive Yahoo Finance"
-    },
-    {
-     "title": "U.S. stocks rise after oil prices retreat and companies deliver strong profits - BNN Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlZjRWk0ZUNCd1Vnb19ZNExNT2RWNi1LdzViQWRTYkxXMnVrSkdwSDB0REg0cUxPY21uTnlBYUItdm1Lc0ptZGwtdXozMks0d3RUYjBIYWRrdVZDRW5MTjhvMHk4RGpzal94SzJCMEFGZk93UDV3eUVoQVo0WVJqaXdlSmR2NW1hckVxNkFpR3Jib0lHSEo0SDE1Mk5IcFpEbk1yUDdxWFpmOXVRMUgwa1J3QXRTeVBnVWlxWVlMM1o?oc=5",
-     "source": "BNN Bloomberg",
-     "feed": "Market news",
-     "published": "2026-10-20T15:09:44+00:00",
-     "snippet": "U.S. stocks rise after oil prices retreat and companies deliver strong profits BNN Bloomberg"
-    },
-    {
-     "title": "U.S. Stock Market Update | Chip Stocks Reverse Losses to Gain; Seagate Technology (STX.US) Up Over 2% - Moomoo",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHMwNDYxSjQ3WjM1NExsOTJibnowTnNDb0NTbGU5WFhTOHZkaG5oQ1p5OGhaUnZUWnUwcUdHVENieWZVWGJKbnBqUjRfN0drTV9DUW55Vlp0NWxRclpIT1YzOXVBMHVWdTY1cEc0VUFlbHk3d3VVZWJuZmtFcXUyVzAzNkpmekxSWXdTVDJFWWFWdGJPZmVzXzJ2Uk0xU0VyNlhz?oc=5",
-     "source": "Moomoo",
-     "feed": "Market news",
-     "published": "2026-10-20T14:57:53+00:00",
-     "snippet": "U.S. Stock Market Update | Chip Stocks Reverse Losses to Gain; Seagate Technology (STX.US) Up Over 2% Moomoo"
-    },
-    {
-     "title": "Key U.S. energy stocks to watch as oil price hits $111 - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVphSjlxbklDbW15OEpRTDJSY0p1Z0pCUnY3aGsyUnpXYUpySl9GYWZHSmswY2IwVXJUZWtJbENCSkNPNWZBbWZTeFc4NWtNbE1Dc2luY1V4WXQwbmN5eEhxODJ0V0s1NFpNRUdDY2lJb1BVQW5xWGhPd3hKLWFHN0RrVFhndnRDcmZwUEwwM2g3a0JOYnJfaG4tb1RzRHh1WGRmNEt6Z2F2djhndVVpblBocw?oc=5",
-     "source": "Investing.com",
-     "feed": "Market news",
-     "published": "2026-10-20T13:53:56+00:00",
-     "snippet": "Key U.S. energy stocks to watch as oil price hits $111 Investing.com"
-    },
-    {
-     "title": "US Stock Market Today: Nasdaq Opens Lower As AI Sell-Off Resumes, Dow Up Despite Crude Jitters - NDTV Profit",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZGw2WjhPUThXUHRtMUhpdXJXbzV2MzVOektLZ0YyYm01Qkt6X05aMUtZazQwNXp3S1dfVXRYX1pHak9FN2x4ME1xM1pQZ0dPWHhOOVJTUkQxWGZ0enZRT2VKMGVuWTNZNWNtelZkem5Vc0c3amt5QlNLVk4teDVtT3R4ZDNxejhGenVTVHdHekhxdXdwRWFXYjl6MDBpY3lkbTJJMWFVck1VZWVEY2ZJcWZ3VkpkaGV3eWJEdGY5SUh5UXFpdHlxTkVsY2RtXy0tZFHSAdoBQVVfeXFMUGNrSmRlcGJuVmdmS1NKSVZtSU9uUkE5dlkwUnQxMzZIS0NveW9VQWFqbjJLODN3cFpRdkMwRkM5NXphc2hUWURIWW9KZ1lWUlFBWUp4Nm1CcWgycUpYRFdONUlmaGsxRU83XzFqUVYtdi1CRUlMdHkzZy1fMU85cXhtV1VrZi1yaFp0Z0JlVFQxSG51MmVHR250YWtNRzdUNUVPQ2NZVC1TQUVUemtsNTBjLUxoQ20wd0tCcElwSXFrQWY5d2xtc05Nek9lcXEyZ1lwdFROTmRGR1E?oc=5",
-     "source": "NDTV Profit",
-     "feed": "Market news",
-     "published": "2026-10-20T13:41:48+00:00",
-     "snippet": "US Stock Market Today: Nasdaq Opens Lower As AI Sell-Off Resumes, Dow Up Despite Crude Jitters NDTV Profit"
-    },
-    {
-     "title": "F/m Investments Launches First 30-Year TIPS ETF: RTHY - Business Wire",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHV1ZnpuYnRVbk9KOUhQNjRhQ2pjR3BpaUp3VGdWRlNjVWN5djF6dUJrYnlrVVlzeXpuM1JIY2FzOEhmdmIyVzVTMTAwaXo5VFRvcU9hSVRyYTVtU3RYbmFHbGZrZ2NrQzNLckd3TlFHSVJBSFlGQWJmOWphNGtOMmdwSnJaWkU0enRMeHBpNmV3TkRqY0JDM0w0eEdScWhnbmRPeVdPaDQzQ0lR?oc=5",
-     "source": "Business Wire",
-     "feed": "ETFs & funds",
-     "published": "2026-10-20T13:00:00+00:00",
-     "snippet": "F/m Investments Launches First 30-Year TIPS ETF: RTHY Business Wire"
-    },
-    {
-     "title": "Dynamic announces October 2026 cash distributions for Dynamic Active ETFs and ETF Series - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMVpxLVJ1R3p2T3FoUFRvYnRjNzdoVVZUNUxjbEFLY2VnLXpVb2lDSEtMeTY1eV9sLUVVUXZCaXFobTJXQVJiUmNDVGg3aW01NXo1NnUyejlpcVAxUi1UY1JhRzdvckRuS3BkdnBUY3lrcmJEbEs4d1FWWXhzUkhoTEdQSjNqSGR4dmpzbFlhbW91ZC1KdUNXMTI0dUJZQVRmZXY0U3lhWEExeDNiZXMyYmNMOXplMEUxRjN1TkpiVW9UUTlOTjJZQmVTU0xGeWZkZFpnanpCbk5FUU5qVEdmeHZTWQ?oc=5",
-     "source": "TradingView",
-     "feed": "ETFs & funds",
-     "published": "2026-10-20T13:00:00+00:00",
-     "snippet": "Dynamic announces October 2026 cash distributions for Dynamic Active ETFs and ETF Series TradingView"
-    },
-    {
-     "title": "Update: US Equity Futures Lower Pre-Bell as Trump Unveils $8 Billion Plan to Help US Farmers Offset Diesel Costs - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpwUHlxTjZlUDJpR3VYWDNkY3M5VzV3eUpwM3M3Vi1SYm1jdndEbXR4UlJvZmgtVUFPSkVQQXdiRW9fZEd6QWRCNFI1c0NiY25jR1E3U0JvVVNMUkZzTzRHTDFDcDlCLW9pNExYcy1kdnNCd3ZwU1FuQndJR2E1VWlsSU9KUGhBUGhzRllEN3ZzV2hsREc0?oc=5",
-     "source": "Yahoo Finance",
-     "feed": "Market news",
-     "published": "2026-10-20T12:53:55+00:00",
-     "snippet": "Update: US Equity Futures Lower Pre-Bell as Trump Unveils $8 Billion Plan to Help US Farmers Offset Diesel Costs Yahoo Finance"
-    },
-    {
-     "title": "U.S. Stock Market Preview | U.S.-Iran negotiations remain deadlocked, pushing international oil prices higher; NVIDIA and Amazon ramp up investments in Germany; General Motors plunges more than 6% after earnings, as profit guidance falls short of expecta - \u5bcc\u9014\u725b\u725b",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQm4wbmd2R2dVNnE3M0MtMDhLUzFROEZBakM5ZmdyRmFNcTJKUGk4Z0tCUlhsb2tXeHBOQldIaVJUMFVyUzh4Ymo4WjlVdE9LaVg5bzNyRUtWWGlzbVVfeXpjcl95ZnVqUkxURC1EN2VSSWNFLWRvUE1mU1pTQm5IZFBrSFczdGdBWmJtbDFGNWV2Z2VsZlZTbmZiVTREdHBCY0QteThGRWFNSVJuMWJEQ0dNcw?oc=5",
-     "source": "\u5bcc\u9014\u725b\u725b",
-     "feed": "Market news",
-     "published": "2026-10-20T12:16:00+00:00",
-     "snippet": "U.S. Stock Market Preview | U.S.-Iran negotiations remain deadlocked, pushing international oil prices higher; NVIDIA and Amazon ramp up investments in Germany; General Motors plunges more than 6% after earnings, as profit guidance falls short of expecta \u5bcc\u9014\u725b\u725b"
+     "published": "2026-10-20T16:23:00+00:00",
+     "snippet": "U.S. Stocks Turn Higher, Setting Aside AI Jitters WSJ"
     }
    ]
   },
@@ -623,6 +623,30 @@
    "title": "India Markets",
    "blurb": "Sensex, Nifty, Indian trending stocks, ETFs and mutual funds.",
    "items": [
+    {
+     "title": "Stocks to Watch Today: L&T Technology, Bajaj Finance, HD Fire Protect, Piramal Finance, Hindustan... - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxObTM3NFg5NFBtYUQ0N3F2LV9yaGgxOHBBb2xmdmd1S2tLekJZYkgxMFVjaHNfRUxXaTlKaDdfQ3piRE0zNUpQZXVIWjFJUjdqaDRLREkzbE00UVdhNTI4bnZ2V29HY1Y3QmxnSlJuam1nSXM2dkV2NzhXekw5VS1aR0RHVUFiNDhhQ3JUWDRqUnVycXRHQkROUWx6RGtEc2xVQ2RTSWU2Q2pSVk15MzgwQkYyX3o2d25CNWdzWHd4dVhLOHF5QWxaeHN2NFVYcnFDMDM0N2NsOVhtR0JmckhJZVhtSTVfVTR1SGpFWnA4b0hMZmo5LVpKRmdDcFJCd2NYdGFHXzgyMWdVMWpSamJ4NnJVMVVydWs1VXBsYUN4ejRkTGVZU1BuUHRRMGp1Y3RJY3VEVExLUk9maXBKaTNGNHBUeTV4R242TVpIMzZ0eVBzZ9IB0gJBVV95cUxObTM3NFg5NFBtYUQ0N3F2LV9yaGgxOHBBb2xmdmd1S2tLekJZYkgxMFVjaHNfRUxXaTlKaDdfQ3piRE0zNUpQZXVIWjFJUjdqaDRLREkzbE00UVdhNTI4bnZ2V29HY1Y3QmxnSlJuam1nSXM2dkV2NzhXekw5VS1aR0RHVUFiNDhhQ3JUWDRqUnVycXRHQkROUWx6RGtEc2xVQ2RTSWU2Q2pSVk15MzgwQkYyX3o2d25CNWdzWHd4dVhLOHF5QWxaeHN2NFVYcnFDMDM0N2NsOVhtR0JmckhJZVhtSTVfVTR1SGpFWnA4b0hMZmo5LVpKRmdDcFJCd2NYdGFHXzgyMWdVMWpSamJ4NnJVMVVydWs1VXBsYUN4ejRkTGVZU1BuUHRRMGp1Y3RJY3VEVExLUk9maXBKaTNGNHBUeTV4R242TVpIMzZ0eVBzZw?oc=5",
+     "source": "Moneycontrol.com",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T19:16:01+00:00",
+     "snippet": "Stocks to Watch Today: L&T Technology, Bajaj Finance, HD Fire Protect, Piramal Finance, Hindustan... Moneycontrol.com"
+    },
+    {
+     "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdm5jTmpBZ19HVWpKclpZYlBkbmtvbVRJbmpHNXFuTm1ranl4VGs2d2pSN1pDSDQySEtKNVBUSkdPaWN4WGRMSXFFYTYyNUt6VzhzM1cyRDE1Z3MwS2VNQXh1d212RXBaMlZDbW9wVWd0RHE2aGJ5ai1nWERRNmwzTjJNbUZtN3FmTl9aTnRKdmtnRkRleDl5SWlWeC1lR0FBZEtwMm9DUndPZjY3WmxQVjdMWDN2bHFWdERvTTdmQ0NJNmt5Z0l3QmlfZG5fOVlETjRNODdBei1ST1dyU1NNazJlMNIB6AFBVV95cUxOdlNKZ0dZSm4wUUw3SzlWVTVHN2tTeUsxbkFickxxX09SazY5UWwwNEh2MnV3R2lISGlnNDRFUW1iV0piWGJBU0ItNGNhSWk3WkZKZVIwZDRkUERfRzAzT2hYUTkxb0ktTVVBME1BV2twZlB3SktzS3J5RHBCMkRwWmNBeXJFcS03anpCWUllc2xNUEcyRGVVdXZKSzZBekJqcTkzQkx6cVB2R0EzQmRxVmZhUnhST3pMbGpHd2FqTDRMTnpaNXV4cUhmRk92cmhvMlpBSGEzaHdBYjZZVkFEQVJiWWZTYXNf?oc=5",
+     "source": "The Economic Times",
+     "feed": "Market news",
+     "published": "2026-10-20T15:12:11+00:00",
+     "snippet": "Ahead of Market: 10 things that will decide stock market action on Wednesday The Economic Times"
+    },
+    {
+     "title": "Is Trending Stock Nextpower Inc. (NXT) a Buy Now? - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkUtM2N1UXR1WmtjS3lFa1BmR1hYLXB1eDExVVplTmExbGE4ejhFbGlmajZIbm5ZWnQ3YUhtQmN1Vngycjd1ZzdZczhQbXNqNUdvZzhTN2J4SFZlVHhyVnV2b0NBb3VXOGVNN09GbEctLXZjLVl6VXIxcTJmTDJwRVpVZ0t5T0xB?oc=5",
+     "source": "Yahoo Finance Singapore",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T12:00:04+00:00",
+     "snippet": "Is Trending Stock Nextpower Inc. (NXT) a Buy Now? Yahoo Finance Singapore"
+    },
     {
      "title": "Sensex and Nifty Slip as Financials Drag Market; Sector Breadth Weakens - MarketsMojo",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0JnZ25VQ3Y5ejVJX0NkZXVvZXFqYXpVRUd5TkpjMGdCdkpScF9YeFQ3bUdZR3VMOGdraXFTcld0U3I0akt0M1licFIzQkNLamx6Q1hIdWNSRnZ6Wm8tT0pCaDRJSTljWXN3WWN4T2FrWFVmZ2VyamdUWlZ2RXkwaHZzVUtDU2pxSDF0bjIwMkxFLXVRejZPOERlLXdFWmlqRkctOUJlY1plVHJQcmJ5WDR3ZE1rbE40S2pLT3Vha3EzUVBkUF9BaQ?oc=5",
@@ -664,14 +688,6 @@
      "snippet": "Sensex and Nifty Slip as Mega Caps Drag Market Lower; Financials Lead Declines MarketsMojo"
     },
     {
-     "title": "8 Best Drone Stocks To Buy In India For October 2026 - Samco",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWkNrYml5YmhUSVJ2Y2pDNkFZYmg5dTJwOGxoYjczRGptT2dFeTFzQmczeFNXeXBLNm5OeWkxYjBaaHp6SERLVlg3cXhXS0dkYnJNTkV2M0cyNkxybVBrc283WlBMMlFUSmJlVWhvX2F0UVFu?oc=5",
-     "source": "Samco",
-     "feed": "Trending stocks",
-     "published": "2026-10-20T06:51:07+00:00",
-     "snippet": "8 Best Drone Stocks To Buy In India For October 2026 Samco"
-    },
-    {
      "title": "Sensex and Nifty Slip as Mega Caps Drag Market Amid Broad Sector Declines - MarketsMojo",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0dNN3lxZjFKRWU3clBIVWF4UF9hNnA3X2RsMXl0VHBWYm9KMEdfYTdXX0Q2UEdSMHlsZnRpcjFCTFlWXzBhc2ZwMmZMV0lvY21jZGpITXhlak51RGZSck9OX0N6cHVMWHNuMlg1RHlaQnl2RF9xT1l5a2EwM3R5QXRxbzRUWWh3elZCeGZ1MHpMX0dUXzZkenA2WTBoRVRUMDNPaUZuYms3R2lmeERDaHAtM3l2NEtrV2VqUDZrR3cxZ2ZPTzNFLWFLZUw?oc=5",
      "source": "MarketsMojo",
@@ -696,12 +712,20 @@
      "snippet": "Sensex and Nifty Slip Over 1% as Market Breadth Weakens Amid Sector-Wide Declines MarketsMojo"
     },
     {
-     "title": "Sensex and Nifty Slip as Financials Drag Market; Mid and Small Caps Also Retreat - MarketsMojo",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWNzM2N2dVJkc24ydEtfbm1PT2tGbkprYXVzOVlGYXhrQmZjQWM2dHhhYlBVb09PNGtZcmtjQkVrLUJnZWxMamlWbGM5NGkwRXBiQlBQNG1Ua3c1dlNkVjR3U3Q4ZFV5cXRicGctdEtIVHBuZ0lCd1h5dXdXblptWFFkR09FZTN6ejBZSzVJWTdtZFpycTRuZFlOcGVlaHoxTjVnQlg2WHVrc2ZfNnhZTkpFUk44NHpXdFVFY0ZNTkJ5QTNqMXhuRFk0akZoaFNIUkFiaw?oc=5",
-     "source": "MarketsMojo",
-     "feed": "Market news",
-     "published": "2026-10-20T04:19:57+00:00",
-     "snippet": "Sensex and Nifty Slip as Financials Drag Market; Mid and Small Caps Also Retreat MarketsMojo"
+     "title": "Defence stocks to buy: Aditya Birla Money picks HAL, BEL as top picks; check fresh targets - Business Today",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWNONDdKaDIwZ2xodFA5bXRwYTdwMjZqOUJQdlMxUUViLTNsekFoS2U2bW11bjZBQS1DeVVrSDdwemNtbUZWSzBHTHF4UEZiZE4wOFBKZ1BWWXJubGgtQXd2ZDc3MV9DVk02OXpaRUxmdlFsNlNQaU5mX19NUDJ5Q21hQnN6S3Q5TjBqZ0xSUFV1RXFwVG9iTUhhOF83M0c2NVRVeXRWTU1RMkhwOFVJZmpGM29uazhtT0pSVUhwVmVrbWRVX0xEUy13Qmo0cDZFSUI3X25jTkJvWUpxaENtQzZFNWdSYkhiQ25yN3YzdGZoWGxiWGdB0gH8AUFVX3lxTE9URGRkc1g5R1FuRFdfUHpmRlNGLWdkTnplWFNldzZvVVVqTngxSVlQQW9weUpZNnJmQU51dk9hbjc3SzhicnFEcmtfUGlla3pFNjc5QjhMUElkMDZudXRqaWFodjlyS1c5aERjSHk1Zlo0RnVsRlVPUHBFVElXYWo2WjNNVXVyUVdfS1BPWmNiVFVjRDFxX1hmSm9SR0FRTzdnWEV4czlrblBiMDB0ekVkN2p3Rmx1NkZEUTVjUkxfTWdlMklMcC1VX1BqMzFLSFkzUHRqUVhQdXh0N2VoZklwN0t3dS05a0FveWQ4SktKZ3pqSlQ1eUJ1MXYtNA?oc=5",
+     "source": "Business Today",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T05:03:08+00:00",
+     "snippet": "Defence stocks to buy: Aditya Birla Money picks HAL, BEL as top picks; check fresh targets Business Today"
+    },
+    {
+     "title": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for th - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX2FwTnMxbFUzUDVvWUdXcEZUY0Z3RjlzX3FOS1N2akpVS3Nfc2hpLWljeDlQX3FJeUFHVV92SkpnWWdQQmVsOTBJYUNyVDlpWkN1WlhUYjE3RWN4VTdydjI2NUl3aUJTUlY1djRtMlFxWTZoM1V4VG5iU1BZdlBPdHZTV1V5NHFFM280ZEpFMlRxLUNhVXd4Q1BXVUVQNGIwR1RrTThORGNPSnJOWEJtOGItR3BCRmItZGJFZnhHU3gwcGx0OTBvLVNrUlNSQ1pTNFRIdVdhN1dmN2t2c0t0SHpoZHRMdFZySjhEUUtkbk8weVpPWHhLS1Q4c2hLQ0x2Z1ZSdV96S0NZMkU5UzdLTNIBlgJBVV95cUxPb2RJU1g0c1ZCb2V3ckJHTFRZU1RNVmRGWXJOVjh6aGtjNDNVNGlwb0N2WnNMcnk4ZFg0T3BRNHpXNDR2R2hVc0RFVEVyZmM4enUzTG9KV3VjMHU3ZlRpN0ZUSjNNdWhxb1VIak5IUndGQWJ0QWxNcEpSeXZEMk1yYWdpaHRIc0ZLcXZXcUUzTFNyVy1SQ2puVkRzX2dsWWgtZ3drN2xCSnI1dElDVm4tM2Q3SktCVEhGdDR1VS1hXzc2NS1feVZKY21wVkt2bjNtTEZlNGl5NV9MSWJ2eDlvejNqcy1VRmVVR29Fd00yTFVCblVHZ1BjSnBvSi1DVVM5Ql9HYktydGZMYXd3c1ZaN1gxRmNkUQ?oc=5",
+     "source": "The Economic Times",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T04:23:03+00:00",
+     "snippet": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for th The Economic Times"
     },
     {
      "title": "Stock Market Holiday Today (20-10-2026): Trading On BSE, NSE Closed For Dussehra; Dividends, Q2 Results Ahead - Goodreturns",
@@ -726,6 +750,14 @@
      "feed": "Market news",
      "published": "2026-10-20T02:42:00+00:00",
      "snippet": "Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading on October 20 The Times of India"
+    },
+    {
+     "title": "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the yea - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX05ZT3VZajVrN1MxUk1heHhGaW04SFFaV18xbU1ESXd4UVo5dlVsMUhyc0JYLXNMejA0V20teVlQOWNGV2tJOWZnQVBmREt3ZGNBamg1VXJHdGFtNWtDT3FlWUVtaVdEZ3dOWlBwY0J0ZkZCT0hxMVVPdVBfczEtb2d3QkNERGQwS1JRZTVmTnAwcWpPU3o0Z3NsZUZ0cXFSQkt0aW0xMEc0MTRuMXVGcmFzaENyWjRITEVoMDc5ZVZUbUlISGdFbktkeXFBOE0zM1NvT2ZWUlpKY0JEcFBPbHJNc2JfeUxkdWs0VFFZQXpXREtFRkREUWhkVk1odFY5UFVUbUR2WXY5bVHSAZACQVVfeXFMT2NJblN2Y0ZkNmVLNVRLc19BV3V5Rm5sWmpOTEp4R095d3ZpNWRLbmZlRkdUNWZGVnBVa0MzYzYtMFJSZ1hYVEV6X2U0OFMtdUNRdmlKVG5lZm1hWkszQU1zSWJER3ZBUmhGaS0yU1Z0NFppdm1OWE9zSXEwS2l4ZUJnb2tFQnFCaXJvV1U4YnhldktHeGh0OHJ0TlExcVBGR3QwdGtLLVNwY1RtM2dWRFlsLVRJd082dVNzazBnbU5aSWcyemowaGdSdHVoR0p1UHVVeEVhdTZHcnc0c3Y5a0I4c3JDODhvS0x4ak9UekgyMFJjTk1xa0ZlUHk5UmFhajEycVIxT18zSE9KeVVYU0k?oc=5",
+     "source": "The Economic Times",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T02:29:59+00:00",
+     "snippet": "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the yea The Economic Times"
     },
     {
      "title": "NSE, BSE to hold Diwali Muhurat Trading on Nov 8; check timings - Business Standard",
@@ -768,6 +800,14 @@
      "snippet": "Dussehra 2026: Stock market holiday today or not? NSE, BSE to remain open or closed on 20 Oct Tuesday? Exchange calendar Livemint"
     },
     {
+     "title": "Banking stocks, high oil prices drag Indian markets lower - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWU1Nnd2c01JQ3pCYWRPVE1BRTdHRDZ4Q3VtUHdaT2J3akJEQk42WHJpWVNrSjBxRXh5cFVHdXpoc0NLZkIyVjcyLWt2amVTdXZieFhCRzRHY3BsTDFqcTdhVkl2Y29oNThXWUZXT1VycXZRdmNuWXZkNWRRMlhHMFAtbGRyQWZIcEQxWDM4c0xRQzh1M0VPOFhvTTVVQ1YwZ3p6N3Y4dDUzcXg4Qk0tWHN0UVJ2bkhJaTc3MmFIS3RlV29EOVhIUGVn0gHPAUFVX3lxTE0zLWl3T01WZnlCUXBMelpzYkFKWDRlOERva0J6MEJ4cHctYzBKVU5VYWhDT2pwVEp5NWJBb0FpaEVkV0VzaERpWW5VaTgzMG1xMFNrZ2o1aktOazQxcmFuNnQtVXVBWklvYy1Tdnhob1VWeEN6ZGxFMHFSUzhwdXVIalZySVZ5djJfYnZKdC1zUkgweFNQTXdpZzZQVkFuVWZuN1draTVHNHB2bjEyRXlOSEl4b3ZxWGlURlRWOUc4NjlyQU9sMFUyeTdLcjhfdw?oc=5",
+     "source": "The Economic Times",
+     "feed": "Trending stocks",
+     "published": "2026-10-20T00:05:48+00:00",
+     "snippet": "Banking stocks, high oil prices drag Indian markets lower The Economic Times"
+    },
+    {
      "title": "HDFC Mutual Fund lists FTSE India Equity ETF on NSE - Daily Excelsior",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamRibDI2eDJ5bXZvT2dGck1CXy1zbEFiRlhDNXdzU3ZaZGo0dXV0RlFXU2FuOTVKNlBKTF82a3p4T3VjdTEtV1VrUTRFMmpGVk5sTXkwRG9raThsc1RwR3NyQ09mQXRiU2xJSlRxUE1jQ3FqYkhKYi0xdnRuRWc4Q2pNRHJRU0kwS1M0?oc=5",
      "source": "Daily Excelsior",
@@ -776,52 +816,12 @@
      "snippet": "HDFC Mutual Fund lists FTSE India Equity ETF on NSE Daily Excelsior"
     },
     {
-     "title": "BSE SENSEX Crashes 876 Points to 73,852.90 as Axis Bank and IT Stocks Drag Ahead of Dussehra Holiday - BBN Times",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcmhFeEVQaTJzOVZXX1FvNjh2YkJZNklZcFRXYldfLVFKVFFpUzdHOEVWSENIMFZxbDZnQWp5M05qbmx0aE5KcE5VOU5IMmRSclhMYkRxQzI2ZTZQcGNyRDk5Zl96bmdKb1BtOElNeUFEdmU5ZmtaZjlkY1JMV2hnNlhhejZzWktVUGJMY0dJQ2h3ZHg3ZC1WX1RBWDhBa2xEaEx4X2hjWXVSTVAtaXR5WE1HeHl0TXlOWndRYzYxOFM4QnBhUTlVejk2d0wtRGpL?oc=5",
-     "source": "BBN Times",
-     "feed": "Market news",
-     "published": "2026-10-19T22:07:07+00:00",
-     "snippet": "BSE SENSEX Crashes 876 Points to 73,852.90 as Axis Bank and IT Stocks Drag Ahead of Dussehra Holiday BBN Times"
-    },
-    {
      "title": "Private lenders weigh on equity markets as PSU banks buck the selloff - Business Standard",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajlaa0FfU1ZFYVhFVEE2RWlkYzBMNlA5bF9qR1paOWN3dVF6Tms4VEtfckxHN1M1Q0JnQkp3S2JHVDVhbUpTU3ZQeXpneFJEb1RRTGVMR1Q2T1pXWWtiamxkanFralltemlLSWJqdXQta2daTHlxdWF6dFJVZHhIa04yQTNfa0tkM2lJVXk2cm1YdVR4bmZVa2FrTnJPdHVuRDZqRXBtOHZPRUV5akw3emZlR3JsV2htUjAxLVJkVWZKUHUwdTJBdzFzZU51dEZfNnfSAdcBQVVfeXFMT0ZPT2NIS0RWOFJ6RjV5UU1SRlZNQ2RjWEc5aEh2Q3NWbUEtTWJ2SWlxcXdkRFdqYkM1WGVSRnZzNWxSb05hYWswbmZHSi13ZjhEbnFnaFVJbU82ekhicTJoTGV6clhFazhzQzJHLXV6cWVfRzhMTVBQNnhQdURPS2JRdTVUTmhKNkl4SFE0OTR3dlhxS3pnVE0xM0VlVm1hbXhvOWNXVU1GV1NGTm8ycFBYUHdGZFI5LWd4cjVQNXNjVUItS09uSmgwSmVLRVRVSzVaamp0TEk?oc=5",
      "source": "Business Standard",
      "feed": "Market news",
      "published": "2026-10-19T16:25:41+00:00",
      "snippet": "Private lenders weigh on equity markets as PSU banks buck the selloff Business Standard"
-    },
-    {
-     "title": "Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops 1.11%; Banking and IT Stocks Lead the Losses - India Infoline",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa1ZydU56V2ZLWkw1MTV6bW0zNThMcTRUVU44WFN4SHpfMHlmTndYMm9YZXJMVmE3V0w5S05ZU19Mc2F6Z1drT05NOG5vQzg3X0diWkh0eFV2dzhkMzV5WXVlbEYxaUtiY0RmT3B3bGVMWXVCTHRNdUloNzctX3d2eEdPRnlZaGp2eUhkQmhydkNwOEl4cFdiNklIYnc2ZjZUQ3BhZlZlY05Hb2dFVm1lS3B3M3dlb1NqM3BEQ0xtaWtfY0pNSlIyRkQ0MzR0ZGJLQkt5U3R5S3FDU01saE1NdGxwRXQyc1d2ZDRldE5wbDNRTjl4aXBv?oc=5",
-     "source": "India Infoline",
-     "feed": "Market news",
-     "published": "2026-10-19T13:06:04+00:00",
-     "snippet": "Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops 1.11%; Banking and IT Stocks Lead the Losses India Infoline"
-    },
-    {
-     "title": "NSE, BSE to conduct Diwali Muhurat trading on Nov 8 - DD News",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFBkVUFGczJZenRQa0xRN0VYUzhaakgxR0hNdW5ESm9YTDZXRUVaTENhdHlXZjNQZkR3ZmliNlc0VFhiNGJWX1ZRYjhnejQ4dERGTUFaTTNmdjRVSUdmZnoxQjFRSW42S2Rqa1M2VUNWUjFrUmRoaXAwYnRDOTgtUWFn?oc=5",
-     "source": "DD News",
-     "feed": "Market news",
-     "published": "2026-10-19T12:53:38+00:00",
-     "snippet": "NSE, BSE to conduct Diwali Muhurat trading on Nov 8 DD News"
-    },
-    {
-     "title": "Oct 19: Sensex Crashes 876 Pts, Nifty Below 22,900 as Pvt Banks Slide; PSU Banks Rally - The Indian Awaaz",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWRrWjZWWTFJbGVYa3VrR1B6X3k1dkpSak0zS3lWbUtTU1VhcmNFbjJNU01FX3BibDVvenpHT08xTG82THBHakhpOGNPWWF3NGdLU0kxanJqb0ZEYlhyUkY1c0VrMHllX1RMZXU5VC1CQ25OTXdEeWg3MFlmdnYyVjJJMFVmbUplTldSdmprdFp0bGVDRGRUWk1xUmc1emRjMWlpbkd2TnNFRFhzR0Y0?oc=5",
-     "source": "The Indian Awaaz",
-     "feed": "Market news",
-     "published": "2026-10-19T12:15:00+00:00",
-     "snippet": "Oct 19: Sensex Crashes 876 Pts, Nifty Below 22,900 as Pvt Banks Slide; PSU Banks Rally The Indian Awaaz"
-    },
-    {
-     "title": "Manic Monday at Indian stock market: Sensex, Nifty bleed - \u20b93.6 lakh cr gone in 6 hours | What went wrong? Big reasons - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWGYxbjJtM1hTam1JMFMxZXlUaXk1VDltRkVZc0pwelhEbUJEeDNKM2lWVXVEUExUSGJxdDJCaUNTd250a2MwXzVscE1fR2w1N2ktZVAzd3JqRDI2YmJId1JnVU5mX2Ixd3FEUWxNTFltZnlRUUdyWXY5X1JnWFRlQ3RldnJKZTFmenpxVmZRZVVESnAzMEU4eEdFYU8yd0NGYXpYZ01pUldYdnoyWjlXXzBUQk93QmJzSlhtRW9UdzVXTVN6QkluUUk5WkdiVVMybEtVVldsOUhGcXFNb1hHM191QkxWX3dNeUFSdG5ZcWl0NzVXTnlUV0JhMWxaMXoxRW9lNnRla2NxaTRsSW1IU9IBlgJBVV95cUxNVVIyNVUzY2lGS2EtUGJ4ODV5T1NCYldQNXAxd1dJY0dLSTl4bzVDVlNhODRpZlJDMmJqOGhsUHEtTXpwWktvZFdtbTVzaTZsWFk5N3JGNWNTNl9DY0FJdHB6SzdOSkNxNXVrTnFxZjJlZUJFMXhja0wweDV6Ulh5T0N5aDltQ21oTm1GbUxYTGw1OEswZHBTbUUzWWdwTEsyeHllUWlnV040b19HbU9QOVlaZi1pNmRDUm1rQ0g1VjZsR012d3AzX3FkblRBVm5kc1BYX2Y0RkRZWVJNNUhKLWVSQmtLWlg4ZEh0MmdNRUJqRUxHUUxqUUtsd1NKQnNOSllhcmxkeTNxQS1WNVZxZE9KSW4xUQ?oc=5",
-     "source": "Livemint",
-     "feed": "Market news",
-     "published": "2026-10-19T11:35:01+00:00",
-     "snippet": "Manic Monday at Indian stock market: Sensex, Nifty bleed - \u20b93.6 lakh cr gone in 6 hours | What went wrong? Big reasons Livemint"
     }
    ]
   },
@@ -862,30 +862,6 @@
      "snippet": "Covered Call ETFs: Why Demand for Strategies Like FYEE Is Surging ETF Database"
     },
     {
-     "title": "Fidelity: Government bonds look attractive, but we\u2019re not buying yet - Money Marketing",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnNDazlzWUFHc1ZjcjJUMUJ5NU9leFhkWmhBTU5ob0Q4eGwteGhUVHh2LWlXVmd3NFB5cFJfT2JpeGdxRk84UFBCcXB3RWU0aFRXbElMblBCQmIzLUdoTnM1VTNxdVRRWm9CWHZKZ1IxZ3RxQ1d4LTc4U0RxYkZmdV9nRi1lX000TUVlbWd2S1dQWmRsZjltMENRcjVQeXA0eG8xVm5nQ1Z0dlE?oc=5",
-     "source": "Money Marketing",
-     "feed": "Fidelity news",
-     "published": "2026-10-20T13:17:13+00:00",
-     "snippet": "Fidelity: Government bonds look attractive, but we\u2019re not buying yet Money Marketing"
-    },
-    {
-     "title": "Morgan Stanley's Solana fund gains $1.8M inflow... - Pluang",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXNhUDl3OEZPZ2l0Y0JmVE04VmxRSnJ1OWlMNHpnRjlteC1idDllYnZIQWx0dFVtazFpQ25MNHpYTTNlYzdfLVI1bUlQSmZNVldJZVZoSEhNRGt4MnZNTkNhcWx4ODF3VFFZQTRIallFS0I5SE5pelVVSDZhYTZwXzM5OXBRQ1BYSGR6U2tnY1B6WXg4N0xYYWxDTy1EaW8?oc=5",
-     "source": "Pluang",
-     "feed": "Fidelity news",
-     "published": "2026-10-20T04:05:49+00:00",
-     "snippet": "Morgan Stanley's Solana fund gains $1.8M inflow... Pluang"
-    },
-    {
-     "title": "How Peter Lynch turned Fidelity Magellan Fund\u2019s $18 million into $14 billion in 13 years - The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ0tieEtfZ19VbC1nLVBGeWFDUHNVbHNueGRrWnVYYmJ6b0xaTnYwalozZks1OTRfQXRoRkc2Ynd4Z0xFS1dDSmNLTk96bFQtNVZHOTJqb1dDR0F4ZUo4OXdpaU5VUHZ6d0FxVzBMSW9qamFIa0w2MTJGTzRQLU5SdkhoRTJIRUJtMDhnd3h2bXRkZVdkdDRoRXg4MkhHSTE0Y2dGYzh0RzVQUVhJV2tkUWYyX3l6UlBwREFYMXZjTUt6SGRpNWN3cG5jWUw0X3pYczdfdkNicjVnNGwxdjAzU0VuRXY4TG94N2s0TjU1dmx4VGRQTlp3c3ByNkNjU0VkWHBJcl9n0gGLAkFVX3lxTE9PUlU5M3BZWlJWSzFQMjA1OWF3WkVFSDdBaWdCRVhTS0pJbFpPS2NkME9GcjcydGJOZjRiU21PeDdsRzF1SExiVlJQUDcwNWVhQjF2aW1VTFR2UFVwSGs5ekhTemRXR0FMZ3kzT0JHZ0RSejA1bnhYTTQwc3ZmdGpyNDBFaU1MaVVab3ExaUF3X2dnTUFzSlJkZ0ZXeHAzQUFoTU1xdnNmOEF2Qm1FLWVWUFh0czVyOHNMOVItT2x4eWpmVHUza3ZMYUR5LTRGbTJxMGk0bHRpUTNOSWxscm5NQ21rTUdLNGRxODI5QVE0NzRTMmZ0UGsyUmdsLTUxSFhJd01RTjd0Wlhkcw?oc=5",
-     "source": "The Economic Times",
-     "feed": "Fidelity news",
-     "published": "2026-10-20T04:00:00+00:00",
-     "snippet": "How Peter Lynch turned Fidelity Magellan Fund\u2019s $18 million into $14 billion in 13 years The Economic Times"
-    },
-    {
      "title": "99.9995% Fidelity: Quantinuum Nears 2029 Fault-Tolerant Quantum Computer as Bitcoin Crisis Countdown Begins - Moomoo",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORk9xMzk0cHdFamV4eGlkU0x3UG1KWUhVbldzaHZLWmRCdzVYaTJ2b0QtRkdTdmIwaUlTSDdJVUFXTWN1VFlnMFp6OU5PNl9IRjQydTNWcXdwTWpDWVo2SVJVNUVraW1MOVZCYkxwWWRmanZiaDd1R3Y4RzhaQXRiMVdPeUJNUE5LSk9QTXR2cmJBOF9aRXZDMC1ab2xBRC05dmNUSjNRMVVkc3owX01DTnowMDI?oc=5",
      "source": "Moomoo",
@@ -894,20 +870,20 @@
      "snippet": "99.9995% Fidelity: Quantinuum Nears 2029 Fault-Tolerant Quantum Computer as Bitcoin Crisis Countdown Begins Moomoo"
     },
     {
-     "title": "Honeywell Aerospace forecast shows business aviation growth, expanding fleets and strong utilization continuing through 2035 - Fidelity Investments",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaUZmU0tOVmJob2Z5U3NfeHhaMUdNNi1vblltNUczWkZmNjNiTFNJTnJmazh2azlBVHRmLXhoc2I4MXlaa3FZR3o5WTFaYkNfenhubUhjSVppYjVtOC1nYkRLNzhxc3N4TlVuVmZMN1dMZ2hHcklPRFc1MDRoOU5zbXVKZnpKM3J5Wmc?oc=5",
-     "source": "Fidelity Investments",
-     "feed": "Fidelity news",
-     "published": "2026-10-20T00:21:57+00:00",
-     "snippet": "Honeywell Aerospace forecast shows business aviation growth, expanding fleets and strong utilization continuing through 2035 Fidelity Investments"
-    },
-    {
      "title": "A new Fidelity Investments Study: Have you had the Talk? Why family conversations could be key to financial peace of mind. - KOIN.com",
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWUpEeDdrNUVGcnFoVVotR3pOcGxFWThJdVM0RGVOM1ZVaVZFZ1VmWS1MZHpKX0gwM2lBSDRMNEtpQlVEdnk2MUx2cWRCNFFYNEp3alJTTUs2eEdkcDhKbWJ3b2UxaU1wVk5aaGdYYmFNb0o4Ujdoa1dYUkVOTF8zTVdmQ190a3ZrWjRYTV9sOW8xM0taVDVGVy00QXgxOVItZjBqZXZRV01qVGlXaHB5c0ZwcEVhbjNHaldzLWZjZXpOLXk2ODVDZXAxX1BpTmsxbmswSkZzMzNQMWNfRGdfR25hY2hZUEk1VlMxZQ?oc=5",
      "source": "KOIN.com",
      "feed": "Fidelity news",
      "published": "2026-10-19T19:36:55+00:00",
      "snippet": "A new Fidelity Investments Study: Have you had the Talk? Why family conversations could be key to financial peace of mind. KOIN.com"
+    },
+    {
+     "title": "Fidelity Says Solana\u2019s Broader Trajectory Remains Positive - Cryptonews.net",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rSExDeElIbGlKY0VWaG1LUEx5WmlzTkZIaGVMbFVZdGRua2p1WUF6dFlHSktjRWJCbE9PM2pBMnl5YldyOUlOR2VURExXaDYxbkpOYXZ3dE16dw?oc=5",
+     "source": "Cryptonews.net",
+     "feed": "Fidelity news",
+     "published": "2026-10-19T18:21:57+00:00",
+     "snippet": "Fidelity Says Solana\u2019s Broader Trajectory Remains Positive Cryptonews.net"
     },
     {
      "title": "Fidelity warns Social Security retirees are facing a $10,560 year loss. Are you prepared for the fallout? - Yahoo Finance",
@@ -1014,20 +990,44 @@
      "snippet": "Making the Most of the Fidelity Rewards Visa Signature Card NerdWallet"
     },
     {
-     "title": "Fidelity Investments Canada ULC - Fidelity Global Quant Equity ETF (Series L units) (FGQE) Fundamental & Financial Data - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85NnQ2Y2xId1FUTkZPak9mZnJDRHRka0JHNnYyV0xLbnJjSkdpUDNKZE5fSXFyTFhLeXpSQ2t6Rlp2Rm54eEtCSjIzd05TbkUxWFliTzdYTFNvU3c1ZVQzVQ?oc=5",
-     "source": "Stocktwits",
-     "feed": "Fidelity news",
-     "published": "2026-10-08T14:26:50+00:00",
-     "snippet": "Fidelity Investments Canada ULC - Fidelity Global Quant Equity ETF (Series L units) (FGQE) Fundamental & Financial Data Stocktwits"
-    },
-    {
      "title": "Fidelity Investments study: 37% of older adults feel confident in wealth plans - WBNG",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVp1VUZaVEtzLWprVE1nV093a1lIUlBxSWNDNkFoQUltZUEzQ2RfX19udDJncmxianpNdDYxUFRSY0I0SlMzTEQ3V0xGdHV0YW43d3lkU21kRGZMY3pKYkdjUGxBRDRCOGRvYWlqMGlnd2YwY0RqelJWSG9OOHNCZHFDWlo0NGRJck45NUNPN3ZXZmN6TXFnOHJndkRxSC1ndlhuT0ZvaWVNNDAtalE?oc=5",
      "source": "WBNG",
      "feed": "Fidelity news",
      "published": "2026-10-08T07:00:00+00:00",
      "snippet": "Fidelity Investments study: 37% of older adults feel confident in wealth plans WBNG"
+    },
+    {
+     "title": "Fidelity Investments study: 37% of older adults feel confident in wealth plans - WBNG",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmpOanFzcW5IYUY0dXZwR1BvX0FlTVdUdzFqTDFYcVN2akp0TE1mc3RhRWQ3M29HNUJOQ29MdFJJQWRHQzZJenVXNE1xa21WOFdkeUo1R21WSFFyRFNWVGFnRlh3MnduWFQ0UXU3Y1h6UjZnVWU1SzRCWnZDc0NVSURDVGJQVDlZelNpa0QxRVhiU0l4X2hnbldUaThyVVd3dmFSc3V30gG6AUFVX3lxTFBTM2ZWVHpWSWdaVHdmM0pUVUZBM21Bcl81QmRiY3lCQnBXcXhibHN2WDZkS09ocmpFRXNRUnpKMUhCeXV6YkJ3aVFfaVBVY0tQVG9Ba0FQeWFVZUtMMGM4cXUzMnkwSC05ckVERXdqelJ2MGVtc3RYajJ2NkJScllRVVZodmRfeXVnNFNiN1FUOEFCX0xIalRORmE4aHNySzlkdzVraHFEeU9SNVpqS3ZwQ2xGaHRJNEhlUQ?oc=5",
+     "source": "WBNG",
+     "feed": "Fidelity news",
+     "published": "2026-10-08T07:00:00+00:00",
+     "snippet": "Fidelity Investments study: 37% of older adults feel confident in wealth plans WBNG"
+    },
+    {
+     "title": "Army West Point Set to Honor the Late Bob Novogratz with Oct. 10 NFF Hall of Fame On-Campus Salute, Presented by Fidelity Investments - National Football Foundation",
+     "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOb3FRVW1udjEtaXktZEFWSVdSSzJIa2RQQ3JpZmIwendtbWFtRWZVaHBpdUFkcnRCSE1fMU5OWkloQ3oyWVY5TDg3andzQUlmUTA0X2prd1V5Wm9zMUg5VFdpV3dheENlX0tEaGZOZktCS3VtNjhEZXc5U2hwWmdXZlFqVWl6dGJzUFA1RG15dmpqTUNBaGxBSGFvYl9BM0JtdjlqSklvV3dsbnhBNDBGY0hTTkVObDFDN3NhanJsd0IwVWZjdUpyTFl4ZWJBU2xqZmNYVlNycVh4RFc1U21NcWJISlB5Qy0zbTdmWmFnd1V1UmZzQllrcXpwc25KNlhpR3cwUU5zNGpWejMyLWttRmxUU1UyZWVfdDRz?oc=5",
+     "source": "National Football Foundation",
+     "feed": "Fidelity news",
+     "published": "2026-10-07T15:32:04+00:00",
+     "snippet": "Army West Point Set to Honor the Late Bob Novogratz with Oct. 10 NFF Hall of Fame On-Campus Salute, Presented by Fidelity Investments National Football Foundation"
+    },
+    {
+     "title": "Fidelity: $100M Custody Minimum Impact a Few Hundred Firms - Wealth Management",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2lkTWlsWmVSb1psaWhaMUpDalB6SDVWaGI4bDhueWhENUdaN2ttY2hzOUZoVVI3YnJvVWZjakI3dnc4dFY3LWR1bUJPTEtXREc5bk5LdUxpVUUtVE5oek5iVVlRVzJPWURqQ3BldVMydUZ5TWN6YXlpNVhnc201NnJvWno1bWNsZVVQcWZHRmoxOFFHbE03MjVWNm5zY2prWnpzbzNWbUtYNXlYMHBlbjRXM1I?oc=5",
+     "source": "Wealth Management",
+     "feed": "Fidelity news",
+     "published": "2026-10-07T07:00:00+00:00",
+     "snippet": "Fidelity: $100M Custody Minimum Impact a Few Hundred Firms Wealth Management"
+    },
+    {
+     "title": "Virginia Set to Honor Herman Moore with Oct. 10 NFF Hall of Fame On-Campus Salute, Presented by Fidelity Investments - National Football Foundation",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPalk4aWZxMkZzWjhTQU5OR2pUQzNqaFlNSjh2Vl96bEhjd09xZEpFek0tdF93VzhCUmk5a2RPNlllTGVVR05GUkdSYk1VdVhGUjRuWXotNV9yNmZudzlLVzVCV3V2WEVxdko2VXNtbFJwMzVXbGg1a3VJX25La20yMmZWR3A0dW1JR2R4UktfcWNOOHRUSFp0cHVTTThFQ19RTkpPQU5USVhMV0dCRVh4T29UR3lqR00xd3NxSkI1Vl82RVExUVVibGxyd3FiaVpNak5MdW5VX3otQzd1MmJBcGNZMlk2MDVST01XVXQ2MU9leVhyX1B6dFdjT3l1QUJtblV5WA?oc=5",
+     "source": "National Football Foundation",
+     "feed": "Fidelity news",
+     "published": "2026-10-05T07:00:00+00:00",
+     "snippet": "Virginia Set to Honor Herman Moore with Oct. 10 NFF Hall of Fame On-Campus Salute, Presented by Fidelity Investments National Football Foundation"
     }
    ]
   },
@@ -1036,204 +1036,204 @@
    "blurb": "Top US national headlines.",
    "items": [
     {
-     "title": "Russia, sensing victory, cheers Trump\u2019s latest shift against Ukraine - The Washington Post",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5",
-     "source": "The Washington Post",
+     "title": "Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day - The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbzVycFRfYUVpU2g5WlpDcHFXWUdhcHBsTzJLRXItNDl6WEZ3bVBZdkhRVmFFNzJxaExReGtNZHZqQzVFZ0h0VGdDMjR4ZGlnMEMyWHFCeTg3cUljcF9IU0VCOVp4R00xU05RbVR3?oc=5",
+     "source": "The New York Times",
      "feed": "Headlines",
-     "published": "2026-10-20T20:27:16+00:00",
-     "snippet": "Russia, sensing victory, cheers Trump\u2019s latest shift against Ukraine The Washington Post I\u2019ve seen Russian power up close \u2013 Trump\u2019s surrender to Putin is abject humiliation The i Paper We have the fuel you need to beat back The News-Item Russian Diesel Deal and Energy Ceasefire Expose Moscow\u2019s..."
-    },
-    {
-     "title": "JD Vance declines to endorse Netanyahu for reelection as Israeli leader - The Washington Post",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWVjUkhJeEg2RFQ3SDFGc0c4N2Zla0J6N184bUxWYktzR2RZT1hIMFpaTWpmMm1ncHRpbGhkQVlJWlRUX1d3dW5mdFFJYXc0NDFub3RON2IxX2wxNjlRWUI0UlIzZ2J1UnZROEVfSWNmY0tnOWdhbkxCT1lIYmxzS3N1aHNPdFVNVS12bEFtYklOUkYzdDJFVjR4b21LT1BrMEQ5Z3Jscm5Rd1FOcERsMWxFcw?oc=5",
-     "source": "The Washington Post",
-     "feed": "Headlines",
-     "published": "2026-10-20T20:21:10+00:00",
-     "snippet": "JD Vance declines to endorse Netanyahu for reelection as Israeli leader The Washington Post Vance declines to endorse Netanyahu\u2019s reelection bid, breaking with Trump | CNN Politics CNN \u2018Not getting involved\u2019: US Vice President refuses to endorse Netanyahu Al Jazeera Trump\u2019s Endorsement of Netanyahu..."
-    },
-    {
-     "title": "Amy Acton\u2019s Brother Blasts Ramaswamy After Acton\u2019s Mother Calls Her a \u2018Liar\u2019 In New Ad - Forbes",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVHd1NUc4aGJtWWlPcjFkM2ZvRUJnaWpEbU5yVHZya3lpU3NCaHMxamh2VFBHX3hfdGh2ZVZSR081S1lpMnE4WDNwS29rV2FNTG9BdlpXSm4zalpKXzJpel9BSExuV2xkRG9vRGY2cW1aSHkxNTlmSmZ6VmI2U1ZEeDFRd3ZPUTlhM0RseUZKZE96R3RJbGU3Y2pPRjhsdmt0VkdFX0xLb3Z0cmlUVHRIRlk1Y3ctdXJmbW9ScWZsV3VJVFNETUR0dDNPWlRHaUFGMHJwVWFWNDFRV1FMYS1tV2hOWlZ3Z25XRVE?oc=5",
-     "source": "Forbes",
-     "feed": "Headlines",
-     "published": "2026-10-20T20:17:52+00:00",
-     "snippet": "Amy Acton\u2019s Brother Blasts Ramaswamy After Acton\u2019s Mother Calls Her a \u2018Liar\u2019 In New Ad Forbes Attack Ad Featuring Candidate\u2019s Mother Turns Ohio Governor\u2019s Race Even Uglier The New York Times Ohio gubernatorial candidate Amy Acton\u2019s campaign condemns ad featuring her estranged mother Politico Dr...."
+     "published": "2026-10-20T23:29:41+00:00",
+     "snippet": "Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day The New York Times Trump\u2019s Super PAC Unleashes Deluge of Ads on Facebook and Instagram The New York Times Mike Bloomberg starts spending blitz to help Democrats retake the House The Washington Post Trump says he..."
     },
     {
      "title": "U.S. Senate race in Minnesota moves toward GOP in new Cook rating - The Washington Post",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnB1RGJieHVvWGxMV2RjOXhqOWpaN3cyV1NIYm10TGRaTkZkeFR2cFdiNjhOUklqUEFFRlB2aG9JamRKRTZYWHVVekY5dGF1MmRXeDZzTThqX09ZSW1xWFRDXzNBSGVCUkZhczVNdW01Wm5LaTBvU2RKbzhUdjJzWXFkYXZEeHQ2d1kxc3FQQlBrYmNraXdCS3loOUZFUU1PMHhnYzdqTGdOdmhYUVE?oc=5",
      "source": "The Washington Post",
      "feed": "Headlines",
-     "published": "2026-10-20T20:15:07+00:00",
+     "published": "2026-10-20T23:17:10+00:00",
      "snippet": "U.S. Senate race in Minnesota moves toward GOP in new Cook rating The Washington Post Where they stand: Peggy Flanagan and Michele Tafoya on immigration and ICE Star Tribune Minnesota fraud: Debate central to Senate race NewsNation MORNING GLORY: Minnesota's massive fraud scandal could deliver a..."
     },
     {
-     "title": "Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day - The New York Times",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbzVycFRfYUVpU2g5WlpDcHFXWUdhcHBsTzJLRXItNDl6WEZ3bVBZdkhRVmFFNzJxaExReGtNZHZqQzVFZ0h0VGdDMjR4ZGlnMEMyWHFCeTg3cUljcF9IU0VCOVp4R00xU05RbVR3?oc=5",
+     "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal. - The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXdvbDZHZFBKRmRnWXZkYU9nX3BabDZLdU15V1h1QjVDekdZWENQUllvZGo4Y2w3N0lsdVRVTzNmanQ3dFAyR0FOcWtubmRVbWVEZkFtQjBaSk9tR1VBeHVya283R2ZNWG8tZzJfNUFHdTRSc19jMTFIT3N0VVJKMHRTczhnZXNtcmNhYg?oc=5",
      "source": "The New York Times",
      "feed": "Headlines",
-     "published": "2026-10-20T19:23:45+00:00",
-     "snippet": "Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day The New York Times Michael Bloomberg is spending about $80 million to support Democrats in midterms Quartz Trump says his political operation is spending $400 million on midterms The Washington Post Trump says he..."
+     "published": "2026-10-20T22:45:45+00:00",
+     "snippet": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal. The New York Times"
     },
     {
-     "title": "Trump is promising farmers $8B. Republicans are praying it will save their campaigns. - Politico",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObC1VbU5JazhhR3NHZS1wYjFodVY5RkNpNDdQeWF2T1l0STBBWXQ3dmhJX2Q4am5tNHZ1cC00eW42SWhSSlJhc2d5QTJtaHU2T3ZLNXlMbHpnNnF3a2Joemp5dUtHbExEeTZmUXRkQi01cE1jajZod05GeG9YYlRraFd2MDIwRjZsQ3BNeUh3?oc=5",
+     "title": "Update: Panoramic Hill fire in Berkeley 'under control' - The Berkeley Scanner",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJYbHp5bzdzV1kyM0NlTE1SdTRjaE9KSHJoMXo3T0ZiNTJKOWlnQ0p1VEdlS1FIdS1CQ0t0d3ZvNHl2Z0NObU1pRGJTTnJlUTJIMDBqWWI5OXVmd3JtcVlmNm01QkxMaTBxSXEzWEoyMElZd2c5aGdwQ1NnblZna0dES19iU3Aya2c?oc=5",
+     "source": "The Berkeley Scanner",
+     "feed": "Headlines",
+     "published": "2026-10-20T22:29:58+00:00",
+     "snippet": "Update: Panoramic Hill fire in Berkeley 'under control' The Berkeley Scanner Brush fire in Oakland Hills above UC Berkeley damages permanently closed Skyfall Estate ABC7 Bay Area Fire Crews Battle Blaze in Oakland-Berkeley Hills KQED Berkeley Hills fire under control, according to officials KRON4..."
+    },
+    {
+     "title": "NRSC takes on $20M in loans - Politico",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTXlDUzZKQ1BRejVYYU9Cak9GcXI2a3NXM3ozbFoyMTlZLXVxdjRMdU9kbkhtT0x5cHJjZm82bnB3WE9GTENTM0FaV0pVaFAxS01ELW9vMmV6SktpVm01SFVWd2d6RGhReVpvT0d2TEM4Y0dBMzZPNWdib1dKQTNkcFgyM2xJcDdWcGE4?oc=5",
      "source": "Politico",
      "feed": "Headlines",
-     "published": "2026-10-20T19:01:00+00:00",
-     "snippet": "Trump is promising farmers $8B. Republicans are praying it will save their campaigns. Politico Trump Administration Announces $8 Billion Harvest Fuel Relief Program USDA (.gov) Trump Makes Midterm Pitch to Farmers Foreign Policy Trump announces $8 billion for farmers to offset soaring diesel costs..."
+     "published": "2026-10-20T22:26:56+00:00",
+     "snippet": "NRSC takes on $20M in loans Politico"
     },
     {
-     "title": "Republicans push back on Donald Trump\u2019s wavering support for Ukraine - The Guardian",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWh6UnFFV05zWUZpN0JkSW11YlowaDFsVG85azlLaVdPTFdfSzJYTmpjbFV0eE9IZGdiTWtONjNjLUJKZGFqczFDMnJ6QXBpeTM3TnpXc1BzTlpwaGpWMnpkQS1kd3JNOThFWTFqbnpkaVNKRkJOZzVkem5yckpTT1l0LURWaWFwSkdKLXJRaEliYW91?oc=5",
-     "source": "The Guardian",
+     "title": "Record turnout on first day of 2026 early voting in North Texas - NBC 5 Dallas-Fort Worth",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZzBMT1pMdWRtNS1zaEJXTmV0SUlUdVBRV3YzM0xEcEtSM2E0SWpCZWVsY2ZlbVRKZFl3alROazQ4UnhsYlM3cnF1TzRMZk5mUkJKRGNTbndCcXBEaExDbkJacVdabzlTckE3b09DY0dxSWFTcWFfR3p6NlFBLU84djdRUUxZWU94bkpFenI3TjRmVE9vMVRhc3BYWFVlOGhRVkt3M2NzZFZOVFZIVjFCbFZDT3hrTnNIMURzZ1dIUlV6TG5mdm9N0gHPAUFVX3lxTFBHSWF2Z0NLMVdxbFRzMVJrSWw3OERWM0M1Zml5VnVpTUswOWVSTmJ3SE1aXzJYSm5kZFlBTThLU0F3ck1nM1hpYzNSM0dFeTZNUVNQWHFDejRoREd3eUUtWDIwNEZWWDQtQlRObVU4cXcySUl2aWQ0SXJ5Q3FQV2FzZndKaTlYd2xOT2cxN1g5d2xHUUo0Wlc1dDkzUkx0dm1UZ1F3UEdSb3JObFVySjd1QXlxMkxMLS11WFRrR0JSMmNERTZmVERIQnlBeEZhTQ?oc=5",
+     "source": "NBC 5 Dallas-Fort Worth",
      "feed": "Headlines",
-     "published": "2026-10-20T18:59:00+00:00",
-     "snippet": "Republicans push back on Donald Trump\u2019s wavering support for Ukraine The Guardian GOP lawmakers scramble to spare Ukraine from Trump Politico \u2018Wildly unacceptable\u2019: Trump\u2019s moves on Russia are testing GOP patience MS NOW Trump\u2019s Russia moves could complicate lame-duck agenda Roll Call GOP, Trump,..."
+     "published": "2026-10-20T22:13:39+00:00",
+     "snippet": "Record turnout on first day of 2026 early voting in North Texas NBC 5 Dallas-Fort Worth Texas voter registrations hit record 19 million The Texas Tribune Turnout tracker: How many people have voted in the November 2026 election? KXAN Austin Travis County breaks first-day early voting turnout record..."
     },
     {
-     "title": "Man Who Took Flamingo From Las Vegas Hotel Is Found Guilty of Cruelty - The New York Times",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGxqTkFYRTRtUlBzSGJaOS1xMl85c3NQRUVmdGlCR2pkcWpIV29FdEZtVFl3Sll1Uk91ZlVOY1BEYnlGMldzeUdpWlJaekN2aUNENE9od1ZhMHZKZWthdFBqQnFBQUtfMnJ1U0c2Y19mak1ZQWhyejNvSm1TRkZMU1UxZVRYVGJCRDA5amY3V3hxNnM?oc=5",
-     "source": "The New York Times",
-     "feed": "Headlines",
-     "published": "2026-10-20T18:48:26+00:00",
-     "snippet": "Man Who Took Flamingo From Las Vegas Hotel Is Found Guilty of Cruelty The New York Times Canada man found guilty of abusing flamingo on Strip Las Vegas Review-Journal Vegas tourist who took Peachy the flamingo from hotel exhibit is found guilty of animal cruelty NBC News"
-    },
-    {
-     "title": "Feds conducting multiple law enforcement operations across NYC Tuesday, FBI says - CBS News",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3hvMGtwaDB3ZjNvZ2N5anF5MTBKdVM4Y0hqbnBYWDdnTnVTb3hROUpqbFBEOVpRckxnVWd5V0pqeTZkY3lxd2ZHZUdOWjlVdmRWT09aSEloQ3dzMWZ0TlBZT21BeUczX1NxTWlPV0NpVHRGa3YxVFBBX1Mwd0dtRllKalE3N29DSjlzeWFn?oc=5",
+     "title": "Vacaville, Sacramento residents among 28 charged in California voter fraud crackdown - CBS News",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1pzVG5ubUMyejlTSmJVVS1sdmFGbDhHc08xUWpTMnVjNXk2QjQ1LXJGQ2YzeFpQeVFRLTFGN0RMeEl3V1czT2UxbkxmRF9QSEJqYm1XMTNpcWRGMkNjczVGWnJBbWdyNFhOWE1qYmg0TlhtY1Y1S2Zpem5kWUtlOTVwQndHRGZKaHN5c0tSY3BPV2lXQlA5aENKRnV1b1o0MU4xbQ?oc=5",
      "source": "CBS News",
      "feed": "Headlines",
-     "published": "2026-10-20T18:38:59+00:00",
-     "snippet": "Feds conducting multiple law enforcement operations across NYC Tuesday, FBI says CBS News FBI agents searching adult day cares in NYC amid Medicaid fraud investigation ABC7 New York Feds probe multiple NYC adult day cares PIX11 On the streets with Dr Oz as surprise fraud crackdown sends daycare..."
+     "published": "2026-10-20T22:08:19+00:00",
+     "snippet": "Vacaville, Sacramento residents among 28 charged in California voter fraud crackdown CBS News DoJ\u2019s suspected non-citizens list includes \u2018high percentage\u2019 of those born in US, LA officials say The Guardian Feds tease new \u2018batch\u2019 of noncitizen California voters as L.A. slams previous list Los..."
     },
     {
-     "title": "Senate Democrats launch first ad in Mississippi as their midterm optimism spreads to the South - AP News",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3hJVEEzZW1yanRxZUpSNlFsM2h1RjVGOW1DZlpsQ2JNTHhTcG1qQ2NVMjVpaTdzenJqTzhZd1YzejMxa0xiV3A1bE41MjFubEtyREJteFpWVUdzcEtNQ3EtZGwzcGJYSnpKOGFDVHFwTlJSQWxGTlFvYlU1ek0zbWtPRC1rcXhjejNwWGptczVXUzJjTDlkZFZXYWJMZw?oc=5",
-     "source": "AP News",
+     "title": "Alabama Man\u2019s Death Sentence Is Commuted as Governor Cites Thin Evidence - The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTN1bE4zZGJpMVNKT1dRRHpaT184YWlfaWRybHhERDRNdUdtUC1LOVFKM24xU2JwVGJZRTllM1FaOFM2YnE2OUNVeW9Ka1JKZTdsdEFVOFQ1cUVGZ2RyUWtGWWFYVC1zWW9uY1BBeHJLaHBUOVAxOVNjSDZWU25YTDBsRGFpeDF0Y3lWeTN4a1EyQnJON1E?oc=5",
+     "source": "The New York Times",
      "feed": "Headlines",
-     "published": "2026-10-20T18:15:00+00:00",
-     "snippet": "Senate Democrats launch first ad in Mississippi as their midterm optimism spreads to the South AP News Opinion | Could Mississippi Elect Its First Black Senator Since Reconstruction? The New York Times Senate Democrats start spending in Mississippi Politico Democrats' long-shot Senate races get a..."
+     "published": "2026-10-20T22:07:29+00:00",
+     "snippet": "Alabama Man\u2019s Death Sentence Is Commuted as Governor Cites Thin Evidence The New York Times Alabama governor commutes sentence of prisoner on death row The Guardian Alabama Gov. Kay Ivey spares death row inmate, citing doubts about evidence NBC News Alabama governor commutes death sentence of..."
     },
     {
-     "title": "Couple charged in fatal shooting of 17-year-old on her way to zoo - ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVdVTUpob01GSmI2QS1HTTdwT1ZydHk4M0hfNFluRGhUdWF6THBxSmswUFBwb25WUGFEM2xNQ3k4MzZMMzl5Q3pTMy16X0RfekZrUGRTNFl5QzF3N1kxd0RtYld2dHVMMWZrTUZpbVUxMzA1WHdEcDIwa3VlOWdETEJJZDhUSXVlVkZJ0gGQAUFVX3lxTE80ZzVDOUEtQTVVY0g3N2FtNEJ2SFNyTW14NGdFeEdzTEc1d2ZBMWdGWEJOenE3MU9ZWW5Bc3NrUzE4UjI1Sy1DU3BzeGtSWkZfcVh4d0Y4VzdqUk5IUFB0N0x6QmU3YnNDeUdFTENOVUVveUZwZEpqYXZJYVl2Qk1JajZtWl92VUhxcS0tN2tBbQ?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "feed": "Headlines",
-     "published": "2026-10-20T18:10:59+00:00",
-     "snippet": "Couple charged in fatal shooting of 17-year-old on her way to zoo ABC News - Breaking News, Latest News and Videos How police found suspected I-170 killer and connected him to second roadside shooting STLtoday.com I-170 shooting death may be linked to earlier shooting FOX 2 Husband and wife charged..."
-    },
-    {
-     "title": "US nearing deal with Russia to free multiple jailed Americans: Sources - ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjc5ZG5MMnVQdGRXcVpoQmRNdWlwcmgwVGlKRTAxbTd4d2Jjd0ZmMVplTk5jYlVPMlZoTkQyYUhxT2tGRnV6TFRRSlplVUJYa0FnVG14VjZFUnMxZ09jM3R5a0JzQW1ORVNBM0FVX1UtSTBEQk5hRzl6U1VTT1VDTkhEOWUxZWdLNWduN2pDNDM4bFZabk0wZlFQd01XTGZNMzdB0gGoAUFVX3lxTE5ZbURadTgzdXRkT1p5dHhwYXMwQ2wtOGI4cDg2aWxrbDd4YWstSUprczcxYVp5ODFzZFFxOGJ3U1hxam80NXpVdmFNSFhFUllYYlZ5QmR6RE5TUWdhMVBObmxvN2pKcDNnaTJveHRQVGx1UmNjbXJnNVExQVdRRzNpWmEzZHNqWVlETXBtQm1GcmJpeDFwQk5mN3NrVEtrMEVwSjhqR0NRVg?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "feed": "Headlines",
-     "published": "2026-10-20T17:30:42+00:00",
-     "snippet": "US nearing deal with Russia to free multiple jailed Americans: Sources ABC News - Breaking News, Latest News and Videos Trump confirms U.S. seeking return of retired teacher held in Russia The Washington Post Trump suggests he is nearing deal with Putin to free detained American USA Today Trump..."
-    },
-    {
-     "title": "Trump Uses Slur to Defend GOP Senator in Combative Speech - Bloomberg.com",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjNOUkJROWl6dU1uUWxwSkdlSzUzbnZ1RXR6ZFlzcERWeFFxVGJxcVpBYkoway1DUElkWWVOb3ZBQk4tSVhESTR2TE1Ibm1oci1acFdwUjE5c1VzTkJ2NVZ4TjVNQnhtSWtNNDJXdzNKNjVLWEt6VmxXZDh2VFZsbERJMUNmU3kyLXhPS2RzMzJFSjAzUkJsZU15UTltRVFrUU1FMC1Tc2VGQUJqMmZ0ZHUyVUk?oc=5",
-     "source": "Bloomberg.com",
-     "feed": "Headlines",
-     "published": "2026-10-20T17:19:20+00:00",
-     "snippet": "Trump Uses Slur to Defend GOP Senator in Combative Speech Bloomberg.com Trump\u2019s latest example of antisemitic rhetoric was hardly his first MS NOW Trump uses antisemitic slur in defending Sen. Roger Marshall at rally in Kansas NBC News Trump Again Uses 'Shylock' Term Considered Antisemitic Despite..."
-    },
-    {
-     "title": "U.S. officials privately advise states fearing Trump election meddling - The Washington Post",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalVEUUpTcXpwSWU1d1lnR2tGYjE2MmhnRHFoR0I2REltdGRqXzBzT2NDMW1Mb2Y0ZjYyRGJkREprcmFCTFFSODFFSldMRWJLbmVpQnV6YUdOaUVfbXZ0TjNLMkJ5dVUtZU1NYVZvTzVHVFVSVkx5SkpySWxmTEs1UUkzRnE2d0pudXdDa0s3ZW1mRlFlYWx6Ujhza1RkSDlWbnhfckxnMGFnZlBLRnFQUFJmNVJDUUF3cjctanhiYWFlUVdMZmc?oc=5",
-     "source": "The Washington Post",
-     "feed": "Headlines",
-     "published": "2026-10-20T17:00:00+00:00",
-     "snippet": "U.S. officials privately advise states fearing Trump election meddling The Washington Post See more headlines & perspectives on Google News"
-    },
-    {
-     "title": "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42 - USA Today",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMGQ2WWlKd01oVjNQSGcxSURybTN3bG5CdTI0NDlTdHJpVzRBWmIxNG9adWgyNlJvdWhXaklSbi1ONDhIUDZLZF9YdV8xNlRfUjVheHFCY21YUlNYLVNwRC0zWDBIN3JiY28tWFY2bWpiX2JiYURESEZZUC1rRUFLMWZJQzdRRi1vRUlQdVR1NGd6MzdCTm5sdDVMZzJEbFJoVnV1N2NxbDg1Q3M4NHdDejJoTUtkRGVlOGZ2X3NwaXJLVnBfa1BvOFR3SmVQQnhSQkY2ZEpCa3F0SU5kSHZTYXV6bw?oc=5",
-     "source": "USA Today",
-     "feed": "Headlines",
-     "published": "2026-10-20T16:44:00+00:00",
-     "snippet": "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42 USA Today See more headlines & perspectives on Google News"
-    },
-    {
-     "title": "Trump sued over 50% tariffs on Canada in latest trade challenge - CNBC",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmwzY29wcWVxZHkzZm5ZZlJJM19SZ2xtYnNZdFFkNllrcFMzN3NVMFJ2b3JpY0s5SnVuSTYzNzE5UFVSNHlSaV9YZmt1bmNkeXlSUUJlYW1WWGZhaUx0dTF1VmVuX0ZUdGljQ2kwb1lfcnBYdXUxV1VIZWp0MGNZT1F0UdIBiAFBVV95cUxNbzc3VV9FbHllLVBpRjlzNGZzN3FUaGFOTC13a0NLblBJMDh4TmVzY3ZHVjlYQTBqNzdGZlMxb3VHTml0Tm9mSi03MHMxcjhDX0t6b3FkaTNCSWo5TW4xbHFIMHRqcW5hMWItSnJ0TWN1ektpWFNIRlpWLWZrZ0JFRVNLOGc1TlJJ?oc=5",
-     "source": "CNBC",
-     "feed": "Headlines",
-     "published": "2026-10-20T16:43:17+00:00",
-     "snippet": "Trump sued over 50% tariffs on Canada in latest trade challenge CNBC Trump Administration Sued Over 50% Tariffs on Canadian Products Bloomberg.com New Jersey food importer files lawsuit challenging Trump's 50% tariffs on Canadian goods WRAL Trump sued over Canadian tariffs in latest legal challenge..."
-    },
-    {
-     "title": "More survivors emerge in account of deadly Bend elementary school shooting - OregonLive.com",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkxJLWRhYlprSDlqZ3loZ1IwWE1RMHl0Mkl6eXpRdFpEVXFfbWt4MUp5Q203bUFNN1YtZjJQWWFhenAwRW0yVjhiNU1sRmtualFxbzNNbkN1eTdONEhFSmVCSnV4MFl4ZURpbkVIMm5SVEQ4TU1fVmNjNHd1VEtUSG03RWZub29CdTRBVXFQZnl5WFZiV2xPSmRmeTZnb2ozY2QwNDdTajRYSGZ5SGxEVEI3MEdkUkFzTEs5dtIB0AFBVV95cUxOVWRMWU1pa1EtT05BalhpbDVCOEs1aVZNME9GRi1Fb3dZQ1BkVjNqbnFwLVp1TElTQUNVNWJsM2ZBSkp0M2xFZU16ZF82R09vTmQzeXpFMHVnVHAteVVvWWdwWGkzZDlERnpUNlhIZTlhdEdkaWlyc1R3aFpFRjRjLXlaQldZUHN0NUxyZ24xZUlRNkhKN2trYi01bC1qN0dDcmFkbDNMWnV6dHpIUU5ody1pY1NWX1hBdS1kblhMU05TaVlpaFQtRG8wcldQSUpC?oc=5",
-     "source": "OregonLive.com",
-     "feed": "Headlines",
-     "published": "2026-10-20T16:42:00+00:00",
-     "snippet": "More survivors emerge in account of deadly Bend elementary school shooting OregonLive.com A 16-year-old carried out the Bend school shooting. Could his parents face charges? CNN Parents of Bend shooting victim hire attorneys to investigate school plans, gun purchase KATU Oregon school shooter was..."
-    },
-    {
-     "title": "Couple plead not guilty to shooting son-in-law to death at California park - NBC News",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1SUjZfTkVpVm1sNmctV19JTGxic2ZwMXZYaEJSOG55cldRR0pCZEJxcVNrek5vSVlMdnBTMVRBNzdvYzlwWC16Q0JHSjExUG50a0hRcW5OSWpKYlVuMlhCZ1ZTS1VHOVdDUUt0ZEIxTWJ6QnRkMmZrR2JkN3kwSjFwZGV5clEzS1BNbXN5SkNYamZxNFpXN1dBX2J5ZDlhd0Z0anZ4WEIxT1BjMjV1dHdmXzQ0NWwx?oc=5",
-     "source": "NBC News",
-     "feed": "Headlines",
-     "published": "2026-10-20T16:17:04+00:00",
-     "snippet": "Couple plead not guilty to shooting son-in-law to death at California park NBC News Possible motive uncovered for Dublin couple accused of murdering son-in-law in park KRON4 Slain NYT exec threatened to hire someone to kill mother-in-law, lawyer alleges SFGATE Judge unseals Dublin murder case after..."
-    },
-    {
-     "title": "Texas redistricting may backfire \u2014 and take out some rising Latino GOP stars - The Washington Post",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjM5X1hkUGJSd3dQcFh2Q3hCeVZtREYyanptbldiNFluQUNGOV9ZY0JGNWpieDBhQWFOT2ItRHdmU0VmTXBOYlVkXzRaRDV2c2ozaDdHT0NBN09xVVVJaUs5UFVLalE0R2NlOWFZZnA0cWtnWmRCVEN0d1djbDZxdE9DQ1J6b0IwVnNHdE1vZWpjUDNaQzZoSC0temlwa2ZzSmthWkI5Y0RPbWdHT09UX3VQU1JDeFN0QlR1X1Y4dw?oc=5",
-     "source": "The Washington Post",
-     "feed": "Headlines",
-     "published": "2026-10-20T16:00:00+00:00",
-     "snippet": "Texas redistricting may backfire \u2014 and take out some rising Latino GOP stars The Washington Post Republicans see shrinking boost from redistricting Axios Donald Trump Asked Texas for Five More Republicans. Voters Might Have Other Plans. Mother Jones Black Voters Bear Brunt of GOP\u2019s Midterm..."
-    },
-    {
-     "title": "\u2018Help me!\u2019 Videos of ICE violently detaining man who says he\u2019s U.S. citizen spark outrage - Los Angeles Times",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDdheTRCdU93QWVIcldBdFNDRUVyUndMTHN4Tnpud0RSUkpkZzlHeS11T2RsR1gtd0hwbG1xejZUMGdwQzBQRmxnVl83ZGpSZ0dmR0JGa040b01RUzNtdDhEYW1DU2Qtc1BiWDFySV9lNWtZRzRrNHFiWGtOWUwtMVFUQ1B3TERQd3k2UVloZG5sUExMdVRTa2JHWXNiVGlrS2hCdGtzeVd6S1I1RkpKMWE0VWhuNm1jVnkwNlROTGdfZzZ4QWxxem1JN2g3eFRaaXc?oc=5",
-     "source": "Los Angeles Times",
-     "feed": "Headlines",
-     "published": "2026-10-20T15:53:00+00:00",
-     "snippet": "\u2018Help me!\u2019 Videos of ICE violently detaining man who says he\u2019s U.S. citizen spark outrage Los Angeles Times Neighbors rush to defend man after ICE agents break his arm, witnesses say. ICE says they used 'minimum amount of force' Long Beach Post US citizen injured during ICE detainment in Long..."
-    },
-    {
-     "title": "Offshore nor\u2019easter creating high surf and coastal flooding along the East Coast - NBC News",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGYydExhMXBlbUdaeGVPUTNBaEJGYVA5TmxVWS1KX21tUUFoTjZqcHF4Wkg1b2NnTWNEOUxnZ3pMT1JHMHJMNmVFVHhraExiQmwzQnhxOHdKSFhpTDNtOGY2dmwteGxTbkFLZG5JZE1DMExnUE13ODBBYWllYW1uanEyeFh1cERwc2lxMExR?oc=5",
-     "source": "NBC News",
-     "feed": "Headlines",
-     "published": "2026-10-20T15:51:14+00:00",
-     "snippet": "Offshore nor\u2019easter creating high surf and coastal flooding along the East Coast NBC News Powerful nor'easter shows possible tropical development as it hits Carolinas, Mid-Atlantic with dangerous surf FOX Weather Nor'easter lashes coast from Carolinas to Northeast The Weather Channel Outer Banks..."
-    },
-    {
-     "title": "Poll: Voters see Republicans as the party of Big Tech tax breaks - Politico",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXNjOFRhMXlrYzByQndpUUNNRk9wbHpmZGFvR0tyRzhqWGtxNmZJaVBhOGllTWx2XzhXLU90Nkg4Y05YNldIWktNZy1UeE5sME5mU2NWSWZjZGRqVm1feGtjY0wxMjdxdloyd1otYl94ZU1xMUNiLWNFaGVBTFRPTW5XdGR1Tmo5WVh0MjNmcVdtYjhYcVNwNTBVYTM1dURYWTNTLUF1UlExRzhJenlEamdRVQ?oc=5",
-     "source": "Politico",
-     "feed": "Headlines",
-     "published": "2026-10-20T15:51:00+00:00",
-     "snippet": "Poll: Voters see Republicans as the party of Big Tech tax breaks Politico Americans, this is your chance to slap down the tech broligarchs | Rebecca Solnit The Guardian The other dictators on the ballot: Big Tech | Will Bunch Newsletter Inquirer.com Voters Believe Republicans Want to Give Tax..."
-    },
-    {
-     "title": "Investigators interview Rep. Ilhan Omar\u2019s sister - CNN",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1YzdW5lenZsMG85N2llYml6NlB2SnVjUDFjQU1BZmJzTU83eTRuWGFwMzNtTmhUdjRQdmpZVzhSeDNLSFE0MUVTLWZESXhGN2Fiakw0Q2Y1U0lFbWRhanBZNFBpQXVxRWRVQ0QwVFphWUZ4TjB4eEQxMC02WVVCdXREVHVqSzdN?oc=5",
-     "source": "CNN",
-     "feed": "Headlines",
-     "published": "2026-10-20T15:50:55+00:00",
-     "snippet": "Investigators interview Rep. Ilhan Omar\u2019s sister CNN See more headlines & perspectives on Google News"
-    },
-    {
-     "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance - The Guardian",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2p0aDR6czF0VkhTYkZRUWthZ0RZdGV3bVUwMWZZVzVuRUx6cVZjSnVocnRmME40YUd4MFZIY3Vka3dQZDFrcEJ3QVF4c2xmR0xDclc5c0dBQWI3czBxdmNBV2FESGhibGtyNUxRRFZuZ19JUW15OGFYYjNuczg2LW14VWNrRF9hMVZ5MVZwaVVBUnM?oc=5",
+     "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5",
      "source": "The Guardian",
      "feed": "Headlines",
-     "published": "2026-10-20T15:23:00+00:00",
-     "snippet": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance The Guardian U.S. Sen. Roger Marshall's close ties to Trump may hurt his chances with Kansas farmers KCUR Could disillusioned Kansas voters send their first Democrat to the US Senate in 94 years? Reuters The..."
+     "published": "2026-10-20T21:58:00+00:00",
+     "snippet": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy The Guardian Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo BBC Zelenskyy Sees 'Positive Signals' After Rubio Call, Norway Talks Yahoo U.S. restores intelligence sharing..."
     },
     {
-     "title": "Rubio insists the US isn\u2019t trying to hurt Ukraine - POLITICO.eu",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHktaTl5THp3bzU4OFYwSVFWUGlqZ0F1cmVuazVJeUNGRk5OXzlBZmhrX09hRTBHeFlueUF0elZlT25uRGVzMmJqTUZUQ1BaQXFfek9pZkhtdGk4LTVQeEtEUURieW85M3NCVHRDSUVWdHVFTm50Mm5ydFdhbWJIT2JZSlVPeFZ0a1NYbVprQnVvdGZOaGg1bjZVZWl3N0tMNWpyRlBR?oc=5",
-     "source": "POLITICO.eu",
+     "title": "For 900 miles, ocean swimmer Catherine Breed reckoned with El Ni\u00f1o - SFGATE",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnRxejFGWWRJRHpRLW03STRMRW1lUmIyV0J6X1hFMGk1ZHh2R19TWGVLN1I1WjNVemFSTVUtS2hYek1nYUVHTktqZ0J5X2NpSlM2eXRFbWdmMnV3emFOX05CU2NLekl2ZjgxTllfMEtkZGJVemxSYVMyQ3d6azBoNHczQQ?oc=5",
+     "source": "SFGATE",
      "feed": "Headlines",
-     "published": "2026-10-20T15:01:00+00:00",
-     "snippet": "Rubio insists the US isn\u2019t trying to hurt Ukraine POLITICO.eu Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo BBC Zelenskyy says Kyiv receiving early warnings again from partners Yahoo US has resumed sharing intelligence with Ukraine about Russian strikes,..."
+     "published": "2026-10-20T21:43:57+00:00",
+     "snippet": "For 900 miles, ocean swimmer Catherine Breed reckoned with El Ni\u00f1o SFGATE Ultra-endurance athlete completes 900-mile swim along entire California coast The Guardian She\u2019s about to break a new record. But she\u2019ll have to swim around sewage pollution first KPBS Mill Valley swimmer completes..."
+    },
+    {
+     "title": "The Kansas Town That Sued Its Own Residents to Build a Data Center - WSJ",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzBfNExYZG9PekNvTUpWeXZ4aExTY3hDeFVQZjVtTDlkR1IzcG9MRzVqSkVleXRJa05hRVBFallGSUw4U0xrMm5JYzFtWFAyeTJDdkh6RkpKUWxNWjBQbFV6aUd5ajZ0WTQ4cnZmS05uNTBzb1Y0LVlWelMxQTRfNG9fdjZheml4dU4tdksxSTJWUjBXeVREcHg4NzFudE5NSDFRSmdR?oc=5",
+     "source": "WSJ",
+     "feed": "Headlines",
+     "published": "2026-10-20T21:28:18+00:00",
+     "snippet": "The Kansas Town That Sued Its Own Residents to Build a Data Center WSJ"
+    },
+    {
+     "title": "Canadian tourist who stole flamingo in Las Vegas found guilty of animal cruelty - The Washington Post",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1RuOTl2ZkdQZDU4SmdZcVJUX1N2NDlvXy1OOFphWHBpQmVQd3JuemJ0TFpfWHVJcENKdkV3VmhsZjBGRmN3b2VRbXhEdllQOGF5YzhxdWh0M3YwTVpTNmo2T004OHBCdWJEVWdpVkNyYWlrX2JIbmJ2TnNmMzNlZDBka3Nuanpud01WMXRHR3lub3ZpekcwQlZ3Z2tJbk1PZXZGS3hGVlN0Tm92Q0luWkRmZnRYUVpJdW9ZQ1NtdlIxb0lzMGlUZQ?oc=5",
+     "source": "The Washington Post",
+     "feed": "Headlines",
+     "published": "2026-10-20T21:27:53+00:00",
+     "snippet": "Canadian tourist who stole flamingo in Las Vegas found guilty of animal cruelty The Washington Post Canadian tourist who stole Las Vegas flamingo convicted of animal cruelty USA Today Canada man found guilty of abusing flamingo on Strip Las Vegas Review-Journal Man Who Took Flamingo From Las Vegas..."
+    },
+    {
+     "title": "Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses - CNN",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWDNLOHpQN0c5Q2hyV1pPQ0hzUkgxaXMyNnplY2pnRlBDc3Q1V296alk2UWY1aWs0aFFTQnp4TjBxR3h2NS1pQ21adzg3WmlFRTc4d090aWVtZFVfUU5NbFk4Y081ZEdKZlZDRmZXczZ4Z0ltNWNvdw?oc=5",
+     "source": "CNN",
+     "feed": "Headlines",
+     "published": "2026-10-20T21:25:00+00:00",
+     "snippet": "Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses CNN \u2018France should serve as a wakeup call\u2019: Republicans find a closing message in Paris riots Politico FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence AP News France..."
+    },
+    {
+     "title": "JD Vance declines to endorse Netanyahu for reelection as Israeli leader - The Washington Post",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWVjUkhJeEg2RFQ3SDFGc0c4N2Zla0J6N184bUxWYktzR2RZT1hIMFpaTWpmMm1ncHRpbGhkQVlJWlRUX1d3dW5mdFFJYXc0NDFub3RON2IxX2wxNjlRWUI0UlIzZ2J1UnZROEVfSWNmY0tnOWdhbkxCT1lIYmxzS3N1aHNPdFVNVS12bEFtYklOUkYzdDJFVjR4b21LT1BrMEQ5Z3Jscm5Rd1FOcERsMWxFcw?oc=5",
+     "source": "The Washington Post",
+     "feed": "Headlines",
+     "published": "2026-10-20T21:00:00+00:00",
+     "snippet": "JD Vance declines to endorse Netanyahu for reelection as Israeli leader The Washington Post Vance declines to endorse Netanyahu\u2019s reelection bid, breaking with Trump CNN \u2018Not getting involved\u2019: US vice president refuses to endorse Netanyahu Al Jazeera Trump\u2019s Endorsement of Netanyahu Falls Flat..."
+    },
+    {
+     "title": "Kyle Kennedy, granddaughter of Robert F Kennedy, dies aged 42 - The Guardian",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LR0lKOEdLOUNwd0ZxSWlVQlBCNkVydXlvN0RvT1BfMHM5U0xVcUpZOWVsNXdUYnV6QTdCOWJXUUxtVm5aZElLaVk2RGlLRDBJYS1DMk43WnFsQVJYMGlMZnFuTnJ2Z1NqLTZMQkVVby1tTVhtUUttQg?oc=5",
+     "source": "The Guardian",
+     "feed": "Headlines",
+     "published": "2026-10-20T20:55:00+00:00",
+     "snippet": "Kyle Kennedy, granddaughter of Robert F Kennedy, dies aged 42 The Guardian Robert F Kennedy's granddaughter dies at 42 after years of health struggles Fox News Kyle Kennedy, granddaughter of RFK, dies at 42 WAVY.com Kyle Kennedy\u2019s Cause of Death Is Pending After Granddaughter of Bobby and Ethel..."
+    },
+    {
+     "title": "Trump Says He Asked Putin to Release an American Jailed in Russia - The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2tYcGUtUzc1R3lYSTU1bVNTXzY2dHVYc1B2WFp1RWVxaHdmTzhHdV9LcVJYUms1NTBxd2kxUGhsQW00RUpsY085bXV4b19LZWFGazBreWZ5QlFhWnRLOXlRQUxsTnVTM044UlNYcjdOSDkwbUpYcU0xd2FZVExFdTdaQnZpaWRBN21yaXZLRmZ6RmM?oc=5",
+     "source": "The New York Times",
+     "feed": "Headlines",
+     "published": "2026-10-20T20:47:51+00:00",
+     "snippet": "Trump Says He Asked Putin to Release an American Jailed in Russia The New York Times See more headlines & perspectives on Google News"
+    },
+    {
+     "title": "Former Seattle gas station worker charged with murder; his mother, stepfather found dead in Wisconsin - KING5.com",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWHF1bTBxbDhLZzcwU2NrWE93bXNqczZ5XzU1YlJoeVh0em5fb29LWFBMcml6WmgwQVpmUWtNS2psY0czc1JLOWVEWV82SklSYkg5Z3M4NXluZTJIcEkwRlMzTkViN2xIdVlSblhYeVJIMlFXbXV1NGw1X0lITmY5TExtOHo0ZlNrRjBwSmt5bFNHS05DaTNHWU00dkdIdlZqOVpTQkZOY3BZMGRkQVVTaHpuTFlFZjJIWDMyeFlfY053cjFnV1BYbzNHR1BCaDZ0MGlPV2VObUVKV201bmNNdVVjX0xLRkpDcmhTdg?oc=5",
+     "source": "KING5.com",
+     "feed": "Headlines",
+     "published": "2026-10-20T20:42:00+00:00",
+     "snippet": "Former Seattle gas station worker charged with murder; his mother, stepfather found dead in Wisconsin KING5.com Update: Detectives Seek Public Assistance Locating Homicide Suspect Seattle.gov Man charged with murder in killing of former coworker at gas station near Space Needle KOMO Police in two..."
+    },
+    {
+     "title": "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine - WSJ",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TXhCNE5nTDBJcEZteGFUWGtLMHY5bmlkOXBBajNqMlpqbkF4Q2wwOVZjN2E2YWhSU2p6YmJoTmpwUW1VMkVqUEhSZjc3N1hMdVZwR3RjazBCdHRVZmptaEtpN2dtV3hzcHYwb2NadVlYZFlaMkE?oc=5",
+     "source": "WSJ",
+     "feed": "Headlines",
+     "published": "2026-10-20T20:38:00+00:00",
+     "snippet": "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine WSJ Elon Musk ordered Starlink slowdown for Ukraine: Report CNBC EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters The big questions about who\u2019s to blame for Starshield disruptions in..."
+    },
+    {
+     "title": "Exclusive: Thousands of North Carolina ballots set to be rejected after GOP imposed strict new rules, data shows - Democracy Docket",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjUxYVIxY3V1eWhiazZBbjYzaGZfMDdodVhBby12cEVHQ3ctV0dyUnNibV9rcUpMWldMZTlrNFp2eHlyLVlUVFZ4bndWUVZId1VUVko5ZmlnTkZsbS1zS0pVTThvaVJIMkZfdzlDUUNWcGFnOHBQZFBmZkVNN0U4bkRRM2dwaFRCaUZlOEF1bjRXcmJFeEV2STV6bmV0dURFWVNMRGw0ZklkMDROTkxtNVNlaXBBbnprdjN1cEFadm1fSVJfb0RCUlgzSG04a290Ty16c2FETjZoVjFqeVE?oc=5",
+     "source": "Democracy Docket",
+     "feed": "Headlines",
+     "published": "2026-10-20T20:36:35+00:00",
+     "snippet": "Exclusive: Thousands of North Carolina ballots set to be rejected after GOP imposed strict new rules, data shows Democracy Docket A federal judge lets North Carolina\u2019s new absentee ballot rules stand NC Newsline North Carolina mail-in ballot restrictions to remain through midterms, judge rules The..."
+    },
+    {
+     "title": "Woman accused of holding stepson captive over 20 years in abusive conditions to go to trial in February - NBC News",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmdsM1o0QzgzNHBGMjV5U2NEdVNIWl9Pa1QxZGZXaDZ2akxad0tfYUJqcGNnSkZvQXliaU5KcE9MV2JSVWFWdjE5aE1vRk5FU2MwYXk1TE1sVExxZzBrazBHaEZIaHFXYlZxMUxGVVNmWG5RUmRGWjU3UV8xWGMtcV9wWGFlMWhJc284V2dtMTIwbWZqMURGVFZMWTQ0eGlVNmpOUlZHbGozb2UzTUNBNmdyeEhNOHBIdFE?oc=5",
+     "source": "NBC News",
+     "feed": "Headlines",
+     "published": "2026-10-20T19:52:23+00:00",
+     "snippet": "Woman accused of holding stepson captive over 20 years in abusive conditions to go to trial in February NBC News See more headlines & perspectives on Google News"
+    },
+    {
+     "title": "Florida is set to carry out 18th execution this year and moving closer to tying record - AP News",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0dWcWFpdldmcjVmMEJrVjI4YldCbTJ3TS1YNG9uMm11Vm9MTmdSd1lqZnotdGNjX1l3cUlzRm5hU2ptbU1Cb3hmMlZmWGE0MHRpazdHQllQelR5ZWFYWVNOQ19xRUw5dmozSDdTWmcxSERjNkJKOUZWRXVVc3Fobl9KcnJJSzUxbHNuTVF2VXVFSHpKOXFF?oc=5",
+     "source": "AP News",
+     "feed": "Headlines",
+     "published": "2026-10-20T19:50:00+00:00",
+     "snippet": "Florida is set to carry out 18th execution this year and moving closer to tying record AP News See more headlines & perspectives on Google News"
+    },
+    {
+     "title": "Mysterious group behind transgender mailers formed weeks ago in Wyoming - Houston Chronicle",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDdVM3ppQXB3dWZLNWNYbmlsTWt1ZHMxVWNJaE5tbG44dGhlN3hlM0ZGS2ctZmlhUjNZWHhoOE8tSlRmMDdSMUhlQUFFRWU4cGlncllmVl9jUWNTWEdYbXpuVnFNS3lUdEtJSE1nUEtnLU5ldlkyMk1TaTVhcEQxeEw1SWhFRnYxMl9aVlJ4WW5KUQ?oc=5",
+     "source": "Houston Chronicle",
+     "feed": "Headlines",
+     "published": "2026-10-20T19:42:41+00:00",
+     "snippet": "Mysterious group behind transgender mailers formed weeks ago in Wyoming Houston Chronicle Fake transgender student union brochures spread misinformation across Texas Click2Houston Texas transgender rights group says it didn\u2019t send texts that prompted call for an investigation The Texas Tribune..."
+    },
+    {
+     "title": "Trump sued over Canadian tariffs in latest legal challenge - BBC",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UWTkteFRTU2lRNHVRMjc2alluMjU2NHd3X2g1XzhoOG5kVzAxUXRHb0gzM2k4cGI5U2NjVFB3NTlrVjBxWmR1V3p5VnJ6QnFISGlLYmRUcnM5bDA?oc=5",
+     "source": "BBC",
+     "feed": "Headlines",
+     "published": "2026-10-20T19:30:05+00:00",
+     "snippet": "Trump sued over Canadian tariffs in latest legal challenge BBC Trump sued over 50% tariffs on Canada in latest trade challenge CNBC Lawsuit challenging Trump's tariffs against Canada filed in U.S. Court of International Trade CBC US food importer sues Trump over 50 percent tariffs on Canadian goods..."
+    },
+    {
+     "title": "Democrats fear slippage with Black voters makes Michigan Senate race feel \u2018far closer than it should\u2019 - CNN",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUVQcmVOM3FtRnREakxpTDRDY1k3ZmRBWXhhX0NDRE5qbU14SUtnRUZCUnZkMVpTSG1Rd2JDMEdOb2UyYlZNNHJYZ3RaeUQ2MWljVWRONGZGUk4tcjJON0dyckt6R1FwVVFRS2VWV0VmRk8wTW9BUUtsZXJ2V1JpQVhETWN6LUlmcDhQYWN3YTZETlk?oc=5",
+     "source": "CNN",
+     "feed": "Headlines",
+     "published": "2026-10-20T19:29:33+00:00",
+     "snippet": "Democrats fear slippage with Black voters makes Michigan Senate race feel \u2018far closer than it should\u2019 CNN Abdul El-Sayed, Mike Rogers detail clashing visions, styles in Detroit The Detroit News Rogers, El-Sayed outline differing economic plans at Detroit Economic Club ClickOnDetroit | WDIV Local 4..."
+    },
+    {
+     "title": "Amy Acton\u2019s brother slams ad featuring estranged mother - The Columbus Dispatch",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWlaS25DSFJFX2ZEY082Z000YXU1ODJpdzVTTHY2QWxqcUxZZWVzZHhYVFNKUk9xM0IydU5vUlhOZ0tUWkM4aXZBcDc1OXcwdTNmRmtzeUlZamxsYkRnbHBLX3ZUTWpjeU5kZVBqUkY5QmdzejVFXzM0bi1RalZXVlM0N2p0TTNIWFlJRDNEZU9jUGJPcW5PMFd1SldJdmJ4R0tyQjZONFBxMklqOVRiNVdwdHNBYi1wb3BJbWllbw?oc=5",
+     "source": "The Columbus Dispatch",
+     "feed": "Headlines",
+     "published": "2026-10-20T19:28:00+00:00",
+     "snippet": "Amy Acton\u2019s brother slams ad featuring estranged mother The Columbus Dispatch Attack Ad Featuring Candidate\u2019s Mother Turns Ohio Governor\u2019s Race Even Uglier The New York Times \u2018Shame on Vivek!\u2019 Amy Acton\u2019s Brother Bashes Ramaswamy in Scathing Response to Critical Ad With Their Estranged Mom Yahoo..."
     }
    ]
   },
@@ -1250,30 +1250,6 @@
      "snippet": "Finance Influencer With 1.3 Million Followers Dies By Suicide, Father Claims Cyberbullying NDTV"
     },
     {
-     "title": "India news: Trade deal, energy security to top agenda for Rubio's visit - DW.com",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnI1Nl92ODBfQ2t6RzMtOUhiMTVNX0xUamxZb1VwUVJUbFhNM3Vwc2J3NFRMeW5lU1RfRGF1WERDMWdoUTRlY0lPWnBkb2FwMmhCaklZX00yQkw4MXlxWDJCVGZiNUFqcjNTUDYwSE1oclZabGV5S2tXUXNDS3JueTZ3dVAyTjJzbTlBcFNRWksyZlB5bElR?oc=5",
-     "source": "DW.com",
-     "feed": "Headlines",
-     "published": "2026-10-20T17:15:00+00:00",
-     "snippet": "India news: Trade deal, energy security to top agenda for Rubio's visit DW.com 'Expect partners to show zero tolerance on terrorism': EAM thanks US for handing over Tahawwur Rana The Times of India India-US trade deal nears as Rubio, Jaishankar discuss defence, energy amid West Asia crisis..."
-    },
-    {
-     "title": "PM Modi flags three \u2018enemies\u2019 of India, calls for unity in national interest - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGg4dUtaYTJmSk9pMXAydG1QQnJOUFdpQVFzSkhZa2IwSmdQRDZ1TE16d3lVVlpCVWxIM0lrbWwySVpqeEpHZXFLdWt1LWVCUHRVVW11SWlwVUM2OG9YZWQ3S1M0amt6ajNrWG1IR3QwcXBuajlYd05ENnlNV0xqYzJMdVhzT3FIQlo3RGxRU2loZWZ6TC1JSVJ6UFVqS2dyXzNFM2U2WHJNNVRpbkw1T1ZqMTNYQlhYMUFMSEdVa0taRWgteU1QS3dtR3HSAdMBQVVfeXFMT2FEN1BtMHVrWGgwYUNwdUFIUEZMb1NCT2RiTDVyYTlPVTJRYnRXTHh0bnpHUTBsZmxuS0ZnMURnY0JNTUdQbHpTbnRIWmdta3ZsZGJwT2RnYW4tc05rYkV5QXZSa2hOZGhEeDJFQVNuSE5pVDNYQWdsTkpkX2x6bU5qZ2JGSkJiU1Nmb3ZNUlhSMEFlMFVDUjZKdy1Hc2NuajhDdGVseVpDNjMzc3ppSWhnRmNCdnZPbU16N3NJMlFxNmg2ZWJTaldubWxSUjZlcFVySQ?oc=5",
-     "source": "The Hindu",
-     "feed": "Headlines",
-     "published": "2026-10-20T16:40:25+00:00",
-     "snippet": "PM Modi flags three \u2018enemies\u2019 of India, calls for unity in national interest The Hindu \"Will Have To Defeat Them\": PM Modi's Dussehra Call To Fight India's \"Enemies\" NDTV PM reaches out political parties, asks all to stand together for national interests ThePrint PM Modi invokes 'Ram Rajya', warns..."
-    },
-    {
-     "title": "In Abhijeet Dipke's Message To \"Cockroaches\", Pause In Protests And A \"Real Leaders\" Reveal - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU2d1YXJqSjhOck9kWWZvbTNFNmVraVk4TElXRDFzQzlrOXg3RzBOWVpuVXJPV0hSU0hBSDVDMGFmLWtqczVtWjRRR3FiR3RaXzNvcGEwbVlJMDlacHNDNFNmX3l4MDhMYW16T2lUM0pxUEY2RnIzQ0FISUdWbkRmb0RnVlJITG9yQWd0Yms0TVBjT1NmRkt4Rk1ZNzJGSERGUUlMclB0Y21BWEVvT1NlT1lZNWdpNVFvU1B3NkdIZ1dPdjQxamt2M3otUjd4NzBpUGF2aFdBTzBKV2FFTUZEcFV4SnBGSXZtWGVTaTJ6Ny1VOTBBcUEtT180MVFSSmM?oc=5",
-     "source": "NDTV",
-     "feed": "Headlines",
-     "published": "2026-10-20T15:17:08+00:00",
-     "snippet": "In Abhijeet Dipke's Message To \"Cockroaches\", Pause In Protests And A \"Real Leaders\" Reveal NDTV \u2018We don't have to become what we hate\u2019: Dipke rejects comparisons with France unrest Telegraph India 'Spend time with your family': CJP's Abhijeet Dipke has a message for 'cockroaches' Deccan Herald..."
-    },
-    {
      "title": "AAP claims Punjab CM Mann detained for 3 hours at Delhi airport after Paris visit, fined Rs 50,000 - The Tribune",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjJFRkFndVgzY2FPQVNoNnpEUHdrQkVWUDZJNWEzVGpQWG1oSUljY1R0MHYyd2s4TFo3bmNBalR3SllkbS14Q2dEb2hTZWw5UDZHeHFhWDR4U2dNUW45eVRwT0FUaTIwOUJkQmtQZDNpb0pCcC0zZlJkV2tXQnpYUENzOGJoS2R1aUs4eEs1TTNxTU1vSkU1RGktRGxsSzR4a05uYVRPVXhMX0JXOFpWSG1DMHI0aDFGQ09YaGNENnBkMXNRSGtxOHhfX3p5aGNVazdBUw?oc=5",
      "source": "The Tribune",
@@ -1282,12 +1258,36 @@
      "snippet": "AAP claims Punjab CM Mann detained for 3 hours at Delhi airport after Paris visit, fined Rs 50,000 The Tribune AAP claims Punjab CM Bhagwant Mann detained at Delhi airport for 3 hours after Paris visit, fined Rs 50,000 The Times of India Opposition's \"Birthday Trip\" Swipe At Bhagwant Mann Over..."
     },
     {
+     "title": "Kolkata stampede: Suvendu Adhikari warns of arrests over 'fake' posts traced to Bangladesh - Telegraph India",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYTNQeFlTdHdFWHZ3MXZhWUstNXFzc0JmVVhJX0lPT1JBMkVQWEQzTWprYTdSVTVCbThqTUowVy12WGJiV3dwRnhqMkFta21LNGhJeUMwdXlBOVBxR3BSaWE0QWJoWUY2TWIxZ0dFSlVEQThOZmVrMTQ4Y1RvWnYyY0xJQ2MxY0d2ZlVOU25hQlJ3eWlTUWhFVVVaaEVEN0ZwbHZzRDhpcVlNVTA4VVBVdkRPLVlqNTlUZVpLYW5BNlRmQV9YM0gtSkoyT25uVjJUam1zQlZMc0hndFlRekNZR2h1QVrSAeoBQVVfeXFMTVNKVUNOUll0dE1OMTA0aU9DQXl4Sk4yTjlRNWVEem9MdXRTTEFpZ0psWWxGQndaV1RzLUg3ZGgzXzkwWXk0RDRjSC1KZm5JSlgydVdxRXNfajdUZm93SUJxZlNfYUFDczMtMEZ1VXlvXzFESU1IUXUySjdBZmtvNGpfSmdVRS14S1pUOTJnVGk4c0prLVpNSGtYVjBnUktJbnI0T3lkNFhMNWFNUm03MkxtSVpvMXlkU19EOHdyZnd2WHh4YnBsLWJHQndXWUpNREYwbUt1ZkR3Tm5aQUN0VFZvejB1LWVLVnV3?oc=5",
+     "source": "Telegraph India",
+     "feed": "Headlines",
+     "published": "2026-10-20T14:37:24+00:00",
+     "snippet": "Kolkata stampede: Suvendu Adhikari warns of arrests over 'fake' posts traced to Bangladesh Telegraph India Bengal CM defends decision to shift stampede injured to private hospital, cites better care The Hindu 19 Deaths Raise Questions Over Durga Puja Crowd Management In Kolkata NDTV Doctors Allege..."
+    },
+    {
+     "title": "\"Will Have To Defeat Them\": PM Modi's Dussehra Call To Fight India's \"Enemies\" - NDTV",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3ZxcmpkVDhoMk9pVm9HczdwczZuYzNXcEd0c1NTRWxFYTF2OGZBOWoxb1dLSzZrVUQ4R0tXTkZmU1JpTldkV1NZcVFrbUNsOXE1b1gxZWNTb2o2bm8tNlhLRDFWckhLUm5idUg5QlVETThfTlhEWE1oalY3U21yVXJwQ0ZYbTZiaDVVcU5WbTU1YV9GUlBoeTFWZXFaTHlXdjB3Z2dxVGNsR1hDNXNiUExaYlFQbUZIbmNmUVY0Vzd4a1ZrVUxyeU9nOTNBX2doX0VN?oc=5",
+     "source": "NDTV",
+     "feed": "Headlines",
+     "published": "2026-10-20T14:29:49+00:00",
+     "snippet": "\"Will Have To Defeat Them\": PM Modi's Dussehra Call To Fight India's \"Enemies\" NDTV PM Modi flags three \u2018enemies\u2019 of India, calls for unity in national interest The Hindu Identify, defeat forces against India: Modi calls for unity, self-reliance The Times of India PM reaches out political parties,..."
+    },
+    {
      "title": "1998 Coimbatore Blasts Convicts Get Parole, BJP Hits Out At Vijay Government - NDTV",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTdxbTBDX2k2aTZTdUhaWUdKMnpBTFdmLVVSdlB5d0NEOEkxRmNQOG1Hb0pzQUNqcll6a285VVZtdHcxZ0ltN28yR3R1NmhjSHVaamZydWtCbnZ4MkdrVFg2X215TUppQnVRSFY0bDVHbjdIWXdta0dmQUxnWGk4VUh2ZkNkWjZ4akpqd1dscVJweVlLaVQ5d0xubzk0WFZFMFRSTUlRQWw2YkZITks2MUtRVQ?oc=5",
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-20T14:04:45+00:00",
      "snippet": "1998 Coimbatore Blasts Convicts Get Parole, BJP Hits Out At Vijay Government NDTV TVK govt\u2019s move to grant 60-day parole to bomb blast case convicts triggers backlash The Times of India TN BJP condemns govt decision to grant parole to Coimbatore blast convicts ThePrint Five prisoners convicted in..."
+    },
+    {
+     "title": "\u2018We don't have to become what we hate\u2019: Dipke rejects comparisons with France unrest - Telegraph India",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDh4SGZfWDN0aksxNlpocHBidDNRWGVNRnpnU2xob3I5Ymc1aUQ3dXRVWEROOFROYWpXTW9BOE05YVZpbXR1d1JFbEZuSzJZQ0ZZOGlldC1mMl9ham1HcGRzY2ZDOHE2aGx1NWEtd0EtMEtuSFlKVE01Y25HZnJ4cTV3ZG9rM1Y2ZUtNYnFlZ2tyRkNQWkE2ak1nTWZCUmVld19vNHJkOUw1NWlDYzM0NGpEZUxkMDk0Wk9iRlBsQ3dkX3JTRzNMTdIBzgFBVV95cUxQZDZ5aFZ5OV9icEh2OENrMjVYM1FWT2xSZDJGclU0OTk1NUlBNFZUWV91bGxyZ0NzT2ZlQVBFeDJXTFZTb1NUN1NTUUZDRWpFWmE2ZWJlQ0M5cWk1VFllaUx2cmFUSVNKTHNXV240MDFCTDdVVkVWME9Mbkt1dDQzNUZXd01xQ0IxZXZiX3pEQUExbnVHT3BPVVU2QjlGcU0tRi1pTWM2YWc1RVExem81X18tUlNYVnhoZlJNby1DajR0QTBHWkN4N2x1T05IUQ?oc=5",
+     "source": "Telegraph India",
+     "feed": "Headlines",
+     "published": "2026-10-20T13:53:09+00:00",
+     "snippet": "\u2018We don't have to become what we hate\u2019: Dipke rejects comparisons with France unrest Telegraph India In Abhijeet Dipke's Message To \"Cockroaches\", Pause In Protests And A \"Real Leaders\" Reveal NDTV 'Spend time with your family': CJP's Abhijeet Dipke has a message for 'cockroaches' Deccan Herald..."
     },
     {
      "title": "Chennai, Kolkata airports may be offered to private operators - The Financial Express",
@@ -1303,7 +1303,7 @@
      "source": "The Hindu",
      "feed": "Headlines",
      "published": "2026-10-20T13:34:03+00:00",
-     "snippet": "From Gyanesh Kumar to a giant cockroach, Delhi\u2019s Dussehra takes a political turn The Hindu CJP\u2019s Abhijeet Dipke thanks Delhi Ramlila organisers for \u2018free publicity\u2019 over cockroach effigy The Hindu Cockroach as the New Ravan: How Ramlila Reflects Anxieties of India's Elite The Quint CJP reacts to..."
+     "snippet": "From Gyanesh Kumar to a giant cockroach, Delhi\u2019s Dussehra takes a political turn The Hindu CJP\u2019s Abhijeet Dipke thanks Delhi Ramlila organisers for \u2018free publicity\u2019 over cockroach effigy The Hindu Cockroach as the New Ravan: How Ramlila Reflects Anxieties of India's Elite The Quint Delhi BJP leader..."
     },
     {
      "title": "Tiger Shroff Was Not Original Target, Shooters Wanted To Kill Someone Else: Sources - NDTV",
@@ -1311,7 +1311,7 @@
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-20T13:03:43+00:00",
-     "snippet": "Tiger Shroff Was Not Original Target, Shooters Wanted To Kill Someone Else: Sources NDTV Tiger Shroff firing case: Delhi Police Special Cell arrests 4 accused, including 2 women The Times of India Tiger Shroff shooting case: Celebrities who become targets of gun violence The Hindu Tiger Shroff..."
+     "snippet": "Tiger Shroff Was Not Original Target, Shooters Wanted To Kill Someone Else: Sources NDTV Tiger Shroff firing case: Delhi Police Special Cell arrests 4 accused, including 2 women The Times of India Mumbai to Surat via cab, then a Jaipur-bound train: How 3 states\u2019 police nabbed Tiger Shroff\u2019s..."
     },
     {
      "title": "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody - The Hindu",
@@ -1319,7 +1319,15 @@
      "source": "The Hindu",
      "feed": "Headlines",
      "published": "2026-10-20T12:44:19+00:00",
-     "snippet": "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody The Hindu Delhi Police Transfers CJP Leaders' Case To Crime Branch Ahead Of Hearing NDTV 'Spend some time with family': Abhijeet Dipke tells 'cockroaches' to not feel weak The Times of India CJP leaders\u2019 custody extended..."
+     "snippet": "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody The Hindu 'Spend some time with family': Abhijeet Dipke tells 'cockroaches' to not feel weak The Times of India Delhi Police Transfers CJP Leaders' Case To Crime Branch Ahead Of Hearing NDTV CJP leaders\u2019 custody extended..."
+    },
+    {
+     "title": "Why Rubio is visiting Reliance\u2019s oil refinery in India, the world\u2019s largest - Al Jazeera",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3o3LVJjQV8xVkxMVGg0Q1FnaHhqa1hwZjR3R2djZ09kZ1QtOFZ2M3JtUDQtTm5yMUJUc2tseVNJbXNjOGFvVlBXT1EwTmgyTnJDVGxleFRqdDNhUG40WmxTS1VVTDhBWjBhLTR5U1haRUVncFhJVGs3U2psaWxTSk9IM3VwQWhQeHlRNTFaS1Rzb29ELXlwOTNFQmJHbTJnRjR0M2d4WUVtam5Cb04yNFNWRmXSAboBQVVfeXFMT1pxZVRhX0RrRi0tRlNtNHV2MG83OVV5TDE2Y2lrZ3NlNlFZZTJnc2Q3Rzd3dC1xRlFMY3M3eXEzR0RnS1hhU1hDc2NhVjlxcUs3OFZTOGRGN0NJdmFjQjNyVlhwcGJPbzUtdlFLUjJlRWN5SVdaTE4zVkRDTnJxSHduRXVQQUR5ZmgyakZVR1lsMUxZck1GYjVkb3l2WTRYMGFXOVk0YjVjajBHb1NNbHdwN1JQRF9wQUVn?oc=5",
+     "source": "Al Jazeera",
+     "feed": "Headlines",
+     "published": "2026-10-20T12:41:12+00:00",
+     "snippet": "Why Rubio is visiting Reliance\u2019s oil refinery in India, the world\u2019s largest Al Jazeera In talks with Reliance to refine more Venezuelan oil: US secretary of state Marco Rubio The Times of India India-US trade deal nears as Rubio, Jaishankar discuss defence, energy amid West Asia crisis Telegraph..."
     },
     {
      "title": "Shraddha Dubey, Lucknow Influencer Accused Of Killing Lover, Arrested - NDTV",
@@ -1327,7 +1335,7 @@
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-20T12:20:26+00:00",
-     "snippet": "Shraddha Dubey, Lucknow Influencer Accused Of Killing Lover, Arrested NDTV Burqa-clad, e-rickshaw clue: How a change of transport helped police trace Shraddha Dubey to 11th-floor flat in Nagpur The Times of India Model Shraddha Dubey, prime accused in Shiva Sharma murder case, arrested in Nagpur..."
+     "snippet": "Shraddha Dubey, Lucknow Influencer Accused Of Killing Lover, Arrested NDTV Influencer-model Shraddha Dubey, her sister arrested in UP businessman Shiva Sharma death case The Times of India Lucknow cafe owner death case can bring down UP govt, claims Akhilesh; invokes Vikas Dubey encounter ThePrint..."
     },
     {
      "title": "Amit Shah meets families of anti-drug campaigners killed in Punjab; targets AAP on open drug trade - The Times of India",
@@ -1343,7 +1351,7 @@
      "source": "Greater Kashmir",
      "feed": "Headlines",
      "published": "2026-10-20T10:04:41+00:00",
-     "snippet": "J&K CM Omar Abdullah approves doubling of MBBS, BDS Interns\u2019 stipend to Rs 25,000: report Greater Kashmir Medical interns resume strike in J&K government hospitals over stipend hike The Hindu Medical interns in J-K restart agitation, allege government failed to honour assurance ThePrint \"Strike to..."
+     "snippet": "J&K CM Omar Abdullah approves doubling of MBBS, BDS Interns\u2019 stipend to Rs 25,000: report Greater Kashmir Medical interns resume strike in J&K government hospitals over stipend hike The Hindu Medical interns in J-K restart agitation, allege government failed to honour assurance ThePrint AIMSA,..."
     },
     {
      "title": "Jaishankar holds talks with UAE\u2019s Foreign Minister in Mumbai; says West Asia situation matter of 'deep concern' - The Hindu",
@@ -1359,7 +1367,7 @@
      "source": "ohchr",
      "feed": "Headlines",
      "published": "2026-10-20T09:51:50+00:00",
-     "snippet": "India: UN experts alarmed by fresh crackdown on protests and rights violations ohchr UN experts urge India to curb force against unarmed student protesters The Hindu 24 UN Experts Condemn Indias Crackdown on Dissent, Flag Abuses Against Protesters, Youth and Women TheWire.in UN experts flag..."
+     "snippet": "India: UN experts alarmed by fresh crackdown on protests and rights violations ohchr Police actions on protesters violate India\u2019s core international legal obligations: UN human rights experts The Hindu 24 UN Experts Condemn Indias Crackdown on Dissent, Flag Abuses Against Protesters, Youth and..."
     },
     {
      "title": "Kerala lottery Sthree Sakthi SS-542 result today 20/10/2026: \u20b91 cr first prize for SH 627145 | Check complete list - Onmanorama",
@@ -1367,7 +1375,7 @@
      "source": "Onmanorama",
      "feed": "Headlines",
      "published": "2026-10-20T09:43:09+00:00",
-     "snippet": "Kerala lottery Sthree Sakthi SS-542 result today 20/10/2026: \u20b91 cr first prize for SH 627145 | Check complete list Onmanorama Kerala Bhagyathara BT-76 Lottery Result Today (October 19): First prize of \u20b91 crore in 3 PM draw; here's... Moneycontrol.com Kerala Lottery Result Today Live: Karunya KR-772..."
+     "snippet": "Kerala lottery Sthree Sakthi SS-542 result today 20/10/2026: \u20b91 cr first prize for SH 627145 | Check complete list Onmanorama Kerala Bhagyathara BT-76 Lottery Result Today (October 19): First prize of \u20b91 crore in 3 PM draw; here's... Moneycontrol.com Kerala Samrudhi SM-77 Lottery Result Today,..."
     },
     {
      "title": "UP woman refused the man her father chose. He shot her in the head as she slept - India Today",
@@ -1383,7 +1391,7 @@
      "source": "The Times of India",
      "feed": "Headlines",
      "published": "2026-10-20T08:16:00+00:00",
-     "snippet": "Amid Imran Khan\u2019s FRRO row, Lekha Washington cryptically slams trolls calling actor 'not even Indian citi The Times of India Bombay High Court To Hear Actor Imran Khan's Plea Against 'Leave India' Notice On October 26 Live Law Aamir Khan Meets Raj Thackeray Amid Nephew Imran Khan's Legal Battle..."
+     "snippet": "Amid Imran Khan\u2019s FRRO row, Lekha Washington cryptically slams trolls calling actor 'not even Indian citi The Times of India Actor Imran Khan ordered to leave India after participating in protest BBC Bombay HC to hear on October 26 plea filed by actor Imran Khan against \u2018leave India notice\u2019 The..."
     },
     {
      "title": "Minor girl dragged out of garba pandal, assaulted near Mumbai; accused arrested - The Times of India",
@@ -1394,12 +1402,12 @@
      "snippet": "Minor girl dragged out of garba pandal, assaulted near Mumbai; accused arrested The Times of India Man accused of molestation slaps girl at Maharashtra garba event, video sparks protests India Today Mumbai: Muslim man Mohammad Gufran Sheikh brutally slaps minor Hindu girl at Garba pandal in..."
     },
     {
-     "title": "'Values that inspired Captain Smit Machchhar': RSS chief Mohan Bhagwat cites flydubai pilot in Vijayadash - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa0VhTEdRWUlNdjlaX2dSb24wYWU5czJRLVFhU0l4V0xDa0k3UjN5T2xJeHg3SVZKMmxySk12WFZvZUZTQWRaaGpiNFYxa2Z0N3gwbExuRWdmZ1FUaTFWZlk2WVYwR05BUDdNUjFMcU9NM0xDRE1iTVhBRHI2X2s1YWJtRG5rMVNQam5JZmo4MUtpQTZmNktZbkVEbWVIMEJCLWdvWXlsYk4wQXBzVEppbXpVZThyS3ZTdE1Oa3FrQkZxanNyeGlIWFJoSTBCQ0dyQmp2Rk5kNFpLRENndnluWE0wMzRqd28wNjAyZnNjRDVnVVVTYW9KRWNFUW9fclRUaWdiV0wzZW04SE0?oc=5",
-     "source": "The Times of India",
+     "title": "A Ravana worth Rs 40 lakh, guarded by 100 bouncers, destined for flames - The Indian Express",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXMyUTV4YjIwdEFBMk9YYml6MEIyMl9CRFUwTDdmWGt3N3lVVG5KSGlReDY2VVRzWXVIc2IwVjJSUTNocExPcGNsR2h6YnI3aF8xX3JTYklYay1lVzJLMnQzY2hZS1Zld25FSDRiYzVRTDM2cXRqeG1BNjBMZEZsdmlhSmpULXVENHUwUmZXV29hZlVFTXFzT1QtcXllYXprUzRYdWtPei1zQmlGS3VXMlFOOWxsZVg5UHNVWDRrbHfSAccBQVVfeXFMT2JPZ1NVdDhadkVGVDAwT2YzOVVqMjB2NVdSZ2VaRGpJakh6dFo3T05nOVJxZTFzcGcyLU1JVmRzTmFBTk1zQzMyYklMQjZxcXFiWmV0dnJoallhckZLTWtPdDYxR252V2lkSnRtRjNFUmotQi1fTzlXazRWOVVHclhvS0R1Um9hOWtLZnlqLTJERG5aY2xWN0dVR1BDbjVmbkZuZHRxazB5WVg2a1ZuNE83ckNZUE5HRmlxN3c3VVNJRjYtQnlldw?oc=5",
+     "source": "The Indian Express",
      "feed": "Headlines",
-     "published": "2026-10-20T06:21:00+00:00",
-     "snippet": "'Values that inspired Captain Smit Machchhar': RSS chief Mohan Bhagwat cites flydubai pilot in Vijayadash The Times of India Protests inevitable in democracy, says Mohan Bhagwat, bats for govt curbs on online content Telegraph India \u2018Western storm\u2019 seeking to destabilise regimes, India prime..."
+     "published": "2026-10-20T06:24:09+00:00",
+     "snippet": "A Ravana worth Rs 40 lakh, guarded by 100 bouncers, destined for flames The Indian Express Thousands watch as Panchkula burns 221-ft-tall Ravan effigy. The Times of India 80-foot Ravana effigy to be burnt at Ranchi\u2019s Morabadi Ground on Dussehra ThePrint Behind every Ravana consigned to flames lies..."
     },
     {
      "title": "Tamil Nadu Nurse Kills Woman Colleague, Steals Her Gold Chain - NDTV",
@@ -1432,14 +1440,6 @@
      "feed": "Headlines",
      "published": "2026-10-20T05:42:27+00:00",
      "snippet": "'Love My Indian In-Laws But...': JD Vance Defends \"Indentured Servants\" Remark NDTV Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect The Times of India Vance defends \u2018indentured servants\u2019 remark on..."
-    },
-    {
-     "title": "Months after Yusuf Pathan's TMC exit, Gujarat allots him disputed Vadodara plot - India Today",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVzFUT2tVRWVGaExkNmFHeTB1WnppcXlQR2VKZDBiemtIRXNmT0xGaG5aNzlSdzNqZHFUNzVJUVJnRmctZDg3cnR5MW50U3puLS1PMFBzeFJfb1lmLUMzV21fOWYwQlpNQWxGOTF2eEtNLUNEMDZaZ1NnMGpSMTNSMFNJSDlzdWpCMWk0aW9rc3JhQjVBbmpQRVNRR09RSkYwRTlmT1pua19kV3Bjclh3RUlBXzNWa3B3bjhqeHVNUWJSemdSbHZmYzNJRXltVXE4VVZVdUpDOXJLV0hkcXNWekRsTWVyWUc0SVZvNQ?oc=5",
-     "source": "India Today",
-     "feed": "Headlines",
-     "published": "2026-10-20T04:48:52+00:00",
-     "snippet": "Months after Yusuf Pathan's TMC exit, Gujarat allots him disputed Vadodara plot India Today Yusuf Pathan To Get Contested Vadodara Land Months After Switch To NDA NDTV Gujarat government \u2018gifts\u2019 part of disputed Vadodara plot to Yusuf Pathan The Hindu After ditching Mamata Banerjee, Yusuf Pathan..."
     }
    ]
   },
@@ -1447,6 +1447,14 @@
    "title": "Kerala",
    "blurb": "Kerala, Kochi, Haripad, Kollam and Alappuzha headlines.",
    "items": [
+    {
+     "title": "Footage Released of New Year's Day Motorcycle Rampage in Kochi - News On Japan",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jekR6c0FCa0hkUnBXVDJOMVFoaWFDU0lrelhkYVk3WGVnaEszem03elNyRWltRmdydS1ENXUtckxRRjgxT0h3Qi05SXdlQldCbmJEWA?oc=5",
+     "source": "News On Japan",
+     "feed": "Kochi",
+     "published": "2026-10-20T23:06:47+00:00",
+     "snippet": "Footage Released of New Year's Day Motorcycle Rampage in Kochi News On Japan"
+    },
     {
      "title": "Kochi slum rehabilitation: INR 14.62 crore housing project leaves P&T Colony families facing unsafe homes - Prop News Time",
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb1llMVpmVVZadmdEWWpObmpLME4xV2NrZTVKTC01cEk4eXZOZ05wUWlNcEpFYURGV09tT3JtVjJTQU40WnVpTHNmSUZqZWNlc01FdzA4YWt6RkkzeWhaX0tsT0ZrRWJmdko4YXJHX1ZMbFU5R0k1Q2oxRmNDYlZvOFF2SHdBRXVlbnF3N1U3UDktdkRfbUlXODNUSzBuaDNUOXUwX1Bhd0c5LUhXQmRhdHlyeHdrTUtBdDFHUUh3dGg1aFdFclFuWnlhWE9ZM2Vmb2pxaTlFZWkyV1F3QTZOeGt6N2JXMmFlUzk2WA?oc=5",
@@ -1504,20 +1512,20 @@
      "snippet": "Parents Of Two-Year-Old Who Died Of Malnutrition In Keralam To Face Legal Action: Minister Deccan Chronicle"
     },
     {
+     "title": "Kerala KSRTC to deploy up to 561 buses for Sabarimala pilgrimage season - Prop News Time",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVk0MHI4T3lIbjViN1V0ZkZTZGFPb3h4TTN6VWpqeTJ2d2hONHgwdlhVUngtSlBIRVNxWWR2blBSU0dLU0ZoY0habzFoc0ZPMk5uUWRIWkhyVHNiWDA3TG4zY1Utc29ZTVBualN3YXVGaEt6cElBSzhmMlB2QjEzV0RxSE0ybmFIR3BIcHF0OVhiT0lEMGYtcFpTUzBiTGFQVTNXOGZxblpsT2xMQlRZZFBVd2hWc1RBNFRCa2YxcjY?oc=5",
+     "source": "Prop News Time",
+     "feed": "Kerala",
+     "published": "2026-10-20T14:34:38+00:00",
+     "snippet": "Kerala KSRTC to deploy up to 561 buses for Sabarimala pilgrimage season Prop News Time"
+    },
+    {
      "title": "Ranji Trophy: Jalaj\u2019s late strikes boost Kerala\u2019s push for victory - The Hindu",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlUwM1oxa1RhY2JVYno3dTNUcW9rb0VEeTUza1NjZnE2UFk4Y1A0Qk5ZbjA0M3pxTjFZdmJha2RJU2xTUlB0d0RmUWwwckhudmNENXRwWG80WHRvRGx6UU5KT1Z0aktsUkFBTjJTb3l4X3p1STk3ZXFDbUg2X0xPNlF4cG1lcXZKY1packpOV0NZdFV4bFVjV1JQbnBBZmw0TGpnSV90b3VwOHlMQWJfR3FXR3FwNjQ4M0RReG9FSQ?oc=5",
      "source": "The Hindu",
      "feed": "Kerala",
      "published": "2026-10-20T14:32:06+00:00",
      "snippet": "Ranji Trophy: Jalaj\u2019s late strikes boost Kerala\u2019s push for victory The Hindu"
-    },
-    {
-     "title": "Kerala KSRTC to deploy up to 561 buses for Sabarimala pilgrimage season - Prop News Time",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVk0MHI4T3lIbjViN1V0ZkZTZGFPb3h4TTN6VWpqeTJ2d2hONHgwdlhVUngtSlBIRVNxWWR2blBSU0dLU0ZoY0habzFoc0ZPMk5uUWRIWkhyVHNiWDA3TG4zY1Utc29ZTVBualN3YXVGaEt6cElBSzhmMlB2QjEzV0RxSE0ybmFIR3BIcHF0OVhiT0lEMGYtcFpTUzBiTGFQVTNXOGZxblpsT2xMQlRZZFBVd2hWc1RBNFRCa2YxcjY?oc=5",
-     "source": "Prop News Time",
-     "feed": "Kerala",
-     "published": "2026-10-20T14:30:44+00:00",
-     "snippet": "Kerala KSRTC to deploy up to 561 buses for Sabarimala pilgrimage season Prop News Time"
     },
     {
      "title": "\u2018Vikram\u2019, crypto trail and Bishnoi gang: New angles emerge in Kochi synagogue arson probe - The South First",
@@ -1638,14 +1646,6 @@
      "feed": "Kerala",
      "published": "2026-10-20T09:15:54+00:00",
      "snippet": "Two Bay of Bengal systems likely to bring widespread rain to Keralam; yellow alert for 7 districts on October 20 The Hindu"
-    },
-    {
-     "title": "What To Do When You Receive A Traffic Violation Notice In Kerala. - TRIPURA STAR NEWS",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSm0yZmN1cXFlbEdlZG5mV2MxN2Q3Wl9OX1phVFJ0V3dXZFNHN2o0VEV6MkxLOFJCNmRVZEI0cGZnMTNEY0hMM1RSbnhDcElsWFlvc1h6RDlYRnBzd3FRTVVPbE9WdE4tNkVjRDZwdGpSeDdpSDNwS3lBQUszYUpvNzVfM0NJQmFaSWtWRjRKdzdJOC1pQWNjOWhMM1NHdw?oc=5",
-     "source": "TRIPURA STAR NEWS",
-     "feed": "Kerala",
-     "published": "2026-10-20T09:15:46+00:00",
-     "snippet": "What To Do When You Receive A Traffic Violation Notice In Kerala. TRIPURA STAR NEWS"
     }
    ]
   },
@@ -1653,6 +1653,22 @@
    "title": "Bangalore",
    "blurb": "Bengaluru headlines \u2014 plus North Bengaluru real estate and development.",
    "items": [
+    {
+     "title": "Bengaluru Dairy Authorities Issue Notices Over Yelahanka Cattle Feed - Dairynews.today",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamREM1JvNTB0RFFIMTZuVklENWJjNmVvZUpzQkZZdkMzbDM3RVd2aE5Nc21fSW12bjc2bC1NeGdfYXpEMnFKb1VSaEtLZkNrYzZpOTJZYTMxQi1Tbnl6TzlRbWUwR3ZLMkROdzk3cFl0WGdiMUt0ODZwcmJsZ2drME81bkpRX1U5N2kxbTNMUy16YjNnSnZpUjFaVlF1YlNCcjNhaFVycVRHa2p6SGlYUHlXQTJuQnJ0?oc=5",
+     "source": "Dairynews.today",
+     "feed": "Bangalore",
+     "published": "2026-10-20T23:50:51+00:00",
+     "snippet": "Bengaluru Dairy Authorities Issue Notices Over Yelahanka Cattle Feed Dairynews.today"
+    },
+    {
+     "title": "Mangaluru-Bengaluru emerges as a leading Airmail corridor in India - NEWSTRAIL",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sZFBIMDFxNzhWd0RaTGNsYnVkMHM1RkpUMTlSV04tTFoySEdMZFMyLVBlWTBFS0Jral8wSm4xV2liRVlQd3VIOGNhOWFpZ0QzTHFXRHhLQ3o?oc=5",
+     "source": "NEWSTRAIL",
+     "feed": "Bangalore",
+     "published": "2026-10-20T19:01:37+00:00",
+     "snippet": "Mangaluru-Bengaluru emerges as a leading Airmail corridor in India NEWSTRAIL"
+    },
     {
      "title": "Celebrate Halloween in Style at Four Seasons Hotel Bengaluru - Four Seasons Press Room",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQlBBeXZ2Nmc3Z05ISkhQYWRKUzJKT3RGYWJtRVVFUnQxVGQwLVRnR2dSd2FQdVEwaFFGRFV1aVRGYWpiRWF4X1RUQ00yVXJCZFNaaUJhNmdFRHNIVmszR1dhWHVpcmwtMWhWNEwycHEwTU9jMG9yMkxSOVFhMHFERGFR?oc=5",
@@ -1666,7 +1682,7 @@
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGhFcHNFU2dmR0pjQ3MtaFR3UkRLYVdsaVUtd2JFWDdZLXQzSW5DMWpnZC05eHkyclBIalB3RXpfcmpGS0k5NEhybFBrRFA2MGJkZV9CdERJdDF6UWUzMFlSWVMyNDBYTnZQcXMtYlRZLVFacG1ndGJnd1poY0tHUW5EUzVxa0h1U3FrcWVZclBGNkhGMThWNzNveEtrYTYtSXg1RmJocF9DZ3BadXZfdkdaNC1YMUFNRFU5ckdjZXd5MHZ4MWstSEs0THloV0pYT1A3WQ?oc=5",
      "source": "Prop News Time",
      "feed": "Bangalore",
-     "published": "2026-10-20T16:08:35+00:00",
+     "published": "2026-10-20T16:00:04+00:00",
      "snippet": "Bengaluru joint property owners can now split A-eKhata online and get separate records Prop News Time"
     },
     {
@@ -1702,14 +1718,6 @@
      "snippet": "Priyank Kharge Vs RSS Again: Nod For Oct 25 Bengaluru Vijayadashami Procession Triggers Face-Off News18"
     },
     {
-     "title": "Air India Express flight reports bird strike, lands safely in Bengaluru - The Tribune",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPekZUY2NaVnpZbmNqWVJsQmViY2t0UVVWLU5wbHhQQzhvY05kelVJUllzN1A3NmVtVFlHcGdPNjJjZkxYQVVZQUZmRGkzR2NSQy1fMlpYeXRHUWVjQUd1U29mZFFYUi1Jdjl2Ti13XzhhdjhUQjZNbWFZWlFQcEZnV2xqMU5YcFV3NHlfTGN2MTFDRGdVT2RscnAyOFY4eE03bEYwMmRIVUZrWkZwMUNzM9IBtAFBVV95cUxNaU1EN2s1M2kwc05wSkhkT1RuTEFQUGplVGN6bXNzcVByUEhWWTVHY2FydEpOdEk1WDJtemxEV0hyaC1UYjNicDRIc3ZNaEtpdTMtNDAxMGxUMmtYM1lMdjVPT0VRV2kyMnQ1VzhRbDA4MzAyWkJrY0VDSkY3WG1reHU2SHd3dWxGT1c3TG0tYUJiNWRmalZoblRzQ1E5WVdMekZEaTlxbTc0UWl2MWZ5WEVCemI?oc=5",
-     "source": "The Tribune",
-     "feed": "Bangalore",
-     "published": "2026-10-20T13:25:11+00:00",
-     "snippet": "Air India Express flight reports bird strike, lands safely in Bengaluru The Tribune"
-    },
-    {
      "title": "Air India Express flight suffers bird strike, lands safely in Bengaluru - The Times of India",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVBqZXo2MDR3Vy1LZkU5bmNwOG51NUZEazZ0MVdBb0NQaEFqRS13Rkd1Qng5WldxVmtVZTBIa3ZlbGFfSFUtZkpRRkNmd1haUktqUDRFRGFCQmI3VWlHTzlIVVE0aXE4OU5BMUZ4aDk3bHh2QS1HTi1GX2RKN19EQm9Cc2xyS2dJSzVSZW1ZcXoySHYwdzFDaUM3QkRRaWdCME5tclZidVFfLVZ6LUtaTUlnRFBGcXdhamtpUm5OQVgtQ3B4eDM2RGNpeGRLZmltYmcySdIB2gFBVV95cUxQa1QtbmF0UXc5UkdXVzVEZUtQV3ZJR3FNSi1kaXpJY2tEeGxpTHRCQXowTV9PazZ3WVBmSUxqdFNrOEpaMmdUaTZKeGVabWJYRk53RmdBcFpqQWZScHU3NlpQRDFhbXZFMklFaVdWWFhURVI0U0ZISGNPTDRGci1MMnprNVl2Mm42R3ZFbkFnSmdUMEVCTVh3WTczLTJSUGtLaDdydVc1LUk5bWl5d2tKa1kxWHh5Mlh5bVRFMTU2MTBEeEV6OC03TWdmRUota1gyS3pvVUJzYzhIdw?oc=5",
      "source": "The Times of India",
@@ -1726,12 +1734,12 @@
      "snippet": "'Most Humiliating Experience': Bengaluru Woman Alleges Zara Staff Made Her Undress Over Theft Suspicion NDTV"
     },
     {
-     "title": "Air India Express flight en route to Bengaluru reports bird strike; lands safely - ThePrint",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ25zMEVzdEtrdTQtMnVFUzNpOVdQVmlUT3ZFVnhQX1R3ZTBPcEFQMHBqLWV6LVpxSExZTWpvU1NIbTBXb3lmb2c3NUxqaTRxck9FX0wxQzZMbGpTM3lUaW1aeTdNangxN3ZrM3FaRGJPeGRVREVkSWFnOFRGLWk1bzRFX3B4TzY5VEtRYlVSUTNxZjI0RGF2cmUyTFNzd0U4TXBPYkpEeWFHaENJOExJVmV5OTDSAboBQVVfeXFMTjBmejhzVU8yVjBsTDZKdHNRZTlZVE1rWU5wank4cVg5R2JMV0lpMEc3MU5lR3dlT0QzRFpkMjBHbVpNWndDUzU2Q0pwZzgzM0hMWXJHVXRpOFRMRDRBYnhQZ3N6NWVYUkNpNFZEM2NCQ0RvSkdFdzVjLVpXTUJfTGxCOWRWMWhhcjNKQzZEVDFjbElDS1cyQVU1S0RyeVU3WUJ5Ri1ncC1SRWstQXdsanBoX3VTN0FLRmFR?oc=5",
-     "source": "ThePrint",
+     "title": "Air India Express flight en route to Bengaluru reports bird strike; lands safely - Greater Kashmir",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRzVhanoxU2QwZG1PcFo5SVdQY0pVSlJZTnFTX2dVTkhzbUdueGhjMTNkUXZHX1RRRms5bVgtbFhiUFJweGYyNnNhM2FPOUVQZXdjM2dBejJfRU5pT3FCUlo2TWRic0Jmc0xOcnItbl9yUUotZ3dSMVZwbW9oclNBakM4VTJhUkp4T1ZTUjVDOWFtOFpMWVNHaEVoaU5FLTM5cWwxdllIZmpkMkpzd3hzelJCVXV0aVdINDhqZ3lIOU5mQ3RldEZv0gHMAUFVX3lxTFBSU1hXMDRIcmgtdDZjZEgtUjFROHZsTUJmWVdHVWpqSC1ocVBlZExWREVFQzNfQk9IS0FsWHgtUHBDQVJSTjNlOWx6dUpjRnMzYlV6SHpKRnZCZzVYQ0wzTGpGckRJTFZrNDdKclU0bVpUaDFwOHFYZmRvNDNITTdxTmlmXzNnTGcyQTVTQUwwTzB3QTluLUpsdDRVY3lyblFfUTlrbF83eW5hLVRPT05jendPMnpMcEZoMm9Nb0h6N0NyR1dmd1NSSVpoNg?oc=5",
+     "source": "Greater Kashmir",
      "feed": "Bangalore",
-     "published": "2026-10-20T12:46:57+00:00",
-     "snippet": "Air India Express flight en route to Bengaluru reports bird strike; lands safely ThePrint"
+     "published": "2026-10-20T13:08:15+00:00",
+     "snippet": "Air India Express flight en route to Bengaluru reports bird strike; lands safely Greater Kashmir"
     },
     {
      "title": "Bengaluru\u2013Mumbai Vande Bharat Sleeper: 16-hour journey, route, timings, stoppages and launch date - The Times of India",
@@ -1798,14 +1806,6 @@
      "snippet": "\u2018CM\u2019s and HM\u2019s statements didn\u2019t translate into action\u2019 NEWSTRAIL"
     },
     {
-     "title": "Sonu Nigam apologises to Karnataka fans ahead of Bengaluru concert amid protests - Gulf News",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUFDdDlFV2p2UXpnajk1bkdpZmdhVkJwalQwLUEtYVI5OU16cWJfd2tZWEljSkVWQ19OX3ZxM0ZmWUtmMmQ0bGgxU09maF9YY1NzRVU3V25YZjNiRk5ZeG1pUExMZnczSVJRbUhBTXRBbTUxUjNtNWtTb3dPTUpOSHE4ei15enRrNnhXb0ZYaWptaU1HMkJnZkRBOTBRYllXZ1pfaWRKOTY3MG1lSjctbWNWdEVsUjN6UmVDY0lYN2xlMnN6ZlE?oc=5",
-     "source": "Gulf News",
-     "feed": "Bangalore",
-     "published": "2026-10-20T10:26:54+00:00",
-     "snippet": "Sonu Nigam apologises to Karnataka fans ahead of Bengaluru concert amid protests Gulf News"
-    },
-    {
      "title": "Sonu Nigam apologises 1,000 times over Kannada controversy: Bengaluru show faces opposition after singer ob... - Bhaskar English",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUROcG1MaHNZZGVIeGFPT3p1NUdFRE5oSHcxZkdtMnhKX1dLQ3V1dVFydHFlUlRuOGM5SzFGaS1rYUFTTEZqaFdZS0F1ZEtfN3RsZzBGR3dhaDFUaW52TmtvMmRFMEV4cG83a0hBLUNwZ0MwMGdNZlllVXA3cURoU1ZlODgyaGNvYzY3QzVVaWJlUWRJS29KYjZaenM1NUJ1VTRBS0ZRSW9CbjUyZ0hTVWtyVFF4ZUEySnpQblRn0gHDAUFVX3lxTE1YNkhhblc1bEczT3pUXzduYTV5bUdWaE1RV29EN0tSRVUxVHBDNUIwSUl1YWxScE4xMHp3VkEzeWljdkYwbDc2UEprS3NpQ0pBcWtxODRseDNKLWtlTEFqeE5ZM1hCV3RuZzFmYnVhOU9LMjVUVk5OOTB6MjJiSmRBT1hWUDFWYUMzV09oMVFlWVNiQWw0MEVMNHdzRk1jZ1J5UjNfdVF0RllHM1IxSlJVaWp2N1pVbUxkUm43b2V5bWVINA?oc=5",
      "source": "Bhaskar English",
@@ -1846,12 +1846,12 @@
      "snippet": "Bengaluru outpaces Mumbai, Gurugram in auto-tech funding race in 2026, bags 70% of sector investments ThePrint"
     },
     {
-     "title": "Mysuru decks up for grand finale of iconic Dasara celebrations | Bengaluru - Hindustan Times",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWJBVDRVVkk0ZDUxOFg1NkdBOUt0WW9ZQzRPUlN5NV9QM0R5RWlhRVp6SEhuWFZoMFJvZ1ExNUg0NGNTSHpkZ0RkUkU2NkZhbS14bkd0OFJRSkpWejJKb21JRGtTVUp1R3plSXZjWGZJMzJGTUNIbU9wTDY3S1J6SjlJeTBrSzR4REJoeFVfMC1VZHluVnZrYzg4TFJhLTl5clJlYUNQQXgtX2xJZEpfSV9ZT1ZueENRVHNyUnNYc0oxVFJmT0g3cU5TWTloWnA1bVHSAdcBQVVfeXFMUFY5X05HZEkwUGxuRzFvT3NWRHdZcTd2MFhySHRWczdGdW12anRrOXVmNlhLODFYTWthR3VFTHdZXzBRV2tLOFcyaDIwT1NVMHlQUUQ4TUNvRXdNVTR3RXhXQVpkelQyTkdDbjZ6cWNuM2N1OVZ3U0RmS2hZcW1UVUxjYUh6RzQ5NjRibFg0QlBpMV9RXzFnUjJtc3dsRnVrMk9RaHBCUlRHYldodEdrWlRIR0Q4cWRPVFpYSXc5MTV5X1hrNFQ0MUJwa1dNR2JkM2tlTklSOU0?oc=5",
-     "source": "Hindustan Times",
+     "title": "Namma Metro Turns 15: Longest Lines, Busiest Hubs And The Airport Link On The Way - News18",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORWw0d0lrRDN0b3FyRWxUWHdUQjlla3VjYmtVbDJfeFZmT2JfTWJNY2g1TVlabTRSaUFPVm1rS29OQlF3MHZyd1E5RzI1UlZtc0F3VkdYSGFEd0R4NGVSUGNYb19NaENkMkk1dEZfWkJWNEdRbVMxcHc2SWdmLUx1U2NXSkxqSlBoelBkdFhFUUpXdW5PLVVIN1pnaWhwTTNHZUJFVlViUWpWOHV2aUFNelVzYUhFQkpMSTZweS11Q3FCUW81MndKVnR1OWpTLUdoOG1PcDhPODZhdzh5U2Nqamt5YXNuTTJ2NkwwadIB8gFBVV95cUxNUWI1Yk9kSDBJYmFpREZlWi1UcTBFX3B2ZTFvTTVhY09aTU5BWlZwVS1qUHpmdHJwc2RYanB4dFF1WGJzQjdGMTh6eExOWDZEWVFmcHc0NC1tS0xUWjBFWDFYWXIwMTdpR3NxNUdmTVpKQ2xzaHY4NlNBdlktcXgxcnZUZnZydzVvMnl1M1ZkTHU3RjBnMXZZOTlXU3ZCa3lVVlBrUV9UWkZUV2VxX1Z4cmFlTVB1SEdORlI5YWRDS0Exb0NPTlhpMzJzOXpBOXRaTFYtSEhESnJPUldsS1JpUkFRbE5nRFd1bV9EZlBXckZXUQ?oc=5",
+     "source": "News18",
      "feed": "Bangalore",
-     "published": "2026-10-20T08:34:37+00:00",
-     "snippet": "Mysuru decks up for grand finale of iconic Dasara celebrations | Bengaluru Hindustan Times"
+     "published": "2026-10-20T08:25:05+00:00",
+     "snippet": "Namma Metro Turns 15: Longest Lines, Busiest Hubs And The Airport Link On The Way News18"
     }
    ]
   },
@@ -1859,6 +1859,30 @@
    "title": "Airline News",
    "blurb": "Airlines, fares, routes and aviation industry news.",
    "items": [
+    {
+     "title": "Inside the Qantas and Virgin battle to secure more Bali flights - The Australian",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNVlJc29aQVR1dHRfQVVzRWhjX0cyWERPZlUwRnFUYmRuVXktZE9PUVVnc00zWlFidE1kaTU2Mzh6SHYtY1RCbk5GYXppNHFNSFhLM2xTMzFaTWNwRDJpN3FjSUhEQjlSRGF2ZkdxdXcwbWIxV2VwOUtJTFd2bkJrUno1TFlyN1hRUmFPUVZndHplUmVwYTFlaWo2eEhhc3czVXk5TDVQSmJXd2s1SlB6Qzl3WVE3OXloLVJialF6YVN5UTFkNDVpQWRrVzJ0YnZxVnpVaXhkbFBGQVBNMkRYZHZ6QkdqLWlfN01MQlZuZnlWSTFUMEtaV1BEM2U0YWV2S2tPbmtpMWU4dw?oc=5",
+     "source": "The Australian",
+     "feed": "Aviation",
+     "published": "2026-10-20T22:38:25+00:00",
+     "snippet": "Inside the Qantas and Virgin battle to secure more Bali flights The Australian"
+    },
+    {
+     "title": "Alaska Airlines adds 2 more transpacific routes from Seattle - The Points Guy",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEJDd3ZiVi1Tck1TZ1FGQl9kbFRGTWpIN3Z4eEhOQVRJMWpRX1VMRmtnb05PTHRWdkUzMEVkYzNsT3JoVTNFLTlRbnhoUExiU3NzRTRxSUdhYURXLTJGemdOeDFVeTZkWlBtYkdXY1RSdFlhRWlzYVA3OUdDSnhHQzhHY0xHeXNW?oc=5",
+     "source": "The Points Guy",
+     "feed": "Aviation",
+     "published": "2026-10-20T21:56:15+00:00",
+     "snippet": "Alaska Airlines adds 2 more transpacific routes from Seattle The Points Guy"
+    },
+    {
+     "title": "Boeing 737-10 MAX receives FAA certification - Flightradar24",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPME1xWlFZU1RCSzRySEx4VUd3Qks4MERDemhNZnBEcm9CZnl6U2pwTlJoMnV0cF9CbS1qWUdVa19pRjByYnI5ekFaNkQ5enBzclgtQ0NSTjdYZUt5bmJoZ1dCVjZudzhJcTQ5ZE5CLVRUcnU0LUFxZkVxd2F4cHpJcmc0MjVOQkhFSktfWXBfalJUcmZldHFQTDNWOS0ySE1vQ1cxVXhqQ3hIdm9V?oc=5",
+     "source": "Flightradar24",
+     "feed": "Aviation",
+     "published": "2026-10-20T20:47:08+00:00",
+     "snippet": "Boeing 737-10 MAX receives FAA certification Flightradar24"
+    },
     {
      "title": "Frontier Airlines Cancels 7 Routes From World's Busiest Airport: See List Now - Simple Flying",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0N6VDEyQjd6b1hkQ25DNGI0VjFQOEJQTDF6M3E5VFZiTjhWZTlqUzVhYkJrU1hUdE5DcG9McGFfaDFVYkpwMkFXYlZRMjFoa01fZ2lmUXREYjRGRUN2SktiVGtyRzl0djJDd0RoN3JLREdOS0tPR3RzLS1GRmdWUkFuWHo3bkgxZGl3?oc=5",
@@ -1898,6 +1922,14 @@
      "feed": "Aviation",
      "published": "2026-10-20T15:00:16+00:00",
      "snippet": "The Longest Flights Operated By US Airlines In 2026 Simple Flying"
+    },
+    {
+     "title": "Allegiant Air Cancels 20 Nonstop Florida Routes: See Full List Now - Simple Flying",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pYWEyZjZXdU1oZS1xZEdxQ1QtU1BGUFljWXRJZ3Rnb0c1ZHp6NHhLN21hSWJadTkzWE0xdU5IUDJVemxhLUFMRDNiZU8yZWlsc2NWM0t5U1VSUjk3cmhuOTUzWUdRd05qbFRfU1ZSRGJlbkU?oc=5",
+     "source": "Simple Flying",
+     "feed": "Aviation",
+     "published": "2026-10-20T14:07:52+00:00",
+     "snippet": "Allegiant Air Cancels 20 Nonstop Florida Routes: See Full List Now Simple Flying"
     },
     {
      "title": "Alaska Airlines Adds 2 New Long-Haul Nonstop Routes: See Schedules Now - Simple Flying",
@@ -1957,7 +1989,7 @@
     },
     {
      "title": "Ryanair scraps 20 routes to and from Belgium - The Brussels Times",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlV2MmgzS3BjbDVIbVcxU3FRYVRvUTVRZDB6YkNteEdveGVnMThGSEpnRkU1dnBYYmpZVkpuaDdIczZ3QkREQ2JhNG13M0VRRm5UMEEtZlNpU0E5bHpjdXZRU0duVXFReEduNjhkS2ZCS1dBNUptV2U4NEJZcElIMHA3NHA1d0xKLWg2aDZ0eEVCZ1lFQXQ0Rw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTlXSE85WE9RRnJwbDFKTnd0aWRNdUFVcTVIMlZmcm12U1M0bUVlVG9ZZGhqV1M4RUN3WU9YQjhaWERfUnRtQk5PdmNlaV9qMjI5OVRCUVF2UmNrYUZJRXN6dTdUNFpOd190Q01BazNSSXB1WjF6YlRuWnpnMGxUZnIwckM1UC00SGc?oc=5",
      "source": "The Brussels Times",
      "feed": "Aviation",
      "published": "2026-10-20T10:16:25+00:00",
@@ -2004,14 +2036,6 @@
      "snippet": "RYANAIR CUTS 20 ROUTES & OVER 1 MILLION SEATS FROM BELGIUM W26 SCHEDULE DUE TO GOVT\u2019S 250% AVIATION TAX HIKE Ryanair corporate"
     },
     {
-     "title": "What to know about budget airlines' $2.5 billion relief request amid rising jet fuel costs - ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSEFoenNwWWhYb0FYdEF0SVNxUWY2T0lKaGdNMnhBMHlJZnppV3M4U1dyb2JBODIwYjR5SFE1V2FuVmp5cGs3YjJTdlQxRllyd2tCaWxQVHh2LUdoanpBX0h0UUVOakkyczI4SEtQMWl3cmlMYlFwdEF1aWRRQ3JCV1F2ajQwM2ZEUHpPbnZjNnFqQWZrWGxXMUMtWG1fdFp1T0JCQjVR0gGrAUFVX3lxTFBzdjJ6TV9oall2eHUzdV9kSld2MWJqcU4tNlZ2bkgxMUN3N3VqUTZ3ODU5QU96SXprYnR4MFRDeEE1c0tVendrT1o3aUFpNC1KNjh5X2l3UmVJbFZJTjBld0V1QV9hY0tieEM4T29EWE9LS0JUTC1kZk83VXRTMzVVVHZ4M1dLbUZIcGR1dy1JQlExNzVla3UzeklqTm5HMkRubmRRVmlOS28zUQ?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "feed": "Airlines",
-     "published": "2026-10-20T07:23:58+00:00",
-     "snippet": "What to know about budget airlines' $2.5 billion relief request amid rising jet fuel costs ABC News - Breaking News, Latest News and Videos"
-    },
-    {
      "title": "Air Serbia schedules new routes, plans to add four jets in 2027 - EX-YU Aviation News",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3BqTGE4LWVfdUVzeTFyODlaZEpaVGRTZ0NFVFRyQnVSY0ZCMWo0RUh4SGNacVNSa0VtcFFlanFjWE9jUHhUVUQtNl9zQmo0bUtybHljZEs0MEk1R2VuRGduZXZsM0dGZVhHTFl6OWl0U01zVFBaSFQtRGpTNm5YX0pXWlRHZjQ?oc=5",
      "source": "EX-YU Aviation News",
@@ -2028,36 +2052,12 @@
      "snippet": "Pula Airport eyes new routes and domestic links EX-YU Aviation News"
     },
     {
-     "title": "Air India Express Flight Hit by Bird on Bengaluru Route, Lands Safely - Aviation Jeta",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUQ1TDlQcUIxTFpIOWJIVGdPd1JkcUlBYVdXVDRvdnEtYmczS1czUmZmYlFIQ0lTT0NNd3pOSDhrd19rZmZ3UEZ2Zzd1ZzlEajhOaWcyVGFhV0hVZ1VfblJ6WHNfbVZfMjljY2VDTGFHc0ttOXM4OW1lYkFZcENQR2dxRWpEVmFwSHhnaE1MMGlXRGs1d0tFMVpn?oc=5",
-     "source": "Aviation Jeta",
-     "feed": "Aviation",
-     "published": "2026-10-20T05:33:42+00:00",
-     "snippet": "Air India Express Flight Hit by Bird on Bengaluru Route, Lands Safely Aviation Jeta"
-    },
-    {
-     "title": "Inside the Qantas and Virgin battle to secure more Bali flights - The Australian",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNVlJc29aQVR1dHRfQVVzRWhjX0cyWERPZlUwRnFUYmRuVXktZE9PUVVnc00zWlFidE1kaTU2Mzh6SHYtY1RCbk5GYXppNHFNSFhLM2xTMzFaTWNwRDJpN3FjSUhEQjlSRGF2ZkdxdXcwbWIxV2VwOUtJTFd2bkJrUno1TFlyN1hRUmFPUVZndHplUmVwYTFlaWo2eEhhc3czVXk5TDVQSmJXd2s1SlB6Qzl3WVE3OXloLVJialF6YVN5UTFkNDVpQWRrVzJ0YnZxVnpVaXhkbFBGQVBNMkRYZHZ6QkdqLWlfN01MQlZuZnlWSTFUMEtaV1BEM2U0YWV2S2tPbmtpMWU4dw?oc=5",
-     "source": "The Australian",
-     "feed": "Aviation",
-     "published": "2026-10-20T04:58:38+00:00",
-     "snippet": "Inside the Qantas and Virgin battle to secure more Bali flights The Australian"
-    },
-    {
      "title": "Germany\u2019s air connectivity slumps as hundreds of routes disappeared - TravelMole",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aSVJSb0REU3RyQWRyNkhFa1lNd1VIaUdDaGhFN0lncVc0OGRacDVSLUlKOWZIT3YtcjY1OUc4TFlwQUJFUW9sOGt2blZ5R2FsV3M2WVB2Q1hCdEI3UnNjaXUtMHRBVkJwVkxN?oc=5",
      "source": "TravelMole",
      "feed": "Aviation",
      "published": "2026-10-20T00:36:29+00:00",
      "snippet": "Germany\u2019s air connectivity slumps as hundreds of routes disappeared TravelMole"
-    },
-    {
-     "title": "Lufthansa gives Columbus, Ohio, its first-ever nonstop route to Europe - The Points Guy",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTEFrbk1yWV8wcnFfRUpCci1HeTRfTzNrTU1yd1h2WWdndjd4SEFxSDk0OXVGNGFJTENLRlJkUDZTSXRERThFQTJzNkR3MEo0clhLTXZUVElHdlNwS2tKVXpoSVdLbWdnUkk5WkwtVGxUdnBxRWtWSUEyOENoRnpnZmU0aEQ0QQ?oc=5",
-     "source": "The Points Guy",
-     "feed": "Aviation",
-     "published": "2026-10-20T00:30:20+00:00",
-     "snippet": "Lufthansa gives Columbus, Ohio, its first-ever nonstop route to Europe The Points Guy"
     }
    ]
   },
@@ -2065,6 +2065,70 @@
    "title": "NC Colleges",
    "blurb": "North Carolina college news - for Vybhav's college hunt.",
    "items": [
+    {
+     "title": "UNC vs. Syracuse Preview! Taking The Next Step + Is This A Potential Trap Spot? - 247Sports",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFZUeGdfdVlDTGVVamhxcmNoR2NnaTJpVEdCUWhQZVVudF9yb1cwTHhJeHBKZ3JxZE5iLWVtNGxrTXozeHMwdXpFRFpFLWlILWE3ZVZreXJRZ3JtMVlGcnRFMFF5RTd0dGI4V25BckY0SDVlY3pLcnVIQTVZUHZPLTVrUjAySGxwZWlrZ0t5NnNocVJ5OGVIMTYyVnVyc2dZSG1POEtiYU5kRTZGTHcw?oc=5",
+     "source": "247Sports",
+     "feed": "UNC news",
+     "published": "2026-10-20T23:35:27+00:00",
+     "snippet": "UNC vs. Syracuse Preview! Taking The Next Step + Is This A Potential Trap Spot? 247Sports"
+    },
+    {
+     "title": "United States: Justice Department Announces Settlement Ending Antisemitism and Race Discrimination at UNC - The St Kitts Nevis Observer",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWE0xaWw0blpWSUdXZzYtbHRDSGI5dFctUlk0NHpqUm5UbEpQMl9EaDRhQjJNVkd5QXQ3NzNYUHpPeVVEbmFJeDVJQ0RIMkU0Q3ZtODRDcVp3cXUxTnczSHRpZkhFOGdranF2Z3BGX2ktSVJhVXphU0ZxR0dmWGpHY05vaWY2bHBjNVk2d0c1VUdNd1A4dW9kMXVLQ2dLU3JMUllVaTJSaTA2WUtMcHAwM0U4T0xYdjVUaWZzXzk1bmd4cHA5ZVA4TzNhV1lNLTUxdUJyR3RPcEJLdnFweUE?oc=5",
+     "source": "The St Kitts Nevis Observer",
+     "feed": "UNC news",
+     "published": "2026-10-20T23:17:15+00:00",
+     "snippet": "United States: Justice Department Announces Settlement Ending Antisemitism and Race Discrimination at UNC The St Kitts Nevis Observer"
+    },
+    {
+     "title": "University of North Carolina reaches deal with Trump administration - The Washington Post",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWgxaFBIbHN5N1l1MHdnX1h3Z19qY0FjSllHaDN1bnpFLW50eFpzbXNGeFZaT0hvczg5QmpVUlpuT0czcFUtbEFGMmROallCQWU0YWg4TlBoU21YaTU1eUh1SGNSWUxGSDlVbkxIb2tMOFNZQnlnMHNGekg0OG83SlZGUzdVNlJrbGphUmdHZFpOR05wU0h0Qkx6WGNWTU5DOVZGQi0yN2VFUGE0VDhjWHRkaDM1blZp?oc=5",
+     "source": "The Washington Post",
+     "feed": "UNC news",
+     "published": "2026-10-20T23:17:13+00:00",
+     "snippet": "University of North Carolina reaches deal with Trump administration The Washington Post U.N.C. Strikes Trump Deal to Keep Federal Funding The New York Times University of North Carolina settles federal probes by Trump administration Reuters UNC-CH Signs \u2018Agreement\u2019 With Federal Government Over..."
+    },
+    {
+     "title": "Feds announce antisemitism, race discrimination settlement with UNC - Carolina Coast Online",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZl9RMU9ZY2JrOXpQa3JjaTdQSVZPc1E3U0dnWkg4ZW51TG1XLUJtLWwtdmk0cmpLeTFJN2J0MExScWVXOWQyZnJXWUh2ZVI0NVFJUXdQV0Q4S2JRRnVuRUp2WGFvTV85NDdDVGZlYzhWbWpHMTlMcHdoRHdCb1ZIX0pHMFZoLVVtdFNObUxTUm9qTUJKRzBFYUt3?oc=5",
+     "source": "Carolina Coast Online",
+     "feed": "UNC news",
+     "published": "2026-10-20T23:15:00+00:00",
+     "snippet": "Feds announce antisemitism, race discrimination settlement with UNC Carolina Coast Online"
+    },
+    {
+     "title": "UNC-Chapel Hill strikes bargain with Trump administration to end probes - Higher Ed Dive",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBmYnRQUUZKMmtseVNiemF3eFE4YUM4Qmtid1lVaWsxWHM3MEIzOUp1M1gxX3NpaEk3SXpuN0twblh5cjdaLWFNZW0xd2dQMjlGejhEcjhuTVFpVjdfRTF4clNIZGowcnh6ZlEwNk9TOVMzR0Y1VU1zUmVaNi1Ta21QNS1RdWdMRGIxbC0zd1VPQmpBbDRYc1A0c3ZseHM4RWVrS3BrbWhMSG93dl9aNWtTNA?oc=5",
+     "source": "Higher Ed Dive",
+     "feed": "UNC news",
+     "published": "2026-10-20T22:08:56+00:00",
+     "snippet": "UNC-Chapel Hill strikes bargain with Trump administration to end probes Higher Ed Dive"
+    },
+    {
+     "title": "UNC deal with Trump administration took a year to negotiate. How it came together - Raleigh News & Observer",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oVzBWVXgwanBVNU81LUxKUnJfOUNMdEV5d1FqWGJXdk5qUkFKNGZPdU8wbjZ4TU81VV9SanNhZGwtVkQ3X1ptTzdvSERJZjZVRWotMzRtak1GMTFXanNHRVVvSE4wT2lpTWxQOVpaWG5wQm90VEJLY2pKb9IBe0FVX3lxTE94NmJBbUJhUG02cnJobk5ma3h2dXg0cmxXd0NGRWFxOXB4N0VRWThoLU9kcDBhWXdTbTN2ZWFzLUJwTFg4cWZ6VmlveWNoLW56dWt0QkJZYXJyajB1WUUxel9sTmtCUWVuVEFTQmNFV09aZnFVY3NQV1pPZw?oc=5",
+     "source": "Raleigh News & Observer",
+     "feed": "UNC news",
+     "published": "2026-10-20T21:35:02+00:00",
+     "snippet": "UNC deal with Trump administration took a year to negotiate. How it came together Raleigh News & Observer"
+    },
+    {
+     "title": "College Towns Finally Built More Student Housing\u2014Now, Some Have Too Much - Realtor.com",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXVkaVAwTF9EQ1MydVVaYWF1bkd0QVJINFozZ1djc1k4LV9DdUF5a2ZkX292SGszSXVrb2MtSWUxYnhKd3BqZlN5ZUdFcUR2YkFybjBGRk9kS2x4d3VPMXVtNEJJY0NpcHRwLTJ4SlQ1RkFCYmctQUhaLWpwYmpwQUdDZXBaUlFMSUE?oc=5",
+     "source": "Realtor.com",
+     "feed": "NC colleges",
+     "published": "2026-10-20T20:51:27+00:00",
+     "snippet": "College Towns Finally Built More Student Housing\u2014Now, Some Have Too Much Realtor.com"
+    },
+    {
+     "title": "UNC-Chapel Hill deal with federal government echoes existing campus policies - WUNC News",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs1NVFac3kyRk5xMWNDSTBoYUFXSDVmNVhIX19McnA0UHFJVVYyX1VFXzhhZTAyaTlvelROSVptU19FSFhUWnRjODZHeUFUMU9sZmZSQzg5aGVPRU85VGRkdi1TV1dfdDVpRFYtU3BVZ281NGVGVWd1cHFoMGZ1SDcxSWtWdGx2T29DU19SQmFMYzhiWWtIZVFjVlNFWk5jS29ZdjZoVlFkOE9N?oc=5",
+     "source": "WUNC News",
+     "feed": "UNC news",
+     "published": "2026-10-20T20:45:00+00:00",
+     "snippet": "UNC-Chapel Hill deal with federal government echoes existing campus policies WUNC News"
+    },
     {
      "title": "UNC Settles Fed Probe Over Admissions, Antisemitism - Law360",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDB3NzVXbUp6aFBET2xyUWU1SldkeDBZdjBld2hMNFYzN3B5N1ZmVDktWFlJNmIzTmkyV3NETEdyODU5X0ItNGRtWGdxNnVkQTUwMGFGV3d4WklNM0tXSFVOMGt1VG54NU5nSXROWmJ0YzRBX0dCX1hMNzFXLTZVdGFSOVhkQXk5TXlYaHFmYk15R2Yx0gFWQVVfeXFMT3pFWTBERG9kWnBtZlIyMmdNNnVyZGp1ZjNWMzVHNmhEell5eTFPdWxmM01VLTBsOFgxSFJPRnZjNFk5U3RMYUlpRHJTTkJLNHNQZDNIRGc?oc=5",
@@ -2082,20 +2146,12 @@
      "snippet": "Knight Claims ACC Women's Diver Of The Week Award University of North Carolina Athletics"
     },
     {
-     "title": "Terrence Brown Jr. Still Primed to Be One of UNC\u2019s 'Best Players' This Season - 247Sports",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXVxMWN0SFhOOW1RcXdpVjM4OVdWZ2gwdnJQRVJKRWs4SEYxZGJFTnFpWlF4SXd0V0JWaVNpODNsckZ2eWdPMkt2TFFvcUdfb3RWVE1sV1JBZTFfdmhrN0EzSnZrYUhjRzRMWHpuQ2pmQS16Y3NKVXk3a0NmcnVDdWhGQWZOM0dOUnkwUlBlcTFQNmczcnNtaGxxdWNlN2dxUTM1bFBOdmNabWtYcjdudlVHTVQ3YW5vZmFGckVpUS10LXVDaDVyZ2NDNk9Mb04xLWx0MDhJTFEybzBwc0lvUg?oc=5",
-     "source": "247Sports",
+     "title": "UNC-Chapel Hill and UNC School of the Arts announce new partnership - University of North Carolina School of the Arts",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LWmhfOXdTSnI3N0l2VFZPa1lWcVpMUjB1Mjl5cmJVM0VQS0VFZ2NXRENTc3hXcUpKUjkzMWF4cEs2TXQzaTdIbHo3eTZGXzFTZGdGSzl5ZjJZYXg3MUhXdUZmc0N5QXZ4WkJQUzFZcG81XzJiZVRR?oc=5",
+     "source": "University of North Carolina School of the Arts",
      "feed": "UNC news",
-     "published": "2026-10-20T19:32:39+00:00",
-     "snippet": "Terrence Brown Jr. Still Primed to Be One of UNC\u2019s 'Best Players' This Season 247Sports"
-    },
-    {
-     "title": "UNC-Chapel Hill and UNC School of the Arts announce new partnership - UNC News",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWpGUUhSdlVaczRPSVZQVjlfRXlNbmd4M2ZaTEtRUzR1cHltaXFLb1oxRGJHcFBwNEE4TTFBLUpnNHRIRGR1TWM5YjFzZjNzcGs3M0pIYzJBeVFzUlRDWGlJYU1JeHV3eVRvSkR1Wk02TExRcmZPbE9hUXMzS0lQQTdmMDZpR0VrNDJvbGRBQnBDejcyUHFFblNodzhCbnNocWlIaTln?oc=5",
-     "source": "UNC News",
-     "feed": "UNC news",
-     "published": "2026-10-20T19:18:57+00:00",
-     "snippet": "UNC-Chapel Hill and UNC School of the Arts announce new partnership UNC News"
+     "published": "2026-10-20T19:04:19+00:00",
+     "snippet": "UNC-Chapel Hill and UNC School of the Arts announce new partnership University of North Carolina School of the Arts"
     },
     {
      "title": "Why These Two UNC System Schools Are Partnering on the Arts - The Assembly NC",
@@ -2104,6 +2160,14 @@
      "feed": "UNC news",
      "published": "2026-10-20T19:00:00+00:00",
      "snippet": "Why These Two UNC System Schools Are Partnering on the Arts The Assembly NC"
+    },
+    {
+     "title": "UNC Finalizes Agreement Ending Civil Rights and Admissions Probes - The EDU Ledger",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkhkbVFWOHdTVE9HQ0g2SlhEQmZqTEJnNG9BSlp2b1FfdFVCZVNkNnZSM3dXSmlvYTVWMDloMXZQOFRucFl2S0pnQmJmalhpTDZ2REs5WnY0T1JHRlR3M3RORWNLcGtxSnFXX1RYYzI2Q21iNk1hYkEyZEVES2xvSVY2Rnd2aHpPd3lZcjFjZXJFY1E3d013TnNicHdYcWZoZWgwb21jZk1GNUVUMURxTU1ZdVRHR1lYZEJYVVhXcmQzZw?oc=5",
+     "source": "The EDU Ledger",
+     "feed": "UNC news",
+     "published": "2026-10-20T18:37:53+00:00",
+     "snippet": "UNC Finalizes Agreement Ending Civil Rights and Admissions Probes The EDU Ledger"
     },
     {
      "title": "Going with the Flow - The University of North Carolina at Chapel Hill",
@@ -2122,14 +2186,6 @@
      "snippet": "Leroy Jackson Emphasizes the Little Things as UNC Looks to Build on Recent Success 247Sports"
     },
     {
-     "title": "S.C. three-star WR Anthony Williams no longer part of UNC's class - 247Sports",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzBjSWkyN0p6NkZpaGJrenJNZlpsUm00VjllcXJmenp3d0dKZE9HUi1LYXVCeUJxRzdpMnZNa1ZaVlBWbWdMR3BwMHR5RGVFMXNNU1VJS3VoeE5HV1Jpby10elo2LXBXaDVaRWc4X3FOdmV2ZjU0WEdETlpMRGM2OU11ZzB2TndETl9XQlprOFJqT0RhR0o2M0lsWXJibFF1RndYbkln?oc=5",
-     "source": "247Sports",
-     "feed": "UNC news",
-     "published": "2026-10-20T16:26:13+00:00",
-     "snippet": "S.C. three-star WR Anthony Williams no longer part of UNC's class 247Sports"
-    },
-    {
      "title": "UNC Reaches Deal with Trump Administration's Justice Department to End Civil Rights Investigations - Chapelboro.com",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTDNHR0tPQzlsUlJVd0pBd3pQdkJqNXJZOWowSG5YZW1Qd0hoOTltemhWNmNvWXhHYjdwQUdRM0V4SEhrZzQ1XzhwYXB6RVlfeXBkQmZBZjE5Sk9EbHdmRGRQMzMtY3RyZzRfYWF0T1RXaWtyU3R4a3hObGxySEg5VnZZdUVrMzU3M2sxdVFYdXJSVmtVTldhUW85ZDZJakFIaWRyRHBZQWc2czVfazEwanVseUtsUE5yZUgtb0FGNFFSNmdkTnJKUw?oc=5",
      "source": "Chapelboro.com",
@@ -2139,11 +2195,19 @@
     },
     {
      "title": "Her daughter believed in Faith Hedgepeth\u2019s accused killer. Now she stands by him - Raleigh News & Observer",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzY29xMjR5M0V1Z1k3c1VlS3VmRTNYaHFzOU9rZUZfWnE5ZWZXVE9teFZNRHBOYnBMMlBmU1NUV0RmX0V3Sy1jZjFVS3o4UmNNcHh5V1FrX1hvYXFpNUpJb3FYQm9TQy1EMFRCai1KbTd1U1NrcEHSAXZBVV95cUxNa3lhZEsyNDdNem9GWDlneEFCeFRScHRRYmpGRlM0QWVSTTJyOHJYR2stV1g2N3ZIa28ybFR1OWxXb0NPanlvbnNUMUxnRGJwdmpnWDZaOGVmYzBhSWMtMHQteUhjLVVsa2ZvQ1NONi05RE94ZE1R?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzY29xMjR5M0V1Z1k3c1VlS3VmRTNYaHFzOU9rZUZfWnE5ZWZXVE9teFZNRHBOYnBMMlBmU1NUV0RmX0V3Sy1jZjFVS3o4UmNNcHh5V1FrX1hvYXFpNUpJb3FYQm9TQy1EMFRCai1KbTd1U1NrcEE?oc=5",
      "source": "Raleigh News & Observer",
      "feed": "UNC news",
      "published": "2026-10-20T16:16:00+00:00",
      "snippet": "Her daughter believed in Faith Hedgepeth\u2019s accused killer. Now she stands by him Raleigh News & Observer"
+    },
+    {
+     "title": "UNC Chapel Hill to create civil rights role, antisemitism training in Justice Department settlement - The College Fix",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGRpbGFTSXo2MHM4RlgzdkJsX2Z1QWVVaDZDUVZiRTRUWDNHbkhjSjdWdXRUUS11RWlQOV9yYTJXeXF2cWhONzVnZ19VMFBGUExFX2Vna2JrRlM1Y0pidk1zS1ZhQkVLV2hmVlliNHR6dTR4eGNkSWcxcGlJbFNORzRRSVBveU10dDBoYVZmVDczaDh1cGNZY19JcEdCbVhWTnVPRmViQ19UdUVTTkJ6a0I5YzVsV242bHJCWWRLNkllWHZnYmhHWA?oc=5",
+     "source": "The College Fix",
+     "feed": "UNC news",
+     "published": "2026-10-20T16:14:48+00:00",
+     "snippet": "UNC Chapel Hill to create civil rights role, antisemitism training in Justice Department settlement The College Fix"
     },
     {
      "title": "Trump administration closes 19 investigations into UNC over alleged discrimination after reaching deal - Washington Examiner",
@@ -2152,14 +2216,6 @@
      "feed": "UNC news",
      "published": "2026-10-20T16:00:50+00:00",
      "snippet": "Trump administration closes 19 investigations into UNC over alleged discrimination after reaching deal Washington Examiner"
-    },
-    {
-     "title": "UNC Chapel Hill to create civil rights role, antisemitism training in Justice Department settlement - The College Fix",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGRpbGFTSXo2MHM4RlgzdkJsX2Z1QWVVaDZDUVZiRTRUWDNHbkhjSjdWdXRUUS11RWlQOV9yYTJXeXF2cWhONzVnZ19VMFBGUExFX2Vna2JrRlM1Y0pidk1zS1ZhQkVLV2hmVlliNHR6dTR4eGNkSWcxcGlJbFNORzRRSVBveU10dDBoYVZmVDczaDh1cGNZY19JcEdCbVhWTnVPRmViQ19UdUVTTkJ6a0I5YzVsV242bHJCWWRLNkllWHZnYmhHWA?oc=5",
-     "source": "The College Fix",
-     "feed": "UNC news",
-     "published": "2026-10-20T15:57:24+00:00",
-     "snippet": "UNC Chapel Hill to create civil rights role, antisemitism training in Justice Department settlement The College Fix"
     },
     {
      "title": "University of North Carolina, US Justice Dept. reach settlement to end antisemitism probe - The Jerusalem Post",
@@ -2178,22 +2234,6 @@
      "snippet": "Isaiah Denis stayed at UNC with unfinished business and a chance to prove himself Keeping It Heel"
     },
     {
-     "title": "Stock Up, Stock Down: 3 UNC Risers and Fallers After Duke Win - 247Sports",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjVaOERyYlJvNnBraXZfbWt1ZzJqSTVIcFlCVkd2VEpxOWREWXVJVkVDOUtaWU10dFFSZkxXT0hVM0pDM1VrekhpUUE2Nmw1T09VMWh4TTV6TV9CbENQNDVJUHM0VlpjV2kzUkV0RjhNOEZWS0sxbVJidlVVZmtMYllxZmR0MWd6OWlKT21XLTFyVGM5ZDhCR2dyUlZOVmhGYUtsbDQ3dDJzVU5mdUJvU3g1ZmRaR0Z6bUhzS1ZCUy0?oc=5",
-     "source": "247Sports",
-     "feed": "UNC news",
-     "published": "2026-10-20T15:06:14+00:00",
-     "snippet": "Stock Up, Stock Down: 3 UNC Risers and Fallers After Duke Win 247Sports"
-    },
-    {
-     "title": "UNC settles Trump administration probes - AOL.com",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2JESFg2UHp0U1FvLTlUNkJFdkVTNDRzNHcxd29WVDR5R1ZqMWQ0WDZUd2stZ1Bwa3A4Mmh4UGp1YWEya2k4QTZxVHBNVlVHV3JFdkFuR2xVLXFwTmxvSGlqcEtBa1o0cF8wczV0ejN2ZjRZcGNUR1Vzak12YkJValA0NDF4aWRTbzEw?oc=5",
-     "source": "AOL.com",
-     "feed": "UNC news",
-     "published": "2026-10-20T14:32:21+00:00",
-     "snippet": "UNC settles Trump administration probes AOL.com"
-    },
-    {
      "title": "Vulcan Elements and North Carolina Collaboratory Partner to Advance Rare Earth Magnet Innovation Through University of North Carolina-Chapel Hill Research - PR Newswire",
      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZGRsQmVROXlTdTMwaWloQWwwNnpZVVpCTTJTYWVIaVd2UGFhVHlDOGFnaDk4a2RlUldPRDA0NGwxMlY1ZVI1bFlfaWFTWG1PTGJucXRDaDVxT1JDLVJQd0tuN0lVYXJTT0JGdi1xOGhpMmhfMnZvR0J6X2lYWVFhd2NSLTFhTHNGQURMRlNrUk1TWUxpd0V3dXpoYm5hdEhYUGx1MXFDUGhreEZYdlFSeUkxUF9ZQVlHZG83T3VIVG81U2pNRU9tcDdTcnFKT3RzX3phRldtc0NoOF9vUmlZZGJEOEpDeWtueWp5d1M2Vjlfc1M3Sjd5WXRCOWJkOU5mdDViYUdPY0FGZ1BqYmdkRkt0TzQ0Q1pkWWFsVVktd3NJTGFhc2lCeEQzZElSTXdYbkNXRA?oc=5",
      "source": "PR Newswire",
@@ -2210,14 +2250,6 @@
      "snippet": "UNC Chapel Hill Settles 18 Federal Civil Rights Probes Without Penalty Hoodline"
     },
     {
-     "title": "2028 ATH Jamil Watson Getting a Better Feel for Defensive Fit at UNC - On3",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3BXaTI5ZnNmYWczb2VDLVdPVUUwU3FJQ2t4WDNucWFsRU1IcDJEc0hEN2lzRE4tTHFKWldKMFpMV1haeUpuR3duR3I4cmNNT2I1VGowWW84Y0lCQTA4Xy1sWnpXUHdPRmhEX0hhY1BFeEdHbVFJNFhQT1NHTkhZZk44amF5M19hdWlhS1F0WE1DVkJ6NVB6MThUcFVxM09hcFhLdEVHNFM0Q3VTMXczUXVLNnBTVnpnYjJMLXRMdVdXOTA?oc=5",
-     "source": "On3",
-     "feed": "UNC news",
-     "published": "2026-10-20T13:15:40+00:00",
-     "snippet": "2028 ATH Jamil Watson Getting a Better Feel for Defensive Fit at UNC On3"
-    },
-    {
      "title": "Trump Administration Reaches Deal With University of North Carolina to End 18 Federal Investigations - University Herald",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVWhacm8xWXp5YXJJMGluZGdxVFJ0TGZFSFNFMkZzbjNuLVhEMXJ0NmtRajFnZm1Bdk45eHhUbzJzdWVXb0xSS1lVbldtbWhKT0s4MG5tbDFDMHJhWXRJRHdfdmdCVkFXa28yNWlLZUZXX2RzRkp0MUlLYU9yZTdZR25OMEFSekNXUldsTmQ2TTB0d1hNbGRZVXNiVnpEYlFoaXVmRkgtSGllN2pnaWtXYmxnZVVXNWlGVllubXdoc1JmdXpVYVQ4QmFqYzdBWHBqX1JiLURSWllSbE1zWXVUM2wyNXQ?oc=5",
      "source": "University Herald",
@@ -2232,38 +2264,6 @@
      "feed": "UNC news",
      "published": "2026-10-20T13:01:00+00:00",
      "snippet": "UNC starter named ACC Linebacker of the Week Tar Heels Wire"
-    },
-    {
-     "title": "UNC Chapel Hill reaches settlement with DOJ - CBS 17",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzJLTzRmaW45dzlZb3B3a2tPOUlfRXdNbUxsVFc3bmh5d3UyTWNyengzNXZOck5BX0RjdUxZNnlOd0EwN0w5TVlhYVdtaUp3ck45Yzh3bHQ4Rjhjb1pkSFFkV01xQTdOSjkxS05mRWtSUzJHMXpaYWtRc2xXS2M2c0pCZGRzQVpk?oc=5",
-     "source": "CBS 17",
-     "feed": "UNC news",
-     "published": "2026-10-20T11:59:21+00:00",
-     "snippet": "UNC Chapel Hill reaches settlement with DOJ CBS 17"
-    },
-    {
-     "title": "Rare-earth magnet startup Vulcan inks research partnership with UNC - Axios",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNjOG1zVm0wMUl6YURESmZ5WlFlMkNJdkpNdEl5YzYta2t1LWRTeGdvMFlSY2puRUd3eFpRT3pnNGI0bWxJenVYU3R1dGV5MURUTFh1RDVTQ0lEY3NBU1F6Q2tEUUF2NVZ5Q2NkZU1QMnVVZHlpaE85YjVzVlVaaXFpZ09jYkRaVXNKVlJMdTh4RjBFcENxNEpEcWx1ZWFLX3o0dW83Yw?oc=5",
-     "source": "Axios",
-     "feed": "UNC news",
-     "published": "2026-10-20T11:36:01+00:00",
-     "snippet": "Rare-earth magnet startup Vulcan inks research partnership with UNC Axios"
-    },
-    {
-     "title": "DOJ announces settlement with UNC-Chapel Hill over antisemitism and race discrimination - WWAYTV3",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHpoeXRqRTE2M0RZX0hWZFhuWEEyRFJrMGc2UzJMbm9DeFQ3a0k1bVBTQ1JmVlJvVjVycW5vaTFYdHVXdm5CZ25kOVF0RlREOXdmUDM5YVVydEJCclVtTjJWaTRJZ2tGVDByalU5aGlkaVlhN19xenhfc3hDV0xLVE9FelBqYU13ZUZPY1dpZHJpcDY2dERKUTJ5cFBqOXo3T3JsYWlmMjk0MDA2eW00cEV3?oc=5",
-     "source": "WWAYTV3",
-     "feed": "UNC news",
-     "published": "2026-10-20T09:52:58+00:00",
-     "snippet": "DOJ announces settlement with UNC-Chapel Hill over antisemitism and race discrimination WWAYTV3"
-    },
-    {
-     "title": "UNC-Chapel Hill settles with DOJ over civil rights suits - CBS 17",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ202ZzA4azltSEJPQXJoM01XRzZXajk5S2ZYUHAxcWFOdHRqV01iR2x4X0ZnWHpsRzQ0RGVJRGVYSm0yUGNzQlN6TkhrWW5GbmdwNzFNcmlaS05HdW9vVFVybW9zTmNJT0lkTjl3UzdTd2pZbHNlVF9iTVpwQ2x5dDZJbmktc0l4LWtIZS01b0w5U1AwRVE2VEtn?oc=5",
-     "source": "CBS 17",
-     "feed": "UNC news",
-     "published": "2026-10-20T03:55:40+00:00",
-     "snippet": "UNC-Chapel Hill settles with DOJ over civil rights suits CBS 17"
     }
    ]
   }
