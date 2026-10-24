@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T16:34:51.224310+00:00",
+ "fetched_at": "2026-10-24T19:28:49.625051+00:00",
  "sections": {
   "immigration": {
    "title": "Immigration: EB-1 & L-1A",
@@ -190,20 +190,20 @@
      "snippet": "Green Card Update: Applicants Could Face Delays Before September Deadline Newsweek"
     },
     {
+     "title": "Employment Visa Processing Backlog Increases - International Legal and Business Services Group",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEtHcEhNNHdMQ2xrVE5QZVZsa3FpQWpXUDVWUXh6N1dOREo4ZnRBUGtOY0lzMDJSZGJVN3c2MmdpS1puUVVLMDhwdnFUYklDUDlHclItQk5xNjZBbWJEYlF5MVZmZl9WZHBSZ19SX193bVBEQWU1WGxPNm8wejlPYkNPbXFla0VDTFcxWFBB?oc=5",
+     "source": "International Legal and Business Services Group",
+     "feed": "EB-1 updates",
+     "published": "2026-09-08T07:00:00+00:00",
+     "snippet": "Employment Visa Processing Backlog Increases International Legal and Business Services Group"
+    },
+    {
      "title": "US green card alert for Indians: What's the EB-1 category likely to become unavailable before Sept ends? - Firstpost",
      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ01OeklPYkV6RmtYQUZGZGRrQWhVa0Z2WDZfLXFaZ3NfbmpXdUpqUExjWmRZemlMWi1pcmtrVGlfMFZuMlM3WEVUUFRhZk5kaWs1WkpjSlI0QjhzYTdRaHFJWVhSVTRvRWoyOERDN2V1ZW41VlRtYlhXOEtMZExZYmlkb2RQT1JsXzF0WFJPSXlySE9OYy1GNUEyQzdva0ZIMjBnZEJVeXIxTTNBNmQxSU56RU1YTkhsTV9TTjF0b05qaVE5Um8wRENuLThvdkRNZjRzNkphMHdnWHdXZ05lMjhfYlhudzjSAewBQVVfeXFMTXpodzItMlJkbWFOdlVGZ1c0N1NHTy1MZFBVVHJvZDk0UnpTMEtyeWxJblh2aGpabFY3d3g3ZG94XzZxM3kyQVlid1pDcm9LVHAwUjk5TDlCNFBFdXhKMENLV25lbUFFdVFYbm9kMkxWc1NRNm5Id1lqb0F1OG5NUXIxOVVDTU4tbHBTbjVKWmxTeVJaN1Ryc21XRHBDWU1jOENwWGFzMkRmMENuODJTY0ZvbTUxTU85d3kxaEhqUFo3UjBKTVRuX1I1Q0JoRU1JaTJ2OFpETmhrQTdoOTFkRE1FT1ljdVlpdGMzaS0?oc=5",
      "source": "Firstpost",
      "feed": "EB-1 updates",
      "published": "2026-09-08T07:00:00+00:00",
      "snippet": "US green card alert for Indians: What's the EB-1 category likely to become unavailable before Sept ends? Firstpost"
-    },
-    {
-     "title": "Video | US Green Card Alert For Indians: Why The EB-1 Visa Queue Is Facing An Immediate Freeze Warning Now - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWDdhbTFYYzZZME1jalFfb3p5V2tWZGl5b3VUc2cyNlMzVVg5WWpMN3lNZUdHcFZ5MXpfc2c3TW92OC15S016Tk9hSzVkc3pHRlRkb2xqcV9adml5TkxjY3A1MzMzejloVXpMMzlLMENyRF83bFdYRFRaUlZsazM5VFN3dzF0SVdfekpZa19Ua01sYW1YeUUycVcwV1k5WUkyM1paQ0ZiZXd6M0Vnd05YSnBVbnUtQWZRd2txbHJPWVJpU1NnTzUwSnBMcjA?oc=5",
-     "source": "NDTV",
-     "feed": "EB-1 updates",
-     "published": "2026-09-08T07:00:00+00:00",
-     "snippet": "Video | US Green Card Alert For Indians: Why The EB-1 Visa Queue Is Facing An Immediate Freeze Warning Now NDTV"
     }
    ]
   },
@@ -212,12 +212,76 @@
    "blurb": "AI breakthroughs, model releases, and big tech moves.",
    "items": [
     {
-     "title": "Letter: Delay the deployment of artificial intelligence - Grand Forks Herald",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUl3Z1V4Q0ZBZUx4SDhLaTBsWjl3aW84QllITWpxdHpuYUJaOXgwS2ExejRVeW9LZzY0bVBmZGFqN282NTRpd1Z1V0dNbzg0ei13RWhpMWU5M1VDSVRFSF93eGFXWmkwRHFsQkVsSUhFanFHVnFuMGVXYmUzcVIwWmtEQUp5V1M2cVREOW02TmZWWmdaTEk3Ukt6Y2oxQkwwR3RVc1hn?oc=5",
-     "source": "Grand Forks Herald",
+     "title": "\u2018Synthetic twin\u2019: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone - The Guardian",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOODF5SmRSOVBTbEx4ZFhMcjFmQmdxNEFMa2wtT2tOZmVIQUtUaFVBR04xZk1HV0lyQk1oVFVxQUhMX2JHMzZvY2otSXp3TXF0WlUyNzRCTUZEZlgwbXg0Z0hKYjYxdTcyUmlmbzVGOWZiZk1vYnZOeVJmV044Y1FzM0RPME0wZTFvbjAySWtSTjNRV1NSMnYwdm41Wl80RDNobVY3V1Z1ZTN4OWYyWGEyOHVjaTZjbFphbEJwaUNWX2UwLXR0OVhVNWxEMXp3ekVsWWlxZEVKWWdyclZO?oc=5",
+     "source": "The Guardian",
      "feed": "AI news",
-     "published": "2026-10-24T15:39:13+00:00",
-     "snippet": "Letter: Delay the deployment of artificial intelligence Grand Forks Herald"
+     "published": "2026-10-24T19:01:00+00:00",
+     "snippet": "\u2018Synthetic twin\u2019: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone The Guardian"
+    },
+    {
+     "title": "Pennsylvania will require labels on AI-generated ads - The Verge",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc01zYzdVcy1lZkdPaWdaZG1hTlBWcnpBejRwY05jYU5SR0l5R1J3TFgwektLVTBnQzh0ZDNjdXZOT25tcXY1ZnJKU1AxRXNSem9XQllXUThhUFJ3cDRzU0xQVmhKd2I5dTZxbXpSbG9hdU95T0FPR19DbzRHSjhCSWtNbWYxSEZadGVCSWlNTFBlQjFJQ3o4c1ktcnp0QXV6MGww?oc=5",
+     "source": "The Verge",
+     "feed": "AI news",
+     "published": "2026-10-24T18:32:21+00:00",
+     "snippet": "Pennsylvania will require labels on AI-generated ads The Verge"
+    },
+    {
+     "title": "The iPhone Duo Just Passed 20,000 in Our Fold-a-Phone Testing Machine. Can It Beat the Galaxy Z Fold 8? - CNET",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrTEd1bnktN3FaS1hZLTAxcVBBYWM1LU5Ldi1KelFJYnYzN1FNRUxmaHRCdzNhMnNSNXlaeDVyd1ZwYXBmR1JaOFk2M2tzTmw2SXpxYzN6Z2ZEMjFZOE5MbjlwaHNXU0ZmSk4yMlY0QQ?oc=5",
+     "source": "CNET",
+     "feed": "Tech headlines",
+     "published": "2026-10-24T18:16:00+00:00",
+     "snippet": "The iPhone Duo Just Passed 20,000 in Our Fold-a-Phone Testing Machine. Can It Beat the Galaxy Z Fold 8? CNET Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales Ars Technica The iPhone Duo could be boosting Samsung Galaxy foldable sales Mashable Samsung Continues to See Record Sales for..."
+    },
+    {
+     "title": "Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review - Cureus",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdDgwdmJDZU81bDhySDlpNERRakZWN2tLNFd5cjdRbWxxc1lIcE40V2J1aTV0TXB0eFhmM19XNWNpalNYNExldk54UC03dHFhUDdzUWFNOXhPdm9HS1dkRzVxRXpKRi04WkZGanNta3JUOTNMbmhleEpYa2tSeS16LUQ1OExxaTN6bWpkSU5vM0gtSVdoWWw3amhDOExua0FOMXZFR2VDbF9uQWVkRXBNR0M0QjdyNzFkcUxkelpwQ0Q1cUhsc2ZQb0pMV2txN0lKaUNwNzAzWHQta3J4T2pVWXlGR3Blc0lk?oc=5",
+     "source": "Cureus",
+     "feed": "AI news",
+     "published": "2026-10-24T17:43:26+00:00",
+     "snippet": "Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review Cureus"
+    },
+    {
+     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows - Oregon Public Broadcasting - OPB",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1p6M2VvcDU0N0R5WUxxSWlkQWpkSjc0akpsMnh0SkV1azJEblAyd2ttWWRydElkd3luM1o0aC1tVlVrRnU1VlJBLWtoV0RQNnFySUh1eTdqR243WjV2TTlBUUlZcVpXaXhrQWU4dlpuNm42WDFlS2tJOGFmMzZHZ3VDaUxQdkV0cXZsS19iQ3NSbnJhRXNpSHZON1p4c3hiRmhaLS1acDBJeGpzWUE3MF8yaDBEOV85N1E?oc=5",
+     "source": "Oregon Public Broadcasting - OPB",
+     "feed": "AI news",
+     "published": "2026-10-24T17:41:23+00:00",
+     "snippet": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows Oregon Public Broadcasting - OPB"
+    },
+    {
+     "title": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely - Gizmodo",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUVtbjVJbzVlbURNcEQxdmRCSXFWRFFfS2JGeHdPSnRUM1UtODYtRC1fZlgyN0JGRnVDZ3czRklJQmFDWVR6NldGMjI2WkNnaG91UXRJcGoyS0NaTDhmRV85OEtEeXMwMUhyYTExdlkxYjJidWJ6aWRGTWpyQmJEdW82YnRncHRTelhrUmhPUTV0RHdib2QtVy1DUHBqZ1NhdXJNdnk2RQ?oc=5",
+     "source": "Gizmodo",
+     "feed": "AI news",
+     "published": "2026-10-24T17:30:05+00:00",
+     "snippet": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely Gizmodo"
+    },
+    {
+     "title": "Xbox's brand-new COO is already gone, three months after the job was created - Eurogamer.net",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ncDd5aTRLTk9aZTdUZU4tZTB1Q1dMYmFGNnh2clhyMm03LU9uV0pVUjlQQk1nMlBwemZ5dVpJaDBzVXhIY2RiYk9fdnZsMnRkZU1Bc0QtN0sxUjJFV0FyUTZpTHN3Y3NGRkRXYXlNakVqQQ?oc=5",
+     "source": "Eurogamer.net",
+     "feed": "Tech headlines",
+     "published": "2026-10-24T17:06:52+00:00",
+     "snippet": "Xbox's brand-new COO is already gone, three months after the job was created Eurogamer.net Xbox\u2019s first chief operating officer is out after just a few months The Verge Xbox's First-Ever COO Is Already Leaving After A Few Months Polygon.com Helen Chiang reportedly departs Xbox COO role after three..."
+    },
+    {
+     "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information | Newswise - Newswise",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk9VQ3BTSXpXMldfNmtNZWlybzUwellMSnNzVmJ2YzhLMi04U3lsZ0NhZXhWRWRjaDNpUklTVXU5UkY3RlFkR19FUXhyc3lRX0ItY18zd0RBTTJSN2Z1MV9wMm9vYm16ZWVzY2ZTWFJzZzFPSG9ia3VLVUhyR0FqQjZlOFNPSE55Umw4eFpRZ1d1ejdaSkJ6S3J4VmFRQVE3TFpfMDhKeUhzTEthVkpnM2dMeng1bGxhQ0s00gG7AUFVX3lxTE5WT1VDcFNJelcyV182a01laXJvNTB6WUxKc3NWYnZjOEsyLThTeWxnQ2FleFZFZGNoM2lSSVNVdTlSRjdGUWRHX0VReHJzeVFfQi1jXzN3REFNMlI3ZnUxX3Ayb29ibXplZXNjZlNYUnNnMU9Ib2JrdUtVSHJHQWpCNmU4U09ITnlSbDh4WlFnV3V6N1pKQnpLcnhWYVFBUTdMWl8wOEp5SHNMS2FWSmczZ0x6eDVsbGFDSzQ?oc=5",
+     "source": "Newswise",
+     "feed": "AI news",
+     "published": "2026-10-24T16:25:00+00:00",
+     "snippet": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information | Newswise Newswise"
+    },
+    {
+     "title": "AI models may not be so opaque after all - The Economist",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlhJcEk5aFhZV2lNYXd6YWJBOGZ3XzJBVjlNQ2dBUGhIWGZybEpERndHR2kyLWVpbVNYVDltNUNBc0FVYlVkNE85MDlsVHBxbmJXZjdGd2xVUGZKVTh3ZUtEbVo5QXo1dnNTbXAwQzVYc0VzN2FaRXkwVkdoVTRWRjh2M0lDODY0ckRyUUFnRVQ3eTJQT0twWVdfak5IaE80U3c?oc=5",
+     "source": "The Economist",
+     "feed": "AI news",
+     "published": "2026-10-24T15:20:57+00:00",
+     "snippet": "AI models may not be so opaque after all The Economist"
     },
     {
      "title": "Mozambique\u2019s INTIC promotes cybersecurity awareness and responsible use of artificial intelligence - Tech Review Africa",
@@ -228,12 +292,36 @@
      "snippet": "Mozambique\u2019s INTIC promotes cybersecurity awareness and responsible use of artificial intelligence Tech Review Africa"
     },
     {
+     "title": "WA school AI policies are stuck in the 2010s, not prepping us for tomorrow | Op-Ed - The Seattle Times",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGRWMURscHVpM1E5eHM5d0tpN21DTVJJRUlqUlFURy1xSEktbHNUNmZMRWNsT2NCWUdOelhzaW5rNmtiZnlLdkx0VG8yRTdFdVhUdWp4YXhyaEJaX2MwMzZ5d0h6ZU0yRXBhLUU1X2tfQzZtazl1YXhUNUxtS0lORks1MEhEaWxlZ2lrNm5jdW80LUV3Y29Uag?oc=5",
+     "source": "The Seattle Times",
+     "feed": "AI news",
+     "published": "2026-10-24T15:00:00+00:00",
+     "snippet": "WA school AI policies are stuck in the 2010s, not prepping us for tomorrow | Op-Ed The Seattle Times"
+    },
+    {
+     "title": "These clever apps show off the iPhone Duo\u2019s potential - TechCrunch",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlJLNjV4UU9KbEtGc0FQWGRwbU1VU3pwdWEwLXJZNklpZkE4dm9vSGUyOFdIbmpjVjFGdWdBUmZjdm5XaFZzWXo4aVZjMWQ1YVFCdTFTZzF4QkZkVXVSQXAxRTNZaEI1NTdqdEYzcktHRDFMZDBGR0daRUFuclBwZzdaQzlvWXRTeU1rWVRYR1M?oc=5",
+     "source": "TechCrunch",
+     "feed": "Tech headlines",
+     "published": "2026-10-24T15:00:00+00:00",
+     "snippet": "These clever apps show off the iPhone Duo\u2019s potential TechCrunch 9 Unique Apps to Try on the iPhone Duo WIRED Developers bring incredible new app experiences to iPhone Duo Apple 7 iPhone Duo Apps That Take Full Advantage of the New Foldable Phone CNET Apple's brilliant move makes the Duo unlike any..."
+    },
+    {
      "title": "AI in the middle market: High satisfaction, limited enterprise adoption - RSM US LLP",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGRUa2hEa2NMdjFRVllHNkh3bXExbk9mNm56UWV6dGdaNkQ4SDRab3VKNU9FNnZQSThZM1F3VDVXUEl2Qmdqb0xFS2pLUVI2UWFwV0VHQkJLYTQzdWwyUXFZY3ptN2RCS2piaXAtb3lOZ1lWQ1lLZGo0UHZRTnhhMVJ1LTRMc0MxSXJsS3l5X3dQa0Rw?oc=5",
      "source": "RSM US LLP",
      "feed": "AI news",
      "published": "2026-10-24T14:38:37+00:00",
      "snippet": "AI in the middle market: High satisfaction, limited enterprise adoption RSM US LLP"
+    },
+    {
+     "title": "Swap The Bathtub Curtain: Add Privacy With An Amazon Alternative - House Digest",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1VFMFd6UU5TZm4xM1RTYXpsRlM2WnFXNXFFTGRXQ0VNZGxDVXJwbG15WGJJbWY0Q1pmMHA2OWJDSGZ1bWdDaEp0X1B5S0lWd2RjcjNqSjdId3lxcHBoZG9NN0NiemlSQUdfZGJsZDhCT3ladXkwQUQxZDN4NjBpWWF5ZnRNUHNEYUNfNFJXWjZITFdEcnV0amFXWV84Q082blE?oc=5",
+     "source": "House Digest",
+     "feed": "Tech headlines",
+     "published": "2026-10-24T14:30:00+00:00",
+     "snippet": "Swap The Bathtub Curtain: Add Privacy With An Amazon Alternative House Digest"
     },
     {
      "title": "\u2018Cyberpunk 2077\u2019 Rockets To Its Second-Highest Playercount Since Launch - Forbes",
@@ -249,15 +337,15 @@
      "source": "The Verge",
      "feed": "Tech headlines",
      "published": "2026-10-24T14:15:00+00:00",
-     "snippet": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event The Verge Four advantages MacBook Pro redesign will have over current model 9to5Mac Apple's 'Pro and Tell' MacBook event is almost here: Everything we expect Mashable Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More MacRumors Dear..."
+     "snippet": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event The Verge Four advantages MacBook Pro redesign will have over current model 9to5Mac Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More MacRumors The new iPad mini is coming to put the Air out of its misery Macworld Apple's 'Pro and..."
     },
     {
-     "title": "Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI - Futurism",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjk2WmZDUGFsRTdKUW1sVThMQWszb29NeFNiMjZ1dC00ZGFxQXlLSjduUjVyUkQtVnJYUHNhbmZJZVAycDdsdnRKcXlCaDVJTzlBd21ITzJ1ZXJQemdxYnJ6WnpyZU1vLTlOa0JVU1F0Q2FEaVFlX1FlelVtX05KZVd1Y2d1RnJsRXIxTGl3?oc=5",
-     "source": "Futurism",
-     "feed": "AI news",
-     "published": "2026-10-24T13:55:00+00:00",
-     "snippet": "Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI Futurism"
+     "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop - The Verge",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmUxYy1sMTdoZEtXektnaEFmZ2ttZW0zTTFIT3ZXci00M0oxWGluUzZaQTlzRG5JUFM3Z0gzZ3JjbnFnS1hRamlkbTRZcVN4cUg1d1hteGswc3pORmRLZU81dHFzaGU5UG1oZkdLeVlKb2NOZnZGRDFwYWZ0R3VrM2tlckVpQ1pRekJhOUVkN2Nod0lhak1kcEtoeTMwbjFjelkyNA?oc=5",
+     "source": "The Verge",
+     "feed": "Tech headlines",
+     "published": "2026-10-24T14:00:00+00:00",
+     "snippet": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop The Verge Lenovo's New Yoga Laptops Target AI Creators With NVIDIA RTX Spark And OLED Displays NDTV Profit Lenovo Yoga Pro 9n & Yoga 9n 2-in-1: 7 Powerful Features thedigitalbriefnews.com Lenovo expands the Yoga portfolio..."
     },
     {
      "title": "Anthropic\u2019s AI Hid a Secret Message in the Stars. OpenAI\u2019s Bot Found It. - Gizmodo",
@@ -266,22 +354,6 @@
      "feed": "Tech headlines",
      "published": "2026-10-24T13:31:26+00:00",
      "snippet": "Anthropic\u2019s AI Hid a Secret Message in the Stars. OpenAI\u2019s Bot Found It. Gizmodo"
-    },
-    {
-     "title": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVBRaFNhTkpyeEZmQWtnZWE3UFNEQzM3d3lndzhpWTFadU9JbGhYTWRCMzhaZ0toeUF0S3NiTUdCaDBzazhuNDFyVmxXOG9ZWldXc0JpUHdiaTFjSXpCTHlWcmp0c2pUaDN5RjlvUWZUeGJDTzhyZmZJQ2xXemo3QlJFZXVIWUlKaFpoRFByMF9OQ2lTNC1B?oc=5",
-     "source": "Yahoo Finance",
-     "feed": "AI news",
-     "published": "2026-10-24T13:22:00+00:00",
-     "snippet": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years Yahoo Finance"
-    },
-    {
-     "title": "Xbox's brand-new COO is already gone, three months after the job was created - Eurogamer.net",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ncDd5aTRLTk9aZTdUZU4tZTB1Q1dMYmFGNnh2clhyMm03LU9uV0pVUjlQQk1nMlBwemZ5dVpJaDBzVXhIY2RiYk9fdnZsMnRkZU1Bc0QtN0sxUjJFV0FyUTZpTHN3Y3NGRkRXYXlNakVqQQ?oc=5",
-     "source": "Eurogamer.net",
-     "feed": "Tech headlines",
-     "published": "2026-10-24T12:57:17+00:00",
-     "snippet": "Xbox's brand-new COO is already gone, three months after the job was created Eurogamer.net Xbox\u2019s first chief operating officer is out after just a few months The Verge Xbox's First-Ever COO Is Already Leaving After A Few Months Polygon.com 'We'll Share More as Plans are Finalized' \u2014 Xbox's..."
     },
     {
      "title": "We Investigated Character.AI and Found a Horror Show. Now It\u2019s Bankrupt. - Futurism",
@@ -297,7 +369,15 @@
      "source": "MacRumors",
      "feed": "Tech headlines",
      "published": "2026-10-24T12:12:00+00:00",
-     "snippet": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada MacRumors Apple\u2019s Foldable iPhone Duo Arrives in Stores: Smartphone Review The New York Times The iPhone Duo is a messy, expensive good time The Verge The iPhone Duo is officially here \u2014 get it for no money down at..."
+     "snippet": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada MacRumors Apple\u2019s Foldable iPhone Duo Arrives in Stores: Smartphone Review The New York Times Apple\u2019s Most Exciting Phone in Years Has Growing Pains Bloomberg.com The truth about iPhone Duo problems: The shoddy-looking..."
+    },
+    {
+     "title": "Letter: Delay the deployment of artificial intelligence - Post Bulletin",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenlIQnU2UjhqeTJQazBpLU5wbjdhdU1zRmVMREMzSERNa0k0bGdkN1lFTHBXN3J6QWpJdkNGRWsxSnpxOUlQS19sTnV3M3VZN0c3Wi1OT0N3ZnRhcmh3MlU4Zkh4UFdUQ3B6U3U1ZW40aGhaa1Zucmx4Ry1YSEROM3RlRGJnbGY4VlQ1OGVTTVY2Y3N2aDVsNHBJaXpqYUJY?oc=5",
+     "source": "Post Bulletin",
+     "feed": "AI news",
+     "published": "2026-10-24T12:03:05+00:00",
+     "snippet": "Letter: Delay the deployment of artificial intelligence Post Bulletin"
     },
     {
      "title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently. - The New York Times",
@@ -324,92 +404,12 @@
      "snippet": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry. Live Science"
     },
     {
-     "title": "Engadget Review Recap: iPhone Duo, Rivian R2 And More - Engadget",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWxCd1hYN2xiVVNVVmhzbmlCSE5IMDV5OFc3ZExUQVZDbXlLMGs2aEo1enNUTk9tRXFhSkNteWtWY05SQ1ZmYm4zcnNrallqaUFveUxPRGE2MmFyRmo3am1VMzFTNzROdDFLbnFzdkpUMlc2ZVpNRENOZUpLWGdVQWo3YnJKMWtpaWc4MDlR?oc=5",
-     "source": "Engadget",
-     "feed": "Tech headlines",
-     "published": "2026-10-24T12:00:00+00:00",
-     "snippet": "Engadget Review Recap: iPhone Duo, Rivian R2 And More Engadget"
-    },
-    {
-     "title": "It\u2019s time to find a new browser - The Verge",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRm1lSjNVTE9CbEVCeElnV0Zhdl9uZ3luVGtMU2JVQlVNTmRVMUxNMXZQNllteXd3T0F3MXFEUHJ4a01WeXo0UHVsWVR0eFBERHVpNnU0bzMwMmE5MjhrVEVncWNONGNlanJYNzUtOGRTU3FTNlBIMWNpeFFqdDQ?oc=5",
-     "source": "The Verge",
-     "feed": "Tech headlines",
-     "published": "2026-10-24T12:00:00+00:00",
-     "snippet": "It\u2019s time to find a new browser The Verge"
-    },
-    {
      "title": "Artificial Intelligence: A Blessing or a Curse? - The Good Men Project",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWtKWjVfblJPLWhnczNMcS1IWWpFUlhvMEdmaVJSNEZnRHZiMVhqMUt4MC1iNG04aGVEWjBiT2R6elhDWWYxWWxMUFprZlh6V1ZFRnJ0VGFHSVB3QXpEYUdZc3ZmeG92UDE4MmlhQlZlYWRsZklHTjlia2Q3Z1gzNGZLYlRsS1NtUFVRMnlMRTc0MUZLVjNPZ2c4QQ?oc=5",
      "source": "The Good Men Project",
      "feed": "AI news",
      "published": "2026-10-24T11:28:29+00:00",
      "snippet": "Artificial Intelligence: A Blessing or a Curse? The Good Men Project"
-    },
-    {
-     "title": "Artificial Intelligence Advances CNS Autoimmune Disease Care - EMJ",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGw2ckNQSURfaVFLNTg2MUhERWI4WGhTZllVVDhVTFFqQWppSlhyWUIxOC1fNTJ1V2VQTTluS0VkM242S0RjTnJFdVgwX09NdTNTcWlTMUlPTkRoN29Lc0QwZU8zSWJYYU5HbkNQS1l4d3BPU3pfTmpJd05lT3c5bDJzZ1lsNlFnV3J2SHMwQjBwS0JEMEh3LXBsZE9nVWlCSEhCSXVn?oc=5",
-     "source": "EMJ",
-     "feed": "AI news",
-     "published": "2026-10-24T11:05:23+00:00",
-     "snippet": "Artificial Intelligence Advances CNS Autoimmune Disease Care EMJ"
-    },
-    {
-     "title": "Saturday Hashtag: #AIDebtMonster - WhoWhatWhy",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkR0eVZUQklZdExveUpDbVAwNW5JYmhOSVA1LUlScDgtcTBWcVBFUDF4d21fSlcxVVoyaVNyNGlTQ1ppcW1KRDE2TEFJWUJKemE2R3VBX3YxV1BZRTZQTXVsZ1M2Y2pzMWg4c29RWTlYM1Fha24wN2llRXpOSUJxVGV2a0txcnZZY3A0S3JqRQ?oc=5",
-     "source": "WhoWhatWhy",
-     "feed": "AI news",
-     "published": "2026-10-24T11:01:46+00:00",
-     "snippet": "Saturday Hashtag: #AIDebtMonster WhoWhatWhy"
-    },
-    {
-     "title": "I didn't believe this Claude wizardry could actually speed up my Google TV until I tried it - Android Police",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVJQU181WFpDdEZPR2Z1OWJ5Y2RIWmxJZzRNd2hlRTM1dkJVYkQwYS1kaHZyaUI2QkV4X0hpUUpUMXRBODFSekJwaWlrVlYxUkJGbTdfbE9kcXN5LWllRV9OV2ZxZ1NWV0Y0and2NXA5SFY2Z2VLV3Y0Qzc0QzJqT2EybFdDVzlSc1JkWGE4aGpqZG1wTEMxMV81ZlQtZmFqY1I2UmxnUmI?oc=5",
-     "source": "Android Police",
-     "feed": "Tech headlines",
-     "published": "2026-10-24T11:00:14+00:00",
-     "snippet": "I didn't believe this Claude wizardry could actually speed up my Google TV until I tried it Android Police People are using AI to make their smart TVs dumb again TechCrunch Someone debloated their Samsung Tizen OS TV by pointing a camera at it for Claude to see XDA Developers Are Using AI to Strip..."
-    },
-    {
-     "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
-     "source": "CNBC",
-     "feed": "AI news",
-     "published": "2026-10-24T11:00:01+00:00",
-     "snippet": "Nvidia's role as AI financier faces first big test as neoclouds take market hit CNBC"
-    },
-    {
-     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads - The Hacker News",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qRDRfVDhHUXo1V2dlTDA3c1NMWmJabkRmRTVzYkdRSEo4cUEtNUZSdXhVenpUVTNSbW4tMW5IdmlITVFlN0lLWlNBa0lpLW9SUjRnZnZxVVc1c2J2WFZaLUVvREhzQUtxUzVCWDl4cDFtM0d3RzVJUEcyYzA?oc=5",
-     "source": "The Hacker News",
-     "feed": "AI news",
-     "published": "2026-10-24T10:36:00+00:00",
-     "snippet": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads The Hacker News"
-    },
-    {
-     "title": "Nvidia warns: Lack of computing power threatens Europe\u2019s competitiveness in artificial intelligence - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb21xbm5YNzZCcUhlbW9MaHRtZU9ZMGRnbmZyRk40MGsyWEh6MjNxUlBsSkpoQ1k4czlDNndraDZ6T2Zic2F4RkZOTVhyeHVrV1Yyam04OFVZbmYtT1R0V2dGV2QxOElCbGtRYlJpRDlMZFBBT3hpQjNMWWhJR2Zpa0xHZkNCa0d6cF9ZMHAwVFNNamxmaG5BM29BY01FU2ZkV0tCU2JkVjB0amdwUVN2UzJPV19raTcxN1JadFZFQlA5SlpSLTZoalZwZzlPVjJFVHUtVjhqcXVDTlFJd2dVSndxZks0d3FQdFdEeWkyNG01a3c?oc=5",
-     "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
-     "feed": "AI news",
-     "published": "2026-10-24T10:32:26+00:00",
-     "snippet": "Nvidia warns: Lack of computing power threatens Europe\u2019s competitiveness in artificial intelligence \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a"
-    },
-    {
-     "title": "Check Out the Many Uncanny, Human-ish Voices From Block\u2019s New AI Model - Gizmodo",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXBMaW5TTE14TmQ3WDF0Und5eDRka09adl8zbHJEajdiZzZ0dnpKV2RMZWQ2cXBFTm80Q2J2S1hnS3ppNmJVRHM3TmxuNzhmZ2RBaGhYVkRlM1RjejA4SmFGRGpXTllRaEdJSWRLS1EtQ2hZNU5yQjdBSHItUmhkc0cyNl9WRWZVTk9XR051RjhCWXRIdjY5SmpJX1hHc29U?oc=5",
-     "source": "Gizmodo",
-     "feed": "AI news",
-     "published": "2026-10-24T10:24:40+00:00",
-     "snippet": "Check Out the Many Uncanny, Human-ish Voices From Block\u2019s New AI Model Gizmodo"
-    },
-    {
-     "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly - Polygon.com",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXVtMHJzWXFIdllQSlFuZHh0M05IaEk2aTNpenZfVTBLcTJySm1Eb2cwYWUydjJEU2hKZllYRThLNVRjZzZnOEJka1QxQjFqTlVCU0VLWDlqQmltOFNqb25fRGF3ZzhGUUxGWGFYWjg0U3pnYXdRWnlENVlQY3FvR0sxWEV1UlRVRVVxMHlqTlBtVUxyMHB4N2VLSUs?oc=5",
-     "source": "Polygon.com",
-     "feed": "Tech headlines",
-     "published": "2026-10-24T10:13:19+00:00",
-     "snippet": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly Polygon.com Shigeru Miyamoto explains why AI won\u2019t make human creativity obsolete Video Games Chronicle Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award GamesIndustry.biz 'There Will Always Be a Role Left for..."
     }
    ]
   },
@@ -418,20 +418,28 @@
    "blurb": "US stocks, trending tickers, ETFs, mutual funds, and what big funds are buying.",
    "items": [
     {
+     "title": "China\u2019s Stock Market Is Trailing the U.S. by the Widest Margin in History - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFpEVS05QzlFMHZpaU9IN3JBeTFZRDVLOFlMTWJaMzk0Y01DdDJha3R0d1FtZ2FLRVNNSVE1Q2pSUldqTjgyaXplaUJ4QldscEFpOFBuRWVyQW5MNGtjaVR0dTN3emwtdzBGbzFwcGpweHNJUm1ZaGJVTUJWbWFidnNFZ3NJaUJFUWtRT1BkMFlTanROSXlsZWlNUmVtV3hCbGdz?oc=5",
+     "source": "Yahoo Finance",
+     "feed": "Market news",
+     "published": "2026-10-24T16:57:56+00:00",
+     "snippet": "China\u2019s Stock Market Is Trailing the U.S. by the Widest Margin in History Yahoo Finance"
+    },
+    {
+     "title": "China\u2019s Stock Market Is Trailing the U.S. by the Widest Margin in History - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFZVV3JRV0NyVFBWc2tfNVltdzdTaUVZZVQxbjNQMnFLdnRSSmdvQVN6cmVHaHFMc0xpUzduVmFtSVpSX3Q1MnplNUVqSjZYdEJCZ1pWODhuSDVHZG0tZlR6RGRvX3dGOTM3TnA0X1lzSldGUWpCX1lyMEVZYzNIYjhzNVRjUUhiOTl2c09LQUI5Ti1VUDF6TUZlYVNkZlhmNUo2R1YwV0NOZzk2QWlucUNhZ1N3dw?oc=5",
+     "source": "24/7 Wall St.",
+     "feed": "Market news",
+     "published": "2026-10-24T16:57:00+00:00",
+     "snippet": "China\u2019s Stock Market Is Trailing the U.S. by the Widest Margin in History 24/7 Wall St."
+    },
+    {
      "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
      "source": "Yahoo Finance",
      "feed": "Market news",
      "published": "2026-10-24T13:30:00+00:00",
      "snippet": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections Yahoo Finance"
-    },
-    {
-     "title": "Rivian Shines as a Bright Spot in a Down U.S. EV Market, and Surprisingly, It's Not All R2 Driven - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2g3eXV3cjJQZFcyWEc0RUI4dTV0dGF0VGpEdmFib0lUbTlyOVhWU191Nk85ZU5VWEZNZEN1SE55ZE5TeDMwWVZkNURpeVhLN19mV0NUUFlMcmxDQnEtcTJrSkx5M3pTYkVuRDAzbFBTakQwSmlOMzVUMGNpT29IVHNLb05rNDdNY0EzNy1MQWZkOThCNDk3bldBcw?oc=5",
-     "source": "Yahoo Finance",
-     "feed": "Market news",
-     "published": "2026-10-24T13:05:00+00:00",
-     "snippet": "Rivian Shines as a Bright Spot in a Down U.S. EV Market, and Surprisingly, It's Not All R2 Driven Yahoo Finance"
     },
     {
      "title": "Billionaire Paul Tudor Jones warns AI and IPOs could hit stocks hard in 2027. Protect your nest egg now - Yahoo Finance",
@@ -442,12 +450,12 @@
      "snippet": "Billionaire Paul Tudor Jones warns AI and IPOs could hit stocks hard in 2027. Protect your nest egg now Yahoo Finance"
     },
     {
-     "title": "Americans have never had more of their money in stocks \u2014 not even in the dot-com bubble: Chart of the Day - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlN3ZVhVZ3MyekFVZ3RKWEVUWUVqOTZwbWpIVmZtLXBGczNIUmlMMWZVTmpfcUdyQWQzN3V4azQtWmNDTWQ1bDdKWXlyS0lNYzRXUFFBOXdpSk1VbnZWaldiVGxUYjBIQzAyamQyQ1lNT3lyaHhXNFh0VGNCaGJwVWhCeWh1UGJQa2xPVDVpR0xreXlPYWhvUzJSbUUtY2dOcUlIaDBWM2tPRUtuVGpXQVBjSng1blBKaWo2YktLMlZucUN0RkVZbm9fRlhGSTlyRGo3QmdhUU9iY0tkS0J4Zm9KdEc4VklhSkVBSnlIcmNQdw?oc=5",
-     "source": "Yahoo Finance",
+     "title": "AI panic and market volatility: Are the stock market\u2019s big gains unsustainable? - NPR",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDgzeTZJU2VCQ29lMFRsSWZ0RjFOcWNDczFzVzlFWVdkR00wNjJqc2tBQnozUmM2ZlNXcHZOcl9UdlJwdFB1RnFzSmdQV1JqRUxfQ0JPbEthRS1wMC0xb3lfSktJdk85bEtpVXlqZXdNYWVOb2MyYm5CZ2hZcV9DWllTd1MtVEVveWtfSHdXRWkyalBJdkdsdFNncmkyRnlIQTZiX2xtS2lMTFhPQU5Qd2ZsdS1aeXR3TVg5Q2xR?oc=5",
+     "source": "NPR",
      "feed": "Market news",
-     "published": "2026-10-24T12:01:27+00:00",
-     "snippet": "Americans have never had more of their money in stocks \u2014 not even in the dot-com bubble: Chart of the Day Yahoo Finance"
+     "published": "2026-10-24T11:42:12+00:00",
+     "snippet": "AI panic and market volatility: Are the stock market\u2019s big gains unsustainable? NPR"
     },
     {
      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says This Could Happen Next. - The Motley Fool",
@@ -570,14 +578,6 @@
      "snippet": "Update: US Equity Indexes Fall as Rising Iran Tensions Push Crude Oil Higher Yahoo Finance"
     },
     {
-     "title": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjV1TWI4b1ZEcnZ2YTVUMW5zZnJCUG10TUZxa255RjFkbjcyd3BSdW1FWjZvYW1yTWxEQWduVDdUWjVDSjY1LURkWmFxLUhUc0k4T2dmRmVQbVVfUFlnd0tmdzZFTU9GNmdSS0ZPellPdkE1M19tREhpLWVvOG45aFNCZHpEUTlyb0NoMi1pbHNJdjllMkU3azNQNkNsS3A3RGFoMTZwTEJOSTNYX0VXaklKWjMxYVJGU2E3M3NmTDRHQmluVF9z?oc=5",
-     "source": "Investing.com",
-     "feed": "Market news",
-     "published": "2026-10-23T19:18:08+00:00",
-     "snippet": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts Investing.com"
-    },
-    {
      "title": "How Worried Should We Be About the Economy? Let\u2019s Look at 2008. - The New York Times",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkhaOEp0cXJmVGhjZnc5ampxRFFuelZOWndNUFJnVjg0Tm1KMUdJa1luTWNLQVhIZkhpRHNXeUFzQ0xaX0VVVlRUVTRTQjJJcVNHem9QN1FqNlhBamVLZzV2cmszeFpZUkx5YVVVOThQbkN0cExTQTBxR0cxWFNyZG9KQmM?oc=5",
      "source": "The New York Times",
@@ -624,6 +624,14 @@
    "blurb": "Sensex, Nifty, Indian trending stocks, ETFs and mutual funds.",
    "items": [
     {
+     "title": "Indian Stock Market Bloodbath: \u20b920.78 Lakh Crore Wiped Out in Four Days as Crude Oil Surge Rattles Investors - theopenpress.in",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXBKUVExXzJieDFlSVBiNHV6NGVidkdQcXROODJPWXZJM1RFcEVFUThqVGhCazlWWWJQVE1pcFdPQWZaT1pTSEVsRVFfVVhBRmlVODRSN2R0SzUyZWJzVEQ4ZVRtRjZCcUpGdkpzT2kyRW9QWURoLVp1T1FISWtGTnBlMW5FdTRZdkE?oc=5",
+     "source": "theopenpress.in",
+     "feed": "Market news",
+     "published": "2026-10-24T18:11:56+00:00",
+     "snippet": "Indian Stock Market Bloodbath: \u20b920.78 Lakh Crore Wiped Out in Four Days as Crude Oil Surge Rattles Investors theopenpress.in"
+    },
+    {
      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1JGTng1d1NlNjhDSmF3dFZtU3V3ekFoVWdJc1dvUVpsZFYxbEh3VWdyRVU1b3J5eGlqY2pCWkZuRW9NOTFfMDJ2SXNBN05raER4aXFmcVY3aXg3NFdHckhQVHlEd3BvMzJLY0l3VXdBNHRoOUE4YThvS3ZyRm1WckRNUGxHeFcyYnJBNE9yTkZ1cmtkUTVCbFVn?oc=5",
      "source": "Liquide Blog",
@@ -640,12 +648,12 @@
      "snippet": "Indian Stock Market Outlook Next Week, 26-30 Oct: Sensex, Nifty Likely To Fall Further Amid Crude Oil Surge Goodreturns"
     },
     {
-     "title": "Indian equities extend losses as Brent crude hits six-month high - DD News",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNl9BZzNmWkVobVp1eUNraFp3SjJEZF9Ec1QtZEI4X3FsYTdrQThyTnB6TUhCcUxyVTFzTVUtRFV3WjZ6RUFxRzN0LTJmR3Jsb21MRU44R0FpVzBCZExsNVk3YXEwdUtGQkRUYTFoWExjOFoycDB1cXpnTW5YN3RFSXZ5M2VlQ3haeTJlVkRTRGQ1UFBq?oc=5",
-     "source": "DD News",
+     "title": "Indian equities extend losses as Brent crude hits six-month high - DD India",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkEyWDFPQU9iLWpLQXdrN0IxSDYwQjJFQm0zVU1QbGhJY3h6NkRXaUFaRHhKb3g5cHNhRTlxUkNVV2cwOXg4Q2IxNFMxQ2NjRlpvQUl6YndvRkpuUWh1NTluVkMzajNGRll5OFhDRGVrRnljWHp1b0FpeTh3T2YzN3RVUDBsQTFsZnRNSlJpOElTeXpDZTlxSFNnTQ?oc=5",
+     "source": "DD India",
      "feed": "Market news",
-     "published": "2026-10-24T06:08:11+00:00",
-     "snippet": "Indian equities extend losses as Brent crude hits six-month high DD News"
+     "published": "2026-10-24T06:12:00+00:00",
+     "snippet": "Indian equities extend losses as Brent crude hits six-month high DD India"
     },
     {
      "title": "Market weekly wrap: SENSEX, NIFTY50 snap winning streak, fall 2% as crude oil prices hit $117/bbl; Adani Ent top loser - Upstox",
@@ -688,12 +696,36 @@
      "snippet": "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on The Economic Times"
     },
     {
+     "title": "Sensex Fall Today: Sensex Drops 1,279 Points, Nifty Near 22,400 - Business Outreach Magazine",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gd3lWUVc4RURIc3hYYkFVeVNDa3BOcHMydVBxX3Z1TUJEUmRrYk9zMDEzX1Y2RDJHN2NCQ0JPSGd2MmVBWDRSRzR1ZU5BRzN5UVA3R204elgtTGRNLTlTWlhXQ2dSLVNVMmFXR2NKQ2hzYXh3akVmSWZuRDA?oc=5",
+     "source": "Business Outreach Magazine",
+     "feed": "Market news",
+     "published": "2026-10-23T11:34:58+00:00",
+     "snippet": "Sensex Fall Today: Sensex Drops 1,279 Points, Nifty Near 22,400 Business Outreach Magazine"
+    },
+    {
+     "title": "Share Market Today: Nifty 50, Bank Nifty | Oct 23, 2026 - Liquide Blog",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdC1raFlJNDlHakZlX3RsbnlzalQ2Sy1qQmJYVXpISmVRUjJWTXIxcVVCLU52enFtdWM5bVdQenczZ2FuVVZTbGNFYW1FVk9OMFVwTFY5QV9zNjVYbWFkVlhrMGJwQXJBMUp2TVBwMXVmQ0NCUmdrMjZ5LURaYnZhYnJxdXVWV2NpOWdoVmVmdlp6YmI1ekhCOGI5TVhheDJfNzgybmpyTWhscS14Q1YzeUpvcU1zVUlfMF92VWIxN0pOMlZTYlZHNlFrcGlHbENDOTExLVJjUjlTY2lHbDZpTA?oc=5",
+     "source": "Liquide Blog",
+     "feed": "Market news",
+     "published": "2026-10-23T11:22:21+00:00",
+     "snippet": "Share Market Today: Nifty 50, Bank Nifty | Oct 23, 2026 Liquide Blog"
+    },
+    {
      "title": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher - Rediff",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXBZQnNaMjB2VC1wWDJkeG1PZHlVSjRhVkM3bTNpSmhxZWhmOWcyV0VTTVgyWUpaQ1p5c1ZObU51QmllYkM5TkZsVDlRWlItMS01c3hHblVTZ2VzeUJTNjBVdzZVTUZKbUNFLUZjSDA3eE42ZEFZdTJuQUlfYVFVcE94VjZ3WklqdnZ4VUZCSmNtZ0hfSU0tVzk3aDlaaHJIRUt0Ulg4SEs0ejFXR3lCSmZwZ2lOWUEwVndUb3Y3TjItOTFXanoyZUdLcEZjeGU3M1NoX1RfS0liNFFRVEU1Z0dYa9IB5gFBVV95cUxQWllvblBMU0tiYzRlZ3F6ekNTeGZhYXVvd29XRDl0QVRmaEltMm1PZ3FOYXg2bUI2VzRxWnlwN0VpdVdjYi05T1Z0REZjVGM2cTdLT2ZGODZQZzA5MURmOU9YSGF2ZUZoX3hVZ2FoYWNvdnB5cFBNWjRjdDRXUENsa0hUdVdvd2JqVFBTQmdXQmREaWttNlk4TlZvY19BYkdBbS0wQnpXWGttdlh2dHIzS1lmWWQtaTVVQ0xpeGplelFaZE9QYWdCek80UFBvM0tZSnd1QlJjb251cXVJSGpTQmluOFVsZw?oc=5",
      "source": "Rediff",
      "feed": "Market news",
      "published": "2026-10-23T11:20:30+00:00",
      "snippet": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher Rediff"
+    },
+    {
+     "title": "Sensex and Nifty Slip Amid Broad Market Weakness; Small Caps Lead Declines - MarketsMojo",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUdsRndUc0pXRDh3X3pXNXR5c2otb1RiQk9JMURVLVNROW5FdzFvbkhsR0ZJM2dpMVJsUk9ZZGIydUtNQ3p3bGk5NGEtNUJ2TW55eVRULU5LY01ORDNQUk1IdU5BOFJhOEtUOUQ5MUtRNjJXQVBabXd3X09aR3BIT2czeThuWENlN1Y1b09sWnBDTFFYOFRfQzlaV19Cend2WUlaako1TjU5R1k3XzJGT2JqenU5MjQ2MnFYbzdOU0hXSnZ4Q3RNSzZWODk?oc=5",
+     "source": "MarketsMojo",
+     "feed": "Market news",
+     "published": "2026-10-23T10:53:18+00:00",
+     "snippet": "Sensex and Nifty Slip Amid Broad Market Weakness; Small Caps Lead Declines MarketsMojo"
     },
     {
      "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -736,6 +768,14 @@
      "snippet": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red ANI News"
     },
     {
+     "title": "Market Today: Sensex Falls 126 Points, Nifty Ends Below 22,650; Smallcap Stocks Crash Nearly 3% - News18",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVjBkcXFZQng1RGg4cTRCVzZ3cDNpdlNpZmNwY3hBT2lRcEdQTDhzZzNSMzVnU21BYTJYek1INGMzTzFwZV82dzZsbEpwWThNbHZYbU1ZdHJQT19qVWVndEdrZjJDVFZkM1VWOThtalpEUWFvYUljdWRNbXZ5UW10TWNhRDZCTXo1UndTRkxtODdGeDdCTFNRZ0JxV200VWRQWnRiQ0NaaUVsUlZIWkkwazZKS1huemJGTGZXNVNVTzdBRzNyQWRQTl9nNUFGRWVsaVMxZ0ZTeUVEeU5H0gHiAUFVX3lxTFBram12dlViVDhYS1U4a0ZxaDQ0empDUGR2R2EyYWtiQ25rbEtkNHJBMXNlNEYzZlZGRnZfa3VoOTVQcUxLUl9uRmF6QlVScndHeUNEMGlBbGhQYzRXYXR4ZGEwczE1c3l6cTNXbXFzenE2WElVZFhKa2wya282V19SUFY0eDRCSE5fUHZKWXJwcTV4dWo2S0FKT280akp0YW41bTR4MjdPMzlTUmVHaHNPUFhmMVh5VkVjUWZPdk13S256eDE0bXNQclRvSHNLektuZUtmUDVuQXl5dXhJLXAxdnc?oc=5",
+     "source": "News18",
+     "feed": "Market news",
+     "published": "2026-10-23T10:22:40+00:00",
+     "snippet": "Market Today: Sensex Falls 126 Points, Nifty Ends Below 22,650; Smallcap Stocks Crash Nearly 3% News18"
+    },
+    {
      "title": "Market wrap, Oct 23: SENSEX falls 126 pts, NIFTY50 ends at 22,600 as crude prices jumps over $114/bbl; NIFTY Smallcap 100 underperforms - Upstox",
      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOT3FfUVBRQzlvV0s1V0JvZzVqcUJXOEhFem90eXB6TVB5RGowOFZRbkN1cjVINlJyMzh5b2NTYTlvSi1KU18yT1djZzFBanVlTHFGMWNhUkJiN0JPVlRUVHR6YXVxMXAwWDFqektIOExhQ0R5cUI2bmtvellFdGtWUHJrZWhuakczV04tSER3WlBoWllxTXJsQ1pwM3JwMmdNcHcwT2ZROXoyRGExU2FkbkprbDdFeGJsM0hwT2xKY3JJTk85T3V4OTVxRGxyMDFIZTQzdkdxUjRqa0Q1ZWRKUU1ienpWSUEzYTQ4cDI4ay1Wck5zNkdWT2xTdkhlZ0FIZ2RsRmdLMUp5czRqdDBadzVoNS1PTVNzdXc?oc=5",
      "source": "Upstox",
@@ -768,60 +808,20 @@
      "snippet": "Sensex Recovers 408 Points from Intraday Levels as IT Stocks Advance; Nifty 50 Trades at 22,500 Dalal Street Investment Journal"
     },
     {
+     "title": "Sensex and Nifty Slip Amid Broad Market Weakness; Utilities Sector Leads Declines - MarketsMojo",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSW9vYTRDMkNRLS04emdkd0E0WFBkbWJkNFpZbm1OV1F1ZFI5MGFPT3FkZzhlSGZucHFJOU5oTWtJcS1vZ2xHT1l0VmFuLTV1R19kc1pEVlFvRmRyNV91NTZUZ2pYSmhiOXVJNFprNDV3OUdTSkdVenRuXzZXWlJ5X1BoSTJlY0dsZnQ2Q3J1b3lGazA1R0tuRzYtV0hvX0VqZ0pGMDRJdi1icmFfdWNzSEZmZ0JiTVY1Nk5aUHN6NnRCOTJ6bUhrSmE1MXRQM08xVXViTHBn?oc=5",
+     "source": "MarketsMojo",
+     "feed": "Market news",
+     "published": "2026-10-23T08:17:38+00:00",
+     "snippet": "Sensex and Nifty Slip Amid Broad Market Weakness; Utilities Sector Leads Declines MarketsMojo"
+    },
+    {
      "title": "Stock Market Crash: Rs 24.8 lakh crore wiped off this week; Sensex sheds 1,000 pts from day's high, Nifty nears 24,400 - Zee Business",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ2MyTEhfRW1jclh3d1E0dmNmcUg5a0ZvbkRLVE5ROUM0RWVLeGxObWRiQXFsbFF1bVRCWDQ2WVFKbzkzWjZGZk1UdDV2UTBIRGhpLWUxWUFUZWlyNlprUnp5bDJLTU1BUWpLMHJzaDR0dHE5QTNKbVRXVy1KbE1IanNFTTI1bDFvckg2T2F2TUhRTFlraE1CSklVTlNtZlJ2b0RGTmQ3dExFSjJURkdJWXJ2WVNESmZNMU9kLXJESmpEMDdnWlZDa0huOHJ6VW4yREFGWmFFeU1qVkUtR3QyTzl3TQ?oc=5",
      "source": "Zee Business",
      "feed": "Market news",
      "published": "2026-10-23T07:59:15+00:00",
      "snippet": "Stock Market Crash: Rs 24.8 lakh crore wiped off this week; Sensex sheds 1,000 pts from day's high, Nifty nears 24,400 Zee Business"
-    },
-    {
-     "title": "8 Best Drone Stocks To Buy In India For October 2026 - Samco",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWkNrYml5YmhUSVJ2Y2pDNkFZYmg5dTJwOGxoYjczRGptT2dFeTFzQmczeFNXeXBLNm5OeWkxYjBaaHp6SERLVlg3cXhXS0dkYnJNTkV2M0cyNkxybVBrc283WlBMMlFUSmJlVWhvX2F0UVFu?oc=5",
-     "source": "Samco",
-     "feed": "Trending stocks",
-     "published": "2026-10-23T06:51:07+00:00",
-     "snippet": "8 Best Drone Stocks To Buy In India For October 2026 Samco"
-    },
-    {
-     "title": "Sensex falls 600 points: Why is stock market down today? - India Today",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlVFTFhuM0lRR3lNS2I4OHBtWWxBZU1iNm9EaFNHT2M4Mk94LWI4ajBDWlcwbS1GODhQRWxSY3NQMEhWV3QtZzB0YW1HaVJNZGF2aWJmSVdNTmRXdUhpTXZrSWxfM3VJVWNQU1M1R05wcnI0ZFNBSzNlVzVzWjhrYi1ycWM1all5VzUtVUQ1bzNtWUI4QmoySTFZSkxWVmJmX1k1aEtZR01rd2dubUg0M01tS3lVQm1XcVBqZnYtemZvVGs4QmtZdjlOUkhlVzU0MzVNSnFpNVV1S0NqNkFR0gHkAUFVX3lxTE9pQU16WXh6eHlLdVpDaUJvdDVVeGxyWXM5ZHBlZzNOUkV1T0lGcUFndlVOQkZqcHB6OU5FVFprVnJPNnZTc2ZoNTVxV0R4N0JPYTBTY19yWU54Skp3UF82cmVXWDNBOU9YNHc0TkcyZGYwcnJfZXJaUGoyMmUzSkh6OFFvTDV0MnhwRGhjSHcyVEhRcnB2SmlMZzR2RTlaY0JtMjg4bHNyR2l6Q21KOUFjcXR0bGNaX0pRcGIzbkEyczlrMHptVF9PVEI0Mld0R0dqMF93WFJaaDhkTTN0RDFLd0xrUQ?oc=5",
-     "source": "India Today",
-     "feed": "Market news",
-     "published": "2026-10-23T06:50:02+00:00",
-     "snippet": "Sensex falls 600 points: Why is stock market down today? India Today"
-    },
-    {
-     "title": "Sensex Falls 669 Points, Nifty 50 Drops to 22,420 as Oil Prices Surge on West Asia Tensions - Dalal Street Investment Journal",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGhtM3RXOEpCaENVaE1ldTZqLTBPWThQVWVaNlVMN3hfN0NROVdHc1RYRE9QRmtabHlpaldxU0pldWh5UzdwX2QySEJLODVCX2o5aTdMNmI4TW43NzlVMmN5cWFiaGs1N1VubXh0TUdmLW5MMEJQMVpqWXYxazJvYy0zWnZ1NUxBbEZ2N0FZRTBvWVBMM2paS3JnVGdkQV94LUk3Ui1aOUp3Z28zeV8wR0I4cjRnMkVYUEhRREF4SnUyU1g2QktwaGhiZ2JhUXBWcHFiNw?oc=5",
-     "source": "Dalal Street Investment Journal",
-     "feed": "Market news",
-     "published": "2026-10-23T06:48:07+00:00",
-     "snippet": "Sensex Falls 669 Points, Nifty 50 Drops to 22,420 as Oil Prices Surge on West Asia Tensions Dalal Street Investment Journal"
-    },
-    {
-     "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJoQ3Y4b1BtVE83ZDN5amthN0o5SXJZQlBwdzlkTXBwSUFGQmdwczNzenQ1aHQxdWMtQ1liaWdDV3hELUdMRXdfQXRwcXZoUG8zMmxwRUU5WHIzaVlBb3lROVRDOGJJWEsweTBvbkVPNWJvZl85Q3huaVJtZ2JtY1hHcV85N2UzTnlHZk03dEU2NjlFaHN1TU11TEVpTE5RV2Rn0gGqAUFVX3lxTE5kRGFuTUhWbFJHOVZuVlBlMXJkZzNsd0RUQXY2VlNoYl9nUlZZX1Q4ZmtpcUxmS0trMm5uZGlLd0RPT1hlWVBfTVhIdjJtZk9kVTF2ZkxNdWJ2SlhsV29TVEkxVTFIaWlxNXFCTnY0clVLeExrWWliWlMtcWRiVWFlMUQwZ09XdnVndHpWOUZ2aXJHTTJhbGpSRVV6c01OSkVOa2tCTVNHdzNB?oc=5",
-     "source": "The Hindu",
-     "feed": "Market news",
-     "published": "2026-10-23T06:21:30+00:00",
-     "snippet": "Sensex, Nifty rebound after 3-day fall on IT stocks buying The Hindu"
-    },
-    {
-     "title": "Freaky Friday in stock market today: Sensex, Nifty reverse morning gains and crash for 3rd session \u2014 what led to blood? - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbXBZSnR4TUhRaHlTNXd6RXB3VmJfQzBkc3hKdlhDVWFPSVY4NzZicHlfeUprLWlieDFfZjl3SjFjQkgxM0lEZnF4V21Bd0ZEaWExeWl5OHF3bnFQZjRQVTVwYkZWcUU0NjJVLWFGdV9GSDZWSUhzTXhwZlNqXzhvQTJqSklNSzhRNFFhYk5BTkx4NjFQODB6TzlzRFFZb2VjS3RPYXZNLW15UTJCWGphTFBoazNiSUVVblVjbUwzbG1IbE1EdGJYOG5IMEJXMFhEdWNyLW5zZUVaRnIwV25YZEQ0UjV6VUtKcHc0Y0JMX083cTJpaDN4T1lKQjNvUEJlaXU4U25BbVZqSFQwdkVBT9IBlgJBVV95cUxNVXRBT3ZFOHlHVDI2cXNOM2ZfQTZnVTVXWF9tT0lTbEtVMmJYbmpkcXlCVVFEeFgwaWpIU2U3QjR3dEFyR05EMTJWX0FMUEp0Q09BaWQ0bVpuVFNqdDNlYUdoMTM5SFhvLWVGczByUGJ4emdPWXdyeXB3RHFnTklhbW1hWlh2a3hHOFE2LVFPNktRbmFYYk5oQ3RkdG1MMXppeW1hVDhYTmJ2SlZyVld0SkdtSl9UNnpCYlJsUjdlaGtoNTlQa2s5dlg1dGtjbG9vekZNVXBnSUZwUldUYkJBejhEREN2SzJmUWctZHA2ZHpIazlQSlYtYWZoeWUyNnI0ZlpqNTM1LVhmakw1V3VsejBoZXFVZw?oc=5",
-     "source": "Livemint",
-     "feed": "Market news",
-     "published": "2026-10-23T06:17:43+00:00",
-     "snippet": "Freaky Friday in stock market today: Sensex, Nifty reverse morning gains and crash for 3rd session \u2014 what led to blood? Livemint"
-    },
-    {
-     "title": "Stock Markets Today: Sensex, Nifty open higher as IT stocks rally - Rediff",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdTFRaFJXT1p3akNPQXI1a0ZLaXZYcHc1VGU4RFBRc1BJM1g1M1R5Z0dHUDJqT3hZZ2ZjUmNyWEFKTC13RlJwekJHd19vdk5KWXJyTUxDMXZCNl8zU281WDVFV3BQQ041YXRneDBSYUZrVzB2VHExYXdqdlBUZXJGeFdPREdFZ2ZKVTdTLTdtMkVzOUY0dWQ0b2JEZjFLNHJsbm5VQkdha3pQamRYRnJaMGZvTDNMQnBxTWNEYXM2SlZ2Qy1zc2M5SUVnYzk5SGFqdVF4bjJRYkNwVHNr0gHfAUFVX3lxTE40Ml9jcjJ4TE1BS1gwdXI4Q240bHpkQTh4U1FCUk5KeWtXX0E0ZDhMVDBEbGhKTTU4MzBwaGJqYVAxYTBoeXZZRnd4bUJtSmdXcDZhZEVocjVvRHdBYmJheU9hOTNIalN0UUJaQ0s1U2twSEJlWGdBbHRxN2VpTFlTZ29TYkUzVFJBOHlhd3Y0WGxoN19HS29JTTZnQ29NQTBvaTg2VjFsNEdQNWdhZ0xUX1dhSlRLTDdUZi15SllyVGZpelFYVWE1RWZuZE9JelhJN01iUDdka0NXOVYyZk0?oc=5",
-     "source": "Rediff",
-     "feed": "Market news",
-     "published": "2026-10-23T05:51:26+00:00",
-     "snippet": "Stock Markets Today: Sensex, Nifty open higher as IT stocks rally Rediff"
     }
    ]
   },
@@ -958,14 +958,6 @@
      "snippet": "Fidelity Investments relocates Folsom office to Palladio The Business Journals"
     },
     {
-     "title": "Fidelity Investments\u00ae Announces Liquidation of Five Exchange-Traded Funds - Business Wire",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTl0MG1LaEptenh4eGx5Z1J5QTEybndTUXFHclRRTUdhNXNHUF91VmRwb0N6YU00eTgwbjE3dXV1SGJ6MmFHNUtCRWwyZE5WeHI1ZnA4dENCOTJPWFR5WWlfZjE2NkpLU2hRdW9Ba3A1NWhTeHJRQmdUd2Z4dS1uRTZwb01pTnVocWhtcG9CTEp6SDVLSms3TXBUd1pRU3V4YVB3MVBqSEhvRWlpank1Ti0yMDRtakFoTVA3OHRicG9rb1hSZ2kwYQ?oc=5",
-     "source": "Business Wire",
-     "feed": "Fidelity news",
-     "published": "2026-10-15T07:00:00+00:00",
-     "snippet": "Fidelity Investments\u00ae Announces Liquidation of Five Exchange-Traded Funds Business Wire"
-    },
-    {
      "title": "5 questions to ask an advisor about a financial windfall - Fidelity Investments",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjVXVGFhcS1rVll4T3RpYlhRektyMDRBcmdBV1hvREJjUFRNOHRuaFhfU2hHYmhzWmMtRFFhU0QwVF9xZWY2WHVuc0ZlVS0wekJ3Wk1GVzhqcXlBMHBjMlBNcDNBYTduSVZpU0ZJLVVaXy04b09ST21faW1LbE42bGRnb2JkUnNnelozaElXMkRfa3JQMkJmSHZuYlJZanpFR1plbHRIVHBlblIwM2l5bw?oc=5",
      "source": "Fidelity Investments",
@@ -996,6 +988,14 @@
      "feed": "Fidelity news",
      "published": "2026-10-14T07:00:00+00:00",
      "snippet": "Fidelity Investments CW39 Houston"
+    },
+    {
+     "title": "Fidelity Investments\u00ae Announces Liquidation of Five Exchange-Traded Funds - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTl0MG1LaEptenh4eGx5Z1J5QTEybndTUXFHclRRTUdhNXNHUF91VmRwb0N6YU00eTgwbjE3dXV1SGJ6MmFHNUtCRWwyZE5WeHI1ZnA4dENCOTJPWFR5WWlfZjE2NkpLU2hRdW9Ba3A1NWhTeHJRQmdUd2Z4dS1uRTZwb01pTnVocWhtcG9CTEp6SDVLSms3TXBUd1pRU3V4YVB3MVBqSEhvRWlpank1Ti0yMDRtakFoTVA3OHRicG9rb1hSZ2kwYQ?oc=5",
+     "source": "Business Wire",
+     "feed": "Fidelity news",
+     "published": "2026-10-14T07:00:00+00:00",
+     "snippet": "Fidelity Investments\u00ae Announces Liquidation of Five Exchange-Traded Funds Business Wire"
     },
     {
      "title": "Making the Most of the Fidelity Rewards Visa Signature Card - NerdWallet",
@@ -1036,20 +1036,68 @@
    "blurb": "Top US national headlines.",
    "items": [
     {
+     "title": "Verse from Qu\u2019ran inspired US man to leap on runaway school bus and halt it - The Guardian",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYU9NRzBnNy1pTFlPSndnbENrZUNtb08yNURoenI0U3VhN012cEhjUnhSTS1vZ0Jpa2FBVHU2OUxiWDlmcEZfc0J1cm5kcUd3d1hTMkw5WTJTS1k2RThZS1A1eXBpcjRYSTg1SmZfOGlyQk9lUzE1aUtILWVrYUhSU2pwWWZGVE53UFE?oc=5",
+     "source": "The Guardian",
+     "feed": "Headlines",
+     "published": "2026-10-24T18:50:00+00:00",
+     "snippet": "Verse from Qu\u2019ran inspired US man to leap on runaway school bus and halt it The Guardian St. Paul man jumps onto moving school bus after driver's medical emergency, saving 18 kids 5 EYEWITNESS NEWS Minnesota man credited with saving kids, school bus driver surprised with check ABC News - Breaking..."
+    },
+    {
+     "title": "Campaigns, attorneys weigh in on Trump\u2019s DOJ suit to block election results if Sen. Sullivan loses - Anchorage Daily News",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVpTOGxnNWZyWU01Rm1iRUhIV1BCWWZUcEUyVy1ZbW11cXhoZTEwb2NpRWxtR1pXZFhYNDJHc014cHAwOFc2czBpaWcyR1RQUE4xeXF2bVdfdEtaVnBWZnQwb2MwQ1AwTjRUVkpuZTJFTGUwNmFPYXNxUjhiMGFUdjl0bjFaY3cwS3Z5ak43MFhZU2NIT0Nzelg0NWhTNFNqOHY4dG0yQXNLUkdldUhtbDdFT0hFNjdHTUVqZ1RubmNQM2d0ZFZDLVFrWUI1bUVManc?oc=5",
+     "source": "Anchorage Daily News",
+     "feed": "Headlines",
+     "published": "2026-10-24T17:30:36+00:00",
+     "snippet": "Campaigns, attorneys weigh in on Trump\u2019s DOJ suit to block election results if Sen. Sullivan loses Anchorage Daily News Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump\u2019s Demands The New York Times CNN\u2019s Kaitlan Collins Makes Revealing Claim About Trump Amid Midterm Elections IMDb..."
+    },
+    {
+     "title": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect - WSJ",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
+     "source": "WSJ",
+     "feed": "Headlines",
+     "published": "2026-10-24T17:07:00+00:00",
+     "snippet": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect WSJ Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say The New York Times OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay CNBC AI & Tech Brief: Foreign AI espionage The..."
+    },
+    {
      "title": "AI ad mocks Talarico as Bible-defacing radical. Democrats bet it will backfire. - The Washington Post",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEdXYU54dF9vbGFGaXpEdnhkNzN0V2xKRy1xN3FJdm1fTG1kazluUmdNQVRIVE00S2I0RFhIVHg2eWNlMEpHUm85V1BNLTdUeWFKZVQ5dHRkOVY2SU5KN21pMjEtUmktTTZsZy1mZzdVNzRGTllUR0lpU2hTZHNmLVlRWjZOR3JwUTJGc0NFOWZqb3pqM20w?oc=5",
      "source": "The Washington Post",
      "feed": "Headlines",
-     "published": "2026-10-24T16:02:04+00:00",
-     "snippet": "AI ad mocks Talarico as Bible-defacing radical. Democrats bet it will backfire. The Washington Post A.I. Is Embedded in Your Election Experience. So Are Its Dangers. The New York Times Deciding with fake images: More candidates are using AI in political ads to get your vote NBC News AI Billionaires..."
+     "published": "2026-10-24T17:00:01+00:00",
+     "snippet": "AI ad mocks Talarico as Bible-defacing radical. Democrats bet it will backfire. The Washington Post AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It\u2019s Backfiring Futurism Deciding with fake images: More candidates are using AI in political ads to get your vote NBC..."
     },
     {
-     "title": "Woman in ad who said a Democrat endangers kids pleaded guilty to endangering kids - The Washington Post",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjBHbVdoX2xnSXZIa0FvSmNRek5qOVRDc3QxNUxiMmppZHFNeHFtRlgtaVRyeUZ0cWhGUUZkdHNCZ0pBOWlveEd1MWxDOGQwaWEzazNfNlcxQTZtVm5SMGVlLU1iUzJWWVFHUUU0ekY2cklpQmxjUENzNDFNVDUyei11UVdMMU9nSHlFSE5xeEpZb05qYjdOZ0p4aTZPaksweWFEeW1iOHZFWVU3ZEJ4NHJXU3JGcUNxcUxIYUVaMnFfN2tnWTdyNVZVMXpvUQ?oc=5",
-     "source": "The Washington Post",
+     "title": "'Once in a generation' flood event impacts San Juan County - KOAT",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ?oc=5",
+     "source": "KOAT",
      "feed": "Headlines",
-     "published": "2026-10-24T15:30:57+00:00",
-     "snippet": "Woman in ad who said a Democrat endangers kids pleaded guilty to endangering kids The Washington Post"
+     "published": "2026-10-24T16:59:00+00:00",
+     "snippet": "'Once in a generation' flood event impacts San Juan County KOAT More rain is expected after bad flooding in the Four Corners region led to rescues and evacuations AP News Major flooding in southern Colorado forces evacuations, with water reaching up to 7 feet high in some homes The Colorado Sun..."
+    },
+    {
+     "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia - AP News",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hETUlleWtGaDN1SlZjV1laZklpZGJaQXpodnFhWGhaSDhvMmZqelZOckc4UVdUb0RHYmZvS3RGcG5UQ0NwWk9Zdnp5aUNZTDJLeUxaeFhzM2NYS3VsdEdZVEU0SzQ4aXRNZFF6TzhlNjMzZzJEaVEybDRiT0pCMEI5TlV2a0JCUGJGVTNaYXh1T0J6UXF5TlNNRkhGTURYdTFzT3dPYndsTVdDN0o2cnFNcUpJOGM?oc=5",
+     "source": "AP News",
+     "feed": "Headlines",
+     "published": "2026-10-24T16:38:00+00:00",
+     "snippet": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia AP News See more headlines & perspectives on Google News"
+    },
+    {
+     "title": "Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ00wenlReXBCS29LaEZjOG9ibkJPOTlfRVlidFZGMTkwNzNIUDg3dXN1aUYtNk5QX0VLSUFpaXMyWmJ4TDR3T25FWlVodUdlMjlsZF9zcDVtMDFwYkE3QlJQRmRVMjlaM2FaWU5oaGJUX0gtWmZtRjJmQWpSc0FKTFJaU0h0ZnpvcWpXS1BLS1pZblZRNEd6OUFqaw?oc=5",
+     "source": "Fox News",
+     "feed": "Headlines",
+     "published": "2026-10-24T16:17:03+00:00",
+     "snippet": "Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections Fox News Five takeaways from Trump's midterm campaign rallies Reuters This map of Trump and Vance campaign stops shows where Republicans are wary about their midterm chances The Boston Globe Trump-aligned super PACs pour..."
+    },
+    {
+     "title": "Dem Star Erupts at Fox News Host in Fiery On-Air Clash - The Daily Beast",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlNuU2FSMVJzbHlFVnNVYzFaOFlwcndBTGpDVjIzbGw0TWRWSVJHeGI5WWF1RmM3Z3JPd2J4MTFIZUxBT3ZiT21jUHRzZ0Eyb2JQbXRhdHc0bjMyM3NCSUJ4VVI1TGEwVWlxcXhocERCVFdKSmNBbGdSeERZTGw1LXBsMnlUWXVHbUNIXw?oc=5",
+     "source": "The Daily Beast",
+     "feed": "Headlines",
+     "published": "2026-10-24T15:37:06+00:00",
+     "snippet": "Dem Star Erupts at Fox News Host in Fiery On-Air Clash The Daily Beast What Republicans mean when they ask Abdul El-Sayed to \u2018disavow\u2019 the Muslim Brotherhood CNN Examining the Muslim Brotherhood claims in Michigan\u2019s Senate race The Washington Post How an Abdul El-Sayed Opponent Handed Him a..."
     },
     {
      "title": "Starlink in Ukraine back to normal after week of throttling - Reuters",
@@ -1057,7 +1105,7 @@
      "source": "Reuters",
      "feed": "Headlines",
      "published": "2026-10-24T15:13:55+00:00",
-     "snippet": "Starlink in Ukraine back to normal after week of throttling Reuters Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions WSJ Ukraine\u2019s military says Starlink satellite connection stable after recent restrictions The Guardian Ukraine\u2019s defense ministry says access to..."
+     "snippet": "Starlink in Ukraine back to normal after week of throttling Reuters See more headlines & perspectives on Google News"
     },
     {
      "title": "Omar\u2019s deleted tweet could give clue on alleged brother marriage - Fox News",
@@ -1068,28 +1116,36 @@
      "snippet": "Omar\u2019s deleted tweet could give clue on alleged brother marriage Fox News Exclusive | All the clues Ilhan Omar had sham marriage to brother \u2014 from marriage certificate to living with 'dirty dandy' New York Post Trump calls for Omar to resign, defends Ramaswamy campaign ad at Iowa rally Iowa Capital..."
     },
     {
-     "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu - Axios",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX1VCUW9wbldZbmU5eG1taUsteGwtek1WaUtEWHJiM0t0TnJ5cWxTTDZPa3R6dU5vcDc1aG50NW5mdjNTYjJDT3dCOERwZV9lX0Y4Y29aSjJiejhLZGpfTmVucXh5dThPdWowN2htLVY3WGNBMW11a2RVMzVQZw?oc=5",
-     "source": "Axios",
+     "title": "Iran says won\u2019t allow US warships to get close as Trump ponders new attacks - Al Jazeera",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+     "source": "Al Jazeera",
      "feed": "Headlines",
-     "published": "2026-10-24T12:57:20+00:00",
-     "snippet": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Axios Is There an Effective \u2018America First\u2019 Position on Israel? Tablet Magazine Israel\u2019s election is yet another test for Trump\u2019s endorsement MS NOW Vance declines to endorse Netanyahu\u2019s reelection bid, breaking with Trump..."
+     "published": "2026-10-24T13:15:07+00:00",
+     "snippet": "Iran says won\u2019t allow US warships to get close as Trump ponders new attacks Al Jazeera Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say Reuters Live Updates: Iran warns that U.S. military not allowed in Gulf \"under any circumstance\" CBS News Iran Threatens Wider..."
     },
     {
-     "title": "How Trump Gave the Worst Polluters a Free Pass - The New York Times",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1p3YkZFQlpzbXpQOEtaUmRQRzZuU2RmVWxaQWdZOGNpNlV4Y2ExVmxCZUtMcXNGQ1owN0Rnb09MRVVSR0xOOXprdk5ZbWx6c1EwQVNBV2wxNjFCRFlQZXVRSWR6ajBnZnZySzVJcEdaNDJFVmVYSzlhTlZQb3BMMGdtX0dUR0E?oc=5",
-     "source": "The New York Times",
+     "title": "Exclusive | Disturbing new details emerge in 15-year-old girl\u2019s alleged murder by ex, 20, in LA suburb \u2014 as accused gunman\u2019s secret exposed - New York Post",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS3JiVm9oOTBWMmZVWm1BMUh2Ylh0dVhvTVVfeXNXX2hhUzRTM0dFcTZHbm0xcVZXUFN3RmlOdDA0TjNKeVpRRUtmeGtlZS1Xb2tlUTN4N0FXeXc5a3cyMjczZEdra1FURUV3WnZVaW4xY0dEZ1Q2Y3h4M002ZFByX3hGZ1dvYXdnZUNEVmk0LWItbHZGNjJlUVBEM1V5NUFq?oc=5",
+     "source": "New York Post",
      "feed": "Headlines",
-     "published": "2026-10-24T12:28:26+00:00",
-     "snippet": "How Trump Gave the Worst Polluters a Free Pass The New York Times 5 Takeaways From Our Investigation of Trump\u2019s Waivers for Polluters The New York Times Two scoops from the NYT of rampant corruption in the trump administration Daily Kos Free Passes for Polluters The New York Times"
+     "published": "2026-10-24T13:00:00+00:00",
+     "snippet": "Exclusive | Disturbing new details emerge in 15-year-old girl\u2019s alleged murder by ex, 20, in LA suburb \u2014 as accused gunman\u2019s secret exposed New York Post Girl killed in Arcadia by man she was 'dating' identified as 15-year-old Mina Kurdian, authorities say ABC7 Los Angeles Man kills his teenage..."
     },
     {
-     "title": "She had five siblings, but only she survived childhood with her father - NBC News",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWZKSFpqc2xuQ2liOVpwOWNRTFp6Z3U0cGl3WjFFb1c2dnM0WElOcVB6amJBYkdXTzBsT0xwUWxibHJ2Q2ZJcFdZaUdSM0pFSmRfMFNhRWFRSVFXbTZmamdQRnFJNnRwWFpNNjAxYUI1QXBPZ1FBcmZSMDhfS2FxY1ZUXzNVUzg3ek1aaVlUTmJ6MVZUcm5V?oc=5",
-     "source": "NBC News",
+     "title": "Jennings: Ramaswamy\u2019s campaign tactics \u2018worst politics you could imagine\u2019 - The Hill",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFhmcjJNcU1EV2tiNFNxaG9LMGtsdzgzSnNyVUdBdHl1Ym9xSFRabmFvQW5yQ2x1UHRTN2RTdnVHVG0tLTlmcGI1UTVrWHBGVEptZ3hsVUM0OVJ4VDFTREVSR2pZNF9UWlJnTWlZQ1lxZWFnYzZkaGJMbWcyZnZuYUUxONIBiAFBVV95cUxQN3p5YUFRc3cyTk04SDBoU3dRX0xQbzFlTVNidjQ0bHlZSFBEWWphQ2pWc0cweTItdVoyNlRFRTFkeU1TN2dxeW1WWkl3MGhKVVdpcGxScy1PVDlhVTBpYU0wWUhjOUZ0cWZ1cHl0NS1aRk5yOVJIWGZwOXBpSjcwXzMwT0VkWU1M?oc=5",
+     "source": "The Hill",
      "feed": "Headlines",
-     "published": "2026-10-24T12:03:00+00:00",
-     "snippet": "She had five siblings, but only she survived childhood with her father NBC News"
+     "published": "2026-10-24T12:57:00+00:00",
+     "snippet": "Jennings: Ramaswamy\u2019s campaign tactics \u2018worst politics you could imagine\u2019 The Hill Cook Political moves Ohio governor\u2019s race after Ramaswamy attack ad The Washington Post Vivek Ramaswamy defends mom attack ad, cites 'attack on my mother' Yahoo Ramaswamy and Trump gamble on an incendiary ad, as Ohio..."
+    },
+    {
+     "title": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional - AP News",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWlwd0ZicjIzenVmaGdibW90NkRLem5yLUdERTAtbVZERlBWYW9DQl83eFlhRUVRdmxBT0ZqRmlRR0xhbUJEUGVTMXJPMnNMRzRFX3lTYlcwdWF5dXZNTnowX2kxenh5ZF9JaFBhWlRiX2c0RFNXYTZKVTZ5WHZjNU80VmZxanc5RjIzMHNXUXViNVM2bG4xODl3VW9PREJ2dlpVUkk3TGpSTV96Y2gzSE56aDdSNG8xSWJxSmdn?oc=5",
+     "source": "AP News",
+     "feed": "Headlines",
+     "published": "2026-10-24T12:12:00+00:00",
+     "snippet": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional AP News See more headlines & perspectives on Google News"
     },
     {
      "title": "King Tides drive coastal flood threat from Miami to Charleston as tropical rain soaks South Florida - FOX Weather",
@@ -1097,7 +1153,7 @@
      "source": "FOX Weather",
      "feed": "Headlines",
      "published": "2026-10-24T11:18:00+00:00",
-     "snippet": "King Tides drive coastal flood threat from Miami to Charleston as tropical rain soaks South Florida FOX Weather Flooding impacts expected in South Florida on Sunday due to king tides CBS News FORECAST: Stormy, windy weekend ahead for Palm Beaches and Treasure Coast WPTV King tide causes flooding..."
+     "snippet": "King Tides drive coastal flood threat from Miami to Charleston as tropical rain soaks South Florida FOX Weather FORECAST: Coastal flooding and gusty winds expected this weekend WPTV King tide causes flooding across Miami-Dade and Broward County streets WSVN Live updates: Today's South Florida news..."
     },
     {
      "title": "Canada is feeling the pain from Trump's tariffs \u2014 but the trade fight didn't start overnight - Fox News",
@@ -1116,20 +1172,12 @@
      "snippet": "Medical experts shocked by Tennessee team\u2019s \u2018malpractice\u2019 in Christa Pike\u2019s failed execution The Guardian From death row to a botched execution and back: A timeline of Christa Pike\u2019s case CNN Christa Pike's attorney describes botched execution, concerns about 'blown' veins in new court filing ABC..."
     },
     {
-     "title": "Ramaswamy and Trump gamble on an incendiary ad, as Ohio shows signs it might turn purple again - CNN",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11cGp0dXpmLS1xdDBpSk4xY1FuT3o5RUdhQ3ZXZ3FDRUNCb0VKMkhoVE5NUjRmdVRpbVVNQjZkZGEyNS1md1RXME5OZHFjdXp3Uy1DSDN2YlI0Z2V3TmVrV2ljR0N3S200TEpQd3VLczFjTzFqV2xDWlRQS0o?oc=5",
+     "title": "A GOP congressman in a swing district faces angry voters: \u2018I\u2019m against the party that caused this\u2019 - CNN",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13SDBoSE1hTko0RWFZRkNCQk1OV3IyME9MemFyRjBfaExreVZMWkZ6Tmx0TkttaEg5T0dkWGpILVgwRnY4SmhCeE9mUnFaeUY4MXU2RTIwbkpBR2FpWk1NVEVFby1DeWJoRFJHR3Y4MFRFWGxEQVlSN2txdS0?oc=5",
      "source": "CNN",
      "feed": "Headlines",
-     "published": "2026-10-24T10:30:15+00:00",
-     "snippet": "Ramaswamy and Trump gamble on an incendiary ad, as Ohio shows signs it might turn purple again CNN Cook Political moves Ohio governor\u2019s race after Ramaswamy attack ad The Washington Post How Vivek Ramaswamy\u2019s Ruthless Ad in Ohio Divided Republicans The New York Times Trump doubles down on Amy Acton..."
-    },
-    {
-     "title": "Verse from Qu\u2019ran inspired US man to leap on runaway school bus and halt it - The Guardian",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYU9NRzBnNy1pTFlPSndnbENrZUNtb08yNURoenI0U3VhN012cEhjUnhSTS1vZ0Jpa2FBVHU2OUxiWDlmcEZfc0J1cm5kcUd3d1hTMkw5WTJTS1k2RThZS1A1eXBpcjRYSTg1SmZfOGlyQk9lUzE1aUtILWVrYUhSU2pwWWZGVE53UFE?oc=5",
-     "source": "The Guardian",
-     "feed": "Headlines",
-     "published": "2026-10-24T10:01:00+00:00",
-     "snippet": "Verse from Qu\u2019ran inspired US man to leap on runaway school bus and halt it The Guardian Minnesota man credited with saving kids, school bus driver surprised with check ABC News - Breaking News, Latest News and Videos St. Paul man jumps onto moving school bus after driver's medical emergency,..."
+     "published": "2026-10-24T10:30:16+00:00",
+     "snippet": "A GOP congressman in a swing district faces angry voters: \u2018I\u2019m against the party that caused this\u2019 CNN In Bucks race, \u2018FBI files\u2019 claim draws scrutiny | Morning Newsletter Inquirer.com Shapiro\u2019s White Whale & Trump\u2019s Suburban Woman Problem Puck OPINION: An Open Letter to PA-01 Neighbors Who Split..."
     },
     {
      "title": "Exceptionally high tides will swamp California, \u2018likely to get worse before it gets better\u2019 - Los Angeles Times",
@@ -1137,23 +1185,31 @@
      "source": "Los Angeles Times",
      "feed": "Headlines",
      "published": "2026-10-24T10:00:00+00:00",
-     "snippet": "Exceptionally high tides will swamp California, \u2018likely to get worse before it gets better\u2019 Los Angeles Times Newport Beach adds sand to build up beach in battle against the sea Orange County Register Coastal flood warning issued as SoCal beach communities brace for more unusually high tides ABC7..."
+     "snippet": "Exceptionally high tides will swamp California, \u2018likely to get worse before it gets better\u2019 Los Angeles Times Newport Beach adds sand to build up beach in battle against the sea Orange County Register Exceptionally high tides threaten flooding, homes along Southern California coast KTLA Coastal..."
     },
     {
-     "title": "U.S. birth rate drops to record low, but older women are having more babies - NPR",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fRFVCVmc4TmJldnh2VlNFTjhieVJhUGJpd0tWbExwTlVpVXBDaVpwY3REbTZzdEZRSXFTd2VzOWVaRUVzV3g4LTdETHJjVDhray1tZjlnZlViRk9ka3JncHAycVdTczNEanF3Uk1BZzFVZjFGandJTFhB?oc=5",
-     "source": "NPR",
+     "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters - Los Angeles Times",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkktejBsUWR6WnY0YlRxYk5Mc1pKN1RxSmMtSnROZzk3SVdWeGVKcXBPczhISF9MRElMaXhTNl9sNXBrSEVvekJDUFdCMlhFSnRPTUVCanMzV1JjMHVvaGRjcURxV3Fma1YxdDFNblNCVDhPUVM0YVNsY0hCOERyTlpkZTV3ckhpbTVSMGJsZG50VHpNVC1yNEh1M0FXX2lneWJjdnZXWmgwb0o3ZWl1NlZn?oc=5",
+     "source": "Los Angeles Times",
      "feed": "Headlines",
      "published": "2026-10-24T10:00:00+00:00",
-     "snippet": "U.S. birth rate drops to record low, but older women are having more babies NPR See more headlines & perspectives on Google News"
+     "snippet": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters Los Angeles Times Are California voters about to impose 'world's first' tax on billionaires? BBC Everything you need to know about Props 41 and 42, designed to cancel out California's billionaire tax..."
     },
     {
-     "title": "The signs for El-Sayed in Detroit \u2014 and the lack of them \u2014 are setting off alarm bells - MS NOW",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEcwWTFKQ3J2WEdaSW90b2MwT2l5MEY4QlJaLVBwaW9Sb2ZleHVfTHplMEdubi1OTEFXNUdlZWZJSTVEZjdabkE0VURnRXVsUm5Ja3lOZE41V1ZBZkp0SWFXOVBaTWNQWHBMQVltNDVjM0lBb1E3cG1LQzBEb05wTm14SmNtOUlqYy15b0dZLXJBekxlNjdfdi0yYlBWVDdIQ0IwM3BLWDB0UQ?oc=5",
-     "source": "MS NOW",
+     "title": "US oil company holds key to Trump's Greenland drilling ambitions - Fox Business",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEVQdmwtaHYza3lUejJlZmlvY0FSQkhzQjVTSjdPek12N2Z0ei1rRV9namwxaGNIamhiOFFnWEZyZnkzR21yYXVnTmJMckd4VU4yZmVZV3N1RVcxU1hvUWV1UTNHZ2VaeUFRZ29DWmRkYTBqaF9tTnIxT1NWelZ3SEJjRmh5R1BibHYxQnZPUXpnTDRuUFpkM3dCZWJRUdIBowFBVV95cUxPRk1zcFRyMXBwNVlHUFlRZUNVTVJjSHN0LXdHOC13ak1jUEJMYzBiSkQzSmRqdTVkNXlVUEQ3dTlxQ3FjNVlhYUU2RmpYdmdFQWxuRnRTWlFoZHF5eURDRGZ2YklGVDdBR1VnME1RbHZEbXNYbnNXU2dhU3h3WGtGY1Fnd1dVMHFXbzNBMEItWUhIcURzcXJ5ZEc4dmNqd0hzdjlj?oc=5",
+     "source": "Fox Business",
      "feed": "Headlines",
      "published": "2026-10-24T10:00:00+00:00",
-     "snippet": "The signs for El-Sayed in Detroit \u2014 and the lack of them \u2014 are setting off alarm bells MS NOW Opinion | Abdul El-Sayed\u2019s Black Vote WSJ Republicans seek inroads with Black voters in Michigan\u2019s tight Senate race NBC News El-Sayed Needs Black Voters in Michigan. Tensions With Arab Americans Make That..."
+     "snippet": "US oil company holds key to Trump's Greenland drilling ambitions Fox Business Pentagon to start expanding Greenland bases next year: official Defense One Trump Wants Greenland's Resources: Here's What It Would Take To Actually Mine Them NewMediaWire United States, Denmark, and Greenland Amend the..."
+    },
+    {
+     "title": "Records offer a picture of the Oregon school shooter\u2019s tumultuous home life - NBC News",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlYzM0NoSkxJT3ZpdHBiZDVicGRjalMwY0dKV1NkcURJUFpHOEpPYllqU29MdmhDdDBRMmxIZEc0d0dadE1NZldhWEt1bHRmSi1SRThaTjYzb0pyZTAwWUtxMTdCZzVhLXplSEUycXFPVUl1UTkxYTVQamV2UVhReW1NRVlPc3NfMjZoVEhmSXFVOEgzdU5kb3ZTZU0?oc=5",
+     "source": "NBC News",
+     "feed": "Headlines",
+     "published": "2026-10-24T09:30:00+00:00",
+     "snippet": "Records offer a picture of the Oregon school shooter\u2019s tumultuous home life NBC News \u2018I Have to Go In\u2019: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting The New York Times Emotional moments as hero dad describes fear and action in face of school shooting Yahoo \u2018I\u2019m just a..."
     },
     {
      "title": "What This Democrat\u2019s Surge in Texas Says About the Midterms - The New York Times",
@@ -1161,7 +1217,7 @@
      "source": "The New York Times",
      "feed": "Headlines",
      "published": "2026-10-24T09:15:23+00:00",
-     "snippet": "What This Democrat\u2019s Surge in Texas Says About the Midterms The New York Times Texas Governor Race 2026: Abbott vs. Hinojosa MultiState Gina Hinojosa\u2019s Populism for Democrats The New Yorker Abbott\u2019s advantage narrows as Hinojosa gains ground in latest poll FOX 7 Austin Abbott, Hinojosa make final..."
+     "snippet": "What This Democrat\u2019s Surge in Texas Says About the Midterms The New York Times Gina Hinojosa\u2019s Populism for Democrats The New Yorker Texas Governor Race 2026: Abbott vs. Hinojosa MultiState Abbott\u2019s advantage narrows as Hinojosa gains ground in latest poll FOX 7 Austin Dems rally in West Odessa to..."
     },
     {
      "title": "Ukraine\u2019s Feeling of Moral Whiplash at the Hands of Trump - The New York Times",
@@ -1169,71 +1225,15 @@
      "source": "The New York Times",
      "feed": "Headlines",
      "published": "2026-10-24T09:03:20+00:00",
-     "snippet": "Ukraine\u2019s Feeling of Moral Whiplash at the Hands of Trump The New York Times Trump says Russia 'has been fine on Ukraine' as he makes new deals with Putin. Will his strategy pay off? Yahoo 'Terrifying': Ukraine and Europe on edge as Trump takes Putin's side Euronews.com Trump and Zelensky at..."
+     "snippet": "Ukraine\u2019s Feeling of Moral Whiplash at the Hands of Trump The New York Times \u2018There Is No Immunity to Donald Trump\u2019 Politico US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia AP News Trump says Russia 'has been fine on Ukraine' as he makes new deals with Putin. Will..."
     },
     {
-     "title": "Obama Returns to the Trail, Setting Up Dueling Appearances With Trump - The New York Times",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
+     "title": "Trump Asked Muslim Voters to Trust Him. Now Some Feel Used. - The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGZTU0liYWlNOE10QmFnQ3Q1dm9pSWZkWWhvbFBUQlY1V1pUb29mQmJlenB1RERuUGotN04yLW14UUdrdWloYnNvSU15VklvZUlDZ01aaXlHQVBEWkFEUTYzQ21ibDllOUk4d2diWEFtZTItT1h5cGU4N1hqbTY0RFFIREN6Y2tE?oc=5",
      "source": "The New York Times",
      "feed": "Headlines",
-     "published": "2026-10-24T09:02:32+00:00",
-     "snippet": "Obama Returns to the Trail, Setting Up Dueling Appearances With Trump The New York Times \u2018Most potent weapon\u2019: Obama arrives to boost Democrats in battlegrounds MS NOW Obama is set to campaign with Democrats in Ohio and Michigan as he ramps up midterm efforts AP News Barack Obama rallying with..."
-    },
-    {
-     "title": "Dan Sullivan vs Dan Sullivan: Why is Trump\u2019s DOJ suing in Alaska? - Al Jazeera",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3FzY0d0clMyaUhSTGpSZ0oxdDkyOV81SnVWcHhvUF94djJFaFhhZ2pKaTA4dDRtSHdzeERDeTlXN0ZYTTc5Z1F4akF1OG8wdGNqakEwMGp5X2dHQk9hSkdLbzczRDlXYi1qOWE2LTB4YzJTcFlBekVFSURqbUQwV0pXQmtrTWlrREUycWZfUGc5ZjhpM041QW40ZFhBdVhSN3pOZzZCc9IBrAFBVV95cUxOM3h2MXl2VDJtdGxyS3FiMkNMWE1zMUc4WFl4Xy13U3dRRlBTdmZtOEV0ek4zTFY1TmFkOXBkRjMyaWtPZ2g4OVlxaVlDLTN2M0t4TnZUYTd4SmljNmRnNEd2UUtuaGtMX1RTenFBQ2xybUhNMGpCbmFwOUgwRktLbEtybFlUeGJLRkxzd0FRVllnckpvVDdBeUQwaURiMVkzSjJSQVVXZkFubVl2?oc=5",
-     "source": "Al Jazeera",
-     "feed": "Headlines",
-     "published": "2026-10-24T08:14:44+00:00",
-     "snippet": "Dan Sullivan vs Dan Sullivan: Why is Trump\u2019s DOJ suing in Alaska? Al Jazeera Why Legal Experts See the Justice Dept.\u2019s Alaska Election Challenge as Dubious The New York Times Alaska Dem Peltola calls DOJ lawsuit 'corrupt' and 'desperate' USA Today Facing an electoral wipeout, Trump goes after the..."
-    },
-    {
-     "title": "German teen arrested on suspicion of murder in connection with US girl's death - ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW9UNnZ5TUdscVhNQ0hjNEh4OE9kZWVWTXVRS0tKT2JvenRCM3F6elVTU25KVWhNM2lCeXJEY2sycVhaV3pGSXUyeEUxN2UxbVF1dXZYbzBhZ3VORTM4U0hhQ0lPaS1VR29FRm54Ylp6LUdMU3RQVFBZUHNmemlNZlNBSDhjMTBSbjRKamhUWXRieFo1eE1ncU10eFd1MTNR0gGmAUFVX3lxTE5EajNtTzJXYnRCSTYyOGp0YldzOGY2b0RvREN0em4zeGIxTGFPOXh5T3lqS01xMlZHTWhoQWdhRlY3Tk9iNEd2bzdKQkdyRnNFUXBGYUlZNjdNUWo4QktoZUlDbEJGQjZjeGJZaFFKNXk3Yzl4Y3VkNzdVeE9RbUNRcUtsb0psTVo0OHJ5Uk9OVGRqc0o5SkVvVVJGdUlncWh1OTRYZ0E?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "feed": "Headlines",
-     "published": "2026-10-24T07:53:02+00:00",
-     "snippet": "German teen arrested on suspicion of murder in connection with US girl's death ABC News - Breaking News, Latest News and Videos FWPD, FBI, German officials arrest man accused of causing 14-year-old\u2019s suicide WANE 15 FBI: Man arrested in Germany, accused of orchestrating Fort Wayne teen\u2019s suicide..."
-    },
-    {
-     "title": "Dem Star Erupts at Fox News Host in Fiery On-Air Clash - The Daily Beast",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlNuU2FSMVJzbHlFVnNVYzFaOFlwcndBTGpDVjIzbGw0TWRWSVJHeGI5WWF1RmM3Z3JPd2J4MTFIZUxBT3ZiT21jUHRzZ0Eyb2JQbXRhdHc0bjMyM3NCSUJ4VVI1TGEwVWlxcXhocERCVFdKSmNBbGdSeERZTGw1LXBsMnlUWXVHbUNIXw?oc=5",
-     "source": "The Daily Beast",
-     "feed": "Headlines",
-     "published": "2026-10-24T07:10:13+00:00",
-     "snippet": "Dem Star Erupts at Fox News Host in Fiery On-Air Clash The Daily Beast What Republicans mean when they ask Abdul El-Sayed to \u2018disavow\u2019 the Muslim Brotherhood CNN Examining the Muslim Brotherhood claims in Michigan\u2019s Senate race The Washington Post Republican 'Muslim Brotherhood' attacks on El-Sayed..."
-    },
-    {
-     "title": "DOJ demands that California counties help identify noncitizen voters - NBC News",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEw5UUlmRkdDRmVMbFV6VlhWUlcwYjJLeWhoTHJkUmtmUzNnVmoyRTBNOWFoY29ZZ1ZnRXk3TTk1WmZJRnVwR1h0Q2JRTDExMDUyb0xuOWFwVUZIMndjQmZtaHZuTnByTEgyTjdEbUFDbUVpSURHTmI2cERVRzBVc2psSjM1N2tTUl9NQUJmZWF0NWNrYU9nYVBuZnZhQWRMVHZZWGlBQTVpazVYZDFOb2IyNXllbmg5azY5Y0JR?oc=5",
-     "source": "NBC News",
-     "feed": "Headlines",
-     "published": "2026-10-24T05:13:00+00:00",
-     "snippet": "DOJ demands that California counties help identify noncitizen voters NBC News Justice Dept. Demands That California Counties Help Identify Noncitizen Voters The New York Times DOJ orders some California counties to set aside ballots from suspected noncitizens PBS \u2018They wanted to make a scene\u2019: the..."
-    },
-    {
-     "title": "Rodney Hinton convicted of murder in death of deputy Larry Henderson - WLWT",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUdpUjZBVk4zM1FqdnEzdmhWaVloWk5OZlVoeWlsMkpHWEs1OFJMQWJPVzNPdk5RNGRUcGRqakhIdzhzbURDSWRVQlZvT194ZE5tVFE2T0dvLWJib0FNY2E3akFHNUpzVHd1UWZQQTNmUGdZQkx5WW1PVHR4WExnaWRYdmtTcVBR?oc=5",
-     "source": "WLWT",
-     "feed": "Headlines",
-     "published": "2026-10-24T03:12:00+00:00",
-     "snippet": "Rodney Hinton convicted of murder in death of deputy Larry Henderson WLWT Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder CNN What could happen next after Rodney Hinton Jr. guilty verdict? Attorney weighs in WLWT Ohio man convicted of murder for..."
-    },
-    {
-     "title": "Fox News\u2019 Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding - CNN",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDcyUlNORTktM01ER1lfOG9WemlfV0xCenJrYjdsSnZjOXFneWtqMWpNRWpsYmRNOFJqanJpQjdrVDVLRUY4UDRDTHBuQ1VXRTBNZ0VwalUtcm9aVlQtRFMtYnFfa1hmRmVJcEtnd3NhQ2xac09pNEY3dXhDTmxERS1pQ09rVHQ3MnFN?oc=5",
-     "source": "CNN",
-     "feed": "Headlines",
-     "published": "2026-10-24T03:11:00+00:00",
-     "snippet": "Fox News\u2019 Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding CNN Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago Fox News Trump joins Hannity-Earhardt wedding rehearsal dinner at Mar-a-Lago The Hill..."
-    },
-    {
-     "title": "Guilty: Faith Hedgepeth's killer sentenced to life in prison without parole - WRAL",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmJNbnJWLU5FQmliS2NIYzgweHNYRzlhaGFzbk9OaTl5Ym9SclR5YWZnR1lBY3J0VGlOaVlIb3h1elRhVm1iS0NJeG5JUVRIRWhNbW9UbC1KR3NsLXJzUDV6aENjQ0pPVW1RS2hXY3lZYkZFc2M5bmtWX3JmUTRibzh0UUlpUG55b2dMaGdpUXE2N0k?oc=5",
-     "source": "WRAL",
-     "feed": "Headlines",
-     "published": "2026-10-24T02:28:41+00:00",
-     "snippet": "Guilty: Faith Hedgepeth's killer sentenced to life in prison without parole WRAL Miguel Salguero Olivares found guilty of first-degree murder and rape of Faith Hedgepeth The Daily Tar Heel After 14 Years, Man Convicted in Killing of Haliwa-Saponi Tribe Citizen Faith Hedgepeth Native News Online..."
+     "published": "2026-10-24T09:02:54+00:00",
+     "snippet": "Trump Asked Muslim Voters to Trust Him. Now Some Feel Used. The New York Times Arab Americans split on Trump in 2024. A new poll shows a significant shift. The Washington Post 'We felt betrayed': Trump's gains with Arab Americans may be at risk in battleground state KCRA Muslim and Arab Americans..."
     }
    ]
   },
@@ -1242,12 +1242,28 @@
    "blurb": "Top India headlines.",
    "items": [
     {
-     "title": "Low pressure over Bay of Bengal likely to turn into cyclonic storm | Live - The Hindu",
+     "title": "OUSSSC Recruitment 2026: Applications Open for 7,268 Below-Graduate Posts - Pragativadi",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGY4d2NOYlppNTd3YTdla2VZSE93SGVQa01LYjhmbTNrbWhjOHBhUXpZclNmTDRBSTJPdHdQeVdKVTgxZ1FwVzdzRU5jbGVKQkdOQVo4NXNMNnA3blE1TzhQWnR0UE1qUWM5a2Nndy0wa0RtZkJGWFJBNUdQSkdNR1kzU1drLUVNelA4VngxNmhPeFhMUjBzbzB2T28?oc=5",
+     "source": "Pragativadi",
+     "feed": "Headlines",
+     "published": "2026-10-24T18:37:01+00:00",
+     "snippet": "OUSSSC Recruitment 2026: Applications Open for 7,268 Below-Graduate Posts Pragativadi OUSSSC Recruitment 2026 Registration Begins: Check Link, Vacancy and Application Steps Telegraph India OUSSSC recruitment 2026: Notification released for 7,268 posts; check eligibility, direct link to apply The..."
+    },
+    {
+     "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live - The Hindu",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWG52R3hNcDFmbjE5dmhXYjRtWFBTWFhROXR5cTJHSVRwRTZTb2RGQlJDWGFPZVdYelVmVDVxYlMzQW9tOER6di01SXZ2SU5XOE9XaEk3VVZnLUhiUjVvbHZtclc2S01sWXJuU0ZScWM1RF9IUG0tUEFWVm9fVndsQlJqUG56bVZMcUotdFBvczJjcHBhanVtWmd5NlRIOHFnemtiYV9LcjJkWDlVcU01RlFLMkMtQVB0S0ZlNEJ1Tm1rcGcxTGlvYlhLR1Y5Z2YweHF3SE8zMV9ORHFUNC1TQXNqcnk?oc=5",
      "source": "The Hindu",
      "feed": "Headlines",
-     "published": "2026-10-24T15:56:44+00:00",
-     "snippet": "Low pressure over Bay of Bengal likely to turn into cyclonic storm | Live The Hindu Cyclone Threat: Red Alert for Three Telangana Districts Deccan Chronicle Cyclone threat looms over Odisha as state mobilises disaster teams, orders school closures in five districts Telegraph India Cyclonic system..."
+     "published": "2026-10-24T16:43:29+00:00",
+     "snippet": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live The Hindu IMD issues red alert for three districts in Keralam on October 25 The Hindu Daily weather tracker: Heavy rain alert continues in southern India, Himalayas see snowfall as Delhi stays..."
+    },
+    {
+     "title": "Free 'Umar Khalid', 'Long Live Naxalbari' graffiti spotted at JNU; administration reacts - India Today",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMTY3LXp6YVJyVlBzV20wZnBzUEI4dEY4b19QRHAtejljX180aVpXSmE4YmUwRWd4aTVXSl9WdVItaTd1Q0VxSHJsYU1WWkNWYzhKTWFFam5NX3JYQ2FsS25CMzlfWWt2TWVJNFVyNWQwQ0cybkl2V1p0RlJPM2dKQTJuQnBXUGpUUkN4cXpjbEJfU2tzejNPdHJ1M1pqQkVBX0RkUkxxTmp3b0h3ZU50WGZnNDFHbXY2VmRqalp0MVZIV0REeURkalZCYVZGSUZsMjNlMWZhTmtUWHB5b0ZrVHV3MTdUVGtYVGRKRm41a2NPYzZSYng0UUFB?oc=5",
+     "source": "India Today",
+     "feed": "Headlines",
+     "published": "2026-10-24T15:17:28+00:00",
+     "snippet": "Free 'Umar Khalid', 'Long Live Naxalbari' graffiti spotted at JNU; administration reacts India Today 'Free Umar Khalid' graffiti spotted at JNU a day after Jamia Millia Islamia clashes THE WEEK JNU Campus Sees Fresh Political Row Over \u2018Naxalbari\u2019 Graffiti, ABVP Targets Left Groups News18"
     },
     {
      "title": "Defence Secretary Rajesh Kumar Singh gets one-year extension till October 2027 - The Hindu",
@@ -1258,52 +1274,36 @@
      "snippet": "Defence Secretary Rajesh Kumar Singh gets one-year extension till October 2027 The Hindu See more headlines and perspectives on Google News"
     },
     {
-     "title": "Chandrababu Naidu's 'Kansa Mama' Jab At Jagan Reddy Over Wedding Venue Row With Sister - NDTV",
+     "title": "Palace, Siblings And A 'Kansa Mama' Jibe: Jagan Reddy-Sister Row Over Wedding - NDTV",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGtQZEdkWUFScDBua010OEpfVjc2LTR2M3o5b3paTkxINS04VUUyMjRVRDVNVUw2MDNKRWZza1o2ZWc5dGhJUlJtc1A1MU1iOVBlaEZqR0Z0REV2Y3phc3d1Zlg0TzNjMWR6MjJkN3docjdvcWZydDE1Vk1qcGVuRDVjSmdEM0dxakgzNEhXY29xQ2JhbVFsLTJzUVM4YlV3c0hJVHNWSWk3dTFSek5CY3FrV3A5eFdBdXpVeTlJd2t4UQ?oc=5",
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-24T13:59:04+00:00",
-     "snippet": "Chandrababu Naidu's 'Kansa Mama' Jab At Jagan Reddy Over Wedding Venue Row With Sister NDTV Jagan\u2019s \u2018denial\u2019 of Yelahanka Palace for wedding of Sharmila\u2019s daughter sparks political row The Hindu YS family compound in Bengaluru becomes new flashpoint between Jagan Mohan Reddy, Sharmila Deccan Herald..."
+     "snippet": "Palace, Siblings And A 'Kansa Mama' Jibe: Jagan Reddy-Sister Row Over Wedding NDTV Jagan urges Sharmila to reconsider Bengaluru wedding venue over security concerns The Hindu Chandrababu Naidu takes \u2018Kansa mama\u2019 jibe after Jagan Reddy bars niece\u2019s wedding at family palace Hindustan Times YS family..."
     },
     {
-     "title": "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology | India News - Hindustan Times",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUFo3ZlNENllrV0dZZDFZQXFGZFF6aElwRUgwVjVJcnJfWEJaZEZicF9RaUxYZ3kzOUwtMktmUEw4UnZQbFdMUlZiZ3pZVXp3bTFYVFpnWjJRZmdnMkI1ZXBvMmdEb1FEcVF6cmtpQjVaSUZIWFNOQTl2TERDaElhdXhpVUxuWTNzUHo1cDZRNmNwMkhUVktGY2R6SXVhdW1FX3RUMzFSVWUzSEdubHZlbkF2NXRSaVVacHpxODhVQnhfc1lkWGVRSzRjUFhjd9IB0wFBVV95cUxNOGw3WUx5VzRhR2VQb2o5TmZYcXlxMGUxTENPSTE3ZXJvLUJENkRlcG80cl9YaXFuWnBvQWwtd2o5RGpFeTE3ZGZiYzdSTXlCV3hobUhaSmpsNnFNbDFhaXh1eGExMFdmUDFvV0dIWjc0VTZrZzNwUkZWSEd3UkJtS0phdlQ1ZU1GZzZJd1dKWndrYVZtdFBxdTc3Rmd1eWVfSFo0cDVSc3NDZ1RKTjFJUXRfc0otTHN3VGF3WmxwRU5zTmR3VkJWZjdCMk1weUVrZDU4?oc=5",
-     "source": "Hindustan Times",
+     "title": "D K Shivakumar, Priyank Kharge conspiring to frame me in the sting operation: H D Kumaraswamy - Deccan Herald",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjNEY2RIa2REdk8wYnBLR2RGUE1hNVZxeDQ0cmk0ZTZTa1hZOVFteVl4REpPNUZvWVNIcWNNQ3pudTkzUk1qT0tFZlNadTdNaU1NaTlTZTUtMjZSaG1iclktX1NpX0s5Q05yc0F3YndEdEF2X2hHNkxQQ0dRVFJWZ3Nyb2ZLUWhDQ3FsNjZmNVJ4Z0NQY0lWN2RENk5OQTl3VW5vU2ZweXJia0IxblpnSVBqU2d2QzFvN2N3QXA3aS1tdGt4MThGUkU2ZkF2bGU0N2tmRE1YdzJVRmtO?oc=5",
+     "source": "Deccan Herald",
      "feed": "Headlines",
-     "published": "2026-10-24T13:56:17+00:00",
-     "snippet": "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology | India News Hindustan Times \"Sedition\": BJP Slams Farooq Abdullah For Remarks On Kashmiris, Pakistan NDTV \u2018Act of treason\u2019: BJP slams Farooq Abdullah over claim 'Pakistan is protecting Kashmiris' The Times of India..."
+     "published": "2026-10-24T13:32:33+00:00",
+     "snippet": "D K Shivakumar, Priyank Kharge conspiring to frame me in the sting operation: H D Kumaraswamy Deccan Herald Only a matter of time before everyone involved in sting operation is exposed, says Priyank Kharge The Hindu Karnataka 'sting operation': Delhi-based man held by Cyber Crime police making..."
     },
     {
-     "title": "In Tiger Shroff Assassination Bid, Mumbai Police Detain 11th Suspect From Indore - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0t6dkotbFlKWmw5LWc1TG9aUE1sYnFUUjJlQ1JNNEMyQS1UTW9oSHdRNjc4NTFvcElhNThBOGxhMnJsZEpEUVJUcHJrekRXQjhrb2xqYl9ZcGE0bmFQWnhRQkh3aHFFT2J0cFJxYlVVakZIaWNHcmlmdTZiSkZoWHhhLTZOVmlCZHplajdqQ2lkVTQ2NDI3dk1uZ2taQ25XMk51VDRrNTZ6bF9LRVFkUVRaTFlBaE5JQ3fSAcIBQVVfeXFMTzB1T1BkUjlFNDYxTFFpeU5hRGM0Y1l3akpGWkZEWWptNng0c29tQ2xwNFhJczVBNlVRek93cTQ2SlJob1hJb1A5cGlnc0dBU3dMWVl4Wl9XWkVEcldFeFB3SUFINldtRGJHZ1ptVzV0RzZGN05UcUpJekw1ZGtPTGpCSWtCb2pjMmZ0ZDNMS0VOWDFYeDF3RTdtWEFZMGtKUW94TU5PSFhQX0RyOS1rcU9kU0c3aUVzZjIzVzB3WE44Unc?oc=5",
+     "title": "\"Sedition\": BJP Slams Farooq Abdullah For Remarks On Kashmiris, Pakistan - NDTV",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSzFJcFBxMEJYTXpBTU92RmQ1dFhjQktmc2VVM3JOYnFJbGVOcTZ3WmZmVk1VUFh2a1RYeVJkUUtQWmZKcHFvOW1kOXUzTXE4NTdDQ3RsOEhkbzRCNHd2MThRNEVxTF9JalZPdE9FYkNFcFFSYVBVeTQzN3ByTDBLVW1jWmFLVDNxTmRKZEVpVEhzalNpYlJFQVB2MFBoTDlCY1NvelcyTlJyT09FUVE2OWpCaVZkVnllcWN5OTFaVkZMa2twTmJSVW02M2RDaVZwX2dZT3dfdHl2V185bXp3OF91SmN2QQ?oc=5",
      "source": "NDTV",
      "feed": "Headlines",
-     "published": "2026-10-24T13:46:39+00:00",
-     "snippet": "In Tiger Shroff Assassination Bid, Mumbai Police Detain 11th Suspect From Indore NDTV Tiger Shroff firing case: Two firearms, 10 live cartridges recovered from Surat; suspect detained in Indore The Hindu 'Your faces are out': Tiger Shroff shooters got real-time probe updates from handlers via news..."
+     "published": "2026-10-24T12:33:00+00:00",
+     "snippet": "\"Sedition\": BJP Slams Farooq Abdullah For Remarks On Kashmiris, Pakistan NDTV Farooq Abdullah's comments on Pakistan and Kashmir draw flak The Times of India Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology Hindustan Times Kashmir issue alive due to Pakistan, Centre's..."
     },
     {
-     "title": "'Stripped, Purified': Bengal Christian Woman Alleges Conversion Threat By Bajrang Dal - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEdXdVhvWG5UOHB0LUdZQzM3VklmYmdIQzlYZDE1eFY3emtiMEMzd09xZXZESWh0RW42ZHRxNGZUeTgxNWV5c2FnTWxnempqQW5WTUZ4dGtmM29uckNiUmtKM041ZTVXTXlXX1dOdGhjQl9KRmN4cmxuNm1OZlZkaVc4NDkzdVFDYVNncFY1WXh1NUxiLVBCc2xMcHVsY3FGLWp2NmYxOF9Ld3c1S1ZLMkkxSDhrUnFZOXkxRnZpOVlaQQ?oc=5",
+     "title": "Man Shot Dead By Friends After Argument Over Scooter Parking In Amritsar - NDTV",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMm9hOS1GdE00YkNRTS1XMGpfbHFuTHdzWlpSRER4YW1oU19yeW1MTExDeWVxTlA4RDg2WmhRU1FVMHYtNm9mZ0ZIWmlFVkZ2YUpRQ0ljS0lZLUNvT3J3TUh0ZUZSZzVLWlF6WF9zamRNRlkxWWxHamxGNC1qdHZCbVlqbmk0dHAxLUR0RlRfMjVXbmdib2txdFp4SlQ3RnJoTDBRaksyZ0d1dDAzUWpwVTdvR2JweVMtVnBpRlluMGU0S2RKNHFRZ1930gHSAUFVX3lxTE8tdng3T1FMS1RUX3hMbnlBZVFuclFmMldRcnV2NW9FZFFZdm5VdzVuMDZic0ZsbWJBVnNmWmxaTkEzM3JKUHdxM3ZES3JCM25KV2hLWmhwVUloekJ1ZU9NSnBHcmQ5VTR2VjdUclJSazd6SU9hMDJReFhON1RFS2NsZ3VZRjk0ekJESUppeTdaUzhrRUtWV2xnVFIxeVhhNW83Y3ZJbGd5YWJqWWpQc3pGd195N3Y5SVpXck42cHQ5WHlRWHVGdnFnS2YyWHozd19Udw?oc=5",
      "source": "NDTV",
      "feed": "Headlines",
-     "published": "2026-10-24T12:52:32+00:00",
-     "snippet": "'Stripped, Purified': Bengal Christian Woman Alleges Conversion Threat By Bajrang Dal NDTV Congress leader Venugopal urges Amit Shah to arrest accused in alleged attack on Christian families in Bengal The Hindu In Bengal, Christians allegedly assaulted by Bajrang Dal mob, forced to perform Hindu..."
-    },
-    {
-     "title": "Jarange audio row: BJP says Sanjay Raut made fake 'Rs 500 cr' audio clip; MP defends authenticity - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHVIX05CcTRoRHVCWDVvekVLUS11T3M5VHpHdF9tQmRvaURjZzhaZHlPUzVCUXBOZHlpbjF6TnZmT0xWbU13OHNfN3lOd3BWdjNhYU92UFM2YmVOSUg3Tjg0RWZDWWxlZGpWYWxmdWJKelUzUXNCRUhaMzh2MkhxR3YzS2c0dFNVNGliMThkS3ZNZWFELVJPcDJ0VWM4MGJYbnV3VlJPejNxYnBHbVBsMlAtS3J1a0d6X2gyQUdvR3FLY3RGRXEtbVkyLWZKcmhwQ2htLUpkRTVjMHJYYVRic3pacXQta1RkRkdDSGRoUm1DYkE?oc=5",
-     "source": "The Times of India",
-     "feed": "Headlines",
-     "published": "2026-10-24T12:45:00+00:00",
-     "snippet": "Jarange audio row: BJP says Sanjay Raut made fake 'Rs 500 cr' audio clip; MP defends authenticity The Times of India Audio clip genuine, says Jarange; urges CM, Shinde to go to root of controversy The Hindu The growing strain in BJP-Eknath Shinde ties: What latest audio row reveals The Indian..."
-    },
-    {
-     "title": "Bihar MLA Anant Singh expelled from JD(U) for 6 years for anti-party activities - India Today",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUl0VVRTMFZEVUJQOU0wZ3hBVnF3SHA5REZCWFNyaDYwNXlVTEE3ejl3UHNmOHEwNlZPckdaYklPUHNuMFFYV0RrSDlRYlVsRmd6YlZhZVpLNVBDbnZRTkV3UlpyNTQ0WWoxZ3RwZjhYZDg0MEVuNFZrdUN2czVjdWdGT3lzeUZsdGNJc1J3c3pFMGFKSHB1MDcxdnhLeHlTU1lkQkNkRUozeEV2Ml84R3FkRHV0dVRGbE14Tjc5VjJnemhEdUI4UmRZMmUxdDZnTWRsbE10U1VoVTJhZFBwU3pqREpGTzJabk530gHwAUFVX3lxTFBjVmp6am9IYXM5YzdrbjZzLUoxd1pEZ1NXaVJBVk94NFBrcGtUbnhVaEo4alpxMGIxQll2RXJONnVYUTc4Nmx1OHB4QWtJcU5INFhRcUxscW5temtCa3JlaXdjUkpJT2pzMUR4TURuUFBlQW5iQ0ZNVWg5YkJrelBXN0ZWdGdJOEtab1R2d1FrdDJ0dDZrc2JscVh0UjdOekhNenljNmh6bjF5YWR6R1YyblVUaEhSWXRlZV9CaE96UnRFR0k5em05WFl4QjQ2SE9Pdm5tdlNzcW1pM2FxUnhsMTlSbFcxc3NOZE5GdXZrUg?oc=5",
-     "source": "India Today",
-     "feed": "Headlines",
-     "published": "2026-10-24T12:42:08+00:00",
-     "snippet": "Bihar MLA Anant Singh expelled from JD(U) for 6 years for anti-party activities India Today JDU Expels MLA Anant Singh, Wife For 'Defying Orders, Campaigning For Rival' NDTV Janata Dal (United) expels Anant Kumar Singh and Neelam Devi for anti-party activities The Economic Times \u2018Everything is in..."
+     "published": "2026-10-24T11:45:36+00:00",
+     "snippet": "Man Shot Dead By Friends After Argument Over Scooter Parking In Amritsar NDTV Punjab man shot dead during argument over parking spot with neighbours in Amritsar Hindustan Times Youth shot dead over scooter row in Amritsar | Tap to know more | Inshorts Inshorts 'Asked him to move scooter': Punjab..."
     },
     {
      "title": "PM Modi's Address To RBI Governor's Remark: NDTV World Summit Makes Headlines - NDTV",
@@ -1314,12 +1314,20 @@
      "snippet": "PM Modi's Address To RBI Governor's Remark: NDTV World Summit Makes Headlines NDTV India is fulfilling its role as a Vishwa Bandhu, a friend to the world: PM Modi at NDTV World Summit in Delhi NarendraModi.in PM addresses the NDTV World Summit 2026 in New Delhi PM India 'Trade becoming means of..."
     },
     {
-     "title": "Neha Bora refuses to sign peace bond, questions curbs on dissent - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXhzV0dfX2wzN1V1QTBSWXFKNXExTHNSRlNlRWE4VUNlb1JoSG9oajBjN1FEdzMxUmNLVmRjSDJsOFY4WHo4X0tNSTJCTlFQemE0NFN6YTB0UVNndDFfcjlfbjdTbmR6aUJXQmZaeHpYcmVUMmV2d2p2MXdxUGFFVThIN3lHTzdQaEFPczJrUUV5NXdXeDl2UXd3QXowLXhPck0zM3I5TlNzM20xWEFraHdhV2pMcVBDSUFoelE5QQ?oc=5",
-     "source": "The Hindu",
+     "title": "17 \u201cUnlisted\u201d Individuals Formally Arrested After Sinai Camp Verification - Ukhrul Times",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUtHcDR0RVA0ZEE3NHNuM0t6YUxkZnFWdVEwNTEtVXh6S2pCam43OGh5Z0d3ZzBaa25pc3NzeF84cWpaTllkdVFOVFZSVlVyeGl1bTRXdDVTcjB1cGYwV3FCbnN6Mmd3TTZZLVJjVFlfSmwwbnRfZDJ5MXVMbVlUTjc0bnNMQTU0U1lB?oc=5",
+     "source": "Ukhrul Times",
      "feed": "Headlines",
-     "published": "2026-10-24T10:54:13+00:00",
-     "snippet": "Neha Bora refuses to sign peace bond, questions curbs on dissent The Hindu Delhi High Court Says Neha Bora's Peace-Bond Notice Based On Diary Entries, Prohibitory Orders Covered... Live Law Anti-SIR protest LIVE: SEM hands over documents cited by Delhi Police in show-cause notice issued to Neha..."
+     "published": "2026-10-24T10:40:28+00:00",
+     "snippet": "17 \u201cUnlisted\u201d Individuals Formally Arrested After Sinai Camp Verification Ukhrul Times Breaking News Live October 25: Protests sweep Italian cities amid heavy security presence, some violence reported The Times of India Manipur: Security forces find just 1 of 159 cadres at Kuki-Zo militant camp,..."
+    },
+    {
+     "title": "North Indian influencer\u2019s hate video on Fort Kochi sparks row; Diya Krishna clarifies her comment amid backlash - Onmanorama",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc3RpN2ZoekFvUG9BR2g4NnNJYmdwOGh2QzhydnJJMGhlRmIySGw4QnBZaFRrNjByNVNOMW1nTTNmeUtDSmZ0SzhZMUlWSDhWUzY0b0lXd1FpRldVX1V6QVBhdER2dGt6cUdtUFljUW1fenF0ZEFvWVZibVdfaUpxb1J2RzV0R2RyNE5YckJPR1FUekxZdGZtYzFZQUZXeHNXU002MnBHNFlRcG9uTU5ITGFlM2pYVnhISFYzMUpvMWRhSnhSMmVrV2F3dFBrVlRRMlRwMHBVUQ?oc=5",
+     "source": "Onmanorama",
+     "feed": "Headlines",
+     "published": "2026-10-24T09:39:08+00:00",
+     "snippet": "North Indian influencer\u2019s hate video on Fort Kochi sparks row; Diya Krishna clarifies her comment amid backlash Onmanorama 'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe The Times of India Kerala Police indict social media influencer Darren..."
     },
     {
      "title": "Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online - NDTV",
@@ -1327,7 +1335,7 @@
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-24T09:06:00+00:00",
-     "snippet": "Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online NDTV Jamia Milia Islamia shifts to online classes as tensions escalate over students\u2019 union election demand Telegraph India BJP asks Congress to clarify whether it endorses demands for separating Kashmir from India The..."
+     "snippet": "Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online NDTV BJP asks Congress to clarify whether it endorses demands for separating Kashmir from India The Hindu Jamia tensions rise: University shifts all classes online; AISA alleges assault on students during negotiations..."
     },
     {
      "title": "Class 12 Student Sets Herself On Fire Inside Delhi School, Cops Find 3-Page Note - NDTV",
@@ -1335,7 +1343,7 @@
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-24T09:03:58+00:00",
-     "snippet": "Class 12 Student Sets Herself On Fire Inside Delhi School, Cops Find 3-Page Note NDTV Mystery surrounds death of Class 12 student found burnt behind Delhi school guard room The Times of India Class 12 student sets herself afire at Delhi school, dies Rediff Class 12 student found dead in a burnt..."
+     "snippet": "Class 12 Student Sets Herself On Fire Inside Delhi School, Cops Find 3-Page Note NDTV Mystery surrounds death of Class 12 student found burnt behind Delhi school guard room The Times of India Class 12 student found dead in a burnt condition inside East Delhi school The Indian Express Class 12..."
     },
     {
      "title": "'Rubbing salt into wounds': BJP targets Rahul over Nov 1 rally, recalls 1984 anti-Sikh riots - The Times of India",
@@ -1343,23 +1351,31 @@
      "source": "The Times of India",
      "feed": "Headlines",
      "published": "2026-10-24T08:25:00+00:00",
-     "snippet": "'Rubbing salt into wounds': BJP targets Rahul over Nov 1 rally, recalls 1984 anti-Sikh riots The Times of India Congress, allies aim to create \u201canarchy\u201d through November 1 Delhi protest: BJP The Hindu Haryana CM slams Congress over INDIA bloc's Nov 1 rally on 1984 riots anniversary India Today..."
+     "snippet": "'Rubbing salt into wounds': BJP targets Rahul over Nov 1 rally, recalls 1984 anti-Sikh riots The Times of India CTI urges Rahul Gandhi to defer Nov 1 INDIA bloc rally, warns of \u20b910,000 crore trade loss The Hindu INDIA bloc sets October 30 for \u2018public impeachment\u2019 of CEC Gyanesh Kumar Telegraph..."
     },
     {
-     "title": "Vijay gets rare praise from Centre after Tamil Nadu's big aviation move - India Today",
+     "title": "Tamil Nadu cuts tax on aviation fuel, CM Vijay gets rare praise from Centre - India Today",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTRVNUdicGV5ZTNMSnFwa3RsdFBWbEF3cW04aGlla1VTVVpXYXpZQXgtc3R1cG9LSHdoc0Q5enRaUk1ISmFGSGR4TnVRU1c1Vzh4eVpWOEdreThDZ3VsdVExUXpFa3ByeUE2QmtDenJ2MmN6M2RUQTJybzhFSGQ1UzRGR0VfNzJETFNkZjREMnE4eE5VTl9CcTlfS3ZZczUxQVhiS0x6MThDMU5MVmRIQVo2NFV5M0N4dEg0NQ?oc=5",
      "source": "India Today",
      "feed": "Headlines",
      "published": "2026-10-24T08:19:33+00:00",
-     "snippet": "Vijay gets rare praise from Centre after Tamil Nadu's big aviation move India Today Tamil Nadu cuts VAT rate on aviation turbine fuel at Chennai airport from 29% to 16% The Hindu Oil on fire, Goa, Tamil Nadu cut VAT on jet fuel The Times of India TN cuts VAT to fuel regional connectivity The New..."
+     "snippet": "Tamil Nadu cuts tax on aviation fuel, CM Vijay gets rare praise from Centre India Today Tamil Nadu cuts VAT rate on aviation turbine fuel at Chennai airport from 29% to 16% The Hindu Oil on fire, Goa, Tamil Nadu cut VAT on jet fuel The Times of India TN cuts VAT to fuel regional connectivity The..."
     },
     {
-     "title": "'Asked him to move scooter': Punjab man shot dead outside house over parking dispute - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUDBSNjVEajBVS0FuNm5LYzAwbW5TLWloWXpGWGliRXBzOXpzc20xOFl6Vll0VmdKbnZ2WHdNd201eVB5WjI3eHUta0tDNm96N25hOFJVX2pKQ1k1Z0NCZGlNS3pKckV4RFpQbVVCRURVcFo0cWVheFZ4VXZ5SUVtczVYVXZna2pNOERYM1NnOGp2TFU2Xy1ITF9TMWFma2FPYXk4ZVA5T2FfZXBHbnBUcVBRSHMteTRjeWhLSDdpbkF2OEUyYUtoa2NLdmxxZk5DRV9JTUZZRzBBUnNMMFRGMmlaX3FuZ281ajJ2QWIwU2pNRTDSAfgBQVVfeXFMUHVJTkgtMjdzbUh1N2lXZlZiMDFzUjRjSm5uc2EwS2ZCRlRoQWFvV0xEbFcxTXJ3UHRnM01kbGdrMnlpZGdRSEtXeXNmTHhWb284TGhFb0h5VGlVOUhoSFA4VW5ZckNOckJWQnBWc2RUbjZXQmNSeVFvTU9iMncwbHlSQ1lHZjB0ZWR2cERZVjB3WFBJVWltLXp3enhWN0NUaTRZdnU0ZGc5VVV6VDJsT2U4S2MxX2J3Qm8tWm1TbHVCdVhBcXpLMjg3d04tNGVyM1Z6TUZESVFKeGF3UWxJUDhrZmp1bGE0eFV2Nk9iVUMxemwxYWd3V1c?oc=5",
+     "title": "$1.3 Billion Indo-US Satellite Saw Nepal Disaster Coming. But No One Saw It - NDTV",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVUxeVVBSllwbFc3U3lfUkhMc094V1pBeFotOEJzd2VkbVA3OVdNd25NTmtaaVczYjQxM0psQ250TllGWkotLVE3ZnFlYnR6RHpfVlJEOXZKT0RyRmE4cWM2SE9NX0lSTmVzVkVDTzJQT1UyLU9adWhyczU4N0hzZnQzNmhwNUQ4N2FfSUhraTFlbWZ0TEFIT3RoNU9va3VnRHdhcUI2Wjc2cklvWHJVSVNYdjZSd3djYkdjRNIBxAFBVV95cUxQMFJyRXFzQjVfbTZBRVRSOXltQUQxVGZCOVRmTjFucjJ0eF9UZTFJMHlFWFRqUUcxLVBMY1k0aHVYTkhFbkZmejliSTk0ZEw1QzZtVjdPWXhmQlBZVllxSkctSGFfbEdMTHdSODI2RDJKOTNvXzRIcmlPZUItV0k4Q21aejh4N3ZYV1VWdmQyekIyM0dabnZPLWxQQ252Y0c1c2RZXy1VVTY3VldjOUo2X01XVkFyN1pZNmgyS09Ta3k0Unhn?oc=5",
+     "source": "NDTV",
+     "feed": "Headlines",
+     "published": "2026-10-24T08:13:40+00:00",
+     "snippet": "$1.3 Billion Indo-US Satellite Saw Nepal Disaster Coming. But No One Saw It NDTV A $1.3 Billion Satellite, The Deadly Nepal Flood And A Warning That Came Too Late NDTV Profit Cryosphere-related Hazards in the Himalaya Greater Kashmir Himalayan Imperative The Statesman Himalayan Crisis: India,..."
+    },
+    {
+     "title": "Tiger Shroff shooting case UPDATE: Mumbai Police recover two firearms in Surat - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaVBDTVI2Q19iVFRYV3Z3Qkw4WXZhdFhEMF9WUWpWYU1idEVOXzE5NUtxZ2NhT1lHRUFuUS1IaW5yWnRiR0E0Y1hZaXZia1FHdkpCUTVTWU9xMFpoR0RyQV8xRzFUZFYxQ0JNQUs3N2Jkb2FzSHREU19JQnU5a1BmRzE0dHo1Z0dKb0JsVjhHbFp4aC05R1NQVkZpMGNxSUxwVVg4ODM1el92WlhlSTd6VTA1U0d4dnJDdkUzLUlJSmhZQjhSa3laTkQ5WThyV0lFa2hwN1lEY192QUpyMWJmZmh3TXpYZVI3Y3dONGY4NnBhcTdRcl9IczkwSGZFaGNVWkNLMQ?oc=5",
      "source": "The Times of India",
      "feed": "Headlines",
-     "published": "2026-10-24T08:18:00+00:00",
-     "snippet": "'Asked him to move scooter': Punjab man shot dead outside house over parking dispute The Times of India Man Shot Dead By Friends After Argument Over Scooter Parking In Amritsar NDTV Punjab man shot dead during argument over parking spot with neighbours in Amritsar Hindustan Times Youth shot dead..."
+     "published": "2026-10-24T08:08:00+00:00",
+     "snippet": "Tiger Shroff shooting case UPDATE: Mumbai Police recover two firearms in Surat The Times of India Bollywood actor Tiger Shroff survives shooting attempt in Mumbai BBC 'Your faces are out': Tiger Shroff shooters got real-time probe updates from handlers via news coverage The New Indian Express Tiger..."
     },
     {
      "title": "Child Rape Case Accused Veeramani's Daughter Deboarded From Singapore-Bound Plane - NDTV",
@@ -1367,15 +1383,31 @@
      "source": "NDTV",
      "feed": "Headlines",
      "published": "2026-10-24T08:06:11+00:00",
-     "snippet": "Child Rape Case Accused Veeramani's Daughter Deboarded From Singapore-Bound Plane NDTV \u2018Gem Granites\u2019 Veeramani\u2019s daughter detained from aircraft by SIT The Hindu Minutes before takeoff, Veeramani\u2019s daughter taken off Singapore-bound flight The Indian Express Veeramani\u2019s daughter attempts to fly to..."
+     "snippet": "Child Rape Case Accused Veeramani's Daughter Deboarded From Singapore-Bound Plane NDTV \u2018Gem Granites\u2019 Veeramani\u2019s daughter detained from aircraft by SIT The Hindu Mining baron Veeramani\u2019s daughter detained from Singapore-bound flight at Chennai airport Deccan Herald Veeramani\u2019s daughter attempts to..."
     },
     {
-     "title": "Ashoke Sen becomes first Indian physicist to receive Oskar Klein Medal - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU19BTHJMTG85MFJkUzBDRDJxOC15NzV6clhBQ3NaSG5oUFdpX2pPSjQ5d2lFcXRySXZ6YnVIeFVqdzYwWkRIU0U3eHZmYU0xYlNRRGtpd21FVDEzOVNZcEszanl3MHd5UXNjOGpJSlU1OEJZRVNhYVVoUklZTTN3SW4zOE1NT2ltaDdRSUN3SlhsUUlKYTNleWZoSlMzZnVLMkt5aE8wTHZjd28tZTJoaUpzaF9rUHJTTFlEZjBpeVZ4MWQ1d2xEZNIBzwFBVV95cUxNSmdrVnBMUV80Y0ZpVkJNQ0lMT3VMMEtfWDFHZEJVS1QwSGpqc3VxWnM1dzVFeXJRVGUxNUQzU1pPSEdLaW9xbFdqcXBEUlJaVFpnbHlIcmlZSzM3SkVsTWlmQlFEcmFwVjRTcms1NEc2bHMweVN5RFctaVgyRjEwaVBPazZQeWpVTWxWWXUtWE5LRm9zT2xTamg1SjFtMEt6dFpNSXozSS1OZk1YRmdaVFdYN0hHdmhjdEo3cmJxdy1MZGV0a0NMOTBXUl83Vnc?oc=5",
+     "title": "Arunachal unrest over hydropower project: Mob torches NHPC office, police station, vandalises BJP chief's home - Telegraph India",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaHp2cFU2eFMyZWh1a0llMWRTNXZ3cjYwM1dFM0lZcDVuWEo5LUszWWVDZVhVTHJNSHVrbjFFOHJRYk9YS2t2SDZHR0FQdnd0SHhTRnI4MTR6NHBmbGFLckZzV0thRDBBRWtobGdJVDNVRnBjU2xpRDhHNm9ZWTdyTEUxMXlha21KWG1ETXo4LXRyTmNhTkpFVWY3enR5X1JNVVl3SnY3OV9OWHFEOHh2OVE3VExYYmtNbkp0VE4tc3l3RnhUZTFQLTVGYjF2M1J6WGlsRUlZLTV6NHJENGlGUVFWT3JjSV9taTNlOVNVNlRXUdIB9wFBVV95cUxPeTdxeW1MXzFUTVBsblZVUWZtb2N3bUdGZ2REaXJmT3pVYUxBZW5tQXMxZnBOYzFyWFRnQjZQQkJlYmVUQzc0bW9xLTlKLVZ3SnFDUnI1Sk1tZjFuNnI5ZG9PYms2UU0tMG9rOC1uVTVXMzlmekJ3b1prV016a29GZVdPNWxZbmJnRWNHaE1VWmxoX2lHV2hfSWhSWUhhaUZLc21kMU9Jc2R5dTVlN3d1bnpUdlRqa19CbUlsdHNKVkc0Yk52VFhMNTBFVGozdmY3b0tkald4dlF4WnFoWXgzS05JMWhSU2pKSzRjb3BYNlEwaFhYdEFR?oc=5",
+     "source": "Telegraph India",
+     "feed": "Headlines",
+     "published": "2026-10-24T08:05:28+00:00",
+     "snippet": "Arunachal unrest over hydropower project: Mob torches NHPC office, police station, vandalises BJP chief's home Telegraph India NHPC office, police station set ablaze, Arunachal BJP chief's house vandalised amid stir over power project The Hindu \u2018Threats, detentions, militarisation\u2019: How Arunachal..."
+    },
+    {
+     "title": "PM Modi, Vladimir Putin direct officials to expand cooperation, target $100 bn trade by 2030: Envoy - The Hindu",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPczdNdHg0RTNlWWxSR1RObUxmUVRDaU5oTFdldHpyR1YtUjdUWE85TG1lUng2N0hBaU5QOVc1MkdMUDhfRGZxWHhZN3pwb3pZRG8wLVJXUHZzSlZ3Wi1tX3pqYk16ZklaMTlIUTY2WjZPX1FJSmNRcWtrNWFHQTVTZlJvTG5lSXRZY09PeFhfZEpvME9NQUdXUzhJNTVrOUFVbFJCZ0NKeFluV2hzYnJyaV85WnczcjNxeV9INFpVVVY0c3Qzbm1tajRlWUhxMEo2aE5XcDkzRXkxaDhPd3pRYTFsZXVOb0liU3c?oc=5",
      "source": "The Hindu",
      "feed": "Headlines",
-     "published": "2026-10-24T07:47:59+00:00",
-     "snippet": "Ashoke Sen becomes first Indian physicist to receive Oskar Klein Medal The Hindu String theory pioneer Ashoke Sen becomes first Indian to win Oskar Klein Medal Telegraph India Professor Ashoke Sen Becomes First Indian to Receive Oskar Klein Medal News On AIR Vocal on Gaza, Loss of Scientific Temper..."
+     "published": "2026-10-24T07:41:45+00:00",
+     "snippet": "PM Modi, Vladimir Putin direct officials to expand cooperation, target $100 bn trade by 2030: Envoy The Hindu India, Russia aim for $100 billion trade by 2030 as Modi, Putin push cooperation ET Government Modi expected to visit Russia in 2027 Rediff Ambassador Kumar: India is ready to completely..."
+    },
+    {
+     "title": "\"Was Very Good Looking\": In Debut X Post, Sonia Gandhi Recalls How She First Met Rajiv Gandhi - NDTV",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0VpMmk0ZHZUY042ZHdVQm93UHY4NDUzWm5zbzh5c2Y1c1lTdEhpckJpdzJWbmI2dlpPVVM4WkE1eko4UXBLcjRJaUU0S3BQTWlBVkxJTVVZc250dktRSWFtQXFlV0JRY3F2dHpLWndZUm5mUU1GNkVsbVo4Ql9SQ0Q3X0hsWjh3WGxSOThybUt6RXpOUjZiU293eFNtQU1FaUN2Z0xOYWJsaW0wNjl3cWI5cTdGWU9DeXBB0gHDAUFVX3lxTE5sMU9rczFaaE52ZzBTakNJMG5vUFVLZFNCR3ZPWnl6MnFkenVkalE1QkhkS0syZmVDN1NseFhCaEVjN1dKVFpXUDJRLUtqTWhrTGtfb1p5WU94Z2ZaZ1VoSlV0QjNlbWtwVjNpYzk1TVdma0hFeWl2bVdqWkg3VkRDbXZETmdMZUhGTUFQbFByc0JzU3hSRVU2YzBrX2tFMTlReHNITS0tckJQNGJHbVJuSTFJRlVlVkJneXBZeFZuM3UyWQ?oc=5",
+     "source": "NDTV",
+     "feed": "Headlines",
+     "published": "2026-10-24T07:21:33+00:00",
+     "snippet": "\"Was Very Good Looking\": In Debut X Post, Sonia Gandhi Recalls How She First Met Rajiv Gandhi NDTV Sonia Gandhi joins X, shares memories of meeting Rajiv in Cambridge The Hindu Sonia Gandhi makes X debut, recalls first meeting with Rajiv Gandhi ahead of book launch Telegraph India A Greek eatery,..."
     },
     {
      "title": "\u2018What real happiness looks like\u2019: Kolkata man\u2019s Durga Puja video with wife and child wins hearts online - Telegraph India",
@@ -1386,12 +1418,12 @@
      "snippet": "\u2018What real happiness looks like\u2019: Kolkata man\u2019s Durga Puja video with wife and child wins hearts online Telegraph India Kolkata couple\u2019s pandal-hopping reel on \u2018real happiness\u2019 wins hearts online The Times of India Sanjiv Goenka identifies man in viral Bengali family's rickshaw video, calls it..."
     },
     {
-     "title": "KPSC 'scam': D K Shivakumar sanctions prosecution of suspended IAS officer Gyanendra Gangwar - Deccan Herald",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaUVrbmhtODd4QklyQURhWG5RRGlNSmdyMUw1eDhWZDNRVWo5WFZmdWZtNmptNFBDaGZWd0pCSUhoeWhBNnplZ2FqUTktVmF0Mmt4UnBnZWZCTERRSkNhME1RelBRa0J1VTFNSjV6aVYwV3R4TklVUUExMUtaWDU4S21hVmh1UlpFT3FwM1JGd2V1RmdPS1NuWnphV01FS2VzdEc0akRraVc4MGtqVmNuRUdrNy13RkFKSWlQYjRtcWZPelduVGJaYl83T3RvNjlfa2xfLWE0NUg0QQ?oc=5",
+     "title": "Sanjay Raut is mastermind of viral 'Rs 500 crore' audio: BJP - Deccan Herald",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcjJkMnh6c3FYazVnd1d2WGh0TjduNE5pelhGd25ZUV9QS00xWEdsSG5Td3N3WmFrT1VHNXp6U3hmekF1OERNSzhHcjQ5UnY2YkJjTE8zY3NoOXhaRThoSXREd1A1dGk5Wl9INXZ1YmpibHM0V0p6OWtvR2QzdlJvaFh1UWZjVzFXOWFyeXpMU19hYVNUd1p6RHpKaC1DX3drSTZiX0dJX201ZmlOR1BZWWRFcmNBeFJ4d3RyQm9uWFppRmdZVlo3WQ?oc=5",
      "source": "Deccan Herald",
      "feed": "Headlines",
-     "published": "2026-10-24T07:06:32+00:00",
-     "snippet": "KPSC 'scam': D K Shivakumar sanctions prosecution of suspended IAS officer Gyanendra Gangwar Deccan Herald KPSC paper leak case: Karnataka CM sanctions prosecution of suspended IAS officer Gyanendra Kumar Gangwar The Hindu Karnataka Allows Prosecution Sanction Against IAS Officer In Exam Scam NDTV..."
+     "published": "2026-10-24T07:11:14+00:00",
+     "snippet": "Sanjay Raut is mastermind of viral 'Rs 500 crore' audio: BJP Deccan Herald Sanjay Raut behind AI-generated audio clip, doing Rahul\u2019s bidding: BJP The Hindu The growing strain in BJP-Eknath Shinde ties: What latest audio row reveals The Indian Express \u2018Murder of democracy\u2019: Raj Thackeray targets BJP..."
     },
     {
      "title": "\u2018838\u2019 number plate, pool of blood, screams: Chilling video captures daylight murder in Maharashtra\u2019s Chha - The Times of India",
@@ -1408,38 +1440,6 @@
      "feed": "Headlines",
      "published": "2026-10-24T06:52:20+00:00",
      "snippet": "\u2018People Like Abhijeet Dipke\u2019: Goyal Takes Dig At CJP Leader During Global Talent Discussion In Berlin ABP Live English 'People like Abhijeet Dipke...': Piyush Goyal\u2019s 'dictatorship vs democracy' jibe over India\u2019s brain... Moneycontrol.com 'People Like Abhijeet Dipke...': Union Minister Piyush Goyal..."
-    },
-    {
-     "title": "Urad dal, roti and 6am wake-up call: Influencer-model Shraddha Dubey adjusts to life inside Lucknow jail - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTg2cU5WUjZoLUI5cHpOaU1VbUZoSVZYUWRPZnE0MHJzX1ljbnJfbDdNdGtUejRpVm9XNW9ueFI0bWh0VHFRcjlNMUpqczB1NldNLWZSVjF4RUJOUGNBTGttM0ZkRVpHcTdHS0kzRVp0WGdSa3dFcXZtUktPaGRIaVdMT0dDR3FqTmJ3YmFVbjdDMWNJbU02c2RuMGYxQ1NvN2c0WXNNZmpvZkpvUUlfSHNJZEtZUVpTOXVVZTVRR3cxWGo0aVB5dUhBcGlQNU9TeU5odV9CTTctOEo0UmxJeC00QTlxbW0xUnU1R25FUGY2Q1UxeVNTSE9ZTU9rUVRNYXN0dnFqbF8?oc=5",
-     "source": "The Times of India",
-     "feed": "Headlines",
-     "published": "2026-10-24T06:45:00+00:00",
-     "snippet": "Urad dal, roti and 6am wake-up call: Influencer-model Shraddha Dubey adjusts to life inside Lucknow jail The Times of India Cab, Smaller Hotels: How UP Influencer Shraddha Dubey Managed To Evade Cops NDTV Lucknow Court Rejects Bail For Model, Others In Cafe Owner Murder Case Rediff Who helped..."
-    },
-    {
-     "title": "Marriage Promise, Luxury Cars: Man Cheats 20 Delhi Women Constables Of Rs 24 Lakh - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMTMtOHJSWGNBZTl0R09QU3A5OUdJdi1QdTRVSEM2cUhzRi16QUNPVTR2ZlBXWnotYVpoWXQ4WGJoVXdfd0xQRUlWWUUzbl8zT1JtNVI0MFoyYmhKOXlxRHJabmlYTVdHdjdrU21OQjlCRmE1RUNvVGNYbmxXN1JIN3pHNl9aV0xiSUpUWklKY2hMTms5TjgzR0stWXNyV0N3b09MUTk5RU51c2pQa2RoVGNLYzBXRVRRWTUwczlreVZwLXF0eUxJcjA3MkRxVlNrU2F0WHpRc3JuYkHSAeMBQVVfeXFMTTF4R3VIU3RJTlc0MFdrcTk5bDVQamNJUmRGWjI2blhmczd4WEFrUVgzRDREX1JIS3hTay01bDFQdmJhUGlTdmlVejdPSVN1eDhSYXdsX3R1ejhtdDJER2JfbVZmMTF2TXU0UU1TUC15bEo4TW5SVy1ldHlKZ3AydXotN1d3TDA4UXNrS1JxTWVXcWFudEFiR0tHb0pmX3JwTUp0T3RiY3YwVEtrZ3FCOHU1S3llMEtiQTNjc0J5b0pWNkdFMUF3c1B5Zll1T19HelR1dHMtTHhIS0hOalNiN29rN2c?oc=5",
-     "source": "NDTV",
-     "feed": "Headlines",
-     "published": "2026-10-24T06:36:08+00:00",
-     "snippet": "Marriage Promise, Luxury Cars: Man Cheats 20 Delhi Women Constables Of Rs 24 Lakh NDTV \u2018Cricket personality\u2019, fake investment promises, Rs 24 lakh fraud: How Delhi man duped woman constable The Times of India Luxury cars, marriage promise: How Delhi conman duped woman constables of lakhs India..."
-    },
-    {
-     "title": "\u2018He was very good looking\u2019: Sonia Gandhi recalls first meeting with Rajiv in Cambridge - The Indian Express",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM2xETUhmTTNTbTdRRXNKZmtJMjFoWUNLQ3paVkdPWV9zeEkxRG9hZU1VbmpJUm5NOUw5QnlzT2lTVGZ5YjRVbnNqMmZ5WXlxa3FyNU12TF9qU0JrQUpCZlFGRFBkM3lVRDRSakVTZC1GSVpKc1JvYWRzNTdFaENWUXBtTmNMUG9CMEk3TEFHTkhKWWJNY2d2RlVqc1E2Wm4tVE9QWWJ1VWU1SkhhQTBGQUNieVk3dVVTWGN0LUc2SzJXTmxHZWV1MHktTmlRT1JoZ1lUbjZtT3Zwenp1RDJF0gHmAUFVX3lxTE5fTUUzNVlwRkx1NExEcnFSYkNIX2VFcGNjM1pITm5uVW02UXZPN1lIdXdGamhxTV85NXFNc1JKc0dLN0lwTkt2cndnS3NwV24zYnNVNVpQaHBCOEZ3X21GN0hVMlNvM0RNNFFqc2c3bllLNlRDZ0o4Rk9wN1lvcTFYc1d1S0hvc0dhdy15MWNjSGtVWGh3eDVPeHlvTGVCNVpvV0VackNzZ1FpMGJ0NEFhMGlHdkQwVnROTUo5anY3WEpBZkJxeDI0S3Y0NmlPMldzbTVHR2hoemx6YVN6bDBtWklWRERB?oc=5",
-     "source": "The Indian Express",
-     "feed": "Headlines",
-     "published": "2026-10-24T06:17:06+00:00",
-     "snippet": "\u2018He was very good looking\u2019: Sonia Gandhi recalls first meeting with Rajiv in Cambridge The Indian Express Sonia Gandhi joins X, shares memories of meeting Rajiv in Cambridge The Hindu Sonia Gandhi makes X debut, recalls first meeting with Rajiv Gandhi ahead of book launch Telegraph India A Greek..."
-    },
-    {
-     "title": "State cannot deny compensation to rape victims for not producing medical report: Allahabad High Court - Bar and Bench",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFpCQnE0eUluUEFVczZ5MHJaMldGSUVEb0p4WVZGN1RJdmFMTW5yMnBNX1pmYW1MeWdZYjVJc19KWmdMM1JJUUN6UzZOM0Y2NmhidnpZMlY0d1pFSWFVWHhUcTFNeUkxVjBJOHRBdmIyWGZzb1lUTVhRZXpOUUhwN3V0VF9JXy1neWZaUzBMSUhZc2Z1VFJLMXVxYUxadmd0STlHOGFpVjlMbFRlaHo2cHc1RTZ0S1VkVU5OVHNEd2dyVXpVTGVDaDVjalBsUdIB2wFBVV95cUxNeUtDNDNKVmZnR3RBX0J4RkRxZml3NFVzUjExTkpWTW9FMTRNaHBITThLQ1M4M1lINnRzSWJVRjA3NmVvWDE3WkpFQVU5dVZkaGZVQ2V3OVpEVUNYLWk0WDFDY3lCZXJJOTBPd3ozalFDc04zekYwQ0dCSU5KQzY3dWZZSDVxS3Rsd3g5a1lacndJZXFGOXhld095OF9zcEVXRkdXVEhLUnRiNlhUTTh5SDZILVcwTVIxMGxDa0N6b3Q5ekpWWmFzYXZDT3pGZUVkS1IxZTVjS3YxMXM?oc=5",
-     "source": "Bar and Bench",
-     "feed": "Headlines",
-     "published": "2026-10-24T05:59:13+00:00",
-     "snippet": "State cannot deny compensation to rape victims for not producing medical report: Allahabad High Court Bar and Bench Allahabad High Court Declares Mandatory Injury Report Requirement Under UP Financial Assistance Scheme... Live Law Allahabad HC rules Pocso survivor eligible for compensation despite..."
     }
    ]
   },
@@ -1447,6 +1447,126 @@
    "title": "Kerala",
    "blurb": "Kerala, Kochi, Haripad, Kollam and Alappuzha headlines.",
    "items": [
+    {
+     "title": "Kerala News | Nilgiris Landslides Block Roads, Bus Driver Killed By Falling Debris - NDTV",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWdEdHJpVXNtMEhBeGt1bnU1RGJPZWZzVUZXeEVLOGZPazRhX01Md2Rfc29NbV8xNXRMdXBHQXdpQUdzUm9DOUIzX21RM3pLYXd6cVZaemdNbzIwM2tVMUhXUGU3RkV2UzZuWEFEWDN5VlI3Ym4yQjUyQ0hWLVptOUNGOGRIbG1ScHJWMG9VWUpBOWQyV0NFUmxZaEo2RVlaRVBTbzQyMmlmOVRNUVhRbkFtWnV5QQ?oc=5",
+     "source": "NDTV",
+     "feed": "Kerala",
+     "published": "2026-10-24T18:52:24+00:00",
+     "snippet": "Kerala News | Nilgiris Landslides Block Roads, Bus Driver Killed By Falling Debris NDTV"
+    },
+    {
+     "title": "3 districts on red alert, 7 on orange warning on Sunday - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWswbE03My1MYkZ4UVl2aUZfM1oxeHphdnBXVm40N0FkWmQ5Y2dBQjVqblZCd3dhdzJ3bTJqOWRtTjB1dkZiUWhLSEhuNDRmN1B5dXVNRW51elpCOTFLMHJGMkdSQVRuUmhFV0tBT0o1U0RCYnFNT0xzNTItZ3FQOV94X043c0NpcWpWV0w5RkMwN05KeTFHakI2NkdsVUl2MDNHemI5WXhpekpvMS1adGltSmNfVUJyWUM4el9oRW1IMTd3Y3fSAcsBQVVfeXFMTThpNlBQXzJBa1F3emZzLTVNaVdCRGJjeG1ZSXpXZHZiUjByeTNPa3ZuNHFCbFN0U1dGVG5FODZTZmJ5UUpScnhzSVpKVUwzeTA3S0tJTE5xMl9DUndMTEQ1bkNxaXpkcm1jaTM4ZnJrSDdUMFhCU1BUN2dta2F4VTZzTmtWZ2VNRjNfak9FTS1EcnZiNmVmWGJPWFA5LTNxX3h3ZUJYTkNjUXdhUnZzQndZMUNtWVNvdldyaU5Wa2JrNVcyRm5aWHV5Zms?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T18:39:00+00:00",
+     "snippet": "3 districts on red alert, 7 on orange warning on Sunday The Times of India"
+    },
+    {
+     "title": "15 Sri Lankans plead guilty for attempting illegal migration - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUg2RVdTOEpGUi1tRHJjXzJiY2NaanlyOWx3dHpHNUJ5UjVxbWhxRmpBbUpBMHFSZHZRSmV2eGdkblZaRWpzcnp0N0xtTlVSaTVLZWZUZVFmVGRQZHp4aTNDM3dEbXU1akhobF8wZHB1UlcyUmlUYWpqMjYwSGY3WE1NelNpcm92Rkg5TzRYUk9YOEhjV3YtaXJKMWlfdUdmNld4R3R5cDFoQ2R1a3dXY3NCMkhJN19STFNhQkZOTUItbG1GSVlYYjhBY2V4UdIB0wFBVV95cUxNT3NkQndScGx0b0NHdHpWRmJEVDIzemVwX0g0SlRBZmNpNC1WZlZaTDVYTnZEYlh5WkNJWVNSa3dGd05iOHFyMkFaTWREMEFLVG5HTU9MeGMxNmJKNkJmYUZ1bnJZd2pOdlhIbG9ZaXZyMUZXR1BlZzFJWG1ZZ3FrQ2tZNERpSDF5VjBVaHQxOUh1d3MtNmoyNk9WemhvUDdsbGtCaGZMTnBIb0JHdFZTWk5aSzZ2Qzd0dkxIYkktUTFxbXVLNnNDSkI2WlB4STRXSlBF?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T18:17:00+00:00",
+     "snippet": "15 Sri Lankans plead guilty for attempting illegal migration The Times of India"
+    },
+    {
+     "title": "Kerala braces for heavy rain as red alert issued in five districts, schools closed - India Today",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2tpODh4a0U4SmJmRU5YWXVTeUQ3MjlLRk9vUlBETElfcFI5VGhfWGxsdG9iRnJ2UkpMSlRsWWtTWmtVbUJfYnFpV1Ntcldfa2hHT1NlT0lubDNBQjNMT3ZRMFpRc0RLTURsQmFpUTZwVHVCc3pTa3RhN2lleW96T2k2X2hDRDE0M1pGTmctcUUzaTZnVGMzWXhqaW5rdWlDRWt5VGUzX2lmcUJCRzNQVXNZZ05xX2hWaDBaYnFGYUk2MFVFc3c?oc=5",
+     "source": "India Today",
+     "feed": "Kerala",
+     "published": "2026-10-24T18:11:57+00:00",
+     "snippet": "Kerala braces for heavy rain as red alert issued in five districts, schools closed India Today"
+    },
+    {
+     "title": "MoU for \u20b941 crore coastal protection project signed - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzFyUkZNSjliVkF2ZGxGd3hnVmpnMDhxc3c1M3lQSGV1YWpMRW9iRmtJODJUaTRNbEVnVDF5T1ctNWZaQnFGSDdzVFg4RW9tbk1pODljQmVvcE1Ld19aV29mTk9FTnB3UGJvYmpXVC1nbTh2WHVyajRaT1hESmhBRVhzS29XZHlxRzF3eTN6THVpUFd5TDgzd1BhVjhodWxZempVVHkxNVktUFNDd2QwYU1mUVRzWDE0ZUNYVENzRnDSAcYBQVVfeXFMTTBpaHpPM0QxQTROYkRIUFF3NnlVNXZQX2U3aXhrQkJUam5lUTBEeERlVC1kT3BIcDlCTjhMbHRseEpnT0VJUElKREhkVURMRUs2ZUJhRXAya3Mtb2o2LTZDZU5aM2E5SkFnTHVnNkVwV0hlZ1JMVUx0WlNfUUNtSzU1Uld1Ylh3VlIwUy00aVRaQS1XODhVTEh3RzZiVHdXX2RDOVEtam5LeWIwSFFLZFdWbkpKWk50YWFkT0NUUG55ZW4ya2NR?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T18:11:00+00:00",
+     "snippet": "MoU for \u20b941 crore coastal protection project signed The Times of India"
+    },
+    {
+     "title": "Ernakulam Rural police to e-auction 310 vehicles - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3kweE9Ga3FrUFp1akVBSDlKd3ZvcE1telBGdHJKVjBnbm9NM3F0Y2stYXVrQndxdFFUVjRxbVV2eWZfNmRhYU1uZHNMWHU3WEJJdUx5dm1uMXJPY3h3S3RpQWRoWUxiYWpZS3gwRUdHanQxOTdDeDRMdFBGcG00NkdPM2QwX0dOcUU1SUduYnNaQlozblJjU1l5dXg1LUNtYWZiQTlaQWFJSGNJeGFfUV9jRkdESjgtck5fOVFB0gHDAUFVX3lxTE1ZYmJkQm9uVWxUOHlBQnpjN3Q2QVdNam9ucGhYalZ3Rld4d0FPUHBHeWF3cEdzTmREcW8wUTBEZFZmNWl4dlBsT2tmTnd3RmQ0TVFnbW5lNVN3OE14cFFNOVp1bHpzSWx5SG5UaThpdTdFck96UHJXMDBpVngxYkFLQzNyYURMcXMxWTJ3QjRMdjFzVG1qN0duYXJSWFBLVWtwbmZ2ZV93Mk5MYzF5TUxPUFNtTlhBUGltWjRybFU3UWVhSQ?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T17:57:00+00:00",
+     "snippet": "Ernakulam Rural police to e-auction 310 vehicles The Times of India"
+    },
+    {
+     "title": "Ensure rehab of reformed prisoners, SHRC urges govt - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWFYaF9IejFWZFV0dUM4TW9BRmkwd0NDb2ItV1pPRDRmNmtYNmhoUGthWnduZjVMdTFPWFRBNGxBSktZdm5fcmVPRjNaWno1em1nSU4zNDJxM2N2TW42TmJkM3J1MURZMm1iQzdfLW5uaGJ3N0RmbXBkakdwTHVncEktVE0yd3dlRUtJdHEzekppZGhaVTNkVzJjbWxtR3J0cFNuOWE0a0lVSjliblFwYlFlcDJ0V05DT0VOdHBwVk7SAcYBQVVfeXFMT3kzUzAtbjZBYXczN1JGYmg0OWQyOExtUzV4RVZoYXE0SExvWHJra05ucVBTX1dVU1hVYlpGanJBZWlFVVFHdVREMFhjWGlnUzRQUVNrY1oxMVJXTnZySkx5SEV1U1g1X1J6bFF6bXRxNVZFQnFNWHM5VzI5b1M1UTNFQjJOLVlncEFicXUxeVhXcXh1YXFNUE1TeVNjMG85b3d6bUlyUEVlWFJXT1BOV3BlS0M3dVZBWUswMHppMUhpajNrVGxR?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T17:55:00+00:00",
+     "snippet": "Ensure rehab of reformed prisoners, SHRC urges govt The Times of India"
+    },
+    {
+     "title": "Qatar KMCC burglary: IUML expels member - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjdQdXVxN2NKZmxCcm1tUjUweUlwNzU3czhnaHBEYlh2eEtRTVhuVWkyb1hPYTFIbU1lTWFrN2ZGdmZFRDBVTXloMVFzdzFoejBST2VrYkJGczQ4T280eDJ6WXF4Z1hWRDdHandsNlJWUXBaYWNVRS1nUEF4YmJ3eW55R2Jxd29QRkVmSG14YmRYQVBtSzVlU3lUQlp5SWwzMmRCWUFmQ0xqN2RZYUxFdNIBtgFBVV95cUxOWnVVTjFyOU9tdEpBWXZnSkRROVNVYVdtM1RSYUdNYU9MT1ozUS1RN2QxYVJEWE04WldBbHFvZDdYUmhib1k5a1JseXZ4Y19qSmZTbkFONHBydnNhdS04a09DSTVHYzhGZ3g3SUhrcGl3VEZaV3pkSjJ4TkUwOEtGMkJ2MFFjRHI4VWZUMV9wMjllNF9CUEl6aTdpOVpIdUhtWVJ6RWdlak5KcVVBSTgyajFtMklOdw?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T17:42:00+00:00",
+     "snippet": "Qatar KMCC burglary: IUML expels member The Times of India"
+    },
+    {
+     "title": "Sexual abuse of minor at Kovalam spa: SIT heads to Andhra Pradesh - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSHF1OUw0aldPMm9NUEo0WVBJeDVHZS0xT2lvMk8xazBFMy1ncEFlUFRSZFFTOGRQMnFOb245X3NZRGhjUEhJWTR0TWJYZWI1X215Yk9kejl4U3hfVkx6Z0FRd2J4WlRlODJwQktMTXBjQjItckdFQnlsMnNKV1pUNlp2RWp4ZDdWWDlBNWN5WGJiRGFyYzRVQmk1X1I3X2pDTWkwLVZoVzRFamhscFo4QWxWUEUxaTFCY2JJNktsTEtmdlNlNWZyaWxMQ0NRMDBZN3Fn0gHYAUFVX3lxTE56bjFYeGQ0b0NnaG9veUFTeUZWRnRQUGdCZUF2cFQyaWNaZzdWdHN6NzNQRTBzUEpRa1VSbWxjR1VSNEFGaGYzQ09mTFI0UzlfYk9ucVVtcm5zS1FwNGF1eHl4T3g1V3RyV3MyclBmVlZObW5hb3ZLQmZhcmFvaHhwb2V3Y1JleW9zdmltX0t6bU8zd1F5NEZPSjFzeVllTnJtRW1uRzlDRFc0VlJXQXFwNXo1WUtqRzBUUWdmQk5Eb1lBeTdKUlNPYnRDOUs4TkxDSllwbTE2cg?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T17:42:00+00:00",
+     "snippet": "Sexual abuse of minor at Kovalam spa: SIT heads to Andhra Pradesh The Times of India"
+    },
+    {
+     "title": "SLK 2026: Forca Kochi outmuscle Calicut FC, go top of the table - Sportstar",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRzNJZlN0ZEFockdyUWxTSXJpeXptNE9qNmNSbm1MbjdwLXd3RFFPR0pCRDVRNTNIdThtN09GQkRwQzZMS2pRYTdmRnJvNVp5UHBYRXRwb1RDZ1B0ZXBTNWw2cTdySEd6S3QtQWUzZEFsWnUwVV9vd2lwR3RWeVF6NDFxSFhUVExmdVN5MEZJdV80b0xKYkJIa3N4MzAzdWNGLURxSHMxNUp0RnI4dXRMR1dwT1ppVndZWTNGbkRrSjRGRWpLa2xheFJoV3BQNGdJRWJYV01aMHI1ZHdWRk5leEV2OGxoU0VJTTZwaF96X2Z1c1HSAfoBQVVfeXFMTWIzOWtKdEdNWGJHZWU1OWo0VEU0X2NNVVcyX056YXJkVmxDbUt5TDM1Zm1RYTlIcWlHQUU4d2c3cVUxc3VFbmkwck5sVlFsUFFRLTVLVW1aWkxQS0M0QUtCZFM0OEZkYWhDUk8wR21fZ0NZb3FldTh6MWxzS2hoQ3pIbWRRMmowMTUxZ20wRVdSUThVYVIxQTJKd3E1U2VmMlg0emFpeXVBSlltOE5tZVUyNEpIMEl3Y25NQW9RV1ZHaVJkNWRFOG56NHpwZ09MMnhuUXVncHpPRXdxUHVsZDkxLW1OeGlnOWx1VFdhdVhsb1FTRktXc0hqQQ?oc=5",
+     "source": "Sportstar",
+     "feed": "Kochi",
+     "published": "2026-10-24T17:13:45+00:00",
+     "snippet": "SLK 2026: Forca Kochi outmuscle Calicut FC, go top of the table Sportstar"
+    },
+    {
+     "title": "Kochi corp starts steps to float SPV to operate RoRo - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDU0VWZiWnNCXzRNaGs4aVlWYUI3UFE2V3pMa243Wnd0djBGMmFiaFNQeE5sUHlCUFJMeHdTUmpJc2NyT1dPMmxCLUdOX3JQLURFQUdGMlN3cXM5WnlnaG1rd1l5M1h6SEg0QVFhZUdZeWdRUnNSOTdCN3BHc2I1SmZEWEdhX1NFZDNDWHVPWVJaMVU5ZFNiNXFsQjAwZ3poaGl5XzQ4T3dOYWRNa0wwNzdfUDREbEpaSHFPc0RhbmJjVTDSAcgBQVVfeXFMT3ZiRC0xOWNaY05XdHBWU0Z1MFJ5LVNWZk9SSF84c0xfbWRGRG1Xbmo1MW1UUExPMFRwTUdPM05TM2ZWQUNjekNCaUxKNDZfWl9TVVJyNUw5cEt6MWtCTlFUV3JLa295VGh2OHRVQkR0eF9mblhYUDNIeHczQnpsMTVsWFlZWkJVMjVENGpNdDBpTG52TEhUdjlIaVlXMk5uQUdVSV84M1ZTbzZ4TFNJWlItOFJrZXRVNklWcmNJT09wUlo1UU84azk?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T16:53:00+00:00",
+     "snippet": "Kochi corp starts steps to float SPV to operate RoRo The Times of India"
+    },
+    {
+     "title": "Suspension of ADGP Ajithkumar extended by 120 days - The Hindu",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1RoSTRjRV90V3hQeTJiaXpvUVVXbnM2aUpoWnF6Y19WX0hwdy1oaGZVWGNPWnlzWWZ5U3VmRW4zMnJlQnJRN1dBU1BBeXdVczMzS3dZQVFzNFkwdkxDb3JrUUFFRWN1UTk0V3NzSlRkX3c1d3JsYjJTdjVUTkVNR1I3M0xBRXZ6bkRmMllIOEhsVVBRUjhZYTJJM1FNZ1FpSHozTkhzMmlfTHk1UW5zZkVaUjJiLXfSAb4BQVVfeXFMT2JiOVgyYVpuZ1ZzMVVJTGx2MGpSQ3c4ZzQzTkE2aEt3Zk5pbTJSc3FqcUtEbkxUSFFMbmhXSGsza0JHbi1DcXBEb0YtVkc3Zk44czNqQXNTM1BYaFhNcExPSWhaRVJYNkZYb19PVkRnNE93eEEyQ1g4VG1KMTBONmhFUV9fUGtLUXd3OEpEVkc0NGxGdFpieGRiTDEtSmJzeVNSTGdlVWhvSFF5eUhFd1VieGwyLWhCcDNOVUt4UQ?oc=5",
+     "source": "The Hindu",
+     "feed": "Kerala",
+     "published": "2026-10-24T16:50:13+00:00",
+     "snippet": "Suspension of ADGP Ajithkumar extended by 120 days The Hindu"
+    },
+    {
+     "title": "Vlogger booked for disrupting communal harmony - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2pZNXhtbEt6b0ZQNy1mbGNKbWp5MmtrcU1IRklqYUxzSFJjLXR6RVBTcFVVY2t5eTdnRmpQWVB6LTVUYlN6bjFxOEphNkt1OU9zQmxDTTgxODBka1NGZmN4TUo0SVdGV2wxR2pkVGxaeXREd2JEM3U3ZVlUU2M2UzNFQS1MTG5lSklLT2t5bC1qOTV5MHRnRHY3a3QzOHNuSm5OMFBrVjVBUU43N1FndHE3ZkpoQmFZc1VB0gHAAUFVX3lxTE9LOTdCcXJfVlJJeDNfaDBETnRXRFp2Ynk0cl9zYjc3UlVTeW1iZmJXZi15LU1YOUdUaWU0eHpZUjRtNXpaTDVRWFVkZ1Bka1ViOXIwRHQ1VHlGMTEzaWxOczhkNkQ2MDB5SmxTVUtPNHdnLWNuOGE4SGZSREhYTGJJVTdRYnhDZUpLUWlXOGd1LXYzZzBnV3luR3RZczhZa3FUa3VkRTZXUXlhWHlYYXZPa3BTa0FSdzN1cVZNSDR1eg?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T16:43:00+00:00",
+     "snippet": "Vlogger booked for disrupting communal harmony The Times of India"
+    },
+    {
+     "title": "Vattavada\u2019s vegetable farms dry up, farmers in debt - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2pKcVF6YlFsSEJPZjVrZDllUWJVVEtlNjV4UTRyVVRINjBzc3FXT2I3UVB3WDUwVzJpN0xPVnd1bGI3MDBjbE1hR1daeFZocGlWYjhFV3pMQWN0X29jUWo2c24yVW1xRWhISEtCY2JXWEpsSnpneThyU2UzQk9hcjlLZWhnVGxBalp3cHdJRG9HZWRodGxVTEZFclM5QmVxT0JITTluRnJ0bmdRSGpvVS1ZcndDZ1pkQ3gzUU81NNIBxAFBVV95cUxQYmloNHFwei10QnYzNlkyVDlMNU5RbUZRVEZZSWN6dUNrNjJzb1NxYVJXWVdoVzFEbTR3WTRpOU5LQmdvOGdzcFZBNmNMSGZSS0xkbEp0b0lReXBPaUY0SkVjTlpnc2hQc1lkaWtwNTFlbWoxaFJLNEh6RFhoTTdJd1RxREd4LU1FdzgtR0pwQ25OblVIWDRyQUNRb2UtS1pQa2s0dTNCOW9BQWNBdUwzV2FwQU5wMjN6aVd0QmV4ZnNRU20z?oc=5",
+     "source": "The Times of India",
+     "feed": "Kochi",
+     "published": "2026-10-24T16:38:00+00:00",
+     "snippet": "Vattavada\u2019s vegetable farms dry up, farmers in debt The Times of India"
+    },
+    {
+     "title": "Rs 23.82-crore equipment purchase triggers Vigilance probe; 10 years of purchases under scrutiny - Kerala Kaumudi",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGItdm5La0o4MVJOaEJIVG1oNWNyQ3kwWWdVWUhjRDdscDBfd0xzTWhjSUZuamxsUHBNZnZZa0JoSXdubE11dE1IUHJMME83YTVjdFo0Y1hycnhIVlhvTUFzX3p3aXVuU29iNzVleUR4NkhIMUFyQzVIVG9JS3MxRE1jRFZobl92cnFhdEtLc0taelFOY3d2MGFaLXl0R2d5LU9nZzFwdUtwOHFDVGdZMS05Z2dlWng2SmlIdGpnbDBKbjNMQWc?oc=5",
+     "source": "Kerala Kaumudi",
+     "feed": "Kerala",
+     "published": "2026-10-24T16:37:15+00:00",
+     "snippet": "Rs 23.82-crore equipment purchase triggers Vigilance probe; 10 years of purchases under scrutiny Kerala Kaumudi"
+    },
     {
      "title": "Keralam govt extends M R Ajith Kumar\u2019s suspension by 120 days - The Times of India",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGNFbTlZVXY0c2I3WE1JVVFFaHdDTXBmTDRIV3oxTG9pLWtMdlA5V09EbXZIcFZQZnVXSEdyWVNCQmNMOUhlSENZaFNRVmRkdVVPNmtQd1dzQV9HWE9YV1ZfMF9YNkVnSTBIMURQdlk0RGl1MkhwUTZ3Z2dkSUNTTGZJWnZCYVc1YXpVVVhOSkc2ekJfajczZ1lrOUFFNnJ2QUFJeFNnZ2J6MnA2djVxWl9KQzFwUS14cG11RndEeHhoOVJEWElwUFNXVFBLaXRMQUZTc1hVMmFINVhMYkhn0gHkAUFVX3lxTE9Rck1UZndGRmNnSDNVUzE3Njdna3Q1ZlFkVGM3Qjg0MjJHQ3oxbzRXdkpEN3hKOEhTangyU1ZQclNqWHUyRnRiUzk1UEZfVm5yaTByajhXZU9PbDBCOTh2a3VTYUV5QnVSQ28xd3FSOXVmMDlub0toOU14c0Q0MHpBLWpHTjNvbEdFMkV2NmNMUTJIeXdvMUw1U3VrWHd3Y3h4RFJfN3VXdS1yMjhoYlBXYTF2a2Q4TS02Z2NDYUdrTm1IaFc2ZTQySVhjWW1sRExGRjZNUnJiNDlhUUpTN2RKUjZraw?oc=5",
@@ -1488,6 +1608,14 @@
      "snippet": "Kerala University VC says no move to ban student politics, stresses need to curb violence The Hindu"
     },
     {
+     "title": "Muslim Youth League files police complaint over North Indian influencer's hate video on Fort Kochi - Onmanorama",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUklIbXYtX2xHWUZrbW5rWWs3VzE4YkRFMTgyZkFZeUJPbldsUHk2Mzhfc0V6UUllaGZxQkV4ZTVieW9TN3VuYi01cTA0QlBtS00yUzdXU1JBbzhjMUc4MnliNWxBRkM1cUJkdk90Y2lfemtCQXY5cThxUGJtRFdxaGhlTk9BZmtDZWV2N3lKNDVERGNZdnFfNW5CZVVaWDZQak1Hay1WMHMyWjl4NGlILV9jWUI3LXVjTXRtQXRhTzc3VVhRZ1hfVUNiY3J1c1BXMVRKZHUxaHdwb25wQ3NndGlEUnRuVTVo?oc=5",
+     "source": "Onmanorama",
+     "feed": "Kerala",
+     "published": "2026-10-24T15:44:13+00:00",
+     "snippet": "Muslim Youth League files police complaint over North Indian influencer's hate video on Fort Kochi Onmanorama"
+    },
+    {
      "title": "'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe - The Times of India",
      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObW4zM2prYVZlZl9NNFlnRXc2NHRhbm1OWk5uWDNjNElwY2J2THh4V05EdjJKTjVZMVFxdW10U21LTDI5bGZHNlhlazY1MDJYakV5THNicFRhRy1qZGNNeExEdkR4bXQyZ2JMVEtKTEo5RndUOS1WQzVCMnlzLTN6WXU1RW51ejdHQ1c3THBfOHdKeWIxcU51aktpVGxoN3AzQlFCMGxrZDNGQVJCaDRNaHR1eDA3QWNldHB4WjVFcXR6UDFHVHdqcFJoemtoYTZOY3NKS0tjTVBxQ0lNRGVFNS15aU5IN2piVWYyak5TazJxQmZqRWl0dVY0OUFrREJNVC000gGIAkFVX3lxTE1EOHloSjdESFVaSi05X1RxY29SM1NUNUpUcl95RFB2TWZ1d2h3Ul93Qnl0RXhZaTlEVERMQ3Zpb29pZl9xcGVsT2JVbHJYMXVJWEdaSzZ1dVlYcmR6MVd0dmxqRzJVOFktMmhWanRuMFJOYlFvWVM4Y0xoUTZ4Mi1wanRsd18xblV6WnIxdzlZQXNlWURvbS1wdWFuckhac3owdExOSFc1a0RHQWEzUWRlVVJoeHFnNXRyNWFBTjQ5OXZ1anlIY2stUTFMS2JPNWFXMW9oMkc4MmNiR1NBX3lVYV9rQXFuN3hybGJWLUd6Wkp3V1A2ZUtiRlhLUWRJTTlKb3JYMU1XSg?oc=5",
      "source": "The Times of India",
@@ -1513,139 +1641,11 @@
     },
     {
      "title": "PSC exam fraud: Kerala HC pulls up govt over slow pace of probe - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzBiclRUdGliQUU3TDFTNHAzeWlCallRUTdTSkFEcnJwckxJZ0hvZ21PUXBuWEtaQ3FkaTc2MDdvMW1KRjBlX1ZMZ2VRYVRxeHpZb0ZGYlJxZWxVdXhDZTlrZXhDNzExRldqV3VVZVg0UTl0eFhyamxYUDFBeW03akozTm5FbU5xMTJlTUt0aXprUmFZN0tOOHBJQWV5RUZQRTBtalh4bGsyTGpKLWNDLV9jeG5KZEVQVUNUSF9CNkxfZEx5dnBSQm12cTA4M0pU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzBiclRUdGliQUU3TDFTNHAzeWlCallRUTdTSkFEcnJwckxJZ0hvZ21PUXBuWEtaQ3FkaTc2MDdvMW1KRjBlX1ZMZ2VRYVRxeHpZb0ZGYlJxZWxVdXhDZTlrZXhDNzExRldqV3VVZVg0UTl0eFhyamxYUDFBeW03akozTm5FbU5xMTJlTUt0aXprUmFZN0tOOHBJQWV5RUZQRTBtalh4bGsyTGpKLWNDLV9jeG5KZEVQVUNUSF9CNkxfZEx5dnBSQm12cTA4M0pU0gHWAUFVX3lxTE9uWmpkVFpybFJ1bVFiN0ozc1Qxa3FtV2FibGtkUUpOeGdrWW1FTmE5bnVDUUFWUnY2NDBBb1B3LWdlUjVtZ0xqUGRkUTVJLVRvSUtiRHdKcE1CeGZMNmRtQllZbFFzdWhiSlFyOVZZWndCUlhGTDVMaDBleDcxTG14cGwzTC1WM3R3Tmg5TXNkemkyQUI0TzJCVFNUZ3ZxMkk3R04yS05QVEdYckptRTJjajdCY0QtUkNlYXdVWTNMY2djOXF5cGYycGJTUlpheTJaanhkZUE?oc=5",
      "source": "The Times of India",
      "feed": "Kerala",
      "published": "2026-10-24T15:09:00+00:00",
      "snippet": "PSC exam fraud: Kerala HC pulls up govt over slow pace of probe The Times of India"
-    },
-    {
-     "title": "Occupant's right: Keralam BJP chief defends Governor over veg-only menu row - India Today",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQlFrcDRCWGRPZkJIMjRaTlg2QjRQamROdVFOdjRGV0pyUmdhM1p3UndIZXBkaGRUank2c3JVMUZraG00RlJmUlIzM0o3ajdPTjBHbi1qV2FMdnRKaXE0UFpnYVp3R19qa1JKcWlzYnNHOEpPZ3FqQlE1WTlBSUFwTlRUd1doNnVJUGRwS1VUR1QwN2NzdTRQeUZKZmtkSnlscmd5S1RtY0dpSG9MRHJ5cU02RzdhcmxHd3Jpc1hoU1d5ckhORHItQlpCVVg5TnluUUN2THhVUVItSGtETXppbmQ4UXNpTEhFS1HSAe8BQVVfeXFMUGlTUWUxZmxkZVVBbHV2aHhfMW1Qa2lJZEtfREQ0UEQ5eXJoMmNtMkNuQWhaRXF1cVgxUWZYU082V1M2R1VJQzZRZ3hwQkNkNTZ1akUxeXpsVmJhaVM1NjR3dkJQNngydWlyOWNLSEZCakNEYjZqUzRWQ3p1Y1NPRl9GbG9EaWxfSDJOUE5kSTlreFJZMktyTkhtMGc5dmZrbk14czFwaXYtUkc0VGRYT09pMXBxelREMGtkT3BMdHBfZ2ptVjlYRFBEUEdPdmJNdmdTR3plWFFVVGtvSmlTQW1yVV9vT25XYTZmR3pLdjA?oc=5",
-     "source": "India Today",
-     "feed": "Kerala",
-     "published": "2026-10-24T15:06:22+00:00",
-     "snippet": "Occupant's right: Keralam BJP chief defends Governor over veg-only menu row India Today"
-    },
-    {
-     "title": "Kerala HC raps Guruvayur Devaswom over audit delays, calls for integrated digital system - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHB2LXNsR1lVcnFHeGttNTEtTTJpS0g4OUIySHVuUmRncHB6am9td2lYZDBhdklwSGwzMWVQNU40cEsySVpXaFRRNG0tN2VNS2Vmc3JBWTNzZmxNcTZXNllvVmtBMjRVX1diYnBOcGdaME9MWkNSa0VPMVM5c0FQd01UYTFhTGtrRWdyS0lTa1RlTDEyXzJJbDh3d3h0OG11Z0lrcmVqMXJLYjQyUGM1VXZNTTJnVVdIQWR4YW1MdVpTV0hhUEgtbFJrdEdwWGR1UkVVNkJ0dXZaSE85WnBLME94RkFoTm4tWTBURXZ5ZmhEZ9IB9wFBVV95cUxPTWg3Y2Z5NUVLUGt2OHNQb2tlSllRdTQweW1wSkhGRkI1b2Z4ektob3FiRHRPSmZUX21NV0IzTXRnRTFSSEdjTkhsYWNFRl9ZNUtKdUcxYjV3SmZrckF4anpnTWRHRGFsem5lZDhqMzZlOElSaUhkbGt1ek9Na2NWUXJxb3hFSWNKVG9pR216RF9kR2doNTF3dEVqSUZXa2loRnJMdVo2aDdjQllEYzR3Qll6NWdlb2VNVVVTTGwwbkN5dGtoSUlEdDk5Z2VPNGh3M1Y2QXN0anh2TFpQSVd4TUFqc0tOTjYxSC1TMHpZQmRIZTVjQXhj?oc=5",
-     "source": "The Times of India",
-     "feed": "Kerala",
-     "published": "2026-10-24T15:06:00+00:00",
-     "snippet": "Kerala HC raps Guruvayur Devaswom over audit delays, calls for integrated digital system The Times of India"
-    },
-    {
-     "title": "Vengola fire: Waste and material collection centres to undergo fire audits - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN1BaczFCcWllLTNuTlZoNF9YcHowenFHQlNoMDRVQmNaaGFSUGZtQlBCY2llSFAyOU5tTTJnc29OQ2RLclRSRVpTTHg0bkhnNkdGb3J5NXNWaldYRHJJQWc5aWpvQXdXZEl6ZmROcjNhYUNFR0FoZlc2eFBnQzJjMEZ1RlpTdDZxbW1CVXFSX0VueURDeDAwWTdIc2lQLWdDc1hxamFTcTF6eGUzSEFpeVNPMTRNV1poWG9VdEV6MmVwN3NVTVdIR1duTTdCMFZZQ1k5VEozS1JsekRZVXRR0gHkAUFVX3lxTE1NRXRwTVZ0WngwLWR6bXFoSXFDYUlNekhYZlRscjV5a2djbGJidjVTOFNtbS1pNFVYX0pzU1hfVGx3dWROamRQeWk4eHB5cVZuNmZkaldDT3JvcXkzZVhoczFzS2RIaFRzZGkxQUYzS1pKUV9LVkVvUGJYQjZoRXVJdHZmSVpUaFVvVl8tSW15bzlaYW1pMTE3dENSWWJ1NEQ5b01PN1RQRnhGTFRXcVV5aVRCMUpTa3BJVlcwYXFOSXJCVlc2SWFEMi02Z3hTSlRXRTBQNUstQlRXaE9YSDFOOWZhTg?oc=5",
-     "source": "The Times of India",
-     "feed": "Kochi",
-     "published": "2026-10-24T15:06:00+00:00",
-     "snippet": "Vengola fire: Waste and material collection centres to undergo fire audits The Times of India"
-    },
-    {
-     "title": "Two siblings killed in accident on NH 66 in Malappuram - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVlNdnEwZ3JGaGNUblJLQ2pXQk41TEwwR3pNUjIwSnc0WUR1TVNnOXJnSlBzR1R5bFMyU2VGczZJRG1FcU1iNk1LUEJiOUFSVENBMUR6QmQ4RXpnMTh2NERab0tkNFZodzV5R1hyZERoaUlpeFpkYUpabHdPQ0prbkF4SEtFV3hNYnFXMzI1em9WN3B1NnRRNXVMcExaU3lXdnc2bXl0RURhSmFlNUxTS2IxWHVmRmRjRTdNMmZwTE5YdDh4VlHSAcsBQVVfeXFMTWJSTjhqNTM4d3NQNXdwYWV6YjIwUWppNDdEOTM3aFFzQi11NXcxT0JxUWh4eHNCRTdWUDM1NU1qTFVzT0MxaXYtQjA1LVoyc2hINFR0TVA3WndUM3N3ZnE1NV8xaXY0QXdlMjlXNzJDcndud2NNSEd4ZzZZZ0VIQ25NYXVLbWl6bmtmMjJaNGhLQTBrVndnTXNhdHFsU01LT3lLSzhPQ2tvd0hDNUVkSm5KT3JaSWYtQXJxREtQSzRYT1R5WFNYeV9HT1U?oc=5",
-     "source": "The Times of India",
-     "feed": "Kochi",
-     "published": "2026-10-24T14:56:00+00:00",
-     "snippet": "Two siblings killed in accident on NH 66 in Malappuram The Times of India"
-    },
-    {
-     "title": "Kerala Blasters get Kochi stadium for ISL home matches at Rs 3.5 lakh per game - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMTNfMlBNY1laUXNvcG90SElrdlAzTDNkTFJNdzhGNmh0akVrYWppMnh6OHJSaTdVZEdRa1VBYnZnOERzX2ZXUEQ0ZEphX0hTb1dudVdvNmVBN3VoUi1BZVJTUmpOdTB5blMtelk4TW40MzBnZ1BiQmRCdWtVa2tscFhyRlN4OU1OQUI1U1pkbDNEVWUyTVRiVDZwRE1xdmNqdExoQUZ5RW0yc3NVX3diZzJ4UklNRWpZUzI2ZHpnc2pIazk4aXRzdEtiZUYyVS1QbUR5RzloZXZrTVVjMG9TbFpaSFF4dTRlYmhxbExIanRjR0k4THgyTzJKdlpvZjNVa28wTG9TN2N4Z0JFQXNYOW9yekFsMGfSAZwCQVVfeXFMT1dBNk90YUpHenVXbUV5Mm9NZUtrZTI5R0RacHZsengzeWo3LUg4TFFrMUx0QjctZklJREJxQ3RjWmhKR3ljalI0cjNYbzlXdWJ1X01ZdnR0QWhKcnFJY25rWlhYQUpwbFJQUHp6TkxEN3BrX3M1ZTFXamVQS3E4bEJ1V2VVRTlQMUZlWjNjdlA5Y0ktbHRIQ0wxN2RKSW81blRGNEdxdFJtWk9odzNrS2tJbEFqMUR5Tk80R2lkWWlrMlFyNXo0eUdjUWVkaHlTWUlCV1RvZGlTWjM0bG9MWlpfRDI4ZDlJbmZyalhrOHR3MjlSRnNHSWg5OVZVSTh4WmhiR1BuTFVmdUhlT0ozVWwtRVNobDAyZTZ0ZGo?oc=5",
-     "source": "The Times of India",
-     "feed": "Kochi",
-     "published": "2026-10-24T14:55:00+00:00",
-     "snippet": "Kerala Blasters get Kochi stadium for ISL home matches at Rs 3.5 lakh per game The Times of India"
-    },
-    {
-     "title": "Residents block Meppadi-Chooralmala Road over construction delay - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd21WMUlpVmNYSFF5TVhxUi1OVzNCQV9BSWxVVzB3WVd4N0R6TGtlSkZyUEV2eU9zQnJxa1JvVmprRE9qQ1FfcWIzRmVEV3V5RUJwMEEtbVlMSHVva3F5ME93ZEl3eWtxM1hzR1N5UGtmbDJIajhSQXpfaTl1VzYzaFlkMWJQWHJsR1M4QzRrMEcwLWxlVUg0SEVtdjdteHF5M0w4YTlZenIzY2VIdVNjOW5oRVQxdUUzd0Q3NWtqS2RFT2pXZnBNdFJWYk1HRi16aVJj0gHYAUFVX3lxTFBRYnJXNm5zMnZtdXNkWXVwdjhUTUFpRk4tNktfaWZxZGNVaDBxa0NZRlZrRXJ0RGlwZEVGY3ktamtBNDFzZTEzdU91eTBUYUkxeURCXzkxQ1lzY3dxaThpWmFnZXRRV3F5eGN5SGp0WTV1OTYyVURNcFBLZlFXTUMyVUxmVW5yUGVjb2Z3OEd6X1VyVjNZaXlxeHduVS1rSGNjbXA3R2NPd09lMkNxeU54azJldDFWZUZOazdad0Zza3F5QTVWUTg1UHB4Q0lqQjBZYURKbng5eA?oc=5",
-     "source": "The Times of India",
-     "feed": "Kochi",
-     "published": "2026-10-24T14:51:00+00:00",
-     "snippet": "Residents block Meppadi-Chooralmala Road over construction delay The Times of India"
-    },
-    {
-     "title": "Pinarayi Vijayan steps up attack against Keralam govt. over SMA drug controversy - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlBOMkFKcS1KUUxzd0JaZEpzU3BCcE5EbE01cnlZTWZURUZOSFNfZklzWEFXVXgwYXZaeFpaTzNVRFEwTHlHNUlSSWlKSjdnX041LXFqQlBxY2hia3JnMHBacjE4Z3MwWEhjbjVFMzI3NVdhcEpCNExJcUN2ZGlWMmFxa3IySzh0WC10N3hvRnFaQnhjTThYMzlRTkVUamhiSV9NQXFuUVFmbEFtbTlhYkNuWS1uUXhFMXQ3QW5OWVVkSklmTXNjS0c5dVBYaWZOM19MVnFYNDFGQ3UzWUHSAeQBQVVfeXFMT3ozMXN1SE5vcmVpdllGdlU1Y3JXU3FIR3pMQnRpQVNqTFRBVm9pbHptMWdtTkNBdnBiTnN5b0hkTUI3aGJpYnhCeW1NYm1ubGQ4TjJmV01FcVNNeHlKajM3Wlh3dlY5YnVZYkVFYmxYTTg0ZUs4Qi1wbF8xN3NPSVJUUnh5NU9CaGlBRXRQb0VXaHBVWVRWbWp0ZDV6U29jeUxLZjRoblU4UEJCWTRwMWVRekw3TzFPUlF2MXV4UmtlOFhfOWs5WGxpLWJodE9sUThpc3V5cHJZX005OVA5eGlpRzhD?oc=5",
-     "source": "The Hindu",
-     "feed": "Kerala",
-     "published": "2026-10-24T14:37:44+00:00",
-     "snippet": "Pinarayi Vijayan steps up attack against Keralam govt. over SMA drug controversy The Hindu"
-    },
-    {
-     "title": "Tribal youth alleges custodial assault by plainclothes police in Poonjar Thekkekara - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRUZ1WFdNZkxLaURJOXNyTk51Ukt3cHNkS0ZoMDlteGMwTXhBRk4wMHprWWZHY3V6bzRMLWwxejFsUGNCa21pYmQwcnZzWXdYWUtzQ0lQQnRvY1dSbk1ITzJJYThncmZpM3MtYndIVXZ1eXBvSGtDbXhLRFJ0dkRpOFR6cFJtWkpiWmZ3QVlabmxMSUNEVGFYdHI5emhJWFlqTDExeU1TajhWdmR0QXlZSy1Jd29VRWpWQmVFdUpNbjlJR3FQd1JwZmhTaVhod0dORUwydjVPdS1TaFVqZ2k1bW5CNFAwSDlPOUN4R9IB8gFBVV95cUxQV196UTBrQk5USnZidWVPNjFYN21vYVBwVUZVb1NWZlZiS3I2ZTB4MVBwaG0xeS1MQnVndkRFZ2tBMGtpTTJiRk9sMk5ETl9pU0lVSmJPMGEwWHd0MVZxT1lKdEhaWkpzWHZWU1hMWjNUN01xZVhEckJvTTBkQm5BWGR4bmRHdzNxUHhEVXExRzBMQVNNaDRTZ1lteHU4RjdMQWoxR0VxbWFLVXE1b1RCRzRnWmVmSC1XRUQtNWMyT25udGhmOEItam5UMkZmNzFTSmlsZHFaNVhzWEhVRnYtVWpmSkR2b25WUzJtQ3d6bGRrZw?oc=5",
-     "source": "The Times of India",
-     "feed": "Kochi",
-     "published": "2026-10-24T14:35:00+00:00",
-     "snippet": "Tribal youth alleges custodial assault by plainclothes police in Poonjar Thekkekara The Times of India"
-    },
-    {
-     "title": "Sabarimala pilgrimage: Tamil Nadu-Keralam meet finalises route plan, safety measures - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORlpYQzYzTzg5c3lCd2pJQTNBRVpBc0lHT3N5ZHBaRWVoLTc3LUwxTXFNNElSRHJFQXU5OHV0aldnUVFNSjJqRzRnZTFQbFNxUUtjeFhzdXVDY1F1dFo3S1R3aTl0eGNEcWxHWEJhRVp6RFlUbEdrWTdTeF9CeU81a2J5MHF6WjFOS0U3YUJBTmxPcUVvSW5Ha19xM3UxajBsZzgzT1BIT084VXlueUg0Y0JhYmpzeU9JTWRCbjlJY0p0UWNERXJjb3JCak5HWU5xNGdUZWpyeGRhTzRsUzUwLU5n0gHoAUFVX3lxTE9KVDk5amNpSFN4aE5tMmNMVnFSRnc2S2ZZTmNzMlAzajlGcmFXb0h6ZWdEWFhIdGVSakY3UEgwQVZzN28zZ0hRLWZJV09wNE1IUExNSzN3NnVYM3ZnNll6dVVWVmpCU2FVSzdjNVZpd0RqUFBXekM1aVpEcjJfSDNpUnZLTi1ZZGxfWjVMZlFJNklxNVotLVdNZWxNanRzY2k3aVZTbXhuNmhPb1dqQklzN2h0S2VJWVBDNUIzZGN5N0xLMHFvWTgwanlEU1lwWHlBdE9sczJndjM4YXpUNWVaR1RUejBsbWU?oc=5",
-     "source": "The Hindu",
-     "feed": "Kerala",
-     "published": "2026-10-24T14:26:00+00:00",
-     "snippet": "Sabarimala pilgrimage: Tamil Nadu-Keralam meet finalises route plan, safety measures The Hindu"
-    },
-    {
-     "title": "Kerala High Court weighs ex-DGP Thachankary's UAE work travel plea - India Today",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzRPUWRRYlVvdmcwcFlJekZoNV9GM0RmcV94S3hrYVhWQUpSMTFOaF9BYUtlal9nRnFCb2FOdjZFZm1rSkpVdUxva25ERUo2dG4xYmJ2Wmx1S2VVTjQ3T19qdTMzX0RDeXp2dldOQmR3Rm0xMm50djRkUGxwSXJXYUFlZGJWNEJ4cW1PcUlMdE9ldVhBVDhYcEFiaHdaQ3dVRTA3RkJnSHpmdC1xYU5KOE9QTWNISW1BY3FLZTRJUnjSAcYBQVVfeXFMTXlwOWRpUVd6X1ZKdXY5LS1zZXhtTlRIbEZ0MDlWY0t5Y0JyNGNYX2l2RHpjWW1faGZtS2x6U0c3bnN5aE1RcnFIY0MtLUpKQ254MEEzNjhXUGZpQUdDMTRuTS1oX29yenR0RzlVa0VsaTZsLXRNcjkxWE9odkRfd3BheTh2Wm5RVW5BT3ZSbnUxSkFXcUpCNFFnWUYwMmd6ZzBhMjNCNXc2b3VieFpaZGVYRmVjZDFCZ2cxc0szdWs4Tk9MbTJR?oc=5",
-     "source": "India Today",
-     "feed": "Kerala",
-     "published": "2026-10-24T14:20:28+00:00",
-     "snippet": "Kerala High Court weighs ex-DGP Thachankary's UAE work travel plea India Today"
-    },
-    {
-     "title": "Thrikkarippur MLA\u2019s car meets with accident after tyre bursts - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSC1jOVVsTXRBb2dfMF9lTkFPVl9US2lKcGRoZThGSUM4SHVjNnJ1eWpQbk9XQ292RXduYjVUUlplZ3lHVHZIQkxBUzF5eWVkWEdsd0k0UXFBVjkzQ2dKWHpRRy1zUEZHQ3NLbUJUbFBJOV9XNjhhZWRxNE41OEdvYk8zRDJRYkxPenNZcVQ2c3JLcGVzbnVmbm93QzRKQlUxenhWVFZITXdpRUx1cTc1SVlhdWtTR3EwQzdPbEZqVVN4WE1ud0pBVG1NT05jQdIB0wFBVV95cUxPMHBBbUk3cXpraEN5ZUk4dFQ5UzZtZ05WSThydXNUOVF6VEhNTzFwSzc0aTdlTFh6bzEzcXE5Q1R6SkhORUYtT3NMVlhMT1lJM3dnSGdWdzJyLXNLTzR5Tk1hLWxvUXhESTh5WW1kbVpiVDFCSWlLNmd2dWduSWdTak9VSFFZVHJWX1NkOTBhMnRWUEVmTDItS0pfVjRHUlZWSFNHTmltcnFLTkl4Z0tBX2kyMnRIM2tMb3ZGNnlCNGJ6NFRpR0VST2pwYXA4eVhOUHhF?oc=5",
-     "source": "The Times of India",
-     "feed": "Kochi",
-     "published": "2026-10-24T14:02:00+00:00",
-     "snippet": "Thrikkarippur MLA\u2019s car meets with accident after tyre bursts The Times of India"
-    },
-    {
-     "title": "Kin of Dalit youth in Keralam\u2019s Kottayam accuses police of custodial torture - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanNpUUZ3a3VhVXJIQXVZUkVQTFhUTU9DSnMtNVNJX0pYdjRXY2tpcGZIWndhOER6QlVXMXB1YzlMd3IweWZQRGtxem02WUxiZmtCcHg4VktUcHVRR1h6RVFMMXFid2VVdmhZcWEtQzM0aldMTnZ5TmJ6SFJQZDNTb0pWQXdaQUFfMTk3UmxXV3QxWGstb2dlZVBFY2d6b3BjLUN4NHUySDZuMUN5MzFKY2lzVGtWd3BHVkRvVFQ2SkozTjE2bUlVSEVDdVRINUtXbjBCZlN4UDLSAd8BQVVfeXFMUElQQVJlVFFweFFqcTUtTkVSNTN6d2RQZlcwVEEwUDFMLW5NNXFUeDZCN1ZFSVFrYkk3VTB5Yl9YaWd5UVNZNGwwOHA3NnZ3MzRvazdteTlwdHg4ekFtM19pUGEwaUdrbzVhUWFKS1dhNW1ueXFYbnpxZVJVUHpJZHB4TVEycGRCMDNXMjN6S1o2TmRPVURYTmNlaS1JUDRlUEw1LTYzWlFCZWF4S2FNclVEYjZ2UmRnUnRuTmRWMUZCamw1eGI3RF95cTNQTllsalc5UnVSMmZxTTlLQmRnaw?oc=5",
-     "source": "The Hindu",
-     "feed": "Kerala",
-     "published": "2026-10-24T13:45:50+00:00",
-     "snippet": "Kin of Dalit youth in Keralam\u2019s Kottayam accuses police of custodial torture The Hindu"
-    },
-    {
-     "title": "INL accuses UDF of plot to hand over public health sector in Keralam to corporates - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXlKQ29oaktaX19RY0oyNDBKbzJGS2tvdGlOUTI5OVhvM05fY1NJa3RIRllIMDdKeGJ1Wi13SHlMc1RQZHE5ZUFJUVNDTWhKQ1plWldOZkd3cEVOX2ZkTFJTSWE0YW5oWlJEVGdvSWo3UDlSZ1Q2akM5bEs4Q1RXZW9yNkRnRS0tMm42bXdYMTQ1SC02bWxRQ3J2UzRWd2xuQmZZZHNrU2huNk9iRldxWVpuWDZqMWM2MGlycnlJa1hiNjlkdTZJYzZJLXllZTA5dlpRRkhlcXJsT0N0UlpFaTRR0gHoAUFVX3lxTE9rd1J4dU90Q3BCbm5lV29KUENYMFZCMEZuVGhxOHByZHpGNHBCazh3V0x3QkltS3FxbEhsaEptRHVRMU5MampYaTFOMFlXTlcyZHhmaVBJQUlkVGF3NU40OWtqa21BaXowNmgtOVZIRzNRR0dfV25YY2xrbnMtNDFJaGdFVS0xaGY5UFJ0QmcxTGwwSW9DU3NJWm5Nck81T05obUJfLXVGODJmVWpYUHVsOHQwaTc2MkFlTmlBNUQwMWV2NWJ3RE9ENEJ2TDNaVWNOWEdJTkM1T0ExcFJfX1dRY2stSmJLb3A?oc=5",
-     "source": "The Hindu",
-     "feed": "Kerala",
-     "published": "2026-10-24T13:27:36+00:00",
-     "snippet": "INL accuses UDF of plot to hand over public health sector in Keralam to corporates The Hindu"
-    },
-    {
-     "title": "Kerala University says campus politics will stay, violence faces curbs - India Today",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1V2Z2tIV1BTdmRMOEFKdDduUDJ0aUtKN3F2a2FVeXpUa2ZoNkV0d0J3NEloeUtRaTdURVFCU2ViNGlJYWVpUl92bjJVQ3RTa1RzN1o2ZW1xUkxLSG9JQWpvMk85RkdZNndwZ2I0dldLNGloNW9JcFQ3YWEybi1FQWZja3o2R09qZWF2WkZnTnVLUkI1TmJ3bjk1c0x4dW1VSkJYNTBNMlV0UkoyQ0ZBZFJMUU1nYTNFOGRUalJiN3JGT2Jyd3FBZnJFbndhTFZwTGFCN9IB2gFBVV95cUxNb0hKWVV3UlZOZEVBbTlleTZaWWQ1M0lBT1hTQVVoMTVIaUdOY2ptcEdqUkgzU2o5Q3FYX3FYZkpOUUp4TWFyYXVkbTFpT1VINno5T2xYVGcwY0NSQ3l4TEgxX2pMV3JVREpOTFFMckRxUWFKbEUxaDZiMjhxS1hJbDB1Vnd6M1ZxR1NOZnc4TkR2VkQ3dDQ3WjdDNzdLQm5RUkJmYTVJUTlmWTFTOVJEeXZoNzhIVVk4VTBza1hfMXBILXE1aVFvUzRhNVd6T2ZsdERabmhuOGU1UQ?oc=5",
-     "source": "India Today",
-     "feed": "Kerala",
-     "published": "2026-10-24T13:16:23+00:00",
-     "snippet": "Kerala University says campus politics will stay, violence faces curbs India Today"
-    },
-    {
-     "title": "Kerala Police indict social media influencer Darren for \u2018communally divisive hate speech\u2019 on Instagram - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTkU1WENRYjZiWFp1MGtvWTdlZTNOU1FYWUxGM29IUmFsZ2tJS2pIMU4wTjBrek1KRWs2X1FxMlViLWhndkRRV2hfRGhQN0FkQmRoZkxVVDljQ19NVG9LaXZnVG5Zbnp0VGdwck95UUhhdTFUWnlzQ1NOdndxWS1kUXFobEF4U3ppb3ltandtcU1ackdtUkFDZWxzZ1JVVWJkTmhPSnMyLWJhWHZQYnp1UlZjbThydDBSMkJHN1V0RVVEdS1RYnFzQTVZZk1qYjF1eGxhd3ZxeTU2UC1ZM3FUVmtzR3MtTDFIUFQ2VkpUZkd3ZWNOVjZqeFVB0gGAAkFVX3lxTFBGU2FpU3dmdkRIYVI4V2NlYnNhZXJCZG1rUWlQVk9sakRtWFlFZnY5ZVBOLW1IM2F3Q2lXaWljQVo4aklxbFp0ZU1kaXlzcTdxT3E0aEhudG12ZkpNOHpmUk0wcDc2ZE9KRVVmcFc5R3V5S2hlcHpRTnFzaEs5d25sRHZHWi1UdnBCbFVEeEgyQ29qZTJtZ3ZXOVRUWnBDTFViUzk4Xy0wNUFpUllfQkZIRGxrVjZZSkJYczZQUXNiOWtVR3djOHluUzF6QmJlSWthV21pR3FTTXIzU1dtbmN0WlBaRlpZU3dyQk1zVmptU1REWDRzM2dzU2xGV1o2SnY?oc=5",
-     "source": "The Hindu",
-     "feed": "Kerala",
-     "published": "2026-10-24T13:05:11+00:00",
-     "snippet": "Kerala Police indict social media influencer Darren for \u2018communally divisive hate speech\u2019 on Instagram The Hindu"
-    },
-    {
-     "title": "Kerala High Court orders dedicated STF to tackle Munnar land encroachments - India Today",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUx4NHVEbDJpR0RuTG53U2JmX3ZkbEdveHJhZ1FOeml0eHRCYnlVVXdsdmVJeG4zOEpIaGFpc3VfLUV5RDNodER4cEFZeGhJWGlHWWNvMldkdHdhZVlhdHd1Z1g5ejhabUhLWlJ4UVhQRzMxelEtdUpNNG8zeWdlaUlXR3JFZjRjb2gxa2pfamZ0NHRJVTNQUGxDSnIwQnFkTkVIemZ3MUJQeTA3eUdLUmhBZTdQTTJlWHVtNjd6eWh2UlV4MGs1N2FPYTJVZWFUSDViTXNjWdIB3AFBVV95cUxNaklHU0hnRHhWUGFlMld1SERVV3l4UEJiTHRGUTVhRzNTRFVnWFhjZ1hIQTUtVGN6OHVlUENQRFoyZU93V3JnSUJHSzVzZGwxekNSc1hFQ2FCZFBNREx6M19rcThDR2FyQmFMQVVOV2l0MXdxaHBEc0dUSUlrZERjNXN2cm53cnlteUk3YXUxeEt5d2d1YWZqakZjS3FFdldaOTI0RWxScGhjYjdKTVFWTVMyRDl0NzVmSng2VjlFS1dYRWZPdTNuR3lYcmI1b1VRTzJrRGFFbFl4RlhT?oc=5",
-     "source": "India Today",
-     "feed": "Kerala",
-     "published": "2026-10-24T12:34:23+00:00",
-     "snippet": "Kerala High Court orders dedicated STF to tackle Munnar land encroachments India Today"
     }
    ]
   },
@@ -1653,6 +1653,30 @@
    "title": "Bangalore",
    "blurb": "Bengaluru headlines \u2014 plus North Bengaluru real estate and development.",
    "items": [
+    {
+     "title": "Bengaluru leads post-SIR voter activity as Form 6 applications rise 32% - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdk4zc01reFNZVG14ejFrUXdRLVlIQ180TDNTMXdDWU02MXl5VFdwbEJmN3NxZmNOMUszMHB2UFM5U01FeDI2RnFXWWdrcExhNUVvbHZXanhSMjVzY0JuMDl0ZmRzdVd5VTNXUEkyUk1pM0JEMEtob19qcXBmYlNFaUlfSE9jSnlqa1dSbG5nT2MyeU12bHBCUEotWkN2OG9pNkJHeEpvbURLMDNTTjFucVgyVy1vSXE3Mkp4Y2d5ZmxJNGlLcTF3WWp1Z0lvYzJpZGVxRXFiZXo4dUNlRUoyU9IB5gFBVV95cUxNcF9LV3RMU0lUeDlmU3dyby1tODlXb21IUHJqOV90S21rRnNiUzlPeVpFbGJEanZGckNnb1U4ZU9JVlJNNEVTWkNSTDJILTI4TXRULUctUTZNNjZWbG5rYXRqVVBRbklDUU05V05td2ZuaFF4TThfdGowLVFHOUpEV1dOOS03cWdIa08wNFo3UWNoRFBIS2pmcUtaUk9SbHJrNmtuU1hKejVrWVZZZTR2b0xvZEZHRGxBY3RuaWpaSGNLV05OZUl2WG9wTGxGYUxLNkVCbUtST25PeF9pMVVaTHNLV2ZYQQ?oc=5",
+     "source": "The Times of India",
+     "feed": "Bangalore",
+     "published": "2026-10-24T17:41:00+00:00",
+     "snippet": "Bengaluru leads post-SIR voter activity as Form 6 applications rise 32% The Times of India"
+    },
+    {
+     "title": "Family turns mother\u2019s \u2018uttara kriye\u2019 into tribute to nature - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3hZQS1OMjFDMmRvOVBKV0xEdVh6UFJkWWZwbjRVZnJFbklaTzJZeHJRNmtwaHNwNWZpVFhYSG5ESjYzbmQ5c3VlYVJPV3Y0ZkVUOHJsYUs3TXJTQnRqNTBERkw5WUlOT2UzSF9sZEdyQlFodXZzbUhEZUxUV0lpbDNwZUNfeFdYWVBBUXVRTzZHM0tybzRTamx5WGJXa3lmRi1XMHA0XzRmUGhhSDFZYzZoTXd3Vy1TZHBUdWNmaU1lWWFVcVhZSmw5clFtQdIB0wFBVV95cUxQYWhRcDdkYkNKLWJaZEJJMmtsVTVibk5BRUhmUlJLc2V2Zk1JYzNBM2hhSHd6T2twWDJNYkVOX3dlVlhIYk9lT25xRDFzNnN3bFJUTGR4R19nMHhiRU83bE9VZzlzNUNRTHY2T3hkUmJ5V2dtN1VPRHNOM084Uk44YUNTcHBGdTNtOFJISnBpMV9xdm1YdTFqYnNBVjdTcmhrbURrQlVHdFJIVWwwc2tjTnZEWUw5M2tuQ25weWdHdFhNY3Y4WFZ6NWdWX1N5V3pnRFA4?oc=5",
+     "source": "The Times of India",
+     "feed": "Bangalore",
+     "published": "2026-10-24T17:16:00+00:00",
+     "snippet": "Family turns mother\u2019s \u2018uttara kriye\u2019 into tribute to nature The Times of India"
+    },
+    {
+     "title": "Tremors hit Gauribidanur a day after Doddaballapur - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGRKU1dYU0JyR04tUHhyVGU4aTItWl9WTG9KRkFFMjdQM2xNNU9QUllvTVRSOENfcFpIR05tcmZ4ZmR4Z2pNS1lfNlNlVXZQR25ReGlEQVNlTDlINVZUc21JN0tKV2dkVmxkTXlWU3o3QUd2S2UySXQ1RVZNWWRSYUJrVWM1M1BtT1pLSzJLdDBoblZtNTBtWWtzZ3lZX3FjSnFfMVdPOTFSdkJYcV9rVEs4enV0WlhyTU9QUFFQckxKMEkyQ0HSAcsBQVVfeXFMUE5FQW56bGpmUThKa3RMVWVXQV96aGNPLWdWbm1HOEl5MFJPNmFUMTlJN1hwUWRTUkxWdHFWdDVSSGVOYmZ0YUhHV0NUMDNBdFYwdS1BQVB0R3MwTGc0MG5VN1Z3NkpTR3VsMVU3QkExdEowSDdXeF8tMklRVWVZTzFFZkp4QW5YRkljdGNUQ0wwVm9Uc01rT3Z6T3UzLUp0cUlHcGZLT2t3ekdMUlNQS3FkOVprRGN6NkdFcGlXSmc0UGdfQlp6Uzg3ZlU?oc=5",
+     "source": "The Times of India",
+     "feed": "Bangalore",
+     "published": "2026-10-24T17:07:00+00:00",
+     "snippet": "Tremors hit Gauribidanur a day after Doddaballapur The Times of India"
+    },
     {
      "title": "Ecology, flood control top residents\u2019 priorities in blueprint for Bengaluru\u2019s lake upkeep - The Times of India",
      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNS1MbE1lZFY2TEVLc3RRME5WS3NGTkxqRXBfU0tqMjFtZ1JVVnlfelhmdEs3cjl4REhEb0VES3dWMC02UW1kTkJ5WFBSbTNPNlNQMXdKV0ljMXp5eG5hUWdMbDJscDRaZl9iNk54OUdjdFJjMkc1dTNwQTBJMGp1WjdESVR0TFZOaDNCVnB3Yjk3UlZOX3o3Um1zNXppWUtEazc3clZ5Nk01a19TczNVWmRKUThMYW1OdG12UEdKdnNEWnVMMVZqdE5RVjN1TnJMQUgwcUNDVDB6LUlSNDdGZU1ITnBlRGtmZi1VTDd0cHhaRnNIV3fSAfsBQVVfeXFMTm5aT2FSYlk0OTdyWS1XM2JSV29mUDJjQ2RxT3pLMHp1LWdGVlp6bzU2TEhfZHFLSjBBMWRiRl84blo1X2NsVGtDUHowYm5ka0JUVGhtSDcyX2EzVmNhbUt1UFRFTFBnczF1empnWE9GXzBhWlN3TlIwMXdOVWQ0Y3ByRXNGOWVjTl9Uazh6a2c3azZ0YUpibDBBVGRqam13WGlYT1loUFBvOGF6U1kyNUxLZGVKTjNHUzQtNGNpZ29YMmJ5QjBKVTB4NTAycVc5VG1mM2lTZWlGcktGcmFZZGp4alV1eVhGNmd4MVQ1TTBkaGdnUk5naDhGUUE?oc=5",
@@ -1806,6 +1830,14 @@
      "snippet": "DK gets rain relief after dry spell The Times of India"
     },
     {
+     "title": "Bengaluru court awards \u20b93.78 crore to whistleblower terminated by Willis Towers Watson - Bar and Bench",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU1UyMGVPQW1IYnRqLXgxVnk5NG1NMGZ2cU1wcUlsbVlRdzR1RU9lN1llWjRyV1ZTN2VJV0RYRlpKU0lnSWhqNmgxdk0waXJPUWZjNmtDbndHWEhZSnVVdVo2OHA2dEFMLWhlMzRXY09oWjl3ZlJ2a0tlcVp5SzhIenNmdEZodVhYY01hdG1VRVIwMktiNjgzb3RPYlVSa3hUSDhIc1BZMVl1Nk10bEZtRm9GdmhNT3JoY1VFY1VNVzBGZDdIY25r0gHUAUFVX3lxTFA5bVJlVmd0ZTIxYUdKRmYyY3FQZTgtWjZWQ2RReHZmT1dDdlREU1Jnc0tLS1JyMFQtZHlFY01MZGk5SjZCOEdITV9vejhqZnFudVllQW1mTDBRQTZSN0FCWnhVVGVub2VBREg4VE84eWk3V01wdGxtYUctWjRJb25mcS01bVpYb0s1TEkyYnpGN3VXX1RYRmZPOEVzR241bFpyaWlLaFlDcmpMN1RqTVo0YU9XMk5WVkl3ZnFzRWk2Vl9LRnpFU2dlcjlnWXhyX0dqcVFN?oc=5",
+     "source": "Bar and Bench",
+     "feed": "Bangalore",
+     "published": "2026-10-24T12:40:19+00:00",
+     "snippet": "Bengaluru court awards \u20b93.78 crore to whistleblower terminated by Willis Towers Watson Bar and Bench"
+    },
+    {
      "title": "Durga Vahini files plaint against \u2018obscenity\u2019 in Dandiya event - The Times of India",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeVVvZ19laXpUVG9aT2xZWTFuWFRlS0NjOHRoSWN2Z2l1bC1tRUtyUmJmbGxfcEs5a1pEaFdNVVY1NXozRTYtZlpMRDhVVG5jX2E3SGVEVjZDQ2tGZG05bVV0MlVOTkoxMjlmUEVzQ0VBWldnM2p2bFR6RVlNbnlSUk1PZHM1T0hnN1JsWGNTbkZZZ2pXTFRUdHotZFI5WkZMVmEwaGVLWkdFMDBmTEJMRFNGZEhkSTd4SUYwRENhOEw4LTdPR0todndoWkVjWW80dUZv0gHYAUFVX3lxTFBSWU0yT0FrYmUtYlBiTnVCQnduT0JnQ3NLUmFYNFNRd3pOSU9iNHFYYkdwQXktRTlYdjI1T0hyS2hZQUFGalllTE1faURhSFg0UXRkM3FSNVRxa0lkdFJlRWhCWU0wVEVBcURyUnhhR3JxMzBtVDdzYnpsdUFWdEdOQ2xTdEtjWVl0YmgyQ0k2RTIyWXkwMTdzZ2ptY05tb2xyZWNBT1czbGlQVWlnMVotbzFRbEhhRDNuUnk5YjZtOGRrQTJZVElaSjE3VW5BekhuaGVVMFNPMg?oc=5",
      "source": "The Times of India",
@@ -1820,38 +1852,6 @@
      "feed": "Bangalore",
      "published": "2026-10-24T10:30:42+00:00",
      "snippet": "Karnataka-backed ARTPARK plans expansion in Bengaluru with focus on AI and Robotics Technology Park Prop News Time"
-    },
-    {
-     "title": "Ill after stress? It's 'let-down' effect - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUkZGUkZDOTJMa2o1djRRRUdZQUNHQmtTZDRhUVVTMnVCcTNzdVc0ZTU0OFJNLXhvOUZqcV81c0NqR25zWFc5cDlfd2xzSXBuX1VtSUtjSWVNendjaGVhakNnQ282NkU5SDBJNmxrR2hYeEdpYnhQS1dFemhrZzIzb3N3TnZzTm11ckxQckdpam9uekNmZ3V0dDRaMDM4Zm5jdEtldGVacWlDaVJRejltTW9oc9IBuAFBVV95cUxON2YyVnJ0ZUdacFVCaG5mdG95c0tNRmpHTlpNaUJLS0dQWGtwYzdDUGQ3cWE3cVBpazZmRWpqWkhWWXBDQlYxOWs2cTNna3BvdXRBWG1RbHBwRFlaSk5MRkZTVk1OU05INVE3ZVJGYjZDcktib0JReFpmS29CR2FaWmxVNnZBYTZuMGdETlhMU0xMb1EwTExJS0w0aWxQQWkxejcxczR3azZmUExvQmMteGFCaHhpeXhK?oc=5",
-     "source": "The Times of India",
-     "feed": "Bangalore",
-     "published": "2026-10-24T10:07:00+00:00",
-     "snippet": "Ill after stress? It's 'let-down' effect The Times of India"
-    },
-    {
-     "title": "Bengaluru police arrest Delhi-based man over sting operation video - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdHN4TnBZZjJKQmJ6dHNCNGhRS1Y5SU1pZTNTRlI3VmRFUkpmc1l5ODMzU0U2QW9kdG5mTFVzOXBjVzFSYWhjZDNiNkUxS0hSVExSazhraTlXY1JsNHpBZmtocGNpd1FRN1BiRmdRM0d6a2NCMkttQWVLR0tEZHVadVUtX25mbkVlVm5DMkZVT0xEbW9sLUZJTDhlX1hoVWl2eVpid1dodzdESDVYSVpUSWtINDVnS2djXzlNNTN4V01CWHVfZzE1d1M0V2l4U29MUXNKSm5hYjlIdGfSAeABQVVfeXFMUFQtQUgzcHN1c05oQzBEMGRIbmFHWGdabkhvaHlhVm9oQ1V4VlVzM2M2RlNyRkVXTWxXS1FBMkhGWmtSQ2hmR1pQTkhjVlVlOF81WDh5U1NiRUZSZ191Zmo5aXkxbkF3emN2d3NBZVNBSFlQZXUzX205UzBkMkdTN3V0LVFMTlJGS3h1a05rUFIweWthWjBRbGU4Ui1lSXlkaC1ha3dqeVZpZVh0OFJPU0JjU0Nic0o5SGRUZ1R6SVV0UEczSkhKMHZiZjRXWUhucE9MLWZucGRlZWNnOHRTUnA?oc=5",
-     "source": "The Times of India",
-     "feed": "Bangalore",
-     "published": "2026-10-24T09:03:00+00:00",
-     "snippet": "Bengaluru police arrest Delhi-based man over sting operation video The Times of India"
-    },
-    {
-     "title": "Polish PM Donald Tusk Reflects On Emotional Reunion With Blind Children He Met 16 Years Ago In Bengaluru - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT2ZGQ0Z5VUFHbnRrNERxT0dJY0ZaYS1wcV85UEU3UE9SZWhzU1l3T0dFN25iM1ZSX3ZPdHUySFdweDlSNm9iS29uUzJNMXNNb2Y3SFlJS1BjVnNGUzBCV2phd1FzN0ZvZWhGVG9BTUlNZDk3Tm9LTmUyZEoya3lkN0x3Z0p1aWIzWFMtLXdjSkZmMUZUcVpXOVlRaUhwVXZqclhUUTdIRG9YQmxTdVVoN1VuSktJS0lxejJ1ci1hWlRWSlo4NFg2NnAxVUk1NC15QmFmUnRsb3pQQdIB4gFBVV95cUxPSFNic3FsMFZZSVMxcjRZXzJXYk14NFhoMjZYNWpHQ21xZnlNSGZrZFdlakhsSjdnWExmSGJzZVBYWEJwaG1qMjhOLWhzWmlwLXFmaG5BWUQ0YXVfSk1CMm80SEQ5eWRTNnJRRnRSdFZLLWFwbXBSN0NzZlVFdkhVcXhNMHRYWmJVYzJ6ck1NQ1F0YUMtXzhUZGNZWGdFM2pNb095WWs2UFloLS1qRl82NkdsZHpUV2ZnN05va3FpNThsVWZidVltT1N5VlY0R25ESXJVbElQYUVTNnRzdzNNakNR?oc=5",
-     "source": "NDTV",
-     "feed": "Bangalore",
-     "published": "2026-10-24T07:27:06+00:00",
-     "snippet": "Polish PM Donald Tusk Reflects On Emotional Reunion With Blind Children He Met 16 Years Ago In Bengaluru NDTV"
-    },
-    {
-     "title": "'They still remember ': Donald Tusk gets emotional during reunion with Bengaluru schoolchildren after 16... - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSVlVOUdLU01rcEVBTTJSZXdfSHBneXd1ZFF4alg3V2x2ZVV5M3ZwemdUd3lLY3VBYlRPeER0TklORmgyZFBjYXVZYW9RNTdkMnZjSW1mWEJaZVlsWGlxSzNON2JZYnZmdXRBMnRJampFMWRiUU1GbV9ESnZHMXlUZF9NZVpBWDhJVmI1dXNtekRMYlR1emFlRjlSZ1FNaVEwVkxFdjdTQ016Z1hOdjY0U1JPck9QVm9GX0hSNkFqUE1MX25yZVBPY3pkNlFUS2R6eTJmY2haaVdpWUhYZUNleHQxRGF0ZmxSdEJTU1FRckVTUTTSAfgBQVVfeXFMUFZ2OVZxTDFOZWxQdy1UVjZwV0Qzcmp2Sm82bk5fTkh0Q09nTXhfM21CWXdnaTNYZUN6di1feHQwMklqdFk1N1lYajZFd3l4VGNvOUktYUtJOWJoRFJDLURNN0Jld1FMWHRGcXVvM0pmUXNrNk1hVVFIY3R5MlI3VXpONTRfbzJEN0tYbktpdTdmbzYtSERoaWg3QkZpYWs2WFlCSnNEX0dvbFU3UDloRVFVLUtiaVEwRERUOTN1eHlxQ1AtRnA5alF0UEVQbThEcEEwVzhlY0dBcU5xdjJQZXEzdkVBRUQ0aHlpR2hJTGlORXlZSFRvQm4?oc=5",
-     "source": "Moneycontrol.com",
-     "feed": "Bangalore",
-     "published": "2026-10-24T07:25:53+00:00",
-     "snippet": "'They still remember ': Donald Tusk gets emotional during reunion with Bengaluru schoolchildren after 16... Moneycontrol.com"
     }
    ]
   },
@@ -1864,8 +1864,24 @@
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
      "source": "WSJ",
      "feed": "Aviation",
-     "published": "2026-10-24T15:32:30+00:00",
+     "published": "2026-10-24T18:32:37+00:00",
      "snippet": "See How Flight Routes Are Changing to Avoid War Zones Around the World WSJ"
+    },
+    {
+     "title": "Chinese flights from Budapest cancelled: Possible reasons - Daily News Hungary",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4eUp5X0FlZEhuYXpBS3ZCb0FSUlR2cGJOWXdqQ1EwcE5aa29fS0hoeEF2aTNWWlBMMFBVRjN2SVd5RGFVMldldFRjYzBkRTFBRUZyRzhZWC1ibDJVZE5kYWh3dmJLTElDQWJodkdodG1BWmVQUXVHSG5fTQ?oc=5",
+     "source": "Daily News Hungary",
+     "feed": "Aviation",
+     "published": "2026-10-24T17:39:00+00:00",
+     "snippet": "Chinese flights from Budapest cancelled: Possible reasons Daily News Hungary"
+    },
+    {
+     "title": "United Elevated Routes, Final A340-600 Flight, Boeing 737 MAX 10 Update, And More Airline News - Upgraded Points",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vdG0zTFlZWU10YURXNTl3U2JwM1RmOTk2ZTVqMTk2UlZ1TlNNd09tQUk3aUdWTmhRZXUwcG5CWU5yaVljbFZncU1SQzFJeXdsbUhWLUlqUXItRlB2bmZiMDBlajlpNmtkNnV5YTh6LUZEbVJIM0oxVlNqVzhTdw?oc=5",
+     "source": "Upgraded Points",
+     "feed": "Aviation",
+     "published": "2026-10-24T17:00:00+00:00",
+     "snippet": "United Elevated Routes, Final A340-600 Flight, Boeing 737 MAX 10 Update, And More Airline News Upgraded Points"
     },
     {
      "title": "Global Aviation News: New Airline Routes and Airport Challenges - eTurboNews",
@@ -1874,6 +1890,22 @@
      "feed": "Airlines",
      "published": "2026-10-24T15:21:21+00:00",
      "snippet": "Global Aviation News: New Airline Routes and Airport Challenges eTurboNews"
+    },
+    {
+     "title": "easyJet Cancels 18 Nonstop Routes From The UK: See Full List Now - Simple Flying",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kb1RMWkZEd0sxU09GeGtoc3pkNHpQMGhXckpYLTJxbWR0Z1JBUy1ab250OHVIbkR2N0M4YTVVWDdkVmZsM3JlSWI1cGNUdjM2Zm9GRzhCZ0QxaUtRVHQtdFlWckw?oc=5",
+     "source": "Simple Flying",
+     "feed": "Aviation",
+     "published": "2026-10-24T12:57:41+00:00",
+     "snippet": "easyJet Cancels 18 Nonstop Routes From The UK: See Full List Now Simple Flying"
+    },
+    {
+     "title": "Ryanair Axes Zadar Route as Budget Airline Pulls Out of German Airport - The Dubrovnik Times",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmVGbDhSUFlYMXFrem5wVTJ3SUI0RkpPanNoLTRzUmpZRkNDeDNVd1Jucy1iLUQtUUZFVzgtN1hPUjAxR3MxWXhsQm8xbWJMWFBRY2lDLURoSjRKcDJUN21hd1FxbG51ZVY5MS1rUW9PeUVLYk9OWndCc2xrX2hxSnFxVjA1RnYtbzlKSTdIOUlNVVpfallJNWIzcnFCNUtjSjRrQm1EcUR6Ykk3bk5MUFkyblpDYjQtd3ZNUUZpMEl3aFNhWC04?oc=5",
+     "source": "The Dubrovnik Times",
+     "feed": "Aviation",
+     "published": "2026-10-24T10:41:33+00:00",
+     "snippet": "Ryanair Axes Zadar Route as Budget Airline Pulls Out of German Airport The Dubrovnik Times"
     },
     {
      "title": "AirTripMaker Launches Comprehensive Business Class Flight Routes Guide from the USA to 15 Major International Destinations and Regions - Carroll County Mirror-Democrat",
@@ -1964,6 +1996,14 @@
      "snippet": "American Airlines Reports Record Revenue Amid $1.9bn Rise in Fuel Costs Airport Industry-News"
     },
     {
+     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14NW1RTzlJcGxUdUtEYTBtWGVoYmR0bjZ6bWoyNXNONUxiMlNEX09OdEFBWVd0aV9pbXRYNFNvQzFMWEh2UWVNbl9kcm9qdUgyM3BUN0RHek5kaVpWR29rWXoxQWY1V0JzdU94RXBB0gFzQVVfeXFMUG50Z3ZwMXlXRjd0ZWQ0djJJb01reU9mWHNqQjVUdTJ3cEQ0Y0NreHRGM2J4TnZYMW95X1JUS0FPdUxyTHlfQkg4TDZaalRCY05WcmM2Y2xEQmhiS1U4dmNhWFI2SVlCV0QwbDZ6VDJYY25kWQ?oc=5",
+     "source": "CNBC",
+     "feed": "Airlines",
+     "published": "2026-10-23T12:10:48+00:00",
+     "snippet": "Fewer people are flying as airfare soars. Here's why airlines aren't worried CNBC"
+    },
+    {
      "title": "Austin air taxi service planned: New electric aircraft route would connect AUS, COTA - KXAN Austin",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1Z0Y096RnhqTXVTUGdqRFhiRU52TVctb0k5REp0YW5GMzRQWnhYaE5HaXN4U25ZbFhzNTcxc01hUDUyd0RzTVZERjVlbGJyM2czYW5SakpDR0NrbHF6VHcwcWFTaTJ6WVdpMXBkUHd4VUlOWWR3akZCNkN2RHNnUVFMaDVjaXdkZERtRGs1bzc5VE91TEdmaHo3REprQ0hpSWFNZXM3UFJud19tMTZJMmJVTWp4SkpBUi1mR3pYZWLSAcYBQVVfeXFMTjJvb1kyWjFTekxQTXExZGpWaVJjemtwNE04dWVKdGpyUHB6dVdKSlVWZ1plNXBSb2FPMUV6bjk1NkowWDdBelNrX1d4T2N6cUoybVlMdEVKcU9iTU5YQTlrRkFmVDk5dHBZUXpMaFZPaDFnUV9TNlItQWdTSHVwa1Q3dnp0Tmd0QTJ5a3FJSlF6QmkwSXUtcC1JaWE4SmdUWEhjWEV5RzB1SXFPODNjY2lxQUtpNUFncHJmaEFHVXMydnZ1bHF3?oc=5",
      "source": "KXAN Austin",
@@ -2012,52 +2052,12 @@
      "snippet": "Ryanair cuts Spain flight routes and adds new ones for 2027 The Local Spain"
     },
     {
-     "title": "IndiGo extends flight curbs on 3 Saudi routes amid security concerns - The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2h0Q0JUVnZUV0pjN2x3dEo4SkNkXzlDbDJKbTFfV0lxdVZQUk51SVRFRTlBZmFRcEhIMnNFM2lSRmxjMElFdTY0MW02UG51UTZOT0I4NjI4SDJaZ0FrVW8zODJmaUQ5enFJeXJfb2VzcnhUWVA4eTJMQlk5dFRZaWhfb1FYMDRPWE5fTnR3b3hUckdybEp0X1FsUjdyQ0VpUjN2UmlsQ3lCbzJkTXEtUnJtbmZURUVBaUVGVnFxWFl5OTF1YXM4dEhNNkUzamxDWGhMdktXMVlFYUVCaDZOcjR30gHnAUFVX3lxTE1BVTB0ZG96NjdueGFhcTd5Y05NckJkaXk3S04tLXV0UmNxU3JRMzljX01FdFB5TU1saTFQam1JbWJ4Z3FUa0REV2l6VU16TlhtWVVzT0pDcHNJeks1UTZ3a2cwR00yZUlOTHEzdjc5RENUUXVLdUU4RWNfM0VRV2pOWFQ1aTI1T0tBdmY4Z0ZqbFduUVpRc2ducUNUd2xDSXNWYjBnZU85UjNoNTdlc1U5TmZxVG5Nd1RjNXZ3ekJya3NXejk2UEVlZS1RZTdsOS10a2U4al8xd3RZY0NiQVBGbUxIWDFrcw?oc=5",
-     "source": "The Times of India",
+     "title": "Air Canada to phase out routes to these U.S. destinations in 2027 - CTV News",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3dTelhwQWpTUFZlenFBMURtNDdYNS0tVEpKbXpxUUtIQzNka3huZm1xNXhTWnhDeHBOUDNqajRKMUZxRHlOVXRYZjBsRmJNNmJJMldKSGhCU01pcTdSb0ppMFZNRFpPWlpuOHNDUlFtenZUb1Jrcm54RUZjQnNvTTNDdUxwOUVQQXJ6WmtrbU1HWTYwV0g4Q2M2Q1hjYVAxYTI0Qw?oc=5",
+     "source": "CTV News",
      "feed": "Aviation",
-     "published": "2026-10-23T08:48:00+00:00",
-     "snippet": "IndiGo extends flight curbs on 3 Saudi routes amid security concerns The Times of India"
-    },
-    {
-     "title": "Dubai and Middle East flight disruption: airlines extend route suspensions to Saudi Arabia amid ongoing missile threats - Cond\u00e9 Nast Traveller Middle East",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORzFWTV8wLWcyZWR0WHE0bEZPSHYtcXFmb3lxTW9hZXNHM1BCVDJCM3ZycWZHZlFyandJUHR6dS1QTDZ5WlJtblBjbEpadTI1anFFQ3BvMkFUd09KMjdNWXdKT3VjMjEyUEswUzN4eDdjblVSaW5rbHcwVDVXNVlPUDdpQkN1WUI2MGl6bkZFN0pUejJxamdyMDloRE9jYzRLNVhaM1lQckg4bzZSalNFQnNyMmlyc0p1T0l6REZCMXd5eUhIa0NLb251alo1ckpOMUllZGZwVGhFdlZnMlpsa1NraVl5VHJLa2c?oc=5",
-     "source": "Cond\u00e9 Nast Traveller Middle East",
-     "feed": "Aviation",
-     "published": "2026-10-23T07:48:49+00:00",
-     "snippet": "Dubai and Middle East flight disruption: airlines extend route suspensions to Saudi Arabia amid ongoing missile threats Cond\u00e9 Nast Traveller Middle East"
-    },
-    {
-     "title": "United Airlines Adds 4 New Routes From 2 Hubs For Spring 2027 - Simple Flying",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlFWTTdQOC1LUEUzdk9TZkZVTzh0QTR2QWtPMUl0OXFQRmZkUkVhQVAzdERWVVBfMXF6QW50ZWthNks1QW9ycTRRcDFfOWxJTXFreXhaclVBNkt3ajJvXzREY1JJMGZRNkszSTdlbldLSDhPdU1ndExQSzBYR1FlbzZYYnQ?oc=5",
-     "source": "Simple Flying",
-     "feed": "Aviation",
-     "published": "2026-10-23T07:12:33+00:00",
-     "snippet": "United Airlines Adds 4 New Routes From 2 Hubs For Spring 2027 Simple Flying"
-    },
-    {
-     "title": "Aviation roundup: Lot Polish Airlines, THAI and more - TTG Asia",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEhoY2tOWkZHbjJSMHhBQi1SdFRNdGM1dlhjLUJDYnhaUzU1SnhHM1ZBX0pmSlFkWms1RTY5QVpzY3g4TG9Id2ZQVWZiVFR2Z0JhQUcyMm9QTHdhMGQtT21hNXNIVW9WVndiei1ScFkyUVdmOUhZdjVIbTlKXzBLN195UlBVRjVZczlOTklLOA?oc=5",
-     "source": "TTG Asia",
-     "feed": "Aviation",
-     "published": "2026-10-23T05:42:59+00:00",
-     "snippet": "Aviation roundup: Lot Polish Airlines, THAI and more TTG Asia"
-    },
-    {
-     "title": "Allegiant Air\u2019s Longest Nonstop Routes With The Boeing 737 MAX In 2027 - Simple Flying",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xZllQcUdxMERZeFRQZWZlVVpzSmpYZlQ5aVo0OW9KUDF6c1Nxakt0N3BmNGVZWWxKRlQ3dkFLWVBaeFE1d25QeTZGWDBhb3lGUGFBbk1pWnl5eF9yTGUwYkZHbWtHTGRXR2VBVWhDeGI?oc=5",
-     "source": "Simple Flying",
-     "feed": "Aviation",
-     "published": "2026-10-23T05:00:18+00:00",
-     "snippet": "Allegiant Air\u2019s Longest Nonstop Routes With The Boeing 737 MAX In 2027 Simple Flying"
-    },
-    {
-     "title": "Gia Binh airport seeks global airline partnerships at Routes World 2026 - B\u00e1o VietNamNet",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdm1TbzkxSWwxckZZdTJIN1lIanJGLURlWi16Uk1ya3V5Y01HekdraDRrMXZCZklfaFpTWXdjR2xHVlZlcTJ6b3JOdmdVdll1bE1kZW5sOUxvSEhIdW9oa2FSMkc3NG9ZWGc2a3poZW1GblJfZWduTGFtbjJhaXRPX0tldFRUZGRGM2szTzRLRmctWFBZbUpuSnQ3bUEzWTFHVER5cjVoTm9kSlROcVE?oc=5",
-     "source": "B\u00e1o VietNamNet",
-     "feed": "Aviation",
-     "published": "2026-10-23T01:24:00+00:00",
-     "snippet": "Gia Binh airport seeks global airline partnerships at Routes World 2026 B\u00e1o VietNamNet"
+     "published": "2026-10-23T09:00:00+00:00",
+     "snippet": "Air Canada to phase out routes to these U.S. destinations in 2027 CTV News"
     }
    ]
   },
@@ -2067,11 +2067,27 @@
    "items": [
     {
      "title": "UNC and local education experts discuss teaching American democracy in K-12 schools - The Daily Tar Heel",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTU43NkwyMWwtMFRzSnFBNW8zaHlkYXM0dFZfa08xMXIwTmhjRDl5QW5mTWNPblF0OHpsMk43TElDN0JfVUhXMEhoMDZaZElZNEZrWU50SEwzWUxFWnFXQnFWeVR5SlZHU0Z2QzJSS21va3FEM29uTWdNcjhmM3lGdEtDa1BkQ0hjaGxDZmJaMnQ0c2hteVUw?oc=5",
+     "source": "The Daily Tar Heel",
+     "feed": "UNC news",
+     "published": "2026-10-24T17:23:25+00:00",
+     "snippet": "UNC and local education experts discuss teaching American democracy in K-12 schools The Daily Tar Heel"
+    },
+    {
+     "title": "UNC and local education experts discuss teaching American democracy in K-12 schools - The Daily Tar Heel",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lYT2YtUVZMSC1fa2JzRTJ2d0lsZHpGVUtDMUJKUW9NZE1ZVEphcW45bFhvLVRGVk1qRUc0QWNYd0QwSnY3UmFLSzlxTG54OFpVTkdVVG9kWEpRdlZQaHQyeUVQOG5DdlpkOVNtd3k5NkNsZkU5SGFKTFMycGUxR3EtX0hCQ0ZSOGtISElKWGRLZDhBVHBJ?oc=5",
      "source": "The Daily Tar Heel",
      "feed": "UNC news",
      "published": "2026-10-24T15:17:55+00:00",
      "snippet": "UNC and local education experts discuss teaching American democracy in K-12 schools The Daily Tar Heel"
+    },
+    {
+     "title": "Man convicted of killing UNC student Faith Hedgepeth 14 years after her death - Yahoo",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkY0UElsdXJuZW9wNEJiZVVIUUJSRDVlTVhjci1ZM0R4dEc0ZW9ZOEE5NVI3ZjJXSWpMSUxzbERZS045Sk9JMFlGRnZrY055blFwdldhRW56TWJCOW1UenNTdGNNU1VUd0piOFRKYTcybHF0S0trdUpHMmRPcjRLSElGV1pkNU1ucGRNcHh1NE8?oc=5",
+     "source": "Yahoo",
+     "feed": "UNC news",
+     "published": "2026-10-24T14:36:11+00:00",
+     "snippet": "Man convicted of killing UNC student Faith Hedgepeth 14 years after her death Yahoo"
     },
     {
      "title": "Predicting UNC Football\u2019s Offensive Leaders Against Syracuse - Sports Illustrated",
@@ -2082,6 +2098,14 @@
      "snippet": "Predicting UNC Football\u2019s Offensive Leaders Against Syracuse Sports Illustrated"
     },
     {
+     "title": "Former UNC student Faith Hedgepeth's killer sentenced to life in prison without parole - Tar Heel Times",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQlhTMVlKcW1EOERJdWh0OGtnTXRBc1dySlg2RENpMlRpM2VtVTNuMlc4MUtva2JPZnA0dk5SWHVkdk5tNmNaRXl3ZW9MN2ZQRmpEb09XeUlJaWs?oc=5",
+     "source": "Tar Heel Times",
+     "feed": "UNC news",
+     "published": "2026-10-24T12:22:47+00:00",
+     "snippet": "Former UNC student Faith Hedgepeth's killer sentenced to life in prison without parole Tar Heel Times"
+    },
+    {
      "title": "UNC's Belichick Must Avoid First Trap Game vs. Syracuse - Sports Illustrated",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUpza1RLdFMxU0Y3SndhUk1tWHV3OF83TS1abmdpTlpkRlZoUUNoaUNtdjJ2V2oxWV9VeXBiSjk4bHJDRy1JMHpaNzZud2Uza0JUYkhwRUV1dE5iUXBrOS01bndTMjdVS1ZfbHBvc29XZmdmcmd0OC1rT3JSTzB5NVk3SElaWGZRT1NaeUdjOA?oc=5",
      "source": "Sports Illustrated",
@@ -2090,12 +2114,12 @@
      "snippet": "UNC's Belichick Must Avoid First Trap Game vs. Syracuse Sports Illustrated"
     },
     {
-     "title": "What channel is UNC vs Syracuse on today? Time, TV schedule - Yahoo Sports",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSk9PWWg2OE5GeDlZMXRUTzh6QzBlS2lNdl9nci1TUUgyV19CZHh4YnhXWVZBakdLQVpJT2RHYTNyUXRRZExEUmpNeDJtbXVHQUVpdVJmc3JSMnpiTTQ2elZraXFkLUtnT0tBZzRMaWFIN1B0S21GQVdyaHA0TVQtQ3RUakg?oc=5",
+     "title": "Syracuse vs UNC Prediction, Pick, College Football Odds for Saturday, Oct. 24 - Yahoo Sports",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3lBdXlLSVBpUmR6NHJ2Y19zUFl5QlNjUElpNk9vNmtBQUlxaGh5NkZXcTNDcU5mVUlEb0ZyR3FwVE54VVV0Wm53SDRlQ2EwWlJyTjZXaUZMVU9EVDBkMW0ybG43VTRZaEVndXBiT0xSQlBVUWIxYVJHcThCa0k1NWlLQTZNRFE?oc=5",
      "source": "Yahoo Sports",
      "feed": "UNC news",
-     "published": "2026-10-24T09:03:15+00:00",
-     "snippet": "What channel is UNC vs Syracuse on today? Time, TV schedule Yahoo Sports"
+     "published": "2026-10-24T10:22:45+00:00",
+     "snippet": "Syracuse vs UNC Prediction, Pick, College Football Odds for Saturday, Oct. 24 Yahoo Sports"
     },
     {
      "title": "What channel is UNC vs Syracuse on today? Time, TV schedule - The Fayetteville Observer",
@@ -2104,6 +2128,14 @@
      "feed": "UNC news",
      "published": "2026-10-24T09:03:00+00:00",
      "snippet": "What channel is UNC vs Syracuse on today? Time, TV schedule The Fayetteville Observer"
+    },
+    {
+     "title": "UNC-Chapel Hill signs deal with Trump administration. Here's what that will mean - Raleigh News & Observer",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWDJOYjlPYm9najdRazBZUnpzSU1vTWUxSWtXaWJPd292SkJxOC1vWTdJeDM0Z0dHRXdvWWNBaXF0cGtSenV5OW1BUUtYTGpRN3ZFVFFCcXBKemx5M2ZJblJUMTF1Mmg5VU9oUEl0MlFtUnZqcHlnRDlxZ9IBe0FVX3lxTE5WS3R0RVRkY3FlcmFsUzJQWHhrWWxUbzY1M0FBejAxLWJ1ZW1LRWlFekpsU2tTWnVXMmhyYkk2M2F6czUzbm1SRDYxUGJJMjJza1Q5VEFJSmpPUUlnUEZGMUdzSURlYzZYZHpZOUJOODByOU5MRGZmZDhwdw?oc=5",
+     "source": "Raleigh News & Observer",
+     "feed": "UNC news",
+     "published": "2026-10-24T09:00:00+00:00",
+     "snippet": "UNC-Chapel Hill signs deal with Trump administration. Here's what that will mean Raleigh News & Observer"
     },
     {
      "title": "UNC-Chapel Hill signs deal with Trump administration. Here's what that will mean - Yahoo News Canada",
@@ -2122,6 +2154,14 @@
      "snippet": "After 14 years, a guilty verdict in the murder of UNC student Faith Hedgepeth Axios"
     },
     {
+     "title": "Jury convicts man of rape, murder 14 years after UNC student Faith Hedgepeth\u2019s death - New York Post",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVFNTzUwY3VNUzhXY2RwM29va0dzY3pnUG9ZSTNpTXhzY1d2amx4eHpLbWJBdl8wYTV1eU5Db29saXp4amFfaUJVdm1MMk5IU0VJdmdEdnpjTTZJSFdiRFFvdTYwYWM4SW4yY1l2MmQ1a0I5TXJ3b3hSb0xQTjFNb0l2RzBzUFpwUzl4RzlXeDF1T1pMTnAtemV4cnB6R1RySnUyYmhJTzlkam84Nmp3aFlmZWFqWmV5U2xVSUJCT3VGN3JXX0c3bFd6SVZBaEREX0I3Uw?oc=5",
+     "source": "New York Post",
+     "feed": "UNC news",
+     "published": "2026-10-24T06:34:00+00:00",
+     "snippet": "Jury convicts man of rape, murder 14 years after UNC student Faith Hedgepeth\u2019s death New York Post"
+    },
+    {
      "title": "North Carolina College Football Games Today: UNC, Campbell, D2 Showdowns Highlight Oct. 24 - NC Football News",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenhhMlN4MDZGY0ZXUkp4VU5ocUlucXk5cnBDM0JvWDFkOXFUNjd4aEFlM0N0RWF4eTFvQkhRLXNWU19KSmlhcnR6MmtkQzJDUE1YbjNTdWdUUHZueE5EVFN2Y2YwWkV3QnU5aUpIRDVXdGhMUkkzSFlNa05kVy1RVUlzREdncUdQOHdpNlBqVzE?oc=5",
      "source": "NC Football News",
@@ -2136,6 +2176,22 @@
      "feed": "UNC news",
      "published": "2026-10-24T04:56:05+00:00",
      "snippet": "Women\u2019s Soccer Tops Stanford In Top 10 Battle, 1-0 University of North Carolina Athletics"
+    },
+    {
+     "title": "NOAH: Why UNC Is Proving So Many People Wrong - 247Sports",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1pqc0I3bExqYi05Zll5YjZMRWFBakxJazZZSjlpbXp3WGhRUmstTDV3U0FKU043WW5qSi1Hclp5R2owMGRqOFlCbUh4MGxGd0xQRWhfeHZoeFRURFZjcUJ4NEpBSHdIZ2JqbEZWT3NlaVA1bWZCc20tcFhuci1jQWVkLU1EZ0dFdVl4XzZyZlY3YnJ6T2Y2RGR6OGdPN2kzd2VMTzhJek9pZkFq?oc=5",
+     "source": "247Sports",
+     "feed": "UNC news",
+     "published": "2026-10-24T03:39:45+00:00",
+     "snippet": "NOAH: Why UNC Is Proving So Many People Wrong 247Sports"
+    },
+    {
+     "title": "UNC Soccer: Women Beat No. 7 Stanford, Men Draw at Duke - Chapelboro.com",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWRQRDAxWmpvOFcyM1prdkdweG5qVnhqd1dhWC1hMGVHZzdFdzR3RXJGQnZVZGxZZlY5dE1sMVZBLWVpM3huZ0RXSUhSRkFfX3h1U2FYRHZyTGZtSklRNndubEhtVUNMUzJxcGU0TU9kWTE2dGlPRG50M21TX2MzakNEZDByaXpSZGc?oc=5",
+     "source": "Chapelboro.com",
+     "feed": "UNC news",
+     "published": "2026-10-24T02:33:33+00:00",
+     "snippet": "UNC Soccer: Women Beat No. 7 Stanford, Men Draw at Duke Chapelboro.com"
     },
     {
      "title": "Guilty: Faith Hedgepeth's killer sentenced to life in prison without parole - WRAL",
@@ -2162,6 +2218,14 @@
      "snippet": "No. 10 Wake Forest Takes Down No. 9 North Carolina Wake Forest University Athletics"
     },
     {
+     "title": "Faith Hedgepeth's killer gets life sentence after UNC student slain in 2012 - WXII",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTJhc1dQY0E2czNIVmxtYk1MUjFUcHVFWFlxNGJZb010MUxZaVc4LTV0SS02NDFaRTc3a1pEZ0FvSlVVd2xoTHI2aXNFQUVxSmlaVmlFc0x0SG1sMjNaU1J1WWFyTktCZ0toQ2dUUjZvV1Q1MkE0UW5UUnJjZU9iOXNhal9odzdlRUZTa2Zhaw?oc=5",
+     "source": "WXII",
+     "feed": "UNC news",
+     "published": "2026-10-24T00:50:00+00:00",
+     "snippet": "Faith Hedgepeth's killer gets life sentence after UNC student slain in 2012 WXII"
+    },
+    {
      "title": "Positive News for UNC's Injury Report on Friday - 247Sports",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkNWcmZzTnRSZGN1TGFXdlJOYThCeWxhYndXUG5iSFoxaTlZdmV5a0xDajFsNm43bi1NZ1Ywcm50cEp4Ry1Sa05SNEVhTm9YV1pMNjBhUzQwNjJ3YzNmTU11V0p0NmN1UE53ZUNhcVNDcWx0QkhpZERReVZzRWxaY004ZDhvbndvWVY1VWZkYjRhSDNudXoxWjVLMG5LNWN2UjNVM0l2bUJOeDNlOHNF?oc=5",
      "source": "247Sports",
@@ -2174,8 +2238,16 @@
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3l1TWs1NHJwU3NTOUJYRnp4Vl9MdjVsWmRWTFBFSnNCaUx3aXNLRmZ3eVBna0MwWjk0eHhMaDEzY3FtOXl5UGZRQ002NC02Um51MzkwdVg4ZUJHdHV1dWJNN0JBemVONExTYjNsODdDNWgxQzJHLWZvbGt6M0kwWjhyOURLZ2NEbmc5XzNGSnFHQ2lENjhmSEw1ZkxtUFJKY3hJbWlBMFZzVF9jczZwTW5tdm9RTmdV?oc=5",
      "source": "WWAYTV3",
      "feed": "NC colleges",
-     "published": "2026-10-23T22:39:19+00:00",
+     "published": "2026-10-23T23:39:19+00:00",
      "snippet": "Delta Dental Foundation commits $1 million to expand dental care access across North Carolina WWAYTV3"
+    },
+    {
+     "title": "Greg's Storylines as UNC Welcomes Syracuse for a Sold-Out Night Game - On3",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbWgxdjJ1Sk9jckhySHlBUldhZlJfdU1USUtXQk9SZ2Y0eWxoV2Vjb25uTlIwZjVMTVlIT09oWFBaUGtzek5WNVMyUmxTSk1LTURJWDBZT2VSY2M0TG5lSjVRbFRBVGhNTG82eWtDbkFvcURsSUg4RFktR1Nxd3JaVldZeGZaNHhTdWtUZTY4dFdrcjh3ckN4UUJOc3hFY3dsQU1oLTVHWUdYSmRWdnpWR2JHUVRoY1pkaER6aHdHeWUwdw?oc=5",
+     "source": "On3",
+     "feed": "UNC news",
+     "published": "2026-10-23T22:27:42+00:00",
+     "snippet": "Greg's Storylines as UNC Welcomes Syracuse for a Sold-Out Night Game On3"
     },
     {
      "title": "Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student\u2019s death - CNN",
@@ -2183,87 +2255,15 @@
      "source": "CNN",
      "feed": "UNC news",
      "published": "2026-10-23T20:59:18+00:00",
-     "snippet": "Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student\u2019s death CNN \u2018Left DNA like confetti\u2019: Prosecution\u2019s closing argument in UNC student murder trial WRAL Jury convicts man of rape, murder 14 years after UNC student Faith Hedgepeth\u2019s death New York Post"
+     "snippet": "Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student\u2019s death CNN Killer of UNC at Chapel Hill Student Faith Hedgepeth Convicted of Rape and Murder 14 Years After the Teen\u2019s Death People.com Jury Finds Miguel Salguero-Olivares Guilty of Murdering UNC Student Faith Hedgepeth..."
     },
     {
-     "title": "Kevin Chen \u201927 balances musical performance, lab research - The University of North Carolina at Chapel Hill",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGphNTBFS25WQXlYV2xXc2dhMHVCamRBVDFyakNKU2R0bnZzSTh2RF96Y2V2ZTEzcG9faEs1OUdJMWNnWDhMcUtXTGpMcDZXOElLZmg0Ri1jaVdyUXhBZ3R0eUFqTDBoNHNBSzB3OTF4bVhZZHczSGNHZXVYbk13MEpWWUw0VWpDTE9KVU9SM2hLMTgtZ0FmUg?oc=5",
-     "source": "The University of North Carolina at Chapel Hill",
+     "title": "From a Duke student to the Old Well, halloween costume ideas for UNC students - The Daily Tar Heel",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHRYR0ZDa2UzeG1ia2lPS0p1dC1qeEk4aVd6UHlDQU84TGRtVEJBbjZJNUdfMDZSeUNCNm0wWlVYZFB3YVBUT2dfUjhGSnU4UTljRjNnUlN0dXp2cWR4M3YtY0FsS0tEQVhkUTAzZ3FHUFh2Z3h4a1BaSF9nWHpVU3psN1ZGU2Zhb1lLMDhyc3AtZw?oc=5",
+     "source": "The Daily Tar Heel",
      "feed": "UNC news",
-     "published": "2026-10-23T16:00:10+00:00",
-     "snippet": "Kevin Chen \u201927 balances musical performance, lab research The University of North Carolina at Chapel Hill"
-    },
-    {
-     "title": "North Carolina Central University Establishes Transfer Agreements With Eight Community Colleges - The Journal of Blacks in Higher Education",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMURLdy05RTdRdklGVE1IMnZHWHhkNjh6TmpuRzZaRFlfZjNqdmI0ZVQ0UENfdjBzSnhycU1LWjB3YTNDdzZWUGE5OTR5N19HYmJzbUlTamJqWDZEVWkybFNTVVAzS0ZHU1Q1REVPMFB6MGw4Qll4Zk9RQ290WGtSclAxaWhlYXFJSFhUeWl4eUhZdVVSMVg3UkJnWjdzUlZ3ZkxKLTRaTHc0OGhNdXMwRUdUVWFQWTdIQll0LUVn?oc=5",
-     "source": "The Journal of Blacks in Higher Education",
-     "feed": "NC colleges",
-     "published": "2026-10-23T15:11:58+00:00",
-     "snippet": "North Carolina Central University Establishes Transfer Agreements With Eight Community Colleges The Journal of Blacks in Higher Education"
-    },
-    {
-     "title": "More Tar Heels say \u201cYes, and\u201d to majors - The University of North Carolina at Chapel Hill",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnM2xJeUh1VWp0OEZvQjNpOHlVNE5yLVVNSnBjVGNjVms2dWd2RzJKVWxpMDI4b2xYQm90WHdkZDYxaEEtWnJjZ3dRYmlHWllma21tbUhxdWRTcjJfeklqUFBNYWltS0NRS2VhRHNCTXhZbDgtMThFYl8tdUZ0TUk?oc=5",
-     "source": "The University of North Carolina at Chapel Hill",
-     "feed": "UNC news",
-     "published": "2026-10-23T15:05:10+00:00",
-     "snippet": "More Tar Heels say \u201cYes, and\u201d to majors The University of North Carolina at Chapel Hill"
-    },
-    {
-     "title": "Emily Palmer \u201914 turns Next PAGE in her career - The University of North Carolina at Chapel Hill",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWQ5YVJDQUlNSzV0OWZtalpNMXRyS3FoU213SGlmc2JsWExpdHgxcDNWTktKNTdQNzY5YnhTbFRlS3hiV1NOelB3WXFrQTQzUWFVX3BLSS1FenpGT3Y3bHFJQzA5cUptMmt4dU9nWlhERm9LdktaYXFHTlNWeTdQeDVNMTl4Ym9YSnVN?oc=5",
-     "source": "The University of North Carolina at Chapel Hill",
-     "feed": "UNC news",
-     "published": "2026-10-23T14:59:35+00:00",
-     "snippet": "Emily Palmer \u201914 turns Next PAGE in her career The University of North Carolina at Chapel Hill"
-    },
-    {
-     "title": "FINAL PREDICTIONS: South Carolina vs. Tennessee - 247Sports",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS255c0VaSVpxeVlXY3N2NjU5cmtobk1MMFhMcGZadU1oVjA1Z01NSHdVNmZUR01FNGlaenRJcENkMFJNaFZHa3VDYUpEYTlXT25HWC1TaEIzMFdGcXNaUEdiV2hjWFlyRHNQaldPcHZST2ladVNHbXd6WGhoeHl0bDZyeUNPbU10ekNWOUVRZFcxMHZvcFNNSExqaTFOZ1duSDE5bHZ1RG1WVVl4SERlWkxHQ0w2U0QxVktWbEJPQmhrdDYxT0ZMbWhqUjIzOUVva01VQTlZRVBld2s?oc=5",
-     "source": "247Sports",
-     "feed": "NC colleges",
-     "published": "2026-10-23T14:56:59+00:00",
-     "snippet": "FINAL PREDICTIONS: South Carolina vs. Tennessee 247Sports"
-    },
-    {
-     "title": "AI that serves society - The University of North Carolina at Chapel Hill",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oMEN3anJWNTd3ZnJhZEkyZmV2dU9NdnVYM2hPajgtbUp3SGZxVFNZMVlqMEdrbXRpeXNFSHhNcTRlZEdKVXhrV1FNLUxNNlZQQkpOamRtNXBmZ0ZwLS1OSGN2blhmdw?oc=5",
-     "source": "The University of North Carolina at Chapel Hill",
-     "feed": "UNC news",
-     "published": "2026-10-23T14:13:18+00:00",
-     "snippet": "AI that serves society The University of North Carolina at Chapel Hill"
-    },
-    {
-     "title": "Field Hockey Hosts Wake Forest On Senior Day - University of North Carolina Athletics",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUl6NnlyWHUzNzRVd1Ezemhjam8yY09LRDFiY0hiQ2l4bndMWTNNRXB5c0l3LVd1MjJLdHF6QzczMzc1T2xBOVRKRDhBZUZNVXFXU3JQcTlhQUlrblBzV3RkbTdDTHdLWEpJYlZEMmFyenBlcnJNVlZ6SnZKUHBuVm9nblUwbDQ?oc=5",
-     "source": "University of North Carolina Athletics",
-     "feed": "UNC news",
-     "published": "2026-10-23T12:47:25+00:00",
-     "snippet": "Field Hockey Hosts Wake Forest On Senior Day University of North Carolina Athletics"
-    },
-    {
-     "title": "3 Elite Recruits UNC Fans Shouldn't Expect in Chapel Hill - Yahoo Sports",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVG1HUUtZUzl1eWkxYlFWdnJ1azcxLXhfOVhYcW1XMlJiT1AwOUJKakRQblpobDhxOGFzRVA4ZkhnQTRVSV9JTFJEQldEM1cyeWRsZnZVMVVESS1wb21JUmJieGJOYnVtc3VYMVpRX0VNMmVTcG11cXczaHB3S0U?oc=5",
-     "source": "Yahoo Sports",
-     "feed": "UNC news",
-     "published": "2026-10-23T12:00:06+00:00",
-     "snippet": "3 Elite Recruits UNC Fans Shouldn't Expect in Chapel Hill Yahoo Sports"
-    },
-    {
-     "title": "Women\u2019s Soccer To Host Stanford Friday Night - University of North Carolina Athletics",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFAyMnpuVVhKRkdxZzhmMHVSUWh2QW1sdU5qcm9hT3djMFNMSWtkSm9fQzBfcTd6U2tWcTVDTG1hN21jNGt6RHFJU3h2TlBlN1FPZjVXcm04TVFwUkZ2QXc5RXdOWUh6MVh4RlZNUFEtenNZTVNjRERNYTlwcUVHX2ZpVVU4WWNfeHk3dEVqYlFfaF9MRzhETQ?oc=5",
-     "source": "University of North Carolina Athletics",
-     "feed": "UNC news",
-     "published": "2026-10-22T23:42:24+00:00",
-     "snippet": "Women\u2019s Soccer To Host Stanford Friday Night University of North Carolina Athletics"
-    },
-    {
-     "title": "Women\u2019s Hoops Free Exhibition Friday - University of South Carolina Athletics",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeW5LQTBvbW1WeVdhUWxFUlZrTVlMMjRWOXNydHBHVm9xTWZ3bVVBRzVJclJYVWVVUlhvclBsYXVYel9sR0dCRFZLYkZLY3dCZjNEYVJaR05waDdOTEJhajVfV1RrSUFrQjFDLVRxa0wtX0tOZDYzTzZWeV8wOE11ekFURmNmc2s?oc=5",
-     "source": "University of South Carolina Athletics",
-     "feed": "NC colleges",
-     "published": "2026-10-22T21:41:46+00:00",
-     "snippet": "Women\u2019s Hoops Free Exhibition Friday University of South Carolina Athletics"
+     "published": "2026-10-23T20:51:52+00:00",
+     "snippet": "From a Duke student to the Old Well, halloween costume ideas for UNC students The Daily Tar Heel"
     }
    ]
   }
